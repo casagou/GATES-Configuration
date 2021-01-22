@@ -1,9 +1,6 @@
 # GATES-Configuration
 
-# DAS-Configuration
-
-
-*DAS-Configuration* provides simulated channels, limit/alarm monitoring, view pages, report templates, test procedures to demonstrate the data acquisition capabilities of nxDAS.
+*GATES-Configuration* provides simulated channels, limit/alarm monitoring, view pages, report templates, test procedures to demonstrate the data acquisition capabilities of nxDAS.
 
 > Before starting to copying or merging the files, backup your system so you can revert any mistake.
 
