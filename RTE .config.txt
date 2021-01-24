@@ -1,0 +1,408 @@
+# Application Name: .config
+# Creation Date: 30/05/2019
+# **************************************************************************************
+# Change Log
+#     30May2019 - Removed all entries not applicable to RR TB80 nxDAS - Mariusz Sykala
+#
+# **************************************************************************************
+CL	VERBOSITY			100
+CL	TRACE_DEST			Trace.prodas
+CL	REPLAY_FLAG			FALSE
+CL	ROOT_PATH			/users/RTE
+CL	STATUS_DEST			edas_status
+#-------SS-----------------------------------------------------------------------------
+SS	INTERNAL			TRUE
+#-------SS-----------------------------------------------------------------------------
+SS	LIMIT_ACTION			TRUE
+#CI     la_rate_hz                       1.0
+CI	la_alsum_cli_host		mgthost
+CI	la_alsum_cli_service		alsum_srv
+CI	la_alsum_srv_service		laas_srv
+CI	la_alsum_timeout		60000
+CI	la_alsum_max_retry		20
+CI	la_alsum_sleep_ms		200
+CI	la_yellow_alarm			TRUE
+CI	la_default_hostname		mgthost
+CI	la_event_comment_to_db		TRUE
+CI      la_enable_alarms_ch             ENABLE_ALARMS
+# The channel to acknowledge one alarm
+CI     la_ch_ack_one         Alarm_Ack_Last
+# The channel to acknowledge all alarms
+CI     la_ch_ack_all         Alarm_Ack_All
+# The remote shell (/usr/bin/rsh (default) or /usr/bin/ssh)
+CI     la_remote_shell       /usr/bin/ssh
+
+SS    LIMIT_ACTION_INFO   TRUE
+#CI     la_rate_hz               1.0
+CI     la_alsum_cli_host       mgthost
+CI     la_alsum_cli_service    alsum_srv_info
+CI     la_alsum_srv_service    laas_srv_info
+CI     la_alsum_timeout        60000
+CI     la_alsum_max_retry      20
+CI     la_alsum_sleep_ms       200
+CI     la_yellow_alarm         FALSE
+CI     la_default_hostname     mgthost
+CI     la_event_comment_to_db  FALSE
+CI     la_enable_alarms_ch     ENABLE_ALARMS
+CI     la_info_uel_flag        TRUE
+# The remote shell (/usr/bin/rsh (default) or /usr/bin/ssh)
+CI     la_remote_shell       /usr/bin/ssh
+
+SS    LIMIT_ACTION_QUIET TRUE 
+#CI    la_rate_hz               1.0
+CI     la_default_hostname     mgthost
+CI     la_event_comment_to_db  FALSE
+CI     la_enable_alarms_ch     ENABLE_ALARMS
+# The remote shell (/usr/bin/rsh (default) or /usr/bin/ssh)
+CI     la_remote_shell       /usr/bin/ssh
+
+#-------SS-----------------------------------------------------------------------------
+SS	FULLSET				TRUE
+CI	deviation_limit			50
+CI	deviation_duration		30
+CI	fs_channame			Fullsetstatus
+#CI	pre_fs_action			op_stop_purge
+#CI      post_fs_action			op_start_purge
+CI      pre_fs_action                   op_rec_num SSRecNo
+#-------SS-----------------------------------------------------------------------------
+SS	LOG_PLAYBACK			TRUE
+CI	crit_pre_event			900
+CI	crit_post_event			60
+CI	crit_rate_hz			40
+CI	max_agg_rate			100000
+#CI	log_conversion			RRDS /users/RTE/bin/exe/eaif_start -f /users/RTE/bin/exe/.eaif_r2d2.config -t TR
+#CI	log_conversion			DDAS /bin/sleep 10;/users/RTE/bin/exe/eaif_start -f /users/RTE/bin/exe/.eaif_ddas.config -t TR
+#CI      log_conversion                  REC /usr/bin/rsh mgthost "<[MIN]>" c:\\proDAS\\bin\\DCU.exe /testname=$TESTNAME$ /log=\"$LOGNAME$\" 
+CI	log_version			2
+CI	crit_size			150
+CI	report_precision		8
+#CI	crit_description		DDAS RRDS
+CI	crit_description		RR auto_report
+CI	use_testeng_dir_4_rep   	True
+CI	cl_enabled			False
+CI      cl_exceedance                   FALSE
+CI	cl_scan_rate			10
+CI	cl_max_file_size		200000
+CI	cl_trigger			Start_ContLog
+#CI	CL_Exclude_SS			Calculated	
+# Log action format: Key_word Opcode_cmd Record_number_channel
+CI      pre_log_start                   RR op_rec_num TRRecNo
+# # pre_save_critical action
+CI      pre_save_critical               RR op_rec_num TRRecNo
+#-------SS-----------------------------------------------------------------------------
+SS	DATA_SERVER			TRUE
+CI	service_name			ds_serv
+CI	com_timeout 			5000
+CI	max_sendrate			10
+#-------SS-----------------------------------------------------------------------------
+SS	calculated			TRUE
+#-------SS-----------------------------------------------------------------------------
+SS      EXTERNAL                        FALSE
+CI      connection                      SOCKET
+CI      serv_key                        ex_serv
+#CI     program                         /usr/bin/rsh mgthost c:\\proDAS\\Data\\MgtGUI\\Launch_ExtHook.bat
+CI      tolerance                       300
+CI      retry                           3
+CI      delay                           10
+CI      allow_disable                   No
+#-------SS-----------------------------------------------------------------------------
+# Network Data Distrubution subsystems
+#-------SS-----------------------------------------------------------------------------
+#SS    NDDS                  TRUE
+#CI    sta_topic_name        StaticTopic
+#CI    sta_profile_name      StaChanData_Profile
+#CI    dyn_topic_name        DynamicTopic
+#CI    dyn_profile_name      DynChanData_Profile
+#CI    test_topic_name       TestInfo
+#CI    test_profile_name     TestInfo_Profile
+#-------SS-----------------------------------------------------------------------------
+# IDDS_RTE  subsystems
+#-------SS-----------------------------------------------------------------------------
+SS    IDDS_RTE              TRUE
+CI    manufacturer          MDS
+CI    product_type          nxDAS-RTE
+CI    serial_number         00000002
+CI    hardware_version      1.0
+CI    software_version      1.0 
+#-------SS-----------------------------------------------------------------------------
+# IDDS Subscription Subsystem
+#-------SS-----------------------------------------------------------------------------
+SS   IDDS               TRUE
+CI   suspect_tolerance  3
+CI   bad_tolerance      5
+CI   start_scan_timeout 15
+CI   collector_port     4500
+CI   link_cache_size    3000
+#-------SS-----------------------------------------------------------------------------
+#     TOCEUM 
+#-------SS-----------------------------------------------------------------------------
+SS	TOCEUM				FALSE
+CI	connection			SOCKET
+CI	serv_key			ex_serv
+CI	program				/users/RTE/bin/exe/toceum -c /users/RTE/bin/exe/.toceum.config -s
+CI	heartbeat			TE_HEARTBEAT
+CI	error				TE_ERROR
+CI	tolerance			300
+CI	retry				3
+CI	delay				10
+CI	allow_disable			No
+#-------SS-----------------------------------------------------------------------------
+#    PBS Subsystem
+#-------SS-----------------------------------------------------------------------------
+SS	PBS				TRUE
+CI	port				pbs
+CI	zone				20
+CI	trigger				OFF 33
+CI	min_days_to_cal			5
+CI	accel_xfer			33
+CI	reply_timeout			30
+CI	cal_uel_source			CALCHK
+CI	vent_control_ch			PurgeAirOn_Ref
+#CI	vent_feedback_ch		PressScanPurgeSupply01
+CI	valve_on_delay			2000
+CI	valve_off_delay			2000
+#Continuous purge mode (continuous, high/low, none)
+CI      cont_purge_mode                 none                                                                                         
+#For Continuous purge only. Only discrete channel
+CI      cont_purge_ctrl_ch              PurgeCtrlCh
+#For Continuous purge only. Only float channel
+CI      cont_purge_delay_ch             PurgeDelayCh
+#CI      cont_purge_enabled              FALSE
+#For high/low purge only. Only discrete channel
+#CI      hilo_press_ctrl_ch              PressScanHLPurgePressure
+#Engine ready to run. Only discrete channel
+CI      eng_running_ch                  EngRunning
+#-------SS-----------------------------------------------------------------------------
+# TSM (Temperature Scanning Modules) subsystem 
+#-------SS-----------------------------------------------------------------------------
+SS    TSM               TRUE 
+# service name
+CI     port              pbs
+# software or hardware trigger;
+CI     trigger           SW
+#  hardware trigger scan rate
+CI     hw_trigger_rate   100
+# no of days to next cal; default don't show anything
+CI     min_days_to_cal   60
+# scan rate for accelerated transfer
+CI     accel_xfer        10
+# response time-out in seconds
+CI     response_timeout  30
+# UEL source name for cal date messages
+# This name should match with the 'cal_uel_source' name in the
+# proDAS DB server .config file
+CI     cal_uel_source    CALCHK
+#-------SS-----------------------------------------------------------------------------
+# ME (Modbus Ethenet SubSystem)
+#-------SS-----------------------------------------------------------------------------
+SS    ME              FALSE
+CI    host            mgthost
+CI    service         me_srv0
+#   sign: signed or unsigned
+CI    sign            signed
+#   endian: little or big
+CI    endian          big
+#   datatype:  float or short (short is for short integer)
+CI    datatype        float
+#   use decimal format for the slave address
+CI    slaveaddress    1
+#   discrete channel group, inputcoils or inputstatus
+CI  dchannelgroup     inputstatuse
+#   float channel group, inputregisters or holdingregisters
+CI  fchannelgroup     holdingregisters
+#   timeout in ms
+CI    timeout         100
+#   protocol, tcp or udp
+CI  protocol          tcp
+#   max number of Modbus register channels
+CI  maxregchannel     120
+#   TCP implementation (use either Woodward or OpenMODBUS)
+CI  modbus_tcp        OpenMODBUS
+#   write multiple registers : multiple/single                
+CI  writemultipleregisters  single                            
+#   max range of coil addresses in one output request (<= 1968)
+CI  maxcoiloutput     1920                                    
+#   max range of holding register addresses in one output request (<=120)   
+CI  maxregoutput      120                                     
+#-------SS-----------------------------------------------------------------------------
+#  THG Subsystem
+#-------SS-----------------------------------------------------------------------------
+SS	THG		FALSE
+#serial port
+CI     WRK1_device       /dev/ttyM0
+#communication parameter, including buadrate data bits stop bits parity
+CI     WRK1_port         38400 8 1 N
+#instrument address
+CI     WRK1_instr_addr   01
+#sign, could be + or -
+CI     WRK1_sign         +
+#delay before send request
+CI     WRK1_send_delay     0
+#delay before read response
+CI     WRK1_receive_delay  5
+#serial port
+CI     WRK2_device       /dev/ttyM3
+#communication parameter, including buadrate data bits stop bits parity
+CI     WRK2_port         38400 8 1 N
+#instrument address
+CI     WRK2_instr_addr   01
+#sign, could be + or -
+CI     WRK2_sign         +
+#delay before send request
+CI     WRK2_send_delay     5
+#delay before read response
+CI     WRK2_receive_delay  10
+# device type, either E-2-TAD or AST3                                         
+CI     MSTF1_device_type AST3                                                 
+#serial port
+CI     MSTF1_device      /dev/ttyM2                      
+#communication parameter, including buadrate data bits stop bits parity       
+CI     MSTF1_port        38400 8 1 N                                          
+#instrument address                                                           
+CI     MSTF1_instr_addr  01                                                   
+#sign, could be + or -                                                        
+CI     MSTF1_sign         +                                                   
+#delay before send request                                                    
+CI     MSTF1_send_delay    25                                                 
+#delay before read response                                                   
+CI     MSTF1_receive_delay 35                                                 
+# device type, either E-2-TAD or AST3
+CI     MSTR1_device_type AST3
+#serial port
+CI     MSTR1_device      /dev/ttyM1
+#communication parameter, including buadrate data bits stop bits parity
+CI     MSTR1_port        38400 8 1 N
+#instrument address
+CI     MSTR1_instr_addr  01
+#sign, could be + or -
+CI     MSTR1_sign         +
+#delay before send request
+CI     MSTR1_send_delay    25
+#delay before read response
+CI     MSTR1_receive_delay 35
+#working load cell device timeout in ms
+CI     WRK_timeout       500
+#master load cell device timeout in ms
+CI     MST_timeout       500
+#average 
+CI     AverageReadings   10
+#-------MD-----------------------------------------------------------------------------
+MD	GUI
+CI	save_dds_sentry			ON
+CI	check_disk_in_scan		False
+#-------MD-----------------------------------------------------------------------------
+MD	PB_GUI
+CI	check_disk_in_scan		False
+#-------MD-----------------------------------------------------------------------------
+MD	UEL
+CI	source_names			CUTI,DATABASE,DDS,EAIF,DDART,ARINCDISP,ALSUMDISP,RDD,UFI,TOS,TOE,DCU,TOCEUM,CALCHK,GENDBSRV,EHS,RTD,TIMESYNC
+CI	UEL_display_server_service_name		uel_dserv
+CI	language_filename			English.lang
+# cmd line to execute when log closed
+# Path and file of log file is appended first.
+#CI     post_proc_cmd    /users/RTE/bin/exe/eaif_start -f /users/RTE/bin/exe/.eaif_r2d2.config -t UEL
+CI     post_proc_cmd    /users/RTE/bin/exe/UELtransfer.sh
+# append test name to cmd line
+#CI     pp_test_id       -i
+# append test name to cmd line
+CI     pp_test_name     -b
+#-------MD-----------------------------------------------------------------------------
+MD	ST
+CI	set_rt_cpu			True
+CI	detect_overruns			TRUE
+CI	base_frequency			200
+CI	rt_default_priority		15
+CI	rt_priority			INTERNAL 30
+CI	rt_priority			IDDS_RTE 29
+CI	rt_priority			IDDS 28
+CI	overrun_tolerance		1.0
+# Full path of program to call at start scan 
+# ps-, 2020-02-19
+#CI      startscan_prog                  /usr/local/bin/start-idds.sh 	
+# Full path of program to call at stop scan 
+# ps-, 2020-02-19
+#CI      stopscan_prog                   /usr/local/bin/stop-idds.sh 	
+#-------MD-----------------------------------------------------------------------------
+MD	UI_SERVER
+CI	service_name			ui_serv
+CI	timeout				10
+#--------------------------------------------------------------------------
+MD    EN_SERVER
+# Name of service 
+CI    service_name         en_serv
+# Timeout in seconds              
+CI    timeout               10
+# Heartbeat period in seconds
+CI    hb_period             10
+#--------------------------------------------------------------------------
+# ========================================
+# Initialization module
+# ----------------------------------------
+MD      INIT                                                                                                              
+CI      db_serv_key                     pdb_serv
+CI      db_timeout                      900
+CI      db_host_name                    rtehost
+CI      cr_serv_key                     CRS_Serv
+CI      cr_timeout                      1200
+CI      cr_host_name                    mgthost
+CI      report_quality_change           False
+<!> END OF CONFIG <!>
+
+NOTES:
+    1) '<!> END OF CONFIG <!>' marks the end of the config file
+        (so that we can put comments here ...). It MUST follow the last
+        configuration parameter and MUST start in column 1 and MUST be exactly
+       as above (without the quotes -'-).
+
+       '#' in column 1 introduces a comment line; EDAS ignores comment lines.
+
+
+    2) 'CL' stands for Command Line option. Valid command line options are:
+         - MASTER_CONFIG_ID: identifies the default test to configure EDAS with;
+         - CELL_ID: identifies the default cell to configure EDAS for;
+         - VERBOSITY: level of verbosity to be used (0 (low) - 100 (high));
+           Note that '89' is the highest verbosity EDAS should run with
+           under normal operating conditions.
+         - TRACE_DEST: either "stdout" (all trace messages go to the
+           X-term) or a trace file name with no path (all traces go to        
+           the 'tmp' dir, in the named file).                                 
+        e.g.:  CL  VERBOSITY  89                                              
+                                                                              
+        NOTE: if EDAS is started with command line options from the           
+        prompt, those options will override the config file definitions; valid
+        command line options at the prompt are 'm', 'c', 'v', 't' 'e' and 'f',
+        or the same letters in capitals:
+         mXXXX       to download master config XXXX;
+         cX          to configure for test cell XX;
+         v[0-100]    to set the verbosity between 0 (low) and 100 (high);
+         tfile_name  to use file 'file_name' (no path) as the trace destination;
+         eeng_name   to use the engine 'eng_name' with EDAS (for views and logs).
+         fconfig     to use 'config' (path/file_name) instead of this '.config'
+        e.g.:  edas m1000 c3 v89
+
+
+    3) 'SS' stands for Sub-System option
+        A sub-system will be opened only if it is set to TRUE on a
+        SS line.  It will be configured only if it is included in the
+        down-loaded master configuration.
+        e.g.:  SS  INTERNAL  TRUE
+
+
+    4) 'CI' stands for Configuration Info
+        Lines that start with 'CI' contain configuration parameters
+        that apply to the last preceeding 'SS' sub-system or 'MD'
+        module encountered in the config file.
+        e.g.:  CI  crit_pre_event  120
+
+
+    5) 'MD' stands for Module Description
+        To identify the module (or sub-system) to which 'CI' lines apply,
+        Modules which are sub-systems (such as the 'Fullset' sub-system) can
+        have config parameters after a 'SS' or 'MD' line with their name.
+        Modules which are not sub-systems (such as the GUI) can only have
+        config parameters after a 'MD' line.
+        e.g.:  MD  GUI
+        e.g.:  MD  G2_1
+         
+         
+/***************************************************************************/
