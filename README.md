@@ -6,22 +6,26 @@
 
 ## Version History
 
-### 1.0.1-alpha (unreleased)
+### 1.1.0-alpha
 Features and Improvements:
-- DAS Configuration
+- DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
 	- Subsystem
 		- Calculated (100%)
+		- ARINC (20%)
 		- PBS (100%)
 		- DTS (100%)
-		- FCS (100%)
-		- iDDS + iDDSnodes (95%)
+		- FCS (90%)
+		- iDDS + iDDSnodes (90%)
 	- Channels
 		- PBS (100%)
 		- DTS (100%)
-		- Cubes (1%) demo channel (not working)
-		- FCS (0%)
+		- ARINC (0%)
+		- Cubes (20%) (comm not working yet)
+		- FCS (10%)
 		- Calculated
-			- Mandatory for RTE and DAS. Alarms and Actions are missing
+			- Mandatory for RTE and DAS.
+	- Engineering Units
+		- V13 (100%)
 - Ini Files
 	- None
 - Invoke Script
@@ -33,9 +37,9 @@ Features and Improvements:
 - RAVE Report Templates
 	- None
 - RTD Pages
-	- None
+	- ATP_Calibration (10%)
 - Palettes
-	- None
+	- OK (100%)
 - Media
 	- None
 
