@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T05:23:50.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="o0jXRo-Ah95M3ugtPCbd" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T05:45:03.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="NYx5Kh7Zwzjh06gpbgkN" version="14.2.7" type="github">
   <diagram id="Zq9hnfcXsbe9FfwRNvJQ" name="DIA">
     <mxGraphModel dx="6285" dy="4043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -303,8 +303,8 @@
             <mxRectangle y="40" width="160" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wgui1w8sPpxk3eTbF6N7-67" value="&lt;ul&gt;&lt;li&gt;All channels/ports/pinout defined&lt;/li&gt;&lt;/ul&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Comic Sans MS;rounded=0;sketch=0;html=1;" parent="Wgui1w8sPpxk3eTbF6N7-66" vertex="1">
-          <mxGeometry x="20" width="210" height="40" as="geometry" />
+        <mxCell id="Wgui1w8sPpxk3eTbF6N7-67" value="&lt;ul&gt;&lt;li&gt;All channels/ports/pinout defined&lt;/li&gt;&lt;li&gt;DTS1124_01 to _16&lt;/li&gt;&lt;li&gt;DTS1125_01 to _16&lt;/li&gt;&lt;li&gt;DTS1126_01 to _16&lt;/li&gt;&lt;li&gt;DTS1127_01 to _16&lt;/li&gt;&lt;li&gt;GID 1001-1064&lt;/li&gt;&lt;/ul&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Comic Sans MS;rounded=0;sketch=0;html=1;" parent="Wgui1w8sPpxk3eTbF6N7-66" vertex="1">
+          <mxGeometry x="20" y="5" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wgui1w8sPpxk3eTbF6N7-68" value="transient-logs" style="swimlane;html=1;startSize=20;horizontal=0;" parent="Wgui1w8sPpxk3eTbF6N7-64" vertex="1" collapsed="1">
           <mxGeometry y="160" width="240" height="20" as="geometry">
@@ -865,8 +865,8 @@
             <mxRectangle y="20" width="240" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FcIGjHqDoQgn5boDgz93-11" value="&lt;ul&gt;&lt;li&gt;Cleanup Merge Aleks to V12 = V13&lt;/li&gt;&lt;/ul&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Comic Sans MS;rounded=0;sketch=0;html=1;" vertex="1" parent="FcIGjHqDoQgn5boDgz93-5">
-          <mxGeometry x="20" width="210" height="40" as="geometry" />
+        <mxCell id="FcIGjHqDoQgn5boDgz93-11" value="&lt;ul&gt;&lt;li&gt;Cleanup Merge Aleks to V12 =&amp;gt; V13&lt;/li&gt;&lt;li&gt;Tested V13 Ok R4R&lt;/li&gt;&lt;/ul&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Comic Sans MS;rounded=0;sketch=0;html=1;" vertex="1" parent="FcIGjHqDoQgn5boDgz93-5">
+          <mxGeometry x="20" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FcIGjHqDoQgn5boDgz93-12" value="tests" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;sketch=1;sketchStyle=rough;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-4730" y="-2430.003653564453" width="250" height="140" as="geometry">
