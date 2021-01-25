@@ -24,7 +24,7 @@ CI	la_alsum_sleep_ms		200
 CI	la_yellow_alarm			TRUE
 CI	la_default_hostname		mgthost
 CI	la_event_comment_to_db		TRUE
-CI      la_enable_alarms_ch             ENABLE_ALARMS
+CI      la_enable_alarms_ch             Alarm_Enable
 # The channel to acknowledge one alarm
 CI     la_ch_ack_one         Alarm_Ack_Last
 # The channel to acknowledge all alarms
@@ -43,7 +43,7 @@ CI     la_alsum_sleep_ms       200
 CI     la_yellow_alarm         FALSE
 CI     la_default_hostname     mgthost
 CI     la_event_comment_to_db  FALSE
-CI     la_enable_alarms_ch     ENABLE_ALARMS
+CI     la_enable_alarms_ch     Alarm_Enable
 CI     la_info_uel_flag        TRUE
 # The remote shell (/usr/bin/rsh (default) or /usr/bin/ssh)
 CI     la_remote_shell       /usr/bin/ssh
@@ -52,7 +52,7 @@ SS    LIMIT_ACTION_QUIET TRUE
 #CI    la_rate_hz               1.0
 CI     la_default_hostname     mgthost
 CI     la_event_comment_to_db  FALSE
-CI     la_enable_alarms_ch     ENABLE_ALARMS
+CI     la_enable_alarms_ch     Alarm_Enable
 # The remote shell (/usr/bin/rsh (default) or /usr/bin/ssh)
 CI     la_remote_shell       /usr/bin/ssh
 
@@ -60,10 +60,10 @@ CI     la_remote_shell       /usr/bin/ssh
 SS	FULLSET				TRUE
 CI	deviation_limit			50
 CI	deviation_duration		30
-CI	fs_channame			Fullsetstatus
+CI	fs_channame			Fullset_Status_
 #CI	pre_fs_action			op_stop_purge
 #CI      post_fs_action			op_start_purge
-CI      pre_fs_action                   op_rec_num SSRecNo
+CI      pre_fs_action                   op_rec_num Num_Fullset
 #-------SS-----------------------------------------------------------------------------
 SS	LOG_PLAYBACK			TRUE
 CI	crit_pre_event			900
@@ -83,19 +83,19 @@ CI	cl_enabled			False
 CI      cl_exceedance                   FALSE
 CI	cl_scan_rate			10
 CI	cl_max_file_size		200000
-CI	cl_trigger			Start_ContLog
+CI	cl_trigger			CL_Enable
 #CI	CL_Exclude_SS			Calculated	
 # Log action format: Key_word Opcode_cmd Record_number_channel
-CI      pre_log_start                   RR op_rec_num TRRecNo
+CI      pre_log_start                   RR op_rec_num Num_Log
 # # pre_save_critical action
-CI      pre_save_critical               RR op_rec_num TRRecNo
+CI      pre_save_critical               RR op_rec_num Num_Log
 #-------SS-----------------------------------------------------------------------------
 SS	DATA_SERVER			TRUE
 CI	service_name			ds_serv
 CI	com_timeout 			5000
 CI	max_sendrate			10
 #-------SS-----------------------------------------------------------------------------
-SS	calculated			TRUE
+SS	Calculated			TRUE
 #-------SS-----------------------------------------------------------------------------
 SS      EXTERNAL                        FALSE
 CI      connection                      SOCKET
@@ -152,7 +152,7 @@ CI	allow_disable			No
 SS	PBS				TRUE
 CI	port				pbs
 CI	zone				20
-CI	trigger				OFF 33
+CI	trigger				OFF 100
 CI	min_days_to_cal			5
 CI	accel_xfer			33
 CI	reply_timeout			30
@@ -175,7 +175,7 @@ CI      eng_running_ch                  EngRunning
 #-------SS-----------------------------------------------------------------------------
 # TSM (Temperature Scanning Modules) subsystem 
 #-------SS-----------------------------------------------------------------------------
-SS    TSM               TRUE 
+SS    TSM               FALSE 
 # service name
 CI     port              pbs
 # software or hardware trigger;
