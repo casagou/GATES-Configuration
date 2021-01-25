@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exported from /edit/engineer/eus -->
+<mds_xml_root export_root_type="eus" is_list_element="false">
+    <eus>
+        <instance name="g-force" category="acceleration" description="Standard accelerations due to gravity on the Earth surface" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cm/s^2" category="acceleration" description="Centimetres/Square Second" factor="1.0200000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="in/s^2" category="acceleration" description="Inch/Square Second" factor="2.5900000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m/s^2" category="acceleration" description="Metres/Square Second" factor="1.0200000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="deg" category="angle" description="Degrees" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="arcmin" category="angle" description="Minutes of arc" factor="1.6666670E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="arcsec" category="angle" description="Seconds of arc" factor="2.7777780E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="grad" category="angle" description="Gradians" factor="9.0000000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="quad" category="angle" description="Quadrants" factor="9.0000000E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="rad" category="angle" description="Radians" factor="5.7295780E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="rev" category="angle" description="Revolutions" factor="3.6000000E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="deg/sec" category="angular-velocity" description="Degrees/Second" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="deg/min" category="angular-velocity" description="Degrees/Minute" factor="1.6670000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="rad/min" category="angular-velocity" description="Radians/Minute" factor="9.5490000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="rad/s" category="angular-velocity" description="Radians/Second" factor="5.7295780E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="rpm" category="angular-velocity" description="Revolutions/Minute" factor="6.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="rps" category="angular-velocity" description="Revolutions/Second" factor="3.6000000E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m^2" category="area" description="Square Metres" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cm^2" category="area" description="Square Centimetres" factor="1.0000000E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ft^2" category="area" description="Square Feet" factor="9.2900000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="in^2" category="area" description="Square Inches" factor="6.4520000E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mm^2" category="area" description="Square Millimetres" factor="1.0000000E-06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="pC" category="charge" description="Picocoulombs" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="C" category="charge" description="Coulombs" factor="1.0000000E-12" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="pC/g" category="charge-sensitivity" description="Picocoulombs/g-force" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="A" category="current" description="Amperes" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="mA" category="current" description="Milliamperes" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="uA" category="current" description="Microamperes" factor="1.0000000E-06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Pa s" category="dynamic-viscosity" description="Pascal Seconds" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cP" category="dynamic-viscosity" description="Centipoise" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg/(m s)" category="dynamic-viscosity" description="Kilograms/(Metre Second)" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mPa s" category="dynamic-viscosity" description="Millipascal Seconds" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="N s/m^2" category="dynamic-viscosity" description="Newton Seconds/Square Metre" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="P" category="dynamic-viscosity" description="Poise" factor="1.0000000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="PI" category="dynamic-viscosity" description="Poiseuille" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="J" category="energy" description="Joules" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="Btu" category="energy" description="British Thermal Units" factor="1.0550560E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Chu" category="energy" description="Celsius Heat Units" factor="1.8991010E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="eV" category="energy" description="Electronvolts" factor="1.6021770E-19" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kJ" category="energy" description="Kilojoules" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kW h" category="energy" description="Kilowatt hours" factor="3.6000000E+06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="MJ" category="energy" description="Megajoules" factor="1.0000000E+06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="W h" category="energy" description="Watt hours" factor="3.6000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="J/m^3" category="energy-density" description="Joules/Cubic Metre" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="J/L" category="energy-density" description="Joules/Litre" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="MJ/L" category="energy-density" description="Megajoules/Litre" factor="1.0000000E+09" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="MJ/m^3" category="energy-density" description="Megajoules/Cubic Metre" factor="1.0000000E+06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kN" category="force" description="Kilonewtons" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="daN" category="force" description="Decanewtons" factor="1.0000000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="dyn" category="force" description="Dynes" factor="1.0000000E-08" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="lbf" category="force" description="Pounds-Force" factor="4.4482220E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="N" category="force" description="Newtons" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Hz" category="frequency" description="Hertz" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="1/min" category="frequency" description="Pulses/Minute" factor="6.0000000E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kHz" category="frequency" description="Kilohertz" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="MHz" category="frequency" description="Megahertz" factor="1.0000000E+06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m^2/s" category="kinetic-viscosity" description="Square Metres/Second" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cm^2/s" category="kinetic-viscosity" description="Square Centimetres/Second" factor="1.0000000E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="cSt" category="kinetic-viscosity" description="Centistokes" factor="1.0000000E-06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mm^2/s" category="kinetic-viscosity" description="Square Millimetres/Second" factor="1.0000000E-06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="St" category="kinetic-viscosity" description="Stokes" factor="1.0000000E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m" category="length" description="Metres" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cm" category="length" description="Centimetres" factor="1.0000000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="dam" category="length" description="Dekametres" factor="1.0000000E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="dm" category="length" description="Decimetres" factor="1.0000000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ft" category="length" description="Feet" factor="3.0480000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="hm" category="length" description="Hectometres" factor="1.0000000E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="in" category="length" description="Inches" factor="2.5400000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="km" category="length" description="Kilometres" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mi" category="length" description="Miles" factor="1.6093440E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mil" category="length" description="Thousandths of an Inch (vibration)" factor="2.5400000E-05" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mm" category="length" description="Millimetres" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="thou" category="length" description="Thousandths of an Inch (vibration)" factor="2.5400000E-05" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="um" category="length" description="Micrometres" factor="1.0000000E-06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="yd" category="length" description="Yards" factor="9.1440000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg" category="mass" description="Kilograms" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="g" category="mass" description="Grams" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="grn" category="mass" description="Grains" factor="6.4798910E-05" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="lb" category="mass" description="Pounds Mass" factor="4.5359240E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="lg tn" category="mass" description="Long Tons" factor="1.0160470E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mg" category="mass" description="Milligrams" factor="1.0000000E-06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="oz" category="mass" description="Ounces" factor="2.8349520E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="sh tn" category="mass" description="Short Tons" factor="9.0718470E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="t" category="mass" description="Metric Tons" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg/m^3" category="mass-density" description="Kilograms/Cubic Metre" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="g/cm^3" category="mass-density" description="Grams/Cubic Centimetre" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="g/dm^3" category="mass-density" description="Grams/Cubic Decimetre" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="g/L" category="mass-density" description="Grams/Litre" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="g/m^3" category="mass-density" description="Grams/Cubic Metre" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg/dm^3" category="mass-density" description="Kilograms/Cubic Decimetre" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg/L" category="mass-density" description="Kilograms/Litre" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="lb/ft^3" category="mass-density" description="Pounds/Cubic Foot" factor="1.6020000E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="lb/in^3" category="mass-density" description="Pounds/Cubic Inch" factor="2.7680000E+04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mg/m^3" category="mass-density" description="Milligrams/Cubic Metre" factor="1.0000000E-06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg/s" category="mass-flow" description="Kilograms/Second" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="g/min" category="mass-flow" description="Grams/Min" factor="1.6670000E-05" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="g/s" category="mass-flow" description="Grams/Second" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg/h" category="mass-flow" description="Kilograms/Hour" factor="2.7780000E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg/min" category="mass-flow" description="Kilograms/Minute" factor="1.6666700E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="pph" category="mass-flow" description="Pounds/Hour" factor="1.2599790E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ppm" category="mass-flow" description="Pounds/Minute" factor="7.5598730E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="pps" category="mass-flow" description="Pounds/Second" factor="4.5359240E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="J/(mol K)" category="molar-gas-constant" description="Joules/(Mole Kelvin)" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cal/(mol K)" category="molar-gas-constant" description="Calories/(Mole Kelvin)" factor="4.1840000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="L atm/(mol K)" category="molar-gas-constant" description="Liter Atmospheres/(Mole Kelvin)" factor="1.0132500E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m^3 Pa/(mol K)" category="molar-gas-constant" description="Cubic Meters Pascals/(Mole Kelvin)" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="g/mol" category="molar-mass" description="Grams/Mole" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="kg/mol" category="molar-mass" description="Kilograms/Mole" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mol" category="molar-quantity" description="Moles" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="mmol" category="molar-quantity" description="Millimoles" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="L/mol" category="molar-volume" description="Liters/Mole" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cm^3/mol" category="molar-volume" description="Cubic Centimeters/Mole" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m^3/mol" category="molar-volume" description="Cubic Meters/Mole" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="-" category="none" description="Dimensionless" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="count" category="none" description="Counter" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="dB" category="none" description="Decibels" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="d.h" category="none" description="Days.Hours" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="h.min" category="none" description="Hours.Minutes" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="min.s" category="none" description="Minutes.Seconds" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ratio" category="none" description="Dimensionless" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="TBD" category="none" description="To Be Determined" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="y.d" category="none" description="Years.Days" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="%" category="percent" description="Percents" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="permil" category="percent" description="Permils" factor="1.0000000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="uE" category="percent" description="Microstrains" factor="1.0000000E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="vppm" category="percent" description="Volumetric Parts/Million" factor="1.0000000E+04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="W" category="power" description="Watts" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="ft lbf/s" category="power" description="Foot Pounds-Force/Second" factor="1.3560000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="hp" category="power" description="Horsepower (Mechanical)" factor="7.4569990E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kVA" category="power" description="Kilovolt-amperes" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kW" category="power" description="Kilowatts" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="MW" category="power" description="Megawatts" factor="1.0000000E+06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="PS" category="power" description="Horsepower (Metric)" factor="7.3549880E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="psi" category="pressure" description="Pounds/Square Inch" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="atm" category="pressure" description="Atmospheres" factor="1.4695950E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="bar" category="pressure" description="Bars" factor="1.4503770E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="bara" category="pressure" description="Bars Absolute" factor="1.4503770E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="inH2O" category="pressure" description="Inches of Water Column (Conventional)" factor="3.6127290E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="inH2O_4degC" category="pressure" description="Inches of Water Column (4 degC)" factor="3.6126300E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="inH2O_60degF" category="pressure" description="Inches of Water Column (60 degF)" factor="3.6091000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="inHg" category="pressure" description="Inches of Mercury" factor="4.9115410E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="inHg_32degF" category="pressure" description="Inches of Mercury (32degF)" factor="4.9115300E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="inHg_60degF" category="pressure" description="Inches of Mercury (60degF)" factor="4.8977100E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kgf/cm^2" category="pressure" description="Kilograms-Force/Square Centimetre" factor="1.4223340E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kPa" category="pressure" description="Kilopascals" factor="1.4503770E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kPaa" category="pressure" description="Kilopascals Absolute" factor="1.4503770E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="lbf/ft^2" category="pressure" description="Pounds-Force/Square Foot" factor="6.9444440E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="lbf/in^2" category="pressure" description="Pounds/Square Inch (psi)" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mbar" category="pressure" description="Millibars" factor="1.4503770E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mbara" category="pressure" description="Millibars Absolute" factor="1.4503770E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mmH2O" category="pressure" description="Millimetres of Water (4 degC)" factor="1.4224000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mmHg" category="pressure" description="Millimetres of Mercury (0 degC)" factor="1.9337000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="MPa" category="pressure" description="Megapascals" factor="1.4503770E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Pa" category="pressure" description="Pascals" factor="1.4503770E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Paa" category="pressure" description="Pascals Absolute" factor="1.4500000E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="psia" category="pressure" description="Pounds/Square Inch Absolute" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="psid" category="pressure" description="Pounds/Square Inch Differential" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="psig" category="pressure" description="Pounds/Square Inch Gauge" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="psi/s" category="pressure-drift" description="Pounds/Square Inch" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="kPa/s" category="pressure-drift" description="Kilopascals" factor="1.4503770E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ohm" category="resistance" description="Ohms" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="kohm" category="resistance" description="Kilohms" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mohm" category="resistance" description="Milliohms" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="MOhm/cm" category="resistance-distance" description="Megaohms/Centimetre" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="lb/(lbf h)" category="sfc" description="Pounds of Fuel/(Hour-Pound of Thrust)" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="g/(kN s)" category="sfc" description="Grams of Fuel/(Second Kilonewton)" factor="3.5303940E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kg/(daN h)" category="sfc" description="Kilograms of Fuel/(Dekanewton Hour)" factor="9.8066500E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="J/kg" category="specific-energy" description="Joules/Kilogram" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="Btu/lb" category="specific-energy" description="British Thermal Units/Pound" factor="2.3260000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Chu/lb" category="specific-energy" description="Celsius Heat Units/ Pound" factor="4.1868000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kcal/kg" category="specific-energy" description="Kilocalories/Kilogram" factor="4.1840000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kJ/kg" category="specific-energy" description="Kilojoules/Kilogram" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="MJ/kg" category="specific-energy" description="Megajoules/Kilogram" factor="1.0000000E+06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="J/(kg K)" category="specific-heat-capacity" description="Joules/(Kilogram Kelvin)" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="Btu/(lb degF)" category="specific-heat-capacity" description="British Thermal Units/(Pound Degree Fahrenheit)" factor="4.1868000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kJ/(kg K)" category="specific-heat-capacity" description="Kilojoules/(Kilogram Kelvin)" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="degC" category="temperature" description="Degrees Celsius" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="degF" category="temperature" description="Degrees Fahrenheit" factor="5.5560000E-01" is-enabled="true" is-primary="false" offset="-17.778"/>
+        <instance name="degR" category="temperature" description="Degrees Rankine" factor="5.5560000E-01" is-enabled="true" is-primary="false" offset="-273.150"/>
+        <instance name="K" category="temperature" description="Kelvins" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="-273.150"/>
+        <instance name="degC/s" category="temperature-drift" description="Degrees Celsius difference/Second" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="degC/min" category="temperature-drift" description="Degrees Celsius difference/Minute" factor="1.6666670E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="degF/min" category="temperature-drift" description="Degrees Fahrenheit difference/Minute" factor="9.2592590E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="degF/s" category="temperature-drift" description="Degrees Fahrenheit difference/Second" factor="5.5555560E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="K/min" category="temperature-drift" description="Kelvins difference/Minute" factor="1.6666670E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="K/s" category="temperature-drift" description="Kelvins difference/Second" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="s" category="time" description="Seconds" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="d" category="time" description="Days" factor="8.6400000E+04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="h" category="time" description="Hours" factor="3.6000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="min" category="time" description="Minutes" factor="6.0000000E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ms" category="time" description="Milliseconds" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mth" category="time" description="Months" factor="2.6280000E+06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="wk" category="time" description="Weeks" factor="6.0480000E+05" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="y" category="time" description="Years" factor="3.1540000E+07" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="N m" category="torque" description="Newton Metres" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="ft lbf" category="torque" description="Foot Pound-Force" factor="1.3560000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="in lbf" category="torque" description="Inch Pound-Force" factor="1.1300000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Hz/cSt" category="turbine-flow-meter" description="Hertz/Centistokes" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="m/s" category="velocity" description="Metres/Second" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cm/s" category="velocity" description="Centimetre/Second" factor="1.0000000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ft/min" category="velocity" description="Feet/Minute" factor="5.0800000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ft/s" category="velocity" description="Feet/Second" factor="3.0480000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ips" category="velocity" description="Inches/Second" factor="2.5400000E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="km/h" category="velocity" description="Kilometers/Hour" factor="2.7777780E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="km/min" category="velocity" description="Kilometers/Minute" factor="1.6666670E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="km/s" category="velocity" description="Kilometers/Second" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="kn" category="velocity" description="Knots (Nautical Miles/Hour)" factor="5.1440000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Ma" category="velocity" description="Mach speed in air at sea level" factor="3.4027000E+02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mi/min" category="velocity" description="Miles/Minute" factor="2.6822400E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mi/s" category="velocity" description="Miles/Second" factor="1.6093440E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mm/h" category="velocity" description="Millimetres/Hour" factor="2.7777778E-07" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mm/s" category="velocity" description="Millimetres/Second" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mph" category="velocity" description="Miles/Hour" factor="4.4704000E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="V" category="voltage" description="Volts" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="mV" category="voltage" description="Millivolts" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="uV" category="voltage" description="Microvolts" factor="1.0000000E-06" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Vac" category="voltage" description="Volts Alternating Current" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="Vdc" category="voltage" description="Volts Direct Current" factor="1.0000000E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="L" category="volume" description="Litres" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cm^3" category="volume" description="Cubic Centimetres" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="fl oz_UK" category="volume" description="Fluid Ounces (British Imperial)" factor="2.8413060E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="fl oz_US" category="volume" description="Fluid Ounces (US)" factor="2.9573530E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="ft^3" category="volume" description="Cubic Feet" factor="2.8316850E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="gal_UK" category="volume" description="Gallons (British Imperial)" factor="4.5460900E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="gal_US" category="volume" description="Gallons (US)" factor="3.7854120E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m^3" category="volume" description="Cubic Metres" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="mL" category="volume" description="Millilitres" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="pt_UK" category="volume" description="Pints (British Imperial)" factor="5.6826120E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="pt_US" category="volume" description="Pints (US)" factor="4.7317650E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="qt_UK" category="volume" description="Quarts (British Imperial)" factor="1.1365220E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="qt_US" category="volume" description="Quarts (US)" factor="9.4635290E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="L/s" category="volumetric-flow" description="Liters/Second" factor="1.0000000E+00" is-enabled="true" is-primary="true" offset="0"/>
+        <instance name="cm^3/h" category="volumetric-flow" description="Cubic Metres/hour" factor="2.7777780E-07" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="cm^3/min" category="volumetric-flow" description="Cubic Metres/Minute" factor="1.6666670E-05" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="cm^3/s" category="volumetric-flow" description="Cubic Centimetres/Second" factor="1.0000000E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="gph_UK" category="volumetric-flow" description="Gallons/Hour (British Imperial)" factor="1.2628030E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="gph_US" category="volumetric-flow" description="Gallons/Hour (US)" factor="1.0515030E-03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="gpm_UK" category="volumetric-flow" description="Gallons/Minute (British Imperial)" factor="7.5768170E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="gpm_US" category="volumetric-flow" description="Gallons/Minute (US)" factor="6.3090200E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="gps_UK" category="volumetric-flow" description="Gallons/Second (British Imperial)" factor="4.5460900E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="gps_US" category="volumetric-flow" description="Gallons/Second (US)" factor="3.7854120E+00" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="L/d" category="volumetric-flow" description="Liters/Day" factor="1.1574070E-05" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="L/h" category="volumetric-flow" description="Liters/Hour" factor="2.7777780E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="L/min" category="volumetric-flow" description="Liters/Minute" factor="1.6666670E-02" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m^3/h" category="volumetric-flow" description="Cubic Metres/hour" factor="2.7777780E-01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m^3/min" category="volumetric-flow" description="Cubic Metres/Minute" factor="1.6666670E+01" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="m^3/s" category="volumetric-flow" description="Cubic Metres/Second" factor="1.0000000E+03" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="pt_UK/h" category="volumetric-flow" description="Pints/Hour (British Imperial)" factor="1.5785030E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="pt_US/h" category="volumetric-flow" description="Pints/Hour (US)" factor="1.3143790E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="qt_UK/h" category="volumetric-flow" description="Quarts/Hour (British Imperial)" factor="3.1570070E-04" is-enabled="true" is-primary="false" offset="0"/>
+        <instance name="qt_US/h" category="volumetric-flow" description="Quarts/Hour (US)" factor="2.6287580E-04" is-enabled="true" is-primary="false" offset="0"/>
+    </eus>
+</mds_xml_root>

@@ -1,0 +1,56 @@
+<Sequences>
+	<Sequence Name="0_Template">
+		<Page Name="0_Template_1920_1200.v"/>
+		<Page Name="0_Template_1920_1200_Panel.v"/>
+		<Page Name="W_0_Template_1920_1200.v"/>
+		<Page Name="W_0_Template_1920_1200_Panel.v"/>
+		<Page Name="FHD_0_Template_1920_1080.v"/>
+		<Page Name="FHD_0_Template_1920_1080_Panel.v"/>
+	</Sequence>
+	<Sequence Name="1_DAS">
+		<Page Name="1_DAS_Control.v"/>
+		<Page Name="1_Clock.v"/>
+		<Page Name="1_PBS_Purge_Control.v"/>
+		<Page Name="1_PBS_Status.v"/>
+	</Sequence>
+	<Sequence Name="2_Demo">
+		<Page Name="2_Calculations.v"/>
+		<Page Name="2_Alarms.v"/>
+		<Page Name="2_Simulations.v"/>
+		<Page Name="2_Simulations_32Channels.v"/>
+		<Page Name="2_Simulations2.v"/>
+		<Page Name="2_Conversion_DecHexBin.v"/>
+		<Page Name="2_Polar.v"/>
+		<Page Name="2_Profile_Plot.v"/>
+		<Page Name="2_List.v"/>
+		<Page Name="2_List_Compact.v"/>
+		<Page Name="2_Languages.v"/>
+		<Page Name="W_2_Calculations.v"/>
+		<Page Name="FHD_2_Calculations.v"/>
+		<Page Name="FHD_2_Simulations.v"/>
+	</Sequence>
+	<Sequence Name="3_Compressor">
+		<Page Name="3_CompressorMap.v"/>
+		<Page Name="3_CompressorMap_Panel.v"/>
+		<Page Name="3_CompressorMap_Panel_Multi.v"/>
+		<Page Name="3_CompressorMap_Panel_Multi_Dark.v"/>
+	</Sequence>
+	<Sequence Name="4_JetEngine">
+		<Page Name="4_JetEngine_MainPage.v"/>
+		<Page Name="4_JetEngine_Picture.v"/>
+		<Page Name="4_JetEngine_VibSurvey.v"/>
+	</Sequence>
+	<Sequence Name="5_Bellmouth">
+		<Page Name="5_Bellmouth_Mass_Flow.v"/>
+	</Sequence>
+	<Sequence Name="6_IndustrialGT">
+		<Page Name="6_GasTurbine_Picture.v"/>
+		<Page Name="6_GasTurbine_Speed_Targets.v"/>
+		<Page Name="6_GasTurbine_Mechanical_Verif.v"/>
+		<Page Name="6_GasTurbine_Thermo_Verif.v"/>
+		<Page Name="6_GasTurbine_Speed_Torque.v"/>
+	</Sequence>
+	<Sequence Name="7_Emissions">
+		<Page Name="7_Emissions.v"/>
+	</Sequence>
+</Sequences>
