@@ -1,0 +1,6 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+192.168.50.3     gates-rte gates-rte.localdomain rtehost rte_db edas_fs edas_rt
+192.168.50.4     gates_mgt mgthost MGTHOST
+10.130.230.15    nxsvnsvr  # required for kernel upgrade
