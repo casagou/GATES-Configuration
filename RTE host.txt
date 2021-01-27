@@ -4,3 +4,28 @@
 192.168.50.3     gates-rte gates-rte.localdomain rtehost rte_db edas_fs edas_rt
 192.168.50.4     gates_mgt mgthost MGTHOST
 10.130.230.15    nxsvnsvr  # required for kernel upgrade
+#-------------------------------------------------------
+# User Network
+#-------------------------------------------------------
+192.168.50.1  gates-gw
+192.168.50.2  gates-usw
+#192.168.50.3  gates-rte rtehost rte_db edas_fs edas_rt
+#192.168.50.4  gates-mgt  mgthost
+192.168.50.5  gates-rtd1 rtd1host
+192.168.50.6  gates-fcshmi
+192.168.50.7  gates-nas
+#-------------------------------------------------------
+# Real-Time Network
+#-------------------------------------------------------
+192.168.50.67  gates-rtrte
+192.168.50.75  gates-cube1
+192.168.50.76  gates-cube2
+192.168.50.77  gates-cube3
+192.168.50.80  PB21270
+192.168.50.81  PB21271
+192.168.50.82  DTS1124
+192.168.50.83  DTS1125
+192.168.50.84  DTS1126
+192.168.50.84  DTS1127
+192.168.50.90  gates-fcsplc   #Modbus Ethernet card
+#-------------------------------------------------------
