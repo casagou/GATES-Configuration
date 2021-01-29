@@ -1,4 +1,4 @@
-# Application Name: .config
+﻿# Application Name: .config
 # Creation Date: 30/05/2019
 # **************************************************************************************
 # Change Log
@@ -6,7 +6,7 @@
 #
 # **************************************************************************************
 CL	VERBOSITY			100
-CL	TRACE_DEST			Trace.gates
+CL	TRACE_DEST			Trace.rte
 CL	REPLAY_FLAG			FALSE
 CL	ROOT_PATH			/users/RTE
 CL	STATUS_DEST			edas_status
@@ -146,32 +146,94 @@ CI	tolerance			300
 CI	retry				3
 CI	delay				10
 CI	allow_disable			No
+
+
+
+
+
+SS      arinc429                   TRUE
 #-------SS-----------------------------------------------------------------------------
-#    PBS Subsystem
-#-------SS-----------------------------------------------------------------------------
-SS	PBS				TRUE
-CI	port				pbs
-CI	zone				20
-CI	trigger				OFF 100
-CI	min_days_to_cal			5
-CI	accel_xfer			33
-CI	reply_timeout			30
-CI	cal_uel_source			CALCHK
-CI	vent_control_ch			PurgeAirOn_Ref
-#CI	vent_feedback_ch		PressScanPurgeSupply01
-CI	valve_on_delay			2000
-CI	valve_off_delay			2000
-#Continuous purge mode (continuous, high/low, none)
-CI      cont_purge_mode                 none                                                                                         
-#For Continuous purge only. Only discrete channel
-CI      cont_purge_ctrl_ch              PurgeCtrlCh
-#For Continuous purge only. Only float channel
-CI      cont_purge_delay_ch             PurgeDelayCh
-#CI      cont_purge_enabled              FALSE
-#For high/low purge only. Only discrete channel
-#CI      hilo_press_ctrl_ch              PressScanHLPurgePressure
-#Engine ready to run. Only discrete channel
-CI      eng_running_ch                  EngRunning
+CI      acl_key                         17
+#CI      SSM_string                      TRNT8104 DIS FW NCD FT NOP
+##<!-- NEW ARINC PCI CONFIGURATION -->
+CI      device                          BTI429
+CI      rx_start_port                   0
+CI      tx_start_port                   8
+CI      acl_srvname                     acl_srv
+CI      card_number                     0
+CI      ignore_SSM                      TRUE
+#
+
+
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# DTS
+# ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+SS		DTS		TRUE
+# DPS service name (default telnet)
+CI		port		telnet
+# software or hardware trigger; SW or HW
+CI		trigger		SW
+# external trigger rate (Hz) (Generally 20Hz or 40Hz)
+CI		hw_trigger_rate		40
+# number of averages during calibration
+CI		calavg		1
+#CI		calavg		4	#534
+# maximum allowable difference between RTD values
+CI		maxdelta		10.0
+# scan rate for accelerated transfer
+CI		accel_xfer		40
+# reply time-out in seconds
+CI		reply_timeout		10
+#CI		reply_timeout		10	#PV4 #543
+#CI		reply_timeout		3	#534
+
+
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# PBS (Pressure Bricks)
+# ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+SS		PBS		TRUE
+# service name
+CI		port		pbs 
+# number of bricks per zone
+CI		zone		20 
+# software or hardware trigger; OFF or ON
+CI		trigger		OFF 100
+# no of days to next cal; default don't show anything
+CI		min_days_to_cal		10 
+# scan rate for accelerated transfer
+CI		accel_xfer		100
+# reply time-out in seconds
+CI		reply_timeout		30
+# UEL source name for cal date messages
+# This name should match with the 'cal_uel_source' name in the 
+# DB server .config file 
+CI		cal_uel_source		CALCHK
+# Discrete output channel used to control vent relay 
+# (MUST appear in .config before the other 3 vent CI's)
+CI		vent_control_ch		PBS_Cmd_Purge
+# Discrete feedback channel from relay
+#CI		vent_feedback_ch		PBS_Feedback_Purge
+# Milliseconds to allow all purge valves to open
+CI		valve_on_delay		2000
+#CI		valve_on_delay		5000	#534
+# Milliseconds to allow venting to take affect
+CI		valve_off_delay		5000
+# Continuous purge mode: (continuous, high/low, none)
+CI		cont_purge_mode		none
+# Engine ready to run channel (discrete channel)
+CI		eng_running_ch		EngRunning
+# Flag: Report calibration due date (TRUE or FALSE)
+#CI		show_cal_time		FALSE	#PV4 #534
+
+# ──────────────────────────────────────────────────────────
+# The following two parameters are used only for continuous purge mode
+#CI		cont_purge_ctrl_ch		PurgeCtrlCh		# Continuous purge control channel (discrete channel)
+#CI		cont_purge_delay_ch		PurgeDelayCh	# Continuous purge delay channel (float channel)
+
+# ──────────────────────────────────────────────────────────
+# The following parameter is used only for high/low continuous purge mode
+#CI		hilo_press_ctrl_ch		hilo_ctrl_ch	# High/low pressure control channel (discrete channel)
+
 #-------SS-----------------------------------------------------------------------------
 # TSM (Temperature Scanning Modules) subsystem 
 #-------SS-----------------------------------------------------------------------------
@@ -195,21 +257,51 @@ CI     cal_uel_source    CALCHK
 #-------SS-----------------------------------------------------------------------------
 # ME (Modbus Ethenet SubSystem)
 #-------SS-----------------------------------------------------------------------------
-SS    FCS             TRUE
+SS    FCS1             TRUE
 CI    host            192.168.50.90
 CI    service         me_srv
 #   sign: signed or unsigned
 CI    sign            signed
-#   endian: little or big
-CI    endian          big
+#   endian: little or big or swap
+CI    endian          swap
 #   datatype:  float or short (short is for short integer)
 CI    datatype       float
 #   use decimal format for the slave address
 CI    slaveaddress    1
 #   discrete channel group, inputcoils or inputstatus
-CI  dchannelgroup     inputstatus
+CI  dchannelgroup     inputcoils
 #   float channel group, inputregisters or holdingregisters
 CI  fchannelgroup     holdingregisters
+#   timeout in ms
+CI    timeout         100
+#   protocol, tcp or udp
+CI  protocol          tcp
+#   max number of Modbus register channels
+CI  maxregchannel     120
+#   TCP implementation (use either Woodward or OpenMODBUS)
+CI  modbus_tcp        OpenMODBUS
+#   write multiple registers : multiple/single                
+CI  writemultipleregisters  multiple                            
+#   max range of coil addresses in one output request (<= 1968)
+CI  maxcoiloutput     1000                                    
+#   max range of holding register addresses in one output request (<=120)   
+CI  maxregoutput      120       
+#-------SS-----------------------------------------------------------------------------
+SS    FCS2             TRUE
+CI    host            192.168.50.90
+CI    service         me_srv
+#   sign: signed or unsigned
+CI    sign            signed
+#   endian: little or big or swap
+CI    endian          swap
+#   datatype:  float or short (short is for short integer)
+CI    datatype       short
+#   use decimal format for the slave address
+CI    slaveaddress    1
+#   discrete channel group, inputcoils or inputstatus
+CI  dchannelgroup     inputcoils
+#   float channel group, inputregisters or holdingregisters
+CI  fchannelgroup     inputregisters
 #   timeout in ms
 CI    timeout         100
 #   protocol, tcp or udp
