@@ -16,6 +16,7 @@ Bug Fixes:
 
 ### 1.0.0
 Features and Improvements:
+
 - Updates DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
 	- **Subsystems**
 		- Calculated (100%)
@@ -123,7 +124,6 @@ Features and Improvements:
 	- Adds FCS1
 	- Adds FCS2
 	- Updates TRACE_DEST to Trace.rte
-
 - RTE ethers
 	- Adds PB21270 and PB21271 MAC addresses
 - RTE host
@@ -158,6 +158,7 @@ Features and Improvements:
 
 ### 1.1.0-alpha
 Features and Improvements:
+
 - DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
 	- Subsystem
 		- Calculated (100%)
@@ -197,6 +198,7 @@ Features and Improvements:
 
 ### 1.0.0-alpha
 Features and Improvements:
+
 - DAS Configuration
 	- Subsystem
 		- Calculated (100%)
