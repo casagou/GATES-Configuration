@@ -6,7 +6,6 @@
 
 ## Version History
 
-----
 
 ### 1.0.1
 
@@ -94,7 +93,7 @@ Features and Improvements:
 					- DAS runtime
 					- Fullset Log CR SW
 				- Adds demo calculation simulation channels
-				- Add all Math channels
+				- Adds all Math channels
 				- Updates all GID
 	- **Transient Logs**
 		- ATP_Calibration
@@ -111,7 +110,7 @@ Features and Improvements:
 		- ATP_Calibration
 			- Adds Demo BPT for demo calculations
 			- Adds Demo BPT for RTD Overlays
-			- Add the 36 RTD thermocouple conversion tables
+			- Adds the 36 RTD thermocouple conversion tables
 	- **polynomials**
 		- ATP_Calibration
 			- Adds Demo BPT for demo calculations
@@ -152,8 +151,8 @@ Features and Improvements:
 - Palettes
 	- OK (100%)
 - Media
-	- Add Pictures
-	- Add Engineering Units
+	- Adds Pictures - In-house testing hardware
+	- Adds Engineering Units
 
 ----
 
