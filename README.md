@@ -6,9 +6,18 @@
 
 ## Version History
 
+----
+
+### 1.0.1
+
+Bug Fixes:
+- Modifies README structure
+
+----
+
 ### 1.0.0
 Features and Improvements:
-- Update DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
+- Updates DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
 	- **Subsystems**
 		- Calculated (100%)
 		- ARINC (90%)
@@ -55,27 +64,27 @@ Features and Improvements:
 	- **Channels**
 		- **ATP_Calibration**
 			- PBS (100%) - Tested Comm OK @100Hz - Purge Commd OK
-				- Update all GID
+				- Updates all GID
 			- DTS (100%) - Tested Comm OK @40Hz - AD Cal OK
-				- Update all GID
+				- Updates all GID
 			- ARINC_Simulator (100%)
-				- Add Mariusz ARINC loopback channel definition - Tested Comm OK
-				- Update all GID
+				- Adds Mariusz ARINC loopback channel definition - Tested Comm OK
+				- Updates all GID
 			- Cubes (100%)
 				- Cube 1 Standard - Prototype (225593) - Tested Comm OK
-					- Add all Channels
-					- Update all GID
+					- Adds all Channels
+					- Updates all GID
 				- Cube 2 Rugged - Prototype (226128) - NOT AVAILABLE
-					- Add all Channels
-					- Update all GID
+					- Adds all Channels
+					- Updates all GID
 				- Cube 3 Rugged - Prototype (225763) - NOT AVAILABLE
-					- Add all Channels
-					- Update all GID
+					- Adds all Channels
+					- Updates all GID
 			- FCS (100%)
-				- Add FCS1 and FC2 channels - Tested Comm OK ~3-5Hz
-					- Update all GID
+				- Adds FCS1 and FC2 channels - Tested Comm OK ~3-5Hz
+					- Updates all GID
 			- Calculated
-				- Add mandatory for RTE and DAS
+				- Adds mandatory for RTE and DAS
 					- Alarms Buzz Ack
 					- Fullset Status
 					- CL
@@ -84,42 +93,52 @@ Features and Improvements:
 					- PBS Purge
 					- DAS runtime
 					- Fullset Log CR SW
-				- Add demo calculation simulation channels
-				- Update all GID
+				- Adds demo calculation simulation channels
+				- Add all Math channels
+				- Updates all GID
 	- **Transient Logs**
 		- ATP_Calibration
-			- Add DTS_Log 40Hz
-			- Add PBS_Log 100Hz
-			- Add Demo_Log_xxxHz from 1Hz to 200Hz
+			- Adds DTS_Log 40Hz
+			- Adds PBS_Log 100Hz
+			- Adds Demo_Log_xxxHz from 1Hz to 200Hz
 		- **CFM56-5B**
 			- Nothing yet (0%)
 		- **CFM56-7B**
 			- Nothing yet (0%)
 		- **CF6-80C2**
 			- Nothing yet (0%)
+	- **bpts**
+		- ATP_Calibration
+			- Adds Demo BPT for demo calculations
+			- Adds Demo BPT for RTD Overlays
+			- Add the 36 RTD thermocouple conversion tables
+	- **polynomials**
+		- ATP_Calibration
+			- Adds Demo BPT for demo calculations
+			- Adds Demo BPT for RTD Overlays
 	- Engineering Units
 		- Standardize units for nxDAS - V13 (100%)
 - RTE .config
-	- Add PBS
-	- Add arinc429
-	- Add FCS1
-	- Add FCS2
-	- Update TRACE_DEST to Trace.rte
+	- Adds PBS
+	- Adds arinc429
+	- Adds FCS1
+	- Adds FCS2
+	- Updates TRACE_DEST to Trace.rte
 
 - RTE ethers
-	- Add PB21270 and PB21271 MAC addresses
+	- Adds PB21270 and PB21271 MAC addresses
 - RTE host
-	- Add FCS HMI IP address
-	- Add NAS IP address
-	- Add Printer IP address
-	- Add all cubes IP address
-	- Add all DTS IP address
-	- Add all PBS IP address
-	- Add FCS PLC IP address
+	- Adds FCS HMI IP address
+	- Adds NAS IP address
+	- Adds Printer IP address
+	- Adds all cubes IP address
+	- Adds all DTS IP address
+	- Adds all PBS IP address
+	- Adds FCS PLC IP address
 	- Include IP address shift for reserved IP
 - Ini Files
 	- MgtGUI.ini
-		- Update PBS purge vent channel
+		- Updates PBS purge vent channel
 - Invoke Script
 	- None
 - Test Procedure
@@ -136,6 +155,46 @@ Features and Improvements:
 	- Add Pictures
 	- Add Engineering Units
 
+----
+
+### 1.1.0-alpha
+Features and Improvements:
+- DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
+	- Subsystem
+		- Calculated (100%)
+		- ARINC (20%)
+		- PBS (100%)
+		- DTS (100%)
+		- FCS (90%)
+		- iDDS + iDDSnodes (90%)
+	- Channels
+		- PBS (100%)
+		- DTS (100%)
+		- ARINC (0%)
+		- Cubes (20%) (comm not working yet)
+		- FCS (10%)
+		- Calculated
+			- Mandatory for RTE and DAS.
+	- Engineering Units
+		- V13 (100%)
+- Ini Files
+	- None
+- Invoke Script
+	- None
+- Test Procedure
+	- None
+- MgtGUI Scripts
+	- None
+- RAVE Report Templates
+	- None
+- RTD Pages
+	- ATP_Calibration (10%)
+- Palettes
+	- OK (100%)
+- Media
+	- None
+
+----
 
 ### 1.0.0-alpha
 Features and Improvements:
@@ -168,8 +227,4 @@ Features and Improvements:
 - Media
 	- None
 	
-
-
-
-
-
+----
