@@ -1,4 +1,4 @@
-﻿# Application Name: .config
+# Application Name: .config
 # Creation Date: 30/05/2019
 # **************************************************************************************
 # Change Log
@@ -148,9 +148,6 @@ CI	delay				10
 CI	allow_disable			No
 
 
-
-
-
 SS      arinc429                   TRUE
 #-------SS-----------------------------------------------------------------------------
 CI      acl_key                         17
@@ -165,9 +162,9 @@ CI      ignore_SSM                      TRUE
 #
 
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ________________________________
 # DTS
-# ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+# ��������������������������������
 SS		DTS		TRUE
 # DPS service name (default telnet)
 CI		port		telnet
@@ -188,9 +185,9 @@ CI		reply_timeout		10
 #CI		reply_timeout		3	#534
 
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ________________________________
 # PBS (Pressure Bricks)
-# ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+# ��������������������������������
 SS		PBS		TRUE
 # service name
 CI		port		pbs 
@@ -225,12 +222,12 @@ CI		eng_running_ch		EngRunning
 # Flag: Report calibration due date (TRUE or FALSE)
 #CI		show_cal_time		FALSE	#PV4 #534
 
-# ──────────────────────────────────────────────────────────
+# ----------------------------------------------------------
 # The following two parameters are used only for continuous purge mode
 #CI		cont_purge_ctrl_ch		PurgeCtrlCh		# Continuous purge control channel (discrete channel)
 #CI		cont_purge_delay_ch		PurgeDelayCh	# Continuous purge delay channel (float channel)
 
-# ──────────────────────────────────────────────────────────
+# ----------------------------------------------------------
 # The following parameter is used only for high/low continuous purge mode
 #CI		hilo_press_ctrl_ch		hilo_ctrl_ch	# High/low pressure control channel (discrete channel)
 
@@ -293,7 +290,7 @@ CI    service         me_srv
 #   sign: signed or unsigned
 CI    sign            signed
 #   endian: little or big or swap
-CI    endian          swap
+CI    endian          big
 #   datatype:  float or short (short is for short integer)
 CI    datatype       short
 #   use decimal format for the slave address
