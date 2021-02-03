@@ -7,14 +7,21 @@
 ## Version History
 
 
-### 1.0.1
+### 1.1.2
 
 Bug Fixes:
 - Modifies README structure
 
 ----
 
-### 1.0.0
+### 1.1.1
+
+Bug Fixes:
+- Modifies README structure
+
+----
+
+### 1.1.0
 Features and Improvements:
 
 - Updates DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
