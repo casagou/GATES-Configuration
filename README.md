@@ -6,28 +6,113 @@
 
 ## Version History
 
-### 1.1.0-alpha
+### 1.0
 Features and Improvements:
-- DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
+- Update DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
 	- Subsystem
 		- Calculated (100%)
-		- ARINC (20%)
+		- ARINC (90%)
 		- PBS (100%)
+			- PBS21270
+			- PBS21271
 		- DTS (100%)
-		- FCS (90%)
+			- DTS1124
+			- DTS1125
+			- DTS1126
+			- DTS1127
+		- FCS1 (100%)
+		- FCS2 (100%)
 		- iDDS + iDDSnodes (90%)
+			- MDS
+				- nxCollector
+				- 18:1-10000:r 19:10001-10500:r 20:10501-11000:r 21:11001-11500:r
+				- CL_Enable
+			- UEI
+				- IOM-225593 (standard)
+					- Cube1
+					- rate = 20
+					- Card 1
+					- Card 2
+					- Card 3
+						- num_teeth = 60
+						- cntr_latch = 1
+				- IOM-226128 (rugged)
+					- Cube2
+					- rate = 20
+					- Card 1
+					- Card 2
+					- Card 3
+					- Card 4
+				IOM-225763 (rugged)
+					- Cube3
+					- rate = 20
+					- Card 1
+					- Card 2
+					- Card 3
+					- Card 4
+		- Throttle (100%)
+		- Vibration (100%)
 	- Channels
-		- PBS (100%)
-		- DTS (100%)
-		- ARINC (0%)
-		- Cubes (20%) (comm not working yet)
-		- FCS (10%)
-		- Calculated
-			- Mandatory for RTE and DAS.
+		- ATP_Calibration
+			- PBS (100%) - Tested Comm OK @100Hz - Purge Commd OK
+				- Update all GID
+			- DTS (100%) - Tested Comm OK @40Hz - AD Cal OK
+				- Update all GID
+			- ARINC_Simulator (100%)
+				- Add Mariusz ARINC loopback channel definition - Tested Comm OK
+				- Update all GID
+			- Cubes (100%)
+				- Cube 1 Standard - Prototype (225593) - Tested Comm OK
+					- Add all Channels
+					- Update all GID
+				- Cube 2 Rugged - Prototype (226128) - NOT AVAILABLE
+					- Add all Channels
+					- Update all GID
+				- Cube 3 Rugged - Prototype (225763) - NOT AVAILABLE
+					- Add all Channels
+					- Update all GID
+			- FCS (100%)
+				- Add FCS1 and FC2 channels - Tested Comm OK ~3-5Hz
+					- Update all GID
+			- Calculated
+				- Add mandatory for RTE and DAS
+					- Alarms Buzz Ack
+					- Fullset Status
+					- CL
+					- Num Fullset Log
+					- Flip Clock
+					- PBS Purge
+					- DAS runtime
+					- Fullset Log CR SW
+				- Update all GID
+	- Transient Logs
+		- ATP_Calibration
+			- Add DTS_Log 40Hz
+			- Add PBS_Log 100Hz
+			- Add Demo_Log_xxxHz from 1Hz to 200Hz
 	- Engineering Units
 		- V13 (100%)
+- RTE .config
+	- Add PBS
+	- Add arinc429
+	- Add FCS1
+	- Add FCS2
+	- Update TRACE_DEST to Trace.rte
+
+- RTE ethers
+	- Add PB21270 and PB21271 MAC addresses
+- RTE host
+	- Add FCS HMI IP address
+	- Add NAS IP address
+	- Add Printer IP address
+	- Add all cubes IP address
+	- Add all DTS IP address
+	- Add all PBS IP address
+	- Add FCS PLC IP address
+	- Include IP address shift for reserved IP
 - Ini Files
-	- None
+	- MgtGUI.ini
+		- Update PBS purge vent channel
 - Invoke Script
 	- None
 - Test Procedure
@@ -41,7 +126,8 @@ Features and Improvements:
 - Palettes
 	- OK (100%)
 - Media
-	- None
+	- Add Pictures
+	- Add Engineering Units
 
 ### 1.0.0-alpha
 Features and Improvements:
