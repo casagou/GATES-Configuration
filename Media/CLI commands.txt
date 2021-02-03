@@ -1,0 +1,47 @@
+192.168.50.5
+root/mdsaero
+
+su - paulsuominen
+------------------------------------------
+
+ll
+cd ship/target/host/
+source qos-setup
+./shell JOA
+
+------------------------------------------
+event.show off
+
+show nodes
+show attr
+show attrv
+show params
+show dev03/config/ch00001/*
+
+
+show subs/list-no-traffic
+
+
+clear nodes
+
+
+use collector
+use Cube1
+use JOA
+use $me
+
+sub 19:10001-10028
+show subs
+
+
+
+aset dev03/Config/ch00005/num_teeth 60
+aset dev03/Config/ch00001/cntr_latch 1
+
+
+start
+stop
+exit
+
+help
+
