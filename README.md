@@ -6,10 +6,10 @@
 
 ## Version History
 
-### 1.0
+### 1.0.0
 Features and Improvements:
 - Update DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
-	- Subsystem
+	- **Subsystems**
 		- Calculated (100%)
 		- ARINC (90%)
 		- PBS (100%)
@@ -52,8 +52,8 @@ Features and Improvements:
 					- Card 4
 		- Throttle (100%)
 		- Vibration (100%)
-	- Channels
-		- ATP_Calibration
+	- **Channels**
+		- **ATP_Calibration**
 			- PBS (100%) - Tested Comm OK @100Hz - Purge Commd OK
 				- Update all GID
 			- DTS (100%) - Tested Comm OK @40Hz - AD Cal OK
@@ -85,13 +85,19 @@ Features and Improvements:
 					- DAS runtime
 					- Fullset Log CR SW
 				- Update all GID
-	- Transient Logs
+	- **Transient Logs**
 		- ATP_Calibration
 			- Add DTS_Log 40Hz
 			- Add PBS_Log 100Hz
 			- Add Demo_Log_xxxHz from 1Hz to 200Hz
+		- **CFM56-5B**
+			- Nothing yet (0%)
+		- **CFM56-7B**
+			- Nothing yet (0%)
+		- **CF6-80C2**
+			- Nothing yet (0%)
 	- Engineering Units
-		- V13 (100%)
+		- Standardize units for nxDAS - V13 (100%)
 - RTE .config
 	- Add PBS
 	- Add arinc429
