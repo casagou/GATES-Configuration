@@ -84,6 +84,7 @@ Features and Improvements:
 					- PBS Purge
 					- DAS runtime
 					- Fullset Log CR SW
+				- Add demo calculation simulation channels
 				- Update all GID
 	- **Transient Logs**
 		- ATP_Calibration
@@ -128,12 +129,13 @@ Features and Improvements:
 - RAVE Report Templates
 	- None
 - RTD Pages
-	- ATP_Calibration (10%)
+	- ATP_Calibration (10%) - Wrong aspect ratio
 - Palettes
 	- OK (100%)
 - Media
 	- Add Pictures
 	- Add Engineering Units
+
 
 ### 1.0.0-alpha
 Features and Improvements:
@@ -166,10 +168,6 @@ Features and Improvements:
 - Media
 	- None
 	
-
-
-
-
 
 
 
