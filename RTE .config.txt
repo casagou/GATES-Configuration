@@ -1,4 +1,4 @@
-# Application Name: .config
+﻿# Application Name: .config
 # Creation Date: 30/05/2019
 # **************************************************************************************
 # Change Log
@@ -161,10 +161,9 @@ CI      card_number                     0
 CI      ignore_SSM                      TRUE
 #
 
-
-# ________________________________
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 # DTS
-# ��������������������������������
+# ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 SS		DTS		TRUE
 # DPS service name (default telnet)
 CI		port		telnet
@@ -184,10 +183,9 @@ CI		reply_timeout		10
 #CI		reply_timeout		10	#PV4 #543
 #CI		reply_timeout		3	#534
 
-
-# ________________________________
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 # PBS (Pressure Bricks)
-# ��������������������������������
+# ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 SS		PBS		TRUE
 # service name
 CI		port		pbs 
@@ -222,35 +220,15 @@ CI		eng_running_ch		EngRunning
 # Flag: Report calibration due date (TRUE or FALSE)
 #CI		show_cal_time		FALSE	#PV4 #534
 
-# ----------------------------------------------------------
+# ──────────────────────────────────────────────────────────
 # The following two parameters are used only for continuous purge mode
 #CI		cont_purge_ctrl_ch		PurgeCtrlCh		# Continuous purge control channel (discrete channel)
 #CI		cont_purge_delay_ch		PurgeDelayCh	# Continuous purge delay channel (float channel)
 
-# ----------------------------------------------------------
+# ──────────────────────────────────────────────────────────
 # The following parameter is used only for high/low continuous purge mode
 #CI		hilo_press_ctrl_ch		hilo_ctrl_ch	# High/low pressure control channel (discrete channel)
 
-#-------SS-----------------------------------------------------------------------------
-# TSM (Temperature Scanning Modules) subsystem 
-#-------SS-----------------------------------------------------------------------------
-SS    TSM               FALSE 
-# service name
-CI     port              pbs
-# software or hardware trigger;
-CI     trigger           SW
-#  hardware trigger scan rate
-CI     hw_trigger_rate   100
-# no of days to next cal; default don't show anything
-CI     min_days_to_cal   60
-# scan rate for accelerated transfer
-CI     accel_xfer        10
-# response time-out in seconds
-CI     response_timeout  30
-# UEL source name for cal date messages
-# This name should match with the 'cal_uel_source' name in the
-# proDAS DB server .config file
-CI     cal_uel_source    CALCHK
 #-------SS-----------------------------------------------------------------------------
 # ME (Modbus Ethenet SubSystem)
 #-------SS-----------------------------------------------------------------------------
@@ -282,10 +260,42 @@ CI  writemultipleregisters  multiple
 #   max range of coil addresses in one output request (<= 1968)
 CI  maxcoiloutput     1000                                    
 #   max range of holding register addresses in one output request (<=120)   
-CI  maxregoutput      120       
+CI  maxregoutput      120
+
 #-------SS-----------------------------------------------------------------------------
 SS    FCS2             TRUE
 CI    host            192.168.50.90
+CI    service         me_srv
+#   sign: signed or unsigned
+CI    sign            signed
+#   endian: little or big or swap
+CI    endian          big
+#   datatype:  float or short (short is for short integer)
+CI    datatype       short
+#   use decimal format for the slave address
+CI    slaveaddress    1
+#   discrete channel group, inputcoils or inputstatus
+CI  dchannelgroup     inputcoils
+#   float channel group, inputregisters or holdingregisters
+CI  fchannelgroup     inputregisters
+#   timeout in ms
+CI    timeout         100
+#   protocol, tcp or udp
+CI  protocol          tcp
+#   max number of Modbus register channels
+CI  maxregchannel     120
+#   TCP implementation (use either Woodward or OpenMODBUS)
+CI  modbus_tcp        OpenMODBUS
+#   write multiple registers : multiple/single                
+CI  writemultipleregisters  multiple                            
+#   max range of coil addresses in one output request (<= 1968)
+CI  maxcoiloutput     1000                                    
+#   max range of holding register addresses in one output request (<=120)   
+CI  maxregoutput      120       
+
+#-------SS-----------------------------------------------------------------------------
+SS    Throttle             TRUE
+CI    host            192.168.50.73
 CI    service         me_srv
 #   sign: signed or unsigned
 CI    sign            signed
