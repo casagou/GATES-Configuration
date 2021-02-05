@@ -7,7 +7,9 @@
 ## Version History
 
 ### 1.2.1
+
 Features and Improvements:
+
 - Nick started importing/merging engine channels to GATES system (1 tree)
 - Renames Level 3 "MDS" by "ATP_Calibration" to comply with MVIB engine type convention
 - Updates DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
@@ -43,11 +45,13 @@ Bug Fixes:
 ### 1.1.1
 
 Bug Fixes:
+
 - Modifies README structure
 
 ----
 
 ### 1.1.0
+
 Features and Improvements:
 
 - Updates DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
@@ -190,6 +194,7 @@ Features and Improvements:
 ----
 
 ### 1.1.0-alpha
+
 Features and Improvements:
 
 - DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
@@ -230,6 +235,7 @@ Features and Improvements:
 ----
 
 ### 1.0.0-alpha
+
 Features and Improvements:
 
 - DAS Configuration
