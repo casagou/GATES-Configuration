@@ -6,7 +6,7 @@
 
 ## Version History
 
-### 1.2.0
+### 1.2.1
 Features and Improvements:
 - Nick started importing/merging engine channels to GATES system (1 tree)
 - Renames Level 3 "MDS" by "ATP_Calibration" to comply with MVIB engine type convention
