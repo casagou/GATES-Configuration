@@ -188,6 +188,7 @@ CI		reply_timeout		10
 SS	Vibration	TRUE
 CI	login_name	{RemoteDataUser}
 CI	login_password	REMOTEDATA
+CI	text_config	TRUE
 
 # ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 # PBS (Pressure Bricks)
