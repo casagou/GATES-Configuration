@@ -6,6 +6,32 @@
 
 ## Version History
 
+### 1.2.0
+Features and Improvements:
+- Nick started importing/merging engine channels to GATES system (1 tree)
+- Renames Level 3 "MDS" by "ATP_Calibration" to comply with MVIB engine type convention
+- Updates DAS Configuration (see diagram *GATES-Configuration.pdf* for details)
+	- **Channels**
+		- **ATP_Calibration**
+			- Throttle (80%) - Tested Comm FAIL - Network config issue on PLC side
+			- Vibration (80%)
+				- Adds all PBS-4100 channels per MVIB_config file
+				- Adds dummy calculated lockout channel
+- RTE .config
+	- Removes TSM
+	- Adds Throttle (via Modbus Ethernet)
+	- Adds Vibration (via MVIB)
+		- text_config TRUE
+- RTE host
+	- Adds all Throttle devices
+	- Adds temporary PBS-4100 corporate IP address for in-house testing only
+	- Adds Printer
+- Adds MVIB_config directory
+	- Updates chassis_name by gates-pbs4100
+	- Updates pbs_type by 7
+- Updates GID convention per Nick request - See diagram
+	
+----
 
 ### 1.1.2
 
