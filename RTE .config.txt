@@ -159,7 +159,6 @@ CI      tx_start_port                   8
 CI      acl_srvname                     acl_srv
 CI      card_number                     0
 CI      ignore_SSM                      TRUE
-#
 
 # ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 # DTS
@@ -182,6 +181,13 @@ CI		accel_xfer		40
 CI		reply_timeout		10
 #CI		reply_timeout		10	#PV4 #543
 #CI		reply_timeout		3	#534
+
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# MVIB (MTI PBS-4100 Vibration)
+# ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+SS	Vibration	TRUE
+CI	login_name	{RemoteDataUser}
+CI	login_password	REMOTEDATA
 
 # ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 # PBS (Pressure Bricks)
