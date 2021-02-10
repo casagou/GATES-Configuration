@@ -239,7 +239,7 @@ CI		eng_running_ch		EngRunning
 #-------SS-----------------------------------------------------------------------------
 # ME (Modbus Ethenet SubSystem)
 #-------SS-----------------------------------------------------------------------------
-SS    FCS1             TRUE
+SS    FCS             TRUE
 CI    host            192.168.50.90
 CI    service         me_srv
 #   sign: signed or unsigned
@@ -267,39 +267,7 @@ CI  writemultipleregisters  multiple
 #   max range of coil addresses in one output request (<= 1968)
 CI  maxcoiloutput     1000                                    
 #   max range of holding register addresses in one output request (<=120)   
-CI  maxregoutput      120
-
-#-------SS-----------------------------------------------------------------------------
-SS    FCS2             TRUE
-CI    host            192.168.50.90
-CI    service         me_srv
-#   sign: signed or unsigned
-CI    sign            signed
-#   endian: little or big or swap
-CI    endian          big
-#   datatype:  float or short (short is for short integer)
-CI    datatype       short
-#   use decimal format for the slave address
-CI    slaveaddress    1
-#   discrete channel group, inputcoils or inputstatus
-CI  dchannelgroup     inputcoils
-#   float channel group, inputregisters or holdingregisters
-CI  fchannelgroup     inputregisters
-#   timeout in ms
-CI    timeout         100
-#   protocol, tcp or udp
-CI  protocol          tcp
-#   max number of Modbus register channels
-CI  maxregchannel     120
-#   TCP implementation (use either Woodward or OpenMODBUS)
-CI  modbus_tcp        OpenMODBUS
-#   write multiple registers : multiple/single                
-CI  writemultipleregisters  multiple                            
-#   max range of coil addresses in one output request (<= 1968)
-CI  maxcoiloutput     1000                                    
-#   max range of holding register addresses in one output request (<=120)   
-CI  maxregoutput      120       
-
+CI  maxregoutput      120  
 #-------SS-----------------------------------------------------------------------------
 SS    Throttle             TRUE
 CI    host            192.168.50.73
