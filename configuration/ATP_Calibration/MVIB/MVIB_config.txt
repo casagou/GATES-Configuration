@@ -26,31 +26,96 @@
 #  Modification history:
 #  Date       Initial  NCR#    Description
 #  ----       -------  ------  -----------
+#  8 feb 2021  JOA             GATES in-house testing
 #
 #*****************************************************************************
 
 PBS_START
 #lockout_chan    chassis_name    pbs_type        num_speed       num_vib
-lockout gates-pbs4100 7       3       8
+PBS4100_Lockout      gates-pbs4100   7           3               12
 PBS_END
 
 SPEED_START
   #ch_name      chan_num
-  speed1        1
-  speed2        2
-  speed3        3
+  PBS4100_Speed1        1
+  PBS4100_Speed2        2
+  PBS4100_Speed3        3
 SPEED_END
 
 VIB_START
   #ch_name      chan_num        vib_comp
-  vib1_c1       1       1
-  vib1_c2       1       2
-  vib1_c3       1       3
-  vib2_c1       2       1
-  vib2_c2       2       2
-  vib2_c3       2       3
-  vib3_c1       3       1
-  vib3_c2       3       2
+  PBS4100_Vib1_Comp1    1    1
+  PBS4100_Vib1_Comp2    1    2
+  PBS4100_Vib1_Comp3    1    3
+  PBS4100_Vib1_Comp4    1    4
+  PBS4100_Vib1_Comp5    1    5
+  # PBS4100_Vib1_Comp6    1    6
+  # PBS4100_Vib1_Comp7    1    7
+  # PBS4100_Vib1_Comp8    1    8
+  # PBS4100_Vib1_Comp9    1    9
+  PBS4100_Vib2_Comp1    2    1
+  PBS4100_Vib2_Comp2    2    2
+  PBS4100_Vib2_Comp3    2    3
+  PBS4100_Vib2_Comp4    2    4
+  # PBS4100_Vib2_Comp5    2    5
+  # PBS4100_Vib2_Comp6    2    6
+  # PBS4100_Vib2_Comp7    2    7
+  # PBS4100_Vib2_Comp8    2    8
+  # PBS4100_Vib2_Comp9    2    9
+  PBS4100_Vib3_Comp1    3    1
+  PBS4100_Vib3_Comp2    3    2
+  PBS4100_Vib3_Comp3    3    3
+  # PBS4100_Vib3_Comp4    3    4
+  # PBS4100_Vib3_Comp5    3    5
+  # PBS4100_Vib3_Comp6    3    6
+  # PBS4100_Vib3_Comp7    3    7
+  # PBS4100_Vib3_Comp8    3    8
+  # PBS4100_Vib3_Comp9    3    9
+  # PBS4100_Vib4_Comp1    4    1
+  # PBS4100_Vib4_Comp2    4    2
+  # PBS4100_Vib4_Comp3    4    3
+  # PBS4100_Vib4_Comp4    4    4
+  # PBS4100_Vib4_Comp5    4    5
+  # PBS4100_Vib4_Comp6    4    6
+  # PBS4100_Vib4_Comp7    4    7
+  # PBS4100_Vib4_Comp8    4    8
+  # PBS4100_Vib4_Comp9    4    9
+  # PBS4100_Vib5_Comp1    5    1
+  # PBS4100_Vib5_Comp2    5    2
+  # PBS4100_Vib5_Comp3    5    3
+  # PBS4100_Vib5_Comp4    5    4
+  # PBS4100_Vib5_Comp5    5    5
+  # PBS4100_Vib5_Comp6    5    6
+  # PBS4100_Vib5_Comp7    5    7
+  # PBS4100_Vib5_Comp8    5    8
+  # PBS4100_Vib5_Comp9    5    9
+  # PBS4100_Vib6_Comp1    6    1
+  # PBS4100_Vib6_Comp2    6    2
+  # PBS4100_Vib6_Comp3    6    3
+  # PBS4100_Vib6_Comp4    6    4
+  # PBS4100_Vib6_Comp5    6    5
+  # PBS4100_Vib6_Comp6    6    6
+  # PBS4100_Vib6_Comp7    6    7
+  # PBS4100_Vib6_Comp8    6    8
+  # PBS4100_Vib6_Comp9    6    9
+  # PBS4100_Vib7_Comp1    7    1
+  # PBS4100_Vib7_Comp2    7    2
+  # PBS4100_Vib7_Comp3    7    3
+  # PBS4100_Vib7_Comp4    7    4
+  # PBS4100_Vib7_Comp5    7    5
+  # PBS4100_Vib7_Comp6    7    6
+  # PBS4100_Vib7_Comp7    7    7
+  # PBS4100_Vib7_Comp8    7    8
+  # PBS4100_Vib7_Comp9    7    9
+  # PBS4100_Vib8_Comp1    8    1
+  # PBS4100_Vib8_Comp2    8    2
+  # PBS4100_Vib8_Comp3    8    3
+  # PBS4100_Vib8_Comp4    8    4
+  # PBS4100_Vib8_Comp5    8    5
+  # PBS4100_Vib8_Comp6    8    6
+  # PBS4100_Vib8_Comp7    8    7
+  # PBS4100_Vib8_Comp8    8    8
+  # PBS4100_Vib8_Comp9    8    9
 VIB_END
 
 #************************ THIS IS THE END OF THE FILE ************************
