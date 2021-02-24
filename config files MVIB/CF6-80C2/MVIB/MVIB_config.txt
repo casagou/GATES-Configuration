@@ -1,0 +1,121 @@
+# @(#) PRODAS:src/ss_hw/MVIB/$RCSfile: MVIB_config.txt,v $; Version $Revision: 78918 $; extracted $Date: 2020-09-01 21:32:31 -0400 (Tue, 01 Sep 2020) $, MDS Aero
+#                             *******************
+#****************************** MVIB_config.txt ******************************
+#                             *******************
+# 
+#  Author: Joe Hsieh, MDS Aero Support Corporation
+# 
+#  Description: 
+#    This is a sample text configuration file for MVIB SS. It needs to be located in 
+#     /users/RTE/configuration/{ENGINE_NAME}/MVIB in order to be read by MVIB SS.
+# 
+#  Usage: 
+#    pbs_type:
+#      MVIBL_NONE         = 0,
+#      MVIBL_PBS4100R     = 1,
+#      MVIBL_PBS4100P     = 2,
+#      MVIBL_PBS3000      = 3,
+#      MVIBL_PBS4100Plus  = 4,
+#      MVIBL_PBS3500      = 5,
+#      MVIBL_PBS3000Plus  = 6,
+#      MVIBL_PBS4100RPlus = 7,
+#      MVIBL_TSC4800A     = 8
+# 
+#  Date created: Mon Aug  3 19:49:23 2020
+# 
+#  Modification history:
+#  Date       Initial  NCR#    Description
+#  ----       -------  ------  -----------
+#  8 feb 2021  JOA             GATES in-house testing
+#  23 feb 2021  NJ				GATES Engine Config
+#*****************************************************************************
+
+PBS_START
+#lockout_chan    chassis_name    pbs_type        num_speed       num_vib
+PBS4100_Lockout      gates-pbs4100   7           3               12
+PBS_END
+
+SPEED_START
+  #ch_name      chan_num
+  N1_PBS        1
+  N2_PBS        2
+  #PBS4100_Speed3        3
+SPEED_END
+
+VIB_START
+  #ch_name      chan_num        vib_comp
+  VIB1_1    1    1
+  VIB1_2    1    2
+  VIB1_3    1    3
+  VIB1_4    1    4
+  # PBS4100_Vib1_Comp5    1    5
+  # PBS4100_Vib1_Comp6    1    6
+  # PBS4100_Vib1_Comp7    1    7
+  # PBS4100_Vib1_Comp8    1    8
+  # PBS4100_Vib1_Comp9    1    9
+  VIB2_1    2    1
+  VIB2_2    2    2
+  VIB2_3    2    3
+  VIB2_4    2    4
+  # PBS4100_Vib2_Comp5    2    5
+  # PBS4100_Vib2_Comp6    2    6
+  # PBS4100_Vib2_Comp7    2    7
+  # PBS4100_Vib2_Comp8    2    8
+  # PBS4100_Vib2_Comp9    2    9
+  # PBS4100_Vib3_Comp1    3    1
+  # PBS4100_Vib3_Comp2    3    2
+  # PBS4100_Vib3_Comp3    3    3
+  # PBS4100_Vib3_Comp4    3    4
+  # PBS4100_Vib3_Comp5    3    5
+  # PBS4100_Vib3_Comp6    3    6
+  # PBS4100_Vib3_Comp7    3    7
+  # PBS4100_Vib3_Comp8    3    8
+  # PBS4100_Vib3_Comp9    3    9
+  # PBS4100_Vib4_Comp1    4    1
+  # PBS4100_Vib4_Comp2    4    2
+  # PBS4100_Vib4_Comp3    4    3
+  # PBS4100_Vib4_Comp4    4    4
+  # PBS4100_Vib4_Comp5    4    5
+  # PBS4100_Vib4_Comp6    4    6
+  # PBS4100_Vib4_Comp7    4    7
+  # PBS4100_Vib4_Comp8    4    8
+  # PBS4100_Vib4_Comp9    4    9
+  # PBS4100_Vib5_Comp1    5    1
+  # PBS4100_Vib5_Comp2    5    2
+  # PBS4100_Vib5_Comp3    5    3
+  # PBS4100_Vib5_Comp4    5    4
+  # PBS4100_Vib5_Comp5    5    5
+  # PBS4100_Vib5_Comp6    5    6
+  # PBS4100_Vib5_Comp7    5    7
+  # PBS4100_Vib5_Comp8    5    8
+  # PBS4100_Vib5_Comp9    5    9
+  # PBS4100_Vib6_Comp1    6    1
+  # PBS4100_Vib6_Comp2    6    2
+  # PBS4100_Vib6_Comp3    6    3
+  # PBS4100_Vib6_Comp4    6    4
+  # PBS4100_Vib6_Comp5    6    5
+  # PBS4100_Vib6_Comp6    6    6
+  # PBS4100_Vib6_Comp7    6    7
+  # PBS4100_Vib6_Comp8    6    8
+  # PBS4100_Vib6_Comp9    6    9
+  # PBS4100_Vib7_Comp1    7    1
+  # PBS4100_Vib7_Comp2    7    2
+  # PBS4100_Vib7_Comp3    7    3
+  # PBS4100_Vib7_Comp4    7    4
+  # PBS4100_Vib7_Comp5    7    5
+  # PBS4100_Vib7_Comp6    7    6
+  # PBS4100_Vib7_Comp7    7    7
+  # PBS4100_Vib7_Comp8    7    8
+  # PBS4100_Vib7_Comp9    7    9
+  # PBS4100_Vib8_Comp1    8    1
+  # PBS4100_Vib8_Comp2    8    2
+  # PBS4100_Vib8_Comp3    8    3
+  # PBS4100_Vib8_Comp4    8    4
+  # PBS4100_Vib8_Comp5    8    5
+  # PBS4100_Vib8_Comp6    8    6
+  # PBS4100_Vib8_Comp7    8    7
+  # PBS4100_Vib8_Comp8    8    8
+  # PBS4100_Vib8_Comp9    8    9
+VIB_END
+
+#************************ THIS IS THE END OF THE FILE ************************
