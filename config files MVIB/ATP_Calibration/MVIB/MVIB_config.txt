@@ -48,7 +48,7 @@ VIB_START
   PBS4100_Vib1_Comp2    1    2
   PBS4100_Vib1_Comp3    1    3
   PBS4100_Vib1_Comp4    1    4
-  PBS4100_Vib1_Comp5    1    5
+  # PBS4100_Vib1_Comp5    1    5
   # PBS4100_Vib1_Comp6    1    6
   # PBS4100_Vib1_Comp7    1    7
   # PBS4100_Vib1_Comp8    1    8
@@ -65,7 +65,7 @@ VIB_START
   PBS4100_Vib3_Comp1    3    1
   PBS4100_Vib3_Comp2    3    2
   PBS4100_Vib3_Comp3    3    3
-  # PBS4100_Vib3_Comp4    3    4
+  PBS4100_Vib3_Comp4    3    4
   # PBS4100_Vib3_Comp5    3    5
   # PBS4100_Vib3_Comp6    3    6
   # PBS4100_Vib3_Comp7    3    7
