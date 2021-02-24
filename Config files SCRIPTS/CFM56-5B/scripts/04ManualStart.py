@@ -51,21 +51,18 @@ if In_ExhOK:
 
 else:
 	result("A problem was found in the inlet or exhaust. {} InExCheck ".format(REPORT))
-
 	pass
+
     
 
 instruction("Turn on ECU 28V power Ch. A & B")
-    
-    set_channel("ECUpwrAbtn", 1)
-    set_channel("ECUpwrBbtn", 1)
+set_channel("ECUpwrAbtn", 1)
+set_channel("ECUpwrBbtn", 1)
 
 
 instruction("Set MASTER LEVER to OFF")
-    
-    set_channel("D03114",0)
-    set_channel("D03115",1)
-
+set_channel("D03114",0)
+set_channel("D03115",1)
 
 instruction("Turn ON Facility Air & Fuel")
     
@@ -75,7 +72,6 @@ instruction("Turn ON Facility Air & Fuel")
 
 if skipgv:
 	result("Operator skipped Facility ON instruction {} ManStart ".format(REPORT))
-
 	pass
 
 instruction("Set Throttle to IDLE (0 Deg)")
