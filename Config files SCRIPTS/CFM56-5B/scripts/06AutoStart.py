@@ -29,8 +29,8 @@ channel("ManualStartSel,IgnPwrL,IgnPwrR,EngSelectorIGN,EngSelectorNRML,EngSelect
 In_ExhOK = None
 
 instruction("Ensure Facility fuel and air are OFF")
-    wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
-    wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
+wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
+wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
 
 if skipgv:
 	result("Operator skipped Facility OFF instruction {} AutoStart ".format(REPORT))
@@ -53,14 +53,14 @@ else:
 
 instruction("Turn on ECU 28V power Ch. A & B")
     
-    set_channel("ECUpwrAbtn", 1)
-    set_channel("ECUpwrBbtn", 1)
+set_channel("ECUpwrAbtn", 1)
+set_channel("ECUpwrBbtn", 1)
 
 
 instruction("Set MASTER LEVER to OFF")
     
-    set_channel("D03114",0)
-    set_channel("D03115",1)
+set_channel("D03114",0)
+set_channel("D03115",1)
 
 
 if skipgv:
@@ -81,8 +81,8 @@ if skipgv:
 
 instruction("Turn ON Facility Air & Fuel")
     
-    wait("FCS_AirRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
-    wait("FCS_FuelRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
+wait("FCS_AirRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
+wait("FCS_FuelRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
 
 
 if skipgv:
@@ -93,9 +93,9 @@ if skipgv:
 
 instruction("Set Mode Selector to NORMAL")
 
-    set_channel("EngSelectorNRML", 1)
-    set_channel("EngSelectorIGN", 0)
-    set_channel("EngSelectorCRNK", 0)
+set_channel("EngSelectorNRML", 1)
+set_channel("EngSelectorIGN", 0)
+set_channel("EngSelectorCRNK", 0)
 
 
 note("NOTE: Make sure the starter air supply is sufficient")
@@ -137,20 +137,20 @@ caution("positive")
 
 instruction("Turn Start Mode to Automatic")
 
-    set_channel("ManualStartSel", 0)
+set_channel("ManualStartSel", 0)
 
 
 instruction("Set Mode Selector to IGNITION")
 
-    set_channel("EngSelectorNRML", 0)
-    set_channel("EngSelectorIGN", 1)
-    set_channel("EngSelectorCRNK", 0)
+set_channel("EngSelectorNRML", 0)
+set_channel("EngSelectorIGN", 1)
+set_channel("EngSelectorCRNK", 0)
 
 
 instruction("Set Left and Right Ignitors to ON")
 
-    set_channel("IgnPwrL", 1)
-    set_channel("IgnPwrR", 1)
+set_channel("IgnPwrL", 1)
+set_channel("IgnPwrR", 1)
 
 
 start_log("Start")
@@ -194,9 +194,9 @@ if getCV("tToIdle") >= 120:
 
 instruction("Set Mode Selector to NORMAL")
 
-    set_channel("EngSelectorNRML", 1)
-    set_channel("EngSelectorIGN", 0)
-    set_channel("EngSelectorCRNK", 0)
+set_channel("EngSelectorNRML", 1)
+set_channel("EngSelectorIGN", 0)
+set_channel("EngSelectorCRNK", 0)
 
 
 
@@ -207,7 +207,7 @@ stop_log("Start")
 
 
 instruction("Close Facility Air supply valve")
-    wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
+wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
 
 delay(300)
 

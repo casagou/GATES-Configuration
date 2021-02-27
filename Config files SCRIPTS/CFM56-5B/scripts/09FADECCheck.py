@@ -38,22 +38,18 @@ channel("EngStable30s,EngStable")
 instruction("If the engine is running, please shutdown engine.")
 
 if getCV("Eng_On") == 1:
-
 	call_tps("16Shutdown")
-    
-    pass
+pass
 
 if skipgv:
-
 	result("Operator skipped Engine Shutdown instruction {} AutoStart ".format(REPORT))
-
-	pass
+pass
 
 instruction("After engine shutdown, remove power to both channels of the ECU and wait at least 30 seconds")
     
-    wait("ECUpwrAbtn = 0", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "ECU Ch.A not Powered OFF")
-    wait("ECUpwrBbtn = 0", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "ECU Ch.B not Powered OFF")
-    delay(30)
+wait("ECUpwrAbtn = 0", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "ECU Ch.A not Powered OFF")
+wait("ECUpwrBbtn = 0", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "ECU Ch.B not Powered OFF")
+delay(30)
 
 instruction("Power back on ECU.")
 set_channel("ECUpwrAbtn", 1)
@@ -67,22 +63,17 @@ note("channel and the secondary will become the primary control channel.")
 
   
 if getCV("A27526") == 1 and getCV("B27527") == 1:
-
     result("Both ECU channels are active.")
-    
-    else:
-        if getCV("A27526") == 1 and getCV("B27527") == 0:
-        
-            result("ECU channel B is not active.")
-            
+
+else:
+    if getCV("A27526") == 1 and getCV("B27527") == 0:
+        result("ECU channel B is not active.")
         pass
     else:
         if getCV("A27526") == 0 and getCV("B27527") == 1:
-        
-            result("ECU channel A is not active.")
-            
-        pass
- pass
+            result("ECU channel A is not active.")           
+            pass
+    pass
     
 lvAinControl = 0
 
@@ -90,23 +81,20 @@ lvAinControl = 0
 
 if getCV("A27024") == 1:
         
-        lvAinControl = 1
-    
-        result("ECU channel A is Primary channel in control {} FADECCheck ".format(REPORT))
-        result("ECU channel B is Secondary channel in control")        
+    lvAinControl = 1
+
+    result("ECU channel A is Primary channel in control {} FADECCheck ".format(REPORT))
+    result("ECU channel B is Secondary channel in control")        
         
-    else
-        if getCV("B27024") == 1:
-        
+else:
+    if getCV("B27024") == 1:
         lvAinControl = 0
-        
         result("ECU channel B is Primary channel in control {} FADECCheck ".format(REPORT))
         result("ECU channel A is Secondary channel in control")
-        pass    
-    pass
+    pass    
+pass
     
-    
-    
+        
 instruction("Ensure that there are no FADEC faults indicated on the ARINC output.")
 wait("ECUfaultA = 0", 2, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "ECU Ch.A is indicating a fault")
 wait("ECUfaultB = 0", 2, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "ECU Ch.B is indicating a fault")
