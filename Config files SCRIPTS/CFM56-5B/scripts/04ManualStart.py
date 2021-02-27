@@ -66,8 +66,8 @@ set_channel("D03115",1)
 
 instruction("Turn ON Facility Air & Fuel")
     
-    wait("FCS_AirRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
-    wait("FCS_FuelRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
+wait("FCS_AirRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
+wait("FCS_FuelRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
 
 
 if skipgv:
@@ -76,7 +76,7 @@ if skipgv:
 
 instruction("Set Throttle to IDLE (0 Deg)")
 
-    wait("TLA = 0", 10, 1.0, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Throttle is not at GI after 10 s.")
+wait("TLA = 0", 10, 1.0, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Throttle is not at GI after 10 s.")
 
 
 if skipgv:
@@ -86,9 +86,9 @@ if skipgv:
 
 instruction("Set Mode Selector to NORMAL")
 
-    set_channel("EngSelectorNRML", 1)
-    set_channel("EngSelectorIGN", 0)
-    set_channel("EngSelectorCRNK", 0)
+set_channel("EngSelectorNRML", 1)
+set_channel("EngSelectorIGN", 0)
+set_channel("EngSelectorCRNK", 0)
 
 
 
@@ -156,9 +156,9 @@ set_channel("ManualStartSel", 1)
 
 instruction("Set Mode Selector to IGNITION")
 
-    set_channel("EngSelectorNRML", 0)
-    set_channel("EngSelectorIGN", 1)
-    set_channel("EngSelectorCRNK", 0)
+set_channel("EngSelectorNRML", 0)
+set_channel("EngSelectorIGN", 1)
+set_channel("EngSelectorCRNK", 0)
 
 
 instruction("Check for positive, increasing oil pressure")
@@ -220,9 +220,9 @@ if getCV("tToIdle") >= 120:
 
 instruction("Set Mode Selector to NORMAL")
 
-    set_channel("EngSelectorNRML", 1)
-    set_channel("EngSelectorIGN", 0)
-    set_channel("EngSelectorCRNK", 0)
+set_channel("EngSelectorNRML", 1)
+set_channel("EngSelectorIGN", 0)
+set_channel("EngSelectorCRNK", 0)
     
 
 
@@ -235,4 +235,3 @@ stop_log("Start")
 instruction("Close Facility Air supply valve")
 
 wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
-
