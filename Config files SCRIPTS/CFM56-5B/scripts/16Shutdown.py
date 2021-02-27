@@ -73,7 +73,7 @@ note("NOTE: If EGT does not decrease or if there is a tailpipe")
 
 note("      fire, motor the engine until the fire stops.")
 
-if getCV("EngSelectorNRML") != 1
+if getCV("EngSelectorNRML") != 1:
 
     instruction("Set MODE SELECTOR to NORMAL")
 
@@ -115,24 +115,22 @@ note("tailpipe fire. If they occur, dry motor the engine.")
 TailFire =  prompt_boo("Is there any evidence of engine or tail fire?") 
 
 if TailFire:
-    instruction("Turn ON Facility Air supply")
-    
-    wait("FCS_AirRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
+	instruction("Turn ON Facility Air supply")
+	wait("FCS_AirRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
 
-    if getCV("ManualStartSel") = 0:
-        instruction("Turn Manual Start switch to ON")
+if getCV("ManualStartSel") == 0:
+	instruction("Turn Manual Start switch to ON")
+	set_channel("ManualStartSel", 1)
+	pass
+    
+instruction("Set MODE SELECTOR to CRANK")
+note("And DRY MOTOR engine until fire stops.")
 
-        set_channel("ManualStartSel", 1)
-        pass
-    
-    instruction("Set MODE SELECTOR to CRANK")
-    note("And DRY MOTOR engine until fire stops.")
-    
-    set_channel("EngSelectorNRML", 0)
-    set_channel("EngSelectorIGN", 0)
-    set_channel("EngSelectorCRNK", 1)
-    
-    pass
+set_channel("EngSelectorNRML", 0)
+set_channel("EngSelectorIGN", 0)
+set_channel("EngSelectorCRNK", 1)
+
+pass
 
 
 
@@ -162,11 +160,11 @@ if RundownOK:
 
 		pass
 	
-    delay(2)
+delay(2)	
 
-    result("Rundown times were: N1 = {} secs  N2 = {} secs. {} Shutdown ".format(getCV("N1RDWN") , getCV("N2RDWN") , REPORT))
+result("Rundown times were: N1 = {} secs  N2 = {} secs. {} Shutdown ".format(getCV("N1RDWN") , getCV("N2RDWN") , REPORT))
 
-    pass
+pass
 
 Whyshutdown = prompt_str("Enter reason for shutdown")
 
@@ -177,12 +175,11 @@ Drymotor = prompt_boo("Do you want to do a dry motoring at this time?")
 if Drymotor:
 	
 	note("DRY MOTORING for 2 minutes")
-
 	
-	instruction("Ensure Test Facility Air & Fuel supply is available")
+instruction("Ensure Test Facility Air & Fuel supply is available")
            
-	wait("FCS_AirRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
-    wait("FCS_FuelRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
+wait("FCS_AirRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
+wait("FCS_FuelRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
 	
 	#instruction("Set Throttle to Min IDLE (0 Deg)")
 
@@ -193,41 +190,40 @@ if Drymotor:
 		#result("Operator skipped Throttle Min IDLE check. {} Motoring ".format(REPORT))
 
 		#pass
-	instruction("Turn Manual Start switch to ON")
+instruction("Turn Manual Start switch to ON")
 
-	set_channel("ManualStartSel", 1)
+set_channel("ManualStartSel", 1)
     
-	instruction("Set MODE SELECTOR to CRANK and DRY MOTOR engine for 2 minutes")
+instruction("Set MODE SELECTOR to CRANK and DRY MOTOR engine for 2 minutes")
     
-    set_channel("EngSelectorNRML", 0)
-    set_channel("EngSelectorIGN", 0)
-    set_channel("EngSelectorCRNK", 1)
+set_channel("EngSelectorNRML", 0)
+set_channel("EngSelectorIGN", 0)
+set_channel("EngSelectorCRNK", 1)
     
     
-    delay(120)
-
-	
-	instruction("Set MODE SELECTOR back to NORMAL")
-    note("To close starter valve")
-    
-    set_channel("EngSelectorNRML", 1)
-    set_channel("EngSelectorIGN", 0)
-    set_channel("EngSelectorCRNK", 0)
-	
+delay(120)
 
 	
-	instruction("Turn OFF Test Facility Air & Fuel supply", SKIP)
+instruction("Set MODE SELECTOR back to NORMAL")
+note("To close starter valve")
     
-    if skipgv:
-        result("Facility Air & Fuel left ON.")
-        
-        pass
-        
-	wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
-    wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
+set_channel("EngSelectorNRML", 1)
+set_channel("EngSelectorIGN", 0)
+set_channel("EngSelectorCRNK", 0)
+	
 
-else
-        result("Operator skipped DRY MOTOR instruction. {} Shutdown ".format(REPORT))
+	
+instruction("Turn OFF Test Facility Air & Fuel supply", SKIP)
+    
+if skipgv:
+	result("Facility Air & Fuel left ON.")
+	pass
+	
+wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
+wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
+
+else:
+    result("Operator skipped DRY MOTOR instruction. {} Shutdown ".format(REPORT))
     pass
     
 pass

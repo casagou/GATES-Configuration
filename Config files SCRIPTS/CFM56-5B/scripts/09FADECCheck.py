@@ -104,7 +104,7 @@ instruction("Do an engine start precedure and stabilize at Min. Idle for 3 minut
 
 call_tps("06AutoStart")
 
-if getCV("Eng_On") == 1
+if getCV("Eng_On") == 1:
     delay(180)
     pass
     
@@ -124,9 +124,9 @@ if getCV("EngStable30s") == 1:
 
 wait("EngStable30s = 1", 95, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine has not stabilized for 30 seconds")
     
-    if skipgv:
-		result("Operator skipped Engine stabilization time {} FADECCheck ".format(REPORT))
-        pass
+if skipgv:
+    result("Operator skipped Engine stabilization time {} FADECCheck ".format(REPORT))
+    pass
 
 
 instruction("Decrease engine speed (30 sec) to MIN IDLE and")
@@ -137,12 +137,11 @@ wait("GIFlag = 1", 35, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, W
 #TLA command movement here
 
 if getCV("EngStable") == 1 and getCV("tAtGI") == 300:
-    
     result("Engine has been stabilized for 5 minutes.")
     pass
     
 
-instruction("Ensure there are no FADEC faults output on the ARINC."
+instruction("Ensure there are no FADEC faults output on the ARINC.")
 note("If a fault appears, perform necessary troubleshooting to")
 note("correct the fault(s)")
 
@@ -155,27 +154,22 @@ if getCV("ECUfaultA") == 1 or getCV("ECUfaultB") == 1:
 instruction("Do an engine shutdown procedure.")
 
 if getCV("Eng_On") == 1:
-
-	call_tps("16Shutdown")
-    
+    call_tps("16Shutdown")
     pass
     
 instruction("Ensure the secondary channel from the intial power on of the ECU")
 note("is the now the primary channel in control of the engine. The initial primary channel")
 note("is now the secondary control channel."
 
-if  lvAinControl == 0 and getCV("A27024") == 1:
-
+if lvAinControl == 0 and getCV("A27024") == 1:
     result("FADEC check succesful.")
+    pass
     
-else 
+else: 
     if lvAinControl == 1 and getCV("B27024") == 1:
-    
         result("FADEC check succesful.")
-
-    else
+    else:
         result("FADEC check unsuccesful. Troubleshoot FADEC and repeat test.")
-        
         pass
     pass
 pass

@@ -52,9 +52,8 @@ OilConYes = prompt_boo("Start oil consumption check?")
 
 if not OilConYes:
 	result("Proceed with Performance check.")
-        quit()
-
-	pass
+quit()
+pass
 
 set_channel("OilCSEnd",0)
 set_channel("OilCSStr", 1)
