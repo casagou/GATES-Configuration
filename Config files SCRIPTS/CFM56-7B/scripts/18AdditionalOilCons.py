@@ -50,7 +50,8 @@ if getCV("Eng_On") == 1:
     note("Stabilize the engine for 5 min.")
 
     #TLA movement
-
+    
+#JOA: synthax incorrect
     wait("N1K = str(getCV("N1MC")) ", 120, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine not at MC in 120 seconds.")
 
     delay(300)
@@ -99,7 +100,7 @@ if getCV("Eng_On") == 1:
     note("Stabilize the engine for 5 min.")
 
     #TLA movement
-
+#JOA: synthax incorrect
     wait("N1K = str(getCV("N1TO")) ", 30, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine not at TO in 30 seconds.")
 
     delay(300)
@@ -128,7 +129,7 @@ if getCV("Eng_On") == 1:
 
     auto_start("15EndOilCons")
     
-else
+else:
     
     instruction("Ensure engine is at MIN IDLE.")
 
@@ -166,6 +167,7 @@ else
 
     #TLA movement
 
+#JOA: synthax incorrect
     wait("N1K = str(getCV("N1TO")) ", 30, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine not at TO in 30 seconds.")
 
     delay(300)
