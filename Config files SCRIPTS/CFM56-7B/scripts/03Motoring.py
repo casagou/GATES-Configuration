@@ -73,14 +73,14 @@ instruction("Set the Facility fuel to ON")
 wait("FCS_FuelRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility fuel not ON")
 
 
-if getCV("ECUpwrA") = 0 or getCV("ECUpwrB") = 0:
-       
-       instruction("Power ON ECU Ch. A & Ch. B")
-       
-       set_channel("ECUpwrA",1)
-       set_channel("ECUpwrB",1)
-       
-       pass
+if getCV("ECUpwrA") == 0 or getCV("ECUpwrB") == 0:
+	   
+	   instruction("Power ON ECU Ch. A & Ch. B")
+	   
+	   set_channel("ECUpwrA",1)
+	   set_channel("ECUpwrB",1)
+	   
+	   pass
 
 
 
@@ -133,7 +133,7 @@ if skipgv:
 wait("N2 > 3900", 30, 100, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "N2 did not reach 3900 rpm N2 in 30s")
 
 
-if getCV("AVSVSel") < 37.7 or getCV("BVSVSel") < 37.7 
+if getCV("AVSVSel") < 37.7 or getCV("BVSVSel") < 37.7:
 	result("FAULT: VSV are not closed! {} Motoring ".format(REPORT))
 
 else:
@@ -177,20 +177,14 @@ note("NOTE: Set ENGINE START LEVER at IDLE for a maximum of 15 seconds.")
 
 if not skipgv:
 	set_channel("WetFlag", 1)
-
 	instruction("Turn OFF ignition power")
-    
-    set_channel("IgnPwrL", 0)
-    set_channel("IgnPwrR", 0)
-    
+	set_channel("IgnPwrL", 0)
+	set_channel("IgnPwrR", 0)
 	instruction("Set ENGINE START LEVER to IDLE")
-
 	wait("EngStrtLvr = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Fuel not ON")
-
 
 	if skipgv:
 		result("Operator skipped Fuel ON instruction {} Motoring ".format(REPORT))
-
 		pass
 	
 	delay(5)
@@ -228,8 +222,8 @@ if not skipgv:
 
 	
 	instruction("Set ENGINE START LEVER to CUTOFF and dry motor the engine for 60 seconds.")
-    
-    set_channel("EngStrtLvr", 0)
+	
+	set_channel("EngStrtLvr", 0)
 
 	wait("EngStrtLvr = 0", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Fuel is not OFF")
 
@@ -311,8 +305,8 @@ if StartYES:
 	
 	auto_start("04Start")
 
-    else:
-        quit()
+else:
+	quit()
 
-        pass
 	pass
+pass
