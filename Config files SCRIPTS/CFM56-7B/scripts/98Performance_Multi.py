@@ -101,42 +101,42 @@ set_channel("HoldFNK3", 0)
 set_channel("TOPoint", 0)
 
 #************TEST START********************************************
-if gectCV("Eng_On") = 0:
-    instruction("Start engine and Stabilize at Idle for 5 minutes")
-    
-    call_tps("04Start")
+if gectCV("Eng_On") == 0:
+	instruction("Start engine and Stabilize at Idle for 5 minutes")
+	
+	call_tps("04Start")
 
-    wait("GIFlag = 1", 30, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, " Did not reach GI in 30 s ")
+	wait("GIFlag = 1", 30, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, " Did not reach GI in 30 s ")
 
-    pass
-    
+	pass
+	
 
 Warmup = prompt_boo("Has the engine been warmed up at MI for 5 minutes?")
 
-if not
+if not:
 
-    instruction("Stabilize engine at MI for 5 minutes")
-    
-    wait("GIFlag = 1", 30, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, " Did not reach GI in 30 s ")
-    
-    wait("tAtGI > 300", 300, 2, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Time at GI has not reached 300 s ")
-    pass
-    
+	instruction("Stabilize engine at MI for 5 minutes")
+	
+	wait("GIFlag = 1", 30, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, " Did not reach GI in 30 s ")
+	
+	wait("tAtGI > 300", 300, 2, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Time at GI has not reached 300 s ")
+	pass
+	
 
 #*************OIL CONS & ACCEL CHECK*****************
 
 OilConsNow = prompt_boo("Start oil consumption check?")
 
 if 
-    call_tps("14StartOilCons")
-    pass
-    
-    
+	call_tps("14StartOilCons")
+	pass
+	
+	
 SlamNow = prompt_boo("Start Slam Acceleration check?")   
 
 if
-    call_tps("12Acceleration") 
-    pass
+	call_tps("12Acceleration") 
+	pass
 
 
 
