@@ -29,8 +29,8 @@ channel("OilCSStr,Eng_On,GIFlag,AIFlag,TOil_2DegC,OilConRate,BadOilCons,OilConsu
 
 if getCV("OilCSStr") == 0 or getCV("Eng_On") == 0:
 	result("An Oil Consumption check has not been started.")
-        quit()
-        pass
+	quit()
+	pass
     
 
 	
