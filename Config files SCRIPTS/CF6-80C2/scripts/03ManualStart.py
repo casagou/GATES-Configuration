@@ -264,7 +264,9 @@ wait("FuelLvrRunST=1", 10, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DF
 
 wait("LITF=1", 45, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "No Lite after 45 secs")
 
-if getCV("tToLite") >getCV("tToLite") Max:
+#JOA what is Max?
+
+if getCV("tToLite") > getCV("tToLite") Max:
 	result("tTolite = {} secs".format(str(round(getCV("tToLite"), 4)) ), REPORT +"Start")
 
 	result("Time to lite is > {} .".format(str(round(getCV("tToLiteMax"), 4)) ), REPORT +"Start", RED)
