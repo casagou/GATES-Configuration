@@ -40,7 +40,7 @@ if skipgv:
 	result("Operator skipped Facility OFF instruction {} ManStart ".format(REPORT))
 
 	pass
-    
+	
 
 instruction("Before performing start, check inlet and exhaust")
 
@@ -73,7 +73,7 @@ set_channel("IgnPwrL",1)
 set_channel("IgnPwrR",1)
 
 instruction("Turn ON Facility Air & Fuel")
-    
+	
 wait("FCS_AirRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
 
 wait("FCS_FuelRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
@@ -145,7 +145,7 @@ start_log("Start","Start")
 
 set_channel("StrtSwitch", 1)
 
-if getCV("StrtSwitch") = 0:
+if getCV("StrtSwitch") == 0:
 	wait("StrtSwitch = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "ENGINE START SWITCH not in GRD position.")
 
 
@@ -170,9 +170,9 @@ wait("APOilLoc > 5", 15, 0.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT,
 if skipgv:
 
 	result("Operator skipped POIL > 5 psi ")
-    
-    auto_start("05AbortStart")
-    
+	
+	auto_start("05AbortStart")
+	
 	pass
 
 wait("N2PCT > 20", 30, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine did not reach 20 % N2 in 30 seconds")
@@ -207,7 +207,7 @@ if getCV("tToLite") > getCV("tToLiteMax"):
 
 
 	pass
-    
+	
 result("Fuel flow during start is: {} PPH. {} Start ".format(getCV("WFK"), REPORT))
 
 
@@ -239,10 +239,9 @@ wait("StrtSwitch = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT
 if skipgv:
 		result("Operator skipped Mode Selector to NORMAL {} ManStart ".format(REPORT))
 
-    else:
-		result("Mode Selector Switch selected to NORMAL {} ManStart ".format(REPORT))
-
-		pass
+else:
+	result("Mode Selector Switch selected to NORMAL {} ManStart ".format(REPORT))
+	pass
 
 
 delay(3)
