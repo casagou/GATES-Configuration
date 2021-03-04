@@ -47,13 +47,12 @@ if not HighPower:
 	delay(300)
 
 	pass
-    
+	
 OilConYes = prompt_boo("Start oil consumption check?")
 
 if not OilConYes:
 	result("Proceed with Performance check.")
-        quit()
-
+	quit()
 	pass
 
 set_channel("OilCSEnd",0)
@@ -62,5 +61,5 @@ set_channel("OilCSStr", 1)
 result("Oil consumption check started.")
 
 delay(5)   
-    
+	
 
