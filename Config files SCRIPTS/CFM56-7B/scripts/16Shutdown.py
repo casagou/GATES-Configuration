@@ -89,8 +89,8 @@ if skipgv:
 	result("Shutdown will be aborted {} Shutdown ".format(REPORT))
 
 	quit()
-    
-    pass
+	
+	pass
 
 
 
@@ -107,18 +107,18 @@ note("tailpipe fire. If they occur, dry motor the engine.")
 TailFire =  prompt_boo("Is there any evidence of engine or tail fire?") 
 
 if TailFire:
-    instruction("Turn ON Facility Air supply")
-    
-    wait("FCS_AirRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
+	instruction("Turn ON Facility Air supply")
+	
+	wait("FCS_AirRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
 
 	instruction("Set ENGINE START SWITCH to GRD")
-    note("And DRY MOTOR engine until fire stops.")
-    
-    set_channel("StrtSwitch", 1)
-    
-    pass
-    
-    
+	note("And DRY MOTOR engine until fire stops.")
+	
+	set_channel("StrtSwitch", 1)
+	
+	pass
+	
+	
 
 RundownOK = prompt_boo("Do you want to do a rundown check?")
 
@@ -143,13 +143,13 @@ if RundownOK:
 		set_channel("N1RDWN",getCV("NBRDWN"))
 
 		set_channel("N2RDWN",getCV("NARDWN"))
-        pass
+		pass
 		
-    delay(2)
+	delay(2)
 
-    result("Rundown times were: N1 = {} secs  N2 = {} secs. {} Shutdown ".format(getCV("N1RDWN"),getCV("N2RDWN"), REPORT))
+	result("Rundown times were: N1 = {} secs  N2 = {} secs. {} Shutdown ".format(getCV("N1RDWN"),getCV("N2RDWN"), REPORT))
 
-    pass
+	pass
 
 Whyshutdown = prompt_str("Enter reason for shutdown")
 
@@ -162,39 +162,39 @@ if Drymotor:
 
 	
 	instruction("Ensure Test Facility Air & Fuel supply is available")
-           
+		   
 	wait("FCS_AirRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not ON")
-    wait("FCS_FuelRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
+	wait("FCS_FuelRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not ON")
 	
 
 	instruction("Set ENGINE START SWITCH to GRD and DRY MOTOR engine for 2 minutes")
-    
-    set_channel("StrtSwitch", 1)
+	
+	set_channel("StrtSwitch", 1)
    
-    
-    
-    delay(120)
+	
+	
+	delay(120)
 
 	
 	instruction("Set ENGINE START SWITCH back to NORMAL")
-    note("To close starter valve")
-    
-    set_channel("StrtSwitch",0)
+	note("To close starter valve")
+	
+	set_channel("StrtSwitch",0)
 	
 
 	
 	instruction("Turn OFF Test Facility Air & Fuel supply", SKIP)
-    
-    if skipgv:
-        result("Facility Air & Fuel left ON.")
-        
-        pass
-        
+	
+	if skipgv:
+		result("Facility Air & Fuel left ON.")
+		
+		pass
+		
 	wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
-    wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
+	wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
 
-else
-        result("Operator skipped DRY MOTOR instruction. {} Shutdown ".format(REPORT))
-    pass
-    
+else:
+	result("Operator skipped DRY MOTOR instruction. {} Shutdown ".format(REPORT))
+	pass
+	
 pass
