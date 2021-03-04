@@ -140,10 +140,10 @@ else:
 
 if getCV("FCS_AirRdy") == 0:
 	instruction("Turn on facility air supply")
-    
-    note(" Adjust to 37.2 + or - 3 psig for ATS100-350 starter .")
+	
+	note(" Adjust to 37.2 + or - 3 psig for ATS100-350 starter .")
 
-    note(" Adjust to 31.5 + or - 3 psig for PS600-6 starter .")
+	note(" Adjust to 31.5 + or - 3 psig for PS600-6 starter .")
 
 	note("Check for air leaks with cowling open")
 
