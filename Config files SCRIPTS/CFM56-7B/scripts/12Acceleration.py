@@ -142,7 +142,7 @@ wait("N1K >"+ str(getCV("N1MCWarmup")), 15, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DF
 
 if skipgv:
 	result("Operator skipped returning engine to MC power {} Acceleration ".format(REPORT))
-    pass
+	pass
 
 
 #*  SEQUENCE# 6
@@ -153,20 +153,18 @@ if TestYes:
 	result("Acceleration check test completed {} Acceleration ".format(REPORT))
 
 	pass
-    
+	
 
 TestYes = prompt_boo("Do you want to start an Engine Performance Check?")
 
 if TestYes:
 	#auto_start("98Performance_Multi")
-    quit()
-    
-    else
-    
-    instruction("Slowly move throttle to Min IDLE position")
-    note("and select next test procedure.")
-    
-    wait("GIFlag = 1", 35, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine is not at Min IDLE.")
-    
-    pass
- pass 
+	quit()
+	
+else:
+
+	instruction("Slowly move throttle to Min IDLE position")
+	note("and select next test procedure.")
+	wait("GIFlag = 1", 35, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine is not at Min IDLE.")
+	pass
+pass 
