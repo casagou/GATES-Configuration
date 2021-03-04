@@ -34,10 +34,9 @@ channel("Eng_On,FI,EngStable,MCFlag,tAtGI,GIFlag,AIFlag,N1K,ID,ID_N1TOMx")
 
 
 if getCV("Eng_On") == 0:
-    
-    instruction("Perform engine start procedure.")
-
-       AutoStrt = prompt_boo("Enter YES for Enhanced Start or NO for Manual Start.")
+	
+	instruction("Perform engine start procedure.")
+	AutoStrt = prompt_boo("Enter YES for Enhanced Start or NO for Manual Start.")
 
 	if AutoStrt:
 		call_tps("06EnhancedStart")
@@ -51,18 +50,18 @@ if getCV("Eng_On") == 0:
 if getCV("GIFlag") == 0:
 
 	instruction("Stabilize engine at MIN IDLE for 5 minutes")
-    
-    set_channel("FI",0)
-    
+	
+	set_channel("FI",0)
+	
 	wait("GIFlag = 1", 30, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N2 did not reach N2 GI in 30 s ")
-    
-    pass
+	
+	pass
 
 wait("tAtGI > 300", 300, 2, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Time at GI has not reached 300 s")
 
 if skipgv:
-        result("Operator skipped 5 minute stabilization time {} FunctionalCheck ".format(REPORT))
-        pass
+		result("Operator skipped 5 minute stabilization time {} FunctionalCheck ".format(REPORT))
+		pass
 
 
 instruction("Record fullset")
