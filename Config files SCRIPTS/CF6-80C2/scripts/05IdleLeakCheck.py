@@ -51,9 +51,8 @@ if getCV("Eng_On") == 0:
 # ***** TESTING 004 PARA 3.C (1) (2) (3) *****
 
 
-if (getCV("N2_OBS") <getCV("N2GIL")or (getCV("N2_OBS") >getCV("N2GIH"):
+if (getCV("N2_OBS") < getCV("N2GIL")) or (getCV("N2_OBS") > getCV("N2GIH")):
 	result("N2 is not within idle limits - adjust", REPORT + "IdleLeakCheck", RED)
-
 	result("N2= {} rpm".format(str(getCV("N2")) ), REPORT + "IdleLeakCheck", RED)
 
 else:
@@ -85,7 +84,7 @@ result("TMF Vibs N2 = {} mils".format(str(getFV("VIBCRFN2")) ), REPORT + "IdleLe
 
 result("Oil pressure is {} psig.".format(str(getFV("POIL")) ), REPORT + "IdleLeakCheck")
 
-if (getCV("POILC") <getCV("POILCLOLO")or (getCV("POILC") >getCV("POILCHIHI"):
+if getCV("POILC") < getCV("POILCLOLO")or getCV("POILC") > getCV("POILCHIHI"):
 	result("Oil pressure is not within idle limits", REPORT + "IdleLeakCheck", RED)
 
 	result("Oil pressure corrected = {} psig".format(str(getCV("POILC")) ), REPORT + "IdleLeakCheck", RED)
