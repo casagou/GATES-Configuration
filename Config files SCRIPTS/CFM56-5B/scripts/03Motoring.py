@@ -291,10 +291,10 @@ if StartYES:
 
 
 if AutoStrt:
-	auto_start("06AutoStart")
+	autostart("06AutoStart")
 
 else:
-	auto_start("04ManualStart")
+	autostart("04ManualStart")
 	pass
 
 pass
