@@ -32,7 +32,7 @@
 
 PBS_START
 #lockout_chan    chassis_name    pbs_type        num_speed       num_vib
-PBS4100_Lockout      gates-pbs4100   7           3               12
+PBS4100_Lockout      gates-pbs4100   7           2               8
 PBS_END
 
 SPEED_START
