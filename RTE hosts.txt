@@ -1,4 +1,4 @@
-﻿127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
 
 10.130.230.15    nxsvnsvr  # required for kernel upgrade
@@ -13,8 +13,9 @@
 192.168.50.8  gates-fcs-hmi
 192.168.50.9  gates-nas
 192.168.50.10  gates-throttle-hmi
-#192.168.50.11  gates-printer
-10.130.250.29  gates-pbs4100   #Vibration system inhouse testing
+192.168.50.11  gates-printer
+192.168.50.12  trendsvr
+#10.130.250.29  gates-pbs4100   #Vibration system inhouse testing - OBSOLETE
 #-------------------------------------------------------
 # Real-Time Network
 #-------------------------------------------------------
@@ -32,5 +33,5 @@
 192.168.50.84  DTS1126
 192.168.50.85  DTS1127
 192.168.50.90  gates-fcs-modbus   #Modbus Ethernet card
-#192.168.50.95  gates-pbs4100   #Vibration system TBD
+192.168.50.95  gates-pbs4100   #Vibration system TBD
 #-------------------------------------------------------
