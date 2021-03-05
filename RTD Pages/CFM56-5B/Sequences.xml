@@ -1,0 +1,14 @@
+<Sequences>
+	<Sequence Name="CFM56-5B">
+		<Page Name="5B_ARINC_Channels.v"/>
+		<Page Name="5B_ECS.v"/>
+		<Page Name="5B_Main_Page.v"/>
+		<Page Name="5B_Performance.v"/>
+		<Page Name="5B_Seal_BrkinB123.v"/>
+		<Page Name="5B_Seal_BrkinB4-B9.v"/>
+		<Page Name="5B_Slam_Accel.v"/>
+		<Page Name="5B_Start_Page.v"/>
+		<Page Name="5B_TempPres.v"/>
+		<Page Name="5B_Vibs_Accel.v"/>
+	</Sequence>
+</Sequences>
