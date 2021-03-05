@@ -1,0 +1,13 @@
+<Channels LastModificationDate="2021-02-25 07:17:15" Version="1.1">
+	<Channel Name="Year" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="4i" DisplayMax="100"/>
+	<Channel Name="Month" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="2i" DisplayMax="100"/>
+	<Channel Name="Day" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="2i" DisplayMax="100"/>
+	<Channel Name="Hour" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="2i" DisplayMax="100"/>
+	<Channel Name="Minute" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="2i" DisplayMax="100"/>
+	<Channel Name="Second" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="2i" DisplayMax="100"/>
+	<Channel Name="Millisecond" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="3i" DisplayMax="100"/>
+	<Channel Name="Time" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="10i" DisplayMax="100"/>
+	<Channel Name="RTE_LOAD" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Float" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="3.2f" DisplayMax="100"/>
+	<Channel Name="DateDays" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Date" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="yyyy-mm-dd" DisplayMax="100"/>
+	<Channel Name="DateTime" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Time" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="HH:MM:SS.sss" DisplayMax="100"/>
+</Channels>

@@ -1,0 +1,7 @@
+11-Feb-2021 19:16:22	RDD	CApplication::InitInstance  	Application RTDDriver4 started.
+11-Feb-2021 19:16:22	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Feb-2021 19:16:22	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Feb-2021 19:16:22	RDD	CApplication::InitInstance  	Admissible mode = Both
+11-Feb-2021 19:16:22	RDD	CRTDCommandLineInfo::GetUser	return = 
+11-Feb-2021 19:16:22	RDD	CRTDCommandLineInfo::GetPass	return = <password>
+11-Feb-2021 19:16:22	RDD	CSecurity::Validate         	Username = 

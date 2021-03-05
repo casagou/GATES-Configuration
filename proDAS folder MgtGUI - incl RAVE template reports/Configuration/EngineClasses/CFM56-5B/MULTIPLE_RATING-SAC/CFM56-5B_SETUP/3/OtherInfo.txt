@@ -1,0 +1,8 @@
+cfg_rev_no=68
+config-name=GA-TELESIS
+spte-name=CFM56-5B_SETUP
+standard-name=MULTIPLE_RATING-SAC
+test-cell-name=GATES_Vantaa
+uut-name=CFM56-5B
+active-test-name=Dummy5B
+config-id=3

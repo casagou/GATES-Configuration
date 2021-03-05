@@ -1,0 +1,87 @@
+<Macros LastModificationDate="2021-02-25 07:17:15" Version="1.1">
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="TestPreparation" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\01TestPreparation.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="ContinueTest" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\02ContinueTest.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="Motoring" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\03Motoring.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="ManualStart" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\04ManualStart.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="AbortStart" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\05AbortStart.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="AutoStart" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\06AutoStart.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="IdleLeakCheck" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\08IdleLeakCheck.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="FADECCheck" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\09FADECCheck.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="FunctionalCheck" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\10FunctionalCheck.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="VibrationSurvey" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\11VibrationSurvey.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="Acceleration" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\12Acceleration.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="StartOilCons" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\14StartOilCons.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="EndOilCons" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\15EndOilCons.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="Shutdown" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\16Shutdown.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="TestConclusion" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\17TestConclusion.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="AdditionalOilCons" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\18AdditionalOilCons.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-02-25 07:17:14" Enabled="true" Name="Performance_Multi" Description="Test Preparation Procedure" FileName="\\rtehost\RTE\configuration\CFM56-5B\scripts\98Performance_Multi.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+</Macros>

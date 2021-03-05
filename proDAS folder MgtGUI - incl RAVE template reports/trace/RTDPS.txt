@@ -1,0 +1,714 @@
+19-Jan-2021 10:15:18	   	                            	
+19-Jan-2021 10:15:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Jan-2021 10:45:21	   	                            	
+19-Jan-2021 10:45:21	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Jan-2021 10:48:38	   	                            	
+19-Jan-2021 10:48:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Jan-2021 10:59:41	   	                            	
+19-Jan-2021 10:59:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Jan-2021 11:19:54	   	                            	
+19-Jan-2021 11:19:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Jan-2021 17:17:24	   	                            	
+19-Jan-2021 17:17:24	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Jan-2021 09:41:03	   	                            	
+20-Jan-2021 09:41:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Jan-2021 15:09:15	   	                            	
+20-Jan-2021 15:09:15	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Jan-2021 10:54:52	   	                            	
+21-Jan-2021 10:54:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Jan-2021 11:46:10	   	                            	
+21-Jan-2021 11:46:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Jan-2021 12:16:30	   	                            	
+21-Jan-2021 12:16:30	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Jan-2021 16:17:33	   	                            	
+21-Jan-2021 16:17:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Jan-2021 17:56:34	   	                            	
+21-Jan-2021 17:56:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Jan-2021 17:59:07	   	                            	
+21-Jan-2021 17:59:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Jan-2021 18:17:16	   	                            	
+21-Jan-2021 18:17:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 08:10:55	   	                            	
+22-Jan-2021 08:10:55	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 08:15:46	   	                            	
+22-Jan-2021 08:15:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 08:21:39	   	                            	
+22-Jan-2021 08:21:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 09:53:09	   	                            	
+22-Jan-2021 09:53:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 10:02:55	   	                            	
+22-Jan-2021 10:02:55	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 10:32:34	   	                            	
+22-Jan-2021 10:32:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 14:57:19	   	                            	
+22-Jan-2021 14:57:19	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 16:49:10	   	                            	
+22-Jan-2021 16:49:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 16:57:31	   	                            	
+22-Jan-2021 16:57:31	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 16:57:46	   	                            	
+22-Jan-2021 16:57:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Jan-2021 17:23:34	   	                            	
+22-Jan-2021 17:23:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Jan-2021 21:53:08	   	                            	
+24-Jan-2021 21:53:08	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Jan-2021 21:57:57	   	                            	
+24-Jan-2021 21:57:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Jan-2021 21:59:56	   	                            	
+24-Jan-2021 21:59:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Jan-2021 15:20:52	   	                            	
+26-Jan-2021 15:20:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Jan-2021 15:45:51	   	                            	
+26-Jan-2021 15:45:51	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Jan-2021 15:46:43	   	                            	
+26-Jan-2021 15:46:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Jan-2021 16:36:18	   	                            	
+26-Jan-2021 16:36:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Jan-2021 16:36:41	   	                            	
+26-Jan-2021 16:36:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Jan-2021 18:10:04	   	                            	
+26-Jan-2021 18:10:04	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Jan-2021 18:19:37	   	                            	
+26-Jan-2021 18:19:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 13:26:58	   	                            	
+27-Jan-2021 13:26:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 13:27:46	   	                            	
+27-Jan-2021 13:27:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 14:44:46	   	                            	
+27-Jan-2021 14:44:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 14:45:10	   	                            	
+27-Jan-2021 14:45:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 15:40:55	   	                            	
+27-Jan-2021 15:40:55	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 15:41:48	   	                            	
+27-Jan-2021 15:41:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 16:31:16	   	                            	
+27-Jan-2021 16:31:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 16:31:59	   	                            	
+27-Jan-2021 16:31:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 16:41:04	   	                            	
+27-Jan-2021 16:41:04	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 17:09:54	   	                            	
+27-Jan-2021 17:09:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Jan-2021 17:11:19	   	                            	
+27-Jan-2021 17:11:19	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 13:11:16	   	                            	
+28-Jan-2021 13:11:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 13:11:41	   	                            	
+28-Jan-2021 13:11:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 16:07:58	   	                            	
+28-Jan-2021 16:07:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 16:08:37	   	                            	
+28-Jan-2021 16:08:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 16:50:40	   	                            	
+28-Jan-2021 16:50:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 16:50:52	   	                            	
+28-Jan-2021 16:50:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 16:51:43	   	                            	
+28-Jan-2021 16:51:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 17:39:13	   	                            	
+28-Jan-2021 17:39:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 17:39:34	   	                            	
+28-Jan-2021 17:39:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 18:35:42	   	                            	
+28-Jan-2021 18:35:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 18:36:17	   	                            	
+28-Jan-2021 18:36:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+28-Jan-2021 18:58:35	   	                            	
+28-Jan-2021 18:58:35	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 14:38:22	   	                            	
+29-Jan-2021 14:38:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 14:38:34	   	                            	
+29-Jan-2021 14:38:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 15:25:34	   	                            	
+29-Jan-2021 15:25:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 15:26:10	   	                            	
+29-Jan-2021 15:26:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 15:51:19	   	                            	
+29-Jan-2021 15:51:19	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 15:51:57	   	                            	
+29-Jan-2021 15:51:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 16:33:41	   	                            	
+29-Jan-2021 16:33:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 16:36:11	   	                            	
+29-Jan-2021 16:36:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 16:38:38	   	                            	
+29-Jan-2021 16:38:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Jan-2021 17:50:33	   	                            	
+29-Jan-2021 17:50:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 10:10:30	   	                            	
+02-Feb-2021 10:10:30	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 10:13:44	   	                            	
+02-Feb-2021 10:13:44	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 10:39:52	   	                            	
+02-Feb-2021 10:39:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 10:55:34	   	                            	
+02-Feb-2021 10:55:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 10:58:29	   	                            	
+02-Feb-2021 10:58:29	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 11:43:53	   	                            	
+02-Feb-2021 11:43:53	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 11:45:40	   	                            	
+02-Feb-2021 11:45:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 11:50:49	   	                            	
+02-Feb-2021 11:50:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 11:55:12	   	                            	
+02-Feb-2021 11:55:12	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 13:01:31	   	                            	
+02-Feb-2021 13:01:31	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 13:02:17	   	                            	
+02-Feb-2021 13:02:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 13:06:29	   	                            	
+02-Feb-2021 13:06:29	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 13:06:48	   	                            	
+02-Feb-2021 13:06:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 14:55:50	   	                            	
+02-Feb-2021 14:55:50	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 14:56:11	   	                            	
+02-Feb-2021 14:56:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 16:29:27	   	                            	
+02-Feb-2021 16:29:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 16:29:49	   	                            	
+02-Feb-2021 16:29:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 16:54:54	   	                            	
+02-Feb-2021 16:54:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 16:55:25	   	                            	
+02-Feb-2021 16:55:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 16:59:15	   	                            	
+02-Feb-2021 16:59:15	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Feb-2021 16:59:52	   	                            	
+02-Feb-2021 16:59:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Feb-2021 09:25:00	   	                            	
+03-Feb-2021 09:25:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Feb-2021 09:37:42	   	                            	
+03-Feb-2021 09:37:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Feb-2021 15:40:10	   	                            	
+03-Feb-2021 15:40:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Feb-2021 13:22:55	   	                            	
+05-Feb-2021 13:22:55	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Feb-2021 13:40:46	   	                            	
+05-Feb-2021 13:40:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Feb-2021 13:56:31	   	                            	
+05-Feb-2021 13:56:31	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Feb-2021 13:57:33	   	                            	
+05-Feb-2021 13:57:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Feb-2021 17:28:02	   	                            	
+05-Feb-2021 17:28:02	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Feb-2021 17:50:08	   	                            	
+05-Feb-2021 17:50:08	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Feb-2021 18:02:11	   	                            	
+05-Feb-2021 18:02:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 11:45:33	   	                            	
+08-Feb-2021 11:45:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 15:02:12	   	                            	
+08-Feb-2021 15:02:12	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 15:02:35	   	                            	
+08-Feb-2021 15:02:35	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 16:54:52	   	                            	
+08-Feb-2021 16:54:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 16:55:04	   	                            	
+08-Feb-2021 16:55:04	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 18:27:57	   	                            	
+08-Feb-2021 18:27:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 18:28:47	   	                            	
+08-Feb-2021 18:28:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 18:31:01	   	                            	
+08-Feb-2021 18:31:01	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 18:33:26	   	                            	
+08-Feb-2021 18:33:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 18:50:46	   	                            	
+08-Feb-2021 18:50:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 18:57:37	   	                            	
+08-Feb-2021 18:57:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Feb-2021 19:02:03	   	                            	
+08-Feb-2021 19:02:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 13:15:07	   	                            	
+09-Feb-2021 13:15:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 13:22:42	   	                            	
+09-Feb-2021 13:22:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 15:08:47	   	                            	
+09-Feb-2021 15:08:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 15:45:27	   	                            	
+09-Feb-2021 15:45:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 15:46:18	   	                            	
+09-Feb-2021 15:46:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 15:51:49	   	                            	
+09-Feb-2021 15:51:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 16:04:44	   	                            	
+09-Feb-2021 16:04:44	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 16:17:17	   	                            	
+09-Feb-2021 16:17:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 16:17:53	   	                            	
+09-Feb-2021 16:17:53	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 16:55:47	   	                            	
+09-Feb-2021 16:55:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 16:56:11	   	                            	
+09-Feb-2021 16:56:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 17:10:13	   	                            	
+09-Feb-2021 17:10:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 17:10:32	   	                            	
+09-Feb-2021 17:10:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 17:57:05	   	                            	
+09-Feb-2021 17:57:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 18:16:57	   	                            	
+09-Feb-2021 18:16:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 18:36:00	   	                            	
+09-Feb-2021 18:36:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 18:59:10	   	                            	
+09-Feb-2021 18:59:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 19:06:38	   	                            	
+09-Feb-2021 19:06:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Feb-2021 19:11:42	   	                            	
+09-Feb-2021 19:11:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 10:59:02	   	                            	
+10-Feb-2021 10:59:02	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 12:38:42	   	                            	
+10-Feb-2021 12:38:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 12:42:00	   	                            	
+10-Feb-2021 12:42:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 12:48:18	   	                            	
+10-Feb-2021 12:48:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 13:00:38	   	                            	
+10-Feb-2021 13:00:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:02:26	   	                            	
+10-Feb-2021 17:02:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:02:43	   	                            	
+10-Feb-2021 17:02:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:08:25	   	                            	
+10-Feb-2021 17:08:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:25:29	   	                            	
+10-Feb-2021 17:25:29	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:25:57	   	                            	
+10-Feb-2021 17:25:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:37:33	   	                            	
+10-Feb-2021 17:37:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:38:09	   	                            	
+10-Feb-2021 17:38:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:52:50	   	                            	
+10-Feb-2021 17:52:50	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Feb-2021 17:53:43	   	                            	
+10-Feb-2021 17:53:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 11:08:33	   	                            	
+11-Feb-2021 11:08:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 11:49:07	   	                            	
+11-Feb-2021 11:49:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 11:54:16	   	                            	
+11-Feb-2021 11:54:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 11:55:32	   	                            	
+11-Feb-2021 11:55:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 11:57:16	   	                            	
+11-Feb-2021 11:57:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 13:14:45	   	                            	
+11-Feb-2021 13:14:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 13:25:17	   	                            	
+11-Feb-2021 13:25:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 16:36:23	   	                            	
+11-Feb-2021 16:36:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Feb-2021 19:15:59	   	                            	
+11-Feb-2021 19:15:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 10:16:13	   	                            	
+12-Feb-2021 10:16:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 10:18:01	   	                            	
+12-Feb-2021 10:18:01	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 11:17:23	   	                            	
+12-Feb-2021 11:17:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 11:18:49	   	                            	
+12-Feb-2021 11:18:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 11:37:42	   	                            	
+12-Feb-2021 11:37:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 12:53:50	   	                            	
+12-Feb-2021 12:53:50	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 14:45:58	   	                            	
+12-Feb-2021 14:45:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 15:19:00	   	                            	
+12-Feb-2021 15:19:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 15:33:26	   	                            	
+12-Feb-2021 15:33:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Feb-2021 16:35:18	   	                            	
+12-Feb-2021 16:35:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+16-Feb-2021 09:47:33	   	                            	
+16-Feb-2021 09:47:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+16-Feb-2021 11:05:01	   	                            	
+16-Feb-2021 11:05:01	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+16-Feb-2021 12:45:32	   	                            	
+16-Feb-2021 12:45:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+16-Feb-2021 13:27:41	   	                            	
+16-Feb-2021 13:27:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+16-Feb-2021 14:16:34	   	                            	
+16-Feb-2021 14:16:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+16-Feb-2021 14:17:24	   	                            	
+16-Feb-2021 14:17:24	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+16-Feb-2021 15:32:19	   	                            	
+16-Feb-2021 15:32:19	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 10:05:49	   	                            	
+17-Feb-2021 10:05:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 10:24:02	   	                            	
+17-Feb-2021 10:24:02	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 14:37:09	   	                            	
+17-Feb-2021 14:37:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 14:43:59	   	                            	
+17-Feb-2021 14:43:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 15:47:56	   	                            	
+17-Feb-2021 15:47:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 16:37:28	   	                            	
+17-Feb-2021 16:37:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 16:37:48	   	                            	
+17-Feb-2021 16:37:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 20:20:10	   	                            	
+17-Feb-2021 20:20:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 20:23:39	   	                            	
+17-Feb-2021 20:23:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 21:19:22	   	                            	
+17-Feb-2021 21:19:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 21:19:37	   	                            	
+17-Feb-2021 21:19:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 21:45:57	   	                            	
+17-Feb-2021 21:45:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 21:46:16	   	                            	
+17-Feb-2021 21:46:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 22:10:59	   	                            	
+17-Feb-2021 22:10:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Feb-2021 22:11:17	   	                            	
+17-Feb-2021 22:11:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 03:04:17	   	                            	
+18-Feb-2021 03:04:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 03:04:46	   	                            	
+18-Feb-2021 03:04:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 03:13:26	   	                            	
+18-Feb-2021 03:13:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 03:13:48	   	                            	
+18-Feb-2021 03:13:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 09:41:27	   	                            	
+18-Feb-2021 09:41:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 09:47:49	   	                            	
+18-Feb-2021 09:47:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 10:09:00	   	                            	
+18-Feb-2021 10:09:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 10:13:11	   	                            	
+18-Feb-2021 10:13:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 12:53:16	   	                            	
+18-Feb-2021 12:53:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 12:53:46	   	                            	
+18-Feb-2021 12:53:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 13:10:07	   	                            	
+18-Feb-2021 13:10:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Feb-2021 13:11:45	   	                            	
+18-Feb-2021 13:11:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Feb-2021 11:06:29	   	                            	
+19-Feb-2021 11:06:29	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Feb-2021 13:25:11	   	                            	
+19-Feb-2021 13:25:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Feb-2021 14:45:47	   	                            	
+19-Feb-2021 14:45:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Feb-2021 17:14:29	   	                            	
+19-Feb-2021 17:14:29	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 10:42:21	   	                            	
+20-Feb-2021 10:42:21	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 14:12:37	   	                            	
+20-Feb-2021 14:12:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 14:25:28	   	                            	
+20-Feb-2021 14:25:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 15:15:23	   	                            	
+20-Feb-2021 15:15:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 15:17:44	   	                            	
+20-Feb-2021 15:17:44	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 15:19:23	   	                            	
+20-Feb-2021 15:19:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 15:20:39	   	                            	
+20-Feb-2021 15:20:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 15:48:45	   	                            	
+20-Feb-2021 15:48:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 15:49:55	   	                            	
+20-Feb-2021 15:49:55	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Feb-2021 15:50:52	   	                            	
+20-Feb-2021 15:50:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 11:49:49	   	                            	
+22-Feb-2021 11:49:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 11:54:42	   	                            	
+22-Feb-2021 11:54:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 11:56:40	   	                            	
+22-Feb-2021 11:56:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 13:25:24	   	                            	
+22-Feb-2021 13:25:24	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 13:26:41	   	                            	
+22-Feb-2021 13:26:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 16:19:06	   	                            	
+22-Feb-2021 16:19:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 16:20:01	   	                            	
+22-Feb-2021 16:20:01	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 17:28:49	   	                            	
+22-Feb-2021 17:28:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 17:29:11	   	                            	
+22-Feb-2021 17:29:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 19:37:33	   	                            	
+22-Feb-2021 19:37:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 19:37:50	   	                            	
+22-Feb-2021 19:37:50	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 19:53:06	   	                            	
+22-Feb-2021 19:53:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Feb-2021 23:12:42	   	                            	
+22-Feb-2021 23:12:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 00:02:33	   	                            	
+23-Feb-2021 00:02:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 06:01:09	   	                            	
+23-Feb-2021 06:01:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 06:21:04	   	                            	
+23-Feb-2021 06:21:04	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 07:01:59	   	                            	
+23-Feb-2021 07:01:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 08:18:56	   	                            	
+23-Feb-2021 08:18:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 08:59:20	   	                            	
+23-Feb-2021 08:59:20	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 09:04:42	   	                            	
+23-Feb-2021 09:04:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 10:05:45	   	                            	
+23-Feb-2021 10:05:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 10:07:38	   	                            	
+23-Feb-2021 10:07:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 10:12:50	   	                            	
+23-Feb-2021 10:12:50	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 10:37:03	   	                            	
+23-Feb-2021 10:37:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 10:50:33	   	                            	
+23-Feb-2021 10:50:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 10:50:59	   	                            	
+23-Feb-2021 10:50:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 10:53:18	   	                            	
+23-Feb-2021 10:53:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 11:19:11	   	                            	
+23-Feb-2021 11:19:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 14:30:46	   	                            	
+23-Feb-2021 14:30:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 14:32:32	   	                            	
+23-Feb-2021 14:32:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 14:55:47	   	                            	
+23-Feb-2021 14:55:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 15:17:47	   	                            	
+23-Feb-2021 15:17:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 16:04:17	   	                            	
+23-Feb-2021 16:04:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 16:39:54	   	                            	
+23-Feb-2021 16:39:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Feb-2021 21:56:05	   	                            	
+23-Feb-2021 21:56:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 08:50:47	   	                            	
+24-Feb-2021 08:50:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 09:14:23	   	                            	
+24-Feb-2021 09:14:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 09:59:25	   	                            	
+24-Feb-2021 09:59:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 10:46:47	   	                            	
+24-Feb-2021 10:46:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 11:18:06	   	                            	
+24-Feb-2021 11:18:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 11:24:33	   	                            	
+24-Feb-2021 11:24:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 11:25:52	   	                            	
+24-Feb-2021 11:25:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 11:42:18	   	                            	
+24-Feb-2021 11:42:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 11:59:48	   	                            	
+24-Feb-2021 11:59:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 12:01:56	   	                            	
+24-Feb-2021 12:01:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 12:02:35	   	                            	
+24-Feb-2021 12:02:35	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 12:05:57	   	                            	
+24-Feb-2021 12:05:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 12:12:25	   	                            	
+24-Feb-2021 12:12:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 12:27:28	   	                            	
+24-Feb-2021 12:27:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 12:28:46	   	                            	
+24-Feb-2021 12:28:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 12:28:59	   	                            	
+24-Feb-2021 12:28:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 13:53:48	   	                            	
+24-Feb-2021 13:53:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Feb-2021 14:33:49	   	                            	
+24-Feb-2021 14:33:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 07:24:17	   	                            	
+25-Feb-2021 07:24:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 08:31:31	   	                            	
+25-Feb-2021 08:31:31	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 08:50:49	   	                            	
+25-Feb-2021 08:50:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 09:02:23	   	                            	
+25-Feb-2021 09:02:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 09:23:12	   	                            	
+25-Feb-2021 09:23:12	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 10:32:28	   	                            	
+25-Feb-2021 10:32:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 10:46:27	   	                            	
+25-Feb-2021 10:46:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 10:52:40	   	                            	
+25-Feb-2021 10:52:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 13:18:01	   	                            	
+25-Feb-2021 13:18:01	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 13:54:12	   	                            	
+25-Feb-2021 13:54:12	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 14:07:06	   	                            	
+25-Feb-2021 14:07:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 14:12:30	   	                            	
+25-Feb-2021 14:12:30	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 14:28:56	   	                            	
+25-Feb-2021 14:28:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 14:29:37	   	                            	
+25-Feb-2021 14:29:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 14:34:16	   	                            	
+25-Feb-2021 14:34:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 15:58:43	   	                            	
+25-Feb-2021 15:58:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 16:13:27	   	                            	
+25-Feb-2021 16:13:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 17:02:36	   	                            	
+25-Feb-2021 17:02:36	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 17:04:24	   	                            	
+25-Feb-2021 17:04:24	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 17:28:38	   	                            	
+25-Feb-2021 17:28:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 18:21:56	   	                            	
+25-Feb-2021 18:21:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 18:28:43	   	                            	
+25-Feb-2021 18:28:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 18:35:17	   	                            	
+25-Feb-2021 18:35:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+25-Feb-2021 21:37:42	   	                            	
+25-Feb-2021 21:37:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 08:38:07	   	                            	
+26-Feb-2021 08:38:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 11:00:57	   	                            	
+26-Feb-2021 11:00:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 11:03:37	   	                            	
+26-Feb-2021 11:03:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 11:39:37	   	                            	
+26-Feb-2021 11:39:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 12:46:44	   	                            	
+26-Feb-2021 12:46:44	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 12:48:35	   	                            	
+26-Feb-2021 12:48:35	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 13:12:11	   	                            	
+26-Feb-2021 13:12:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 13:21:14	   	                            	
+26-Feb-2021 13:21:14	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 13:27:56	   	                            	
+26-Feb-2021 13:27:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 13:28:39	   	                            	
+26-Feb-2021 13:28:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 13:32:40	   	                            	
+26-Feb-2021 13:32:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 13:52:56	   	                            	
+26-Feb-2021 13:52:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 14:36:27	   	                            	
+26-Feb-2021 14:36:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 17:00:43	   	                            	
+26-Feb-2021 17:00:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 17:18:57	   	                            	
+26-Feb-2021 17:18:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Feb-2021 23:39:49	   	                            	
+26-Feb-2021 23:39:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Feb-2021 00:39:38	   	                            	
+27-Feb-2021 00:39:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Feb-2021 00:41:33	   	                            	
+27-Feb-2021 00:41:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Feb-2021 00:49:51	   	                            	
+27-Feb-2021 00:49:51	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+27-Feb-2021 00:51:27	   	                            	
+27-Feb-2021 00:51:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 08:07:15	   	                            	
+01-Mar-2021 08:07:15	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 08:07:45	   	                            	
+01-Mar-2021 08:07:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 11:35:52	   	                            	
+01-Mar-2021 11:35:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 14:13:25	   	                            	
+01-Mar-2021 14:13:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 14:24:36	   	                            	
+01-Mar-2021 14:24:36	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 14:25:00	   	                            	
+01-Mar-2021 14:25:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 14:47:08	   	                            	
+01-Mar-2021 14:47:08	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 14:54:31	   	                            	
+01-Mar-2021 14:54:31	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 15:25:48	   	                            	
+01-Mar-2021 15:25:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 16:16:53	   	                            	
+01-Mar-2021 16:16:53	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 16:41:28	   	                            	
+01-Mar-2021 16:41:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 16:45:27	   	                            	
+01-Mar-2021 16:45:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 16:46:15	   	                            	
+01-Mar-2021 16:46:15	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 17:06:28	   	                            	
+01-Mar-2021 17:06:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 17:12:45	   	                            	
+01-Mar-2021 17:12:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 17:18:48	   	                            	
+01-Mar-2021 17:18:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 17:27:51	   	                            	
+01-Mar-2021 17:27:51	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 17:36:30	   	                            	
+01-Mar-2021 17:36:30	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 20:08:20	   	                            	
+01-Mar-2021 20:08:20	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 20:24:42	   	                            	
+01-Mar-2021 20:24:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Mar-2021 20:50:32	   	                            	
+01-Mar-2021 20:50:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Mar-2021 14:11:21	   	                            	
+02-Mar-2021 14:11:21	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Mar-2021 14:27:25	   	                            	
+02-Mar-2021 14:27:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Mar-2021 15:01:52	   	                            	
+02-Mar-2021 15:01:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Mar-2021 15:02:17	   	                            	
+02-Mar-2021 15:02:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Mar-2021 15:03:22	   	                            	
+02-Mar-2021 15:03:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Mar-2021 19:14:22	   	                            	
+02-Mar-2021 19:14:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Mar-2021 19:41:09	   	                            	
+02-Mar-2021 19:41:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+02-Mar-2021 20:55:38	   	                            	
+02-Mar-2021 20:55:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 09:16:32	   	                            	
+03-Mar-2021 09:16:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 10:30:34	   	                            	
+03-Mar-2021 10:30:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 10:33:32	   	                            	
+03-Mar-2021 10:33:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 10:37:42	   	                            	
+03-Mar-2021 10:37:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 11:06:05	   	                            	
+03-Mar-2021 11:06:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 12:21:15	   	                            	
+03-Mar-2021 12:21:16	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 13:08:11	   	                            	
+03-Mar-2021 13:08:11	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 13:56:54	   	                            	
+03-Mar-2021 13:56:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 14:05:22	   	                            	
+03-Mar-2021 14:05:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 15:32:57	   	                            	
+03-Mar-2021 15:32:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 19:54:09	   	                            	
+03-Mar-2021 19:54:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 20:30:27	   	                            	
+03-Mar-2021 20:30:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 20:30:43	   	                            	
+03-Mar-2021 20:30:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 21:09:00	   	                            	
+03-Mar-2021 21:09:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 21:27:28	   	                            	
+03-Mar-2021 21:27:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 21:39:40	   	                            	
+03-Mar-2021 21:39:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Mar-2021 02:41:25	   	                            	
+05-Mar-2021 02:41:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Mar-2021 02:41:45	   	                            	
+05-Mar-2021 02:41:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Mar-2021 02:43:37	   	                            	
+05-Mar-2021 02:43:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<

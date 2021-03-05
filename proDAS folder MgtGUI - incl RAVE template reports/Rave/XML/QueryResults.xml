@@ -1,0 +1,52 @@
+<xml xmlns:s='uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882'
+	xmlns:dt='uuid:C2F41010-65B3-11d1-A29F-00AA00C14882'
+	xmlns:rs='urn:schemas-microsoft-com:rowset'
+	xmlns:z='#RowsetSchema'>
+<s:Schema id='RowsetSchema'>
+	<s:ElementType name='row' content='eltOnly' rs:updatable='true'>
+		<s:AttributeType name='test_cell' rs:number='1' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='20' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='test_date' rs:number='2' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='30' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='test_name' rs:number='3' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='20' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='b_c' rs:number='4' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='1' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='test_description' rs:number='5' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='250' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='engine' rs:number='6' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='20' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='test_cell_id' rs:number='7' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='20' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='test_id' rs:number='8' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='20' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='engine_serial_no' rs:number='9' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='20' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='engine_standard' rs:number='10' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='20' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='customer' rs:number='11' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='30' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:extends type='rs:rowbase'/>
+	</s:ElementType>
+</s:Schema>
+<rs:data>
+	<rs:insert>
+		<z:row test_cell='GATES_Vantaa' test_date='2021-02-12' test_name='CFM56_5B_DAC' b_c='C' test_description=''
+			 engine='CFM56-5B' test_cell_id='4' test_id='5' engine_serial_no='123456789' engine_standard='MULTIPLE_RATING-DAC'
+			 customer='CFM56-5B_SETUP'/>
+		<z:row test_cell='GATES_Vantaa' test_date='2021-02-11' test_name='Dummy5B' b_c='C' test_description='' engine='CFM56-5B'
+			 test_cell_id='4' test_id='4' engine_serial_no='111122' engine_standard='MULTIPLE_RATING-SAC' customer='CFM56-5B_SETUP'/>
+	</rs:insert>
+</rs:data>
+</xml>

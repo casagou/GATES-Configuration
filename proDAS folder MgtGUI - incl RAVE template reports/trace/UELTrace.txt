@@ -1,0 +1,648 @@
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:54:41	UEL	CUELConnector::Receive      	>>> HEADER: zero bytes received
+03-Mar-2021 19:55:05	   	                            	
+03-Mar-2021 19:55:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 19:55:05	UEL	CUELCommon::Initialize      	################## Application: UELDisplayServer; Version: 2, 0, 1, 12753 ##################
+03-Mar-2021 19:55:05	UEL	CUELCommon::Initialize      	Msg: Host Name = rtehost; Port Number = 10018
+03-Mar-2021 19:55:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 19:55:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 19:55:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 19:55:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:23:41	   	                            	
+03-Mar-2021 20:23:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 20:23:41	UEL	CUELCommon::Initialize      	################## Application: UELDisplayServer; Version: 2, 0, 1, 12753 ##################
+03-Mar-2021 20:23:41	UEL	CUELCommon::Initialize      	Msg: Host Name = rtehost; Port Number = 10018
+03-Mar-2021 20:24:05	   	                            	
+03-Mar-2021 20:24:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+03-Mar-2021 20:24:05	UEL	CUELCommon::Initialize      	################## Application: UELDisplayServer; Version: 2, 0, 1, 12753 ##################
+03-Mar-2021 20:24:05	UEL	CUELCommon::Initialize      	Msg: Host Name = rtehost; Port Number = 10018
+03-Mar-2021 20:24:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 20:24:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:22	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 2
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 6
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 8
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 50
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 51
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 20:24:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 54
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 56
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 57
+03-Mar-2021 20:24:36	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:27:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+03-Mar-2021 20:27:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:28:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+03-Mar-2021 20:28:26	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:28:27	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+03-Mar-2021 20:28:27	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+03-Mar-2021 20:29:18	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+03-Mar-2021 20:29:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:51	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+03-Mar-2021 20:29:51	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 2
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 6
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 8
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 50
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 51
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 56
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 57
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 20:29:52	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:30:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+03-Mar-2021 20:30:14	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+03-Mar-2021 20:30:14	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:30:14	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+03-Mar-2021 20:30:14	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:30:15	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+03-Mar-2021 20:30:15	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+03-Mar-2021 20:30:15	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:30:15	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 20:30:15	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:30:15	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+03-Mar-2021 20:30:15	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 20:30:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:19	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+03-Mar-2021 20:30:19	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+03-Mar-2021 20:30:19	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+03-Mar-2021 20:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:30:22	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:30:25	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 20:30:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 69
+03-Mar-2021 20:30:28	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:30:28	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 69
+03-Mar-2021 20:31:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 20:41:26	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 21:14:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 21:14:28	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 21:14:28	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:15:56	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 21:16:06	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 21:16:06	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 21:23:56	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+03-Mar-2021 21:23:56	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+03-Mar-2021 21:23:56	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+03-Mar-2021 21:24:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 21:24:18	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 21:24:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+03-Mar-2021 21:27:12	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 21:27:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:19	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:19	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+03-Mar-2021 21:27:19	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 69
+03-Mar-2021 21:27:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 69
+03-Mar-2021 21:27:23	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+03-Mar-2021 21:27:23	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+03-Mar-2021 21:27:23	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+03-Mar-2021 21:27:24	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 21:27:24	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 21:27:28	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+03-Mar-2021 21:28:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+04-Mar-2021 02:06:23	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 02:06:23	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 02:07:22	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+04-Mar-2021 02:07:22	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+04-Mar-2021 02:07:22	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+04-Mar-2021 02:07:44	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 02:07:44	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:07:44	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+04-Mar-2021 02:23:49	   	                            	
+04-Mar-2021 02:23:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+04-Mar-2021 02:23:49	UEL	CUELCommon::Initialize      	################## Application: UELDisplayServer; Version: 2, 0, 1, 12753 ##################
+04-Mar-2021 02:23:49	UEL	CUELCommon::Initialize      	Msg: Host Name = rtehost; Port Number = 10018
+04-Mar-2021 02:23:49	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 02:23:49	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:36	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 2
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 6
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 8
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 50
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 51
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 54
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 56
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 57
+04-Mar-2021 02:59:50	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:02:49	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+04-Mar-2021 03:02:49	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:03:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+04-Mar-2021 03:03:40	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:03:41	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+04-Mar-2021 03:03:41	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:04:32	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+04-Mar-2021 03:04:32	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+04-Mar-2021 03:05:05	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:06	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+04-Mar-2021 03:05:06	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 2
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 6
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 8
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 50
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 51
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 56
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 57
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 03:05:08	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:34	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+04-Mar-2021 03:05:39	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+04-Mar-2021 03:05:39	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:39	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+04-Mar-2021 03:05:39	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:42	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:42	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:42	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:42	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:42	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:49	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+04-Mar-2021 03:05:50	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 69
+04-Mar-2021 03:05:52	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 69
+04-Mar-2021 03:06:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+04-Mar-2021 03:07:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 65
+04-Mar-2021 06:55:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 06:55:40	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 07:13:33	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 07:13:33	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+04-Mar-2021 08:27:51	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+04-Mar-2021 08:27:51	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+04-Mar-2021 08:27:51	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:29:57	   	                            	
+05-Mar-2021 02:29:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+05-Mar-2021 02:29:57	UEL	CUELCommon::Initialize      	################## Application: UELDisplayServer; Version: 2, 0, 1, 12753 ##################
+05-Mar-2021 02:29:57	UEL	CUELCommon::Initialize      	Msg: Host Name = rtehost; Port Number = 10018
+05-Mar-2021 02:29:57	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+05-Mar-2021 02:29:57	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+05-Mar-2021 02:30:20	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+05-Mar-2021 02:30:20	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 2
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 6
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 8
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 50
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 51
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 54
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 56
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 57
+05-Mar-2021 02:30:21	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:33:20	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+05-Mar-2021 02:33:20	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:34:11	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+05-Mar-2021 02:34:11	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:34:12	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+05-Mar-2021 02:34:12	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:03	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+05-Mar-2021 02:35:03	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 67
+05-Mar-2021 02:35:35	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:36	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+05-Mar-2021 02:35:36	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:36	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+05-Mar-2021 02:35:36	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 2
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 6
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 8
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 50
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 5
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 51
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 56
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 57
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+05-Mar-2021 02:35:37	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:37:00	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+05-Mar-2021 02:37:05	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+05-Mar-2021 02:37:06	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:37:06	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 7
+05-Mar-2021 02:37:06	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 0
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 1
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 55
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 52
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 3
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:08	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 68
+05-Mar-2021 02:37:17	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 69
+05-Mar-2021 02:37:19	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 69
+05-Mar-2021 02:37:47	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 02:37:48	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+05-Mar-2021 02:37:48	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 02:38:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+05-Mar-2021 02:41:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+05-Mar-2021 02:41:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 02:41:16	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 02:41:18	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+05-Mar-2021 02:41:19	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+05-Mar-2021 02:41:25	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+05-Mar-2021 02:41:38	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+05-Mar-2021 02:41:38	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 02:41:38	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 02:41:39	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+05-Mar-2021 02:41:40	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+05-Mar-2021 02:41:45	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+05-Mar-2021 02:57:28	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 73
+05-Mar-2021 09:05:30	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 64
+05-Mar-2021 09:05:30	UEL	CUELDisplayView::OnNewEvent 	Info: Creating a msg box for the new event!
+05-Mar-2021 09:05:30	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 53
+05-Mar-2021 09:05:30	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+05-Mar-2021 09:05:32	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 72
+05-Mar-2021 09:06:01	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 09:06:02	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 09:06:06	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71
+05-Mar-2021 09:06:07	UEL	CUELDisplayView::OnNewEvent 	Info: Processing a new event with sourceID = 71

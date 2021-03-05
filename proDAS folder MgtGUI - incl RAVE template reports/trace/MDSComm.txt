@@ -1,0 +1,2488 @@
+05-Mar-2021 10:40:44	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:44	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:45	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:45	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:45	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:45	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:46	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:46	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:46	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:46	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:47	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:47	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:47	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:47	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:48	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:48	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:48	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:48	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:49	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:49	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:49	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:49	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:50	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:50	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:50	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:50	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:51	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:51	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:51	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:51	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:52	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:52	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:53	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:53	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:53	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:53	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:54	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:54	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:54	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:54	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:55	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:55	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:55	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:55	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:56	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:56	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:56	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:56	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:57	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:57	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:57	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:57	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:58	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:58	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:58	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:58	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:59	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:59	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:40:59	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:40:59	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:00	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:00	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:00	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:00	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:01	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:01	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:01	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:01	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:02	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:02	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:02	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:02	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:03	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:03	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:03	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:03	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:04	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:04	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:04	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:04	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:05	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:05	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:05	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:05	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:06	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:06	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:06	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:06	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:07	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:07	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:07	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:07	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:08	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:08	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:08	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:08	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:09	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:09	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:09	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:09	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:10	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:10	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:10	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:10	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:11	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:11	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:11	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:11	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:12	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:12	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:12	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:12	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:13	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:13	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:13	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:13	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:14	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:14	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:14	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:14	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:15	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:15	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:15	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:15	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:16	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:16	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:16	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:16	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:17	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:17	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:17	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:17	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:18	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:18	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:18	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:18	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:19	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:19	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:19	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:19	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:20	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:20	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:20	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:20	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:21	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:21	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:21	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:21	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:22	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:22	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:22	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:22	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:23	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:23	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:23	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:23	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:24	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:24	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:24	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:24	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:25	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:25	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:25	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:25	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:26	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:26	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:26	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:26	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:27	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:27	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:27	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:27	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:28	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:28	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:28	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:28	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:29	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:29	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:29	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:29	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:30	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:30	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:30	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:30	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:31	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:31	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:31	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:31	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:32	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:32	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:32	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:32	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:33	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:33	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:33	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:33	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:34	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:34	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:34	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:34	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:35	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:35	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:35	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:35	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:36	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:36	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:36	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:36	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:37	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:37	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:37	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:37	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:38	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:38	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:38	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:38	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:39	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:39	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:39	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:39	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:40	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:40	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:40	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:40	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:41	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:41	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:41	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:41	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:42	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:42	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:42	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:42	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:43	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:43	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:43	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:43	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:44	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:44	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:44	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:44	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:45	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:45	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:45	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:45	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:46	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:46	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:46	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:46	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:47	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:47	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:47	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:47	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:48	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:48	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:48	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:48	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:49	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:49	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:49	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:49	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:50	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:50	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:50	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:50	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:51	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:51	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:51	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:51	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:52	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:52	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:52	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:52	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:53	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:53	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:53	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:53	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:54	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:54	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:54	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:54	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:55	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:55	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:55	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:55	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:56	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:56	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:56	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:56	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:57	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:57	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:57	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:57	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:58	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:58	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:58	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:58	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:59	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:59	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:41:59	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:41:59	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:00	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:00	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:00	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:00	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:01	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:01	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:01	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:01	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:02	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:02	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:02	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:02	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:03	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:03	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:03	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:03	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:04	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:04	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:04	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:04	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:05	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:05	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:05	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:05	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:06	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:06	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:07	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:07	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:07	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:07	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:08	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:08	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:08	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:08	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:09	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:09	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:09	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:09	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:10	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:10	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:10	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:10	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:11	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:11	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:11	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:11	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:12	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:12	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:12	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:12	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:13	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:13	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:13	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:13	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:14	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:14	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:14	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:14	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:15	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:15	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:15	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:15	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:16	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:16	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:17	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:17	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:17	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:17	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:18	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:18	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:18	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:18	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:19	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:19	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:19	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:19	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:20	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:20	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:20	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:20	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:21	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:21	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:21	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:21	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:22	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:22	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:22	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:22	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:23	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:23	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:23	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:23	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:24	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:24	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:24	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:24	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:25	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:25	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:25	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:25	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:26	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:26	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:26	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:26	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:27	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:27	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:27	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:27	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:28	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:28	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:28	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:28	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:29	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:29	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:29	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:29	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:30	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:30	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:30	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:30	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:31	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:31	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:31	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:31	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:32	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:32	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:32	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:32	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:33	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:33	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:33	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:33	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:34	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:34	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:34	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:34	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:35	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:35	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:35	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:35	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:36	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:36	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:36	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:36	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:37	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:37	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:37	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:37	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:38	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:38	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:38	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:38	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:39	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:39	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:39	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:39	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:40	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:40	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:40	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:40	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:41	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:41	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:41	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:41	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:42	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:42	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:42	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:42	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:43	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:43	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:43	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:43	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:44	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:44	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:44	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:44	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:45	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:45	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:45	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:45	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:46	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:46	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:46	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:46	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:47	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:47	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:47	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:47	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:48	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:48	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:48	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:48	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:49	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:49	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:49	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:49	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:50	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:50	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:50	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:50	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:51	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:51	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:51	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:51	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:52	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:52	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:52	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:52	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:53	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:53	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:53	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:53	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:54	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:54	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:54	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:54	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:55	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:55	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:55	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:55	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:56	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:56	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:56	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:56	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:57	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:57	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:57	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:57	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:58	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:58	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:58	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:58	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:59	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:59	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:42:59	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:42:59	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:00	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:00	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:00	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:00	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:01	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:01	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:01	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:01	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:02	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:02	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:02	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:02	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:03	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:03	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:03	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:03	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:04	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:04	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:04	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:04	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:05	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:05	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:05	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:05	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:06	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:06	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:06	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:06	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:07	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:07	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:07	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:07	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:08	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:08	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:08	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:08	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:09	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:09	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:09	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:09	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:10	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:10	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:10	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:10	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:11	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:11	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:11	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:11	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:12	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:12	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:12	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:12	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:13	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:13	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:13	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:13	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:14	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:14	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:14	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:14	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:15	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:15	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:15	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:15	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:16	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:16	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:16	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:16	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:17	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:17	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:17	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:17	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:18	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:18	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:18	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:18	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:19	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:19	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:19	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:19	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:20	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:20	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:20	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:20	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:21	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:21	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:21	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:21	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:22	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:22	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:22	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:22	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:23	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:23	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:23	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:23	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:24	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:24	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:24	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:24	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:25	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:25	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:25	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:25	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:26	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:26	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:26	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:26	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:27	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:27	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:27	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:27	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:28	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:28	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:28	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:28	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:29	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:29	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:29	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:29	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:30	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:30	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:30	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:30	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:31	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:31	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:31	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:31	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:32	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:32	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:33	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:33	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:33	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:33	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:34	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:34	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:34	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:34	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:35	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:35	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:35	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:35	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:36	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:36	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:36	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:36	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:37	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:37	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:37	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:37	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:38	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:38	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:38	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:38	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:39	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:39	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:39	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:39	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:40	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:40	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:40	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:40	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:41	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:41	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:41	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:41	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:42	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:42	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:42	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:42	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:43	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:43	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:43	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:43	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:44	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:44	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:44	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:44	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:45	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:45	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:45	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:45	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:46	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:46	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:47	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:47	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:47	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:47	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:48	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:48	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:48	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:48	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:49	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:49	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:49	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:49	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:50	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:50	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:50	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:50	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:51	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:51	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:51	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:51	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:52	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:52	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:52	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:52	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:53	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:53	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:53	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:53	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:54	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:54	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:54	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:54	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:55	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:55	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:55	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:55	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:56	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:56	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:56	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:56	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:57	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:57	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:57	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:57	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:58	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:58	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:58	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:58	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:59	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:59	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:43:59	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:43:59	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:00	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:00	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:00	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:00	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:01	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:01	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:01	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:01	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:02	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:02	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:02	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:02	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:03	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:03	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:03	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:03	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:04	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:04	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:04	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:04	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:05	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:05	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:05	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:05	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:06	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:06	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:06	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:06	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:07	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:07	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:07	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:07	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:08	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:08	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:08	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:08	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:09	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:09	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:09	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:09	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:10	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:10	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:10	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:10	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:11	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:11	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:11	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:11	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:12	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:12	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:12	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:12	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:13	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:13	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:13	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:13	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:14	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:14	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:14	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:14	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:15	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:15	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:15	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:15	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:16	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:16	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:16	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:16	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:17	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:17	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:17	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:17	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:18	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:18	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:18	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:18	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:19	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:19	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:19	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:19	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:20	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:20	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:20	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:20	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:21	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:21	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:21	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:21	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:22	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:22	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:22	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:22	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:23	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:23	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:23	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:23	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:24	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:24	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:24	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:24	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:25	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:25	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:25	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:25	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:26	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:26	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:26	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:26	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:27	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:27	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:27	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:27	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:28	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:28	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:28	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:28	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:29	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:29	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:29	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:29	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:30	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:30	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:30	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:30	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:31	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:31	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:31	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:31	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:32	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:32	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:32	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:32	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:33	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:33	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:33	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:33	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:34	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:34	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:34	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:34	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:35	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:35	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:35	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:35	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:36	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:36	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:36	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:36	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:37	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:37	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:37	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:37	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:38	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:38	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:38	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:38	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:39	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:39	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:39	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:39	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:40	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:40	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:40	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:40	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:41	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:41	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:41	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:41	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:42	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:42	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:42	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:42	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:43	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:43	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:43	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:43	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:44	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:44	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:44	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:44	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:45	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:45	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:45	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:45	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:46	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:46	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:46	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:46	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:47	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:47	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:47	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:47	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:48	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:48	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:48	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:48	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:49	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:49	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:49	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:49	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:50	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:50	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:50	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:50	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:51	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:51	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:51	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:51	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:52	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:52	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:52	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:52	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:53	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:53	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:53	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:53	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:54	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:54	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:54	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:54	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:55	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:55	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:55	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:55	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:56	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:56	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:56	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:56	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:57	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:57	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:58	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:58	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:58	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:58	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:59	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:59	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:44:59	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:44:59	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:00	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:00	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:00	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:00	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:01	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:01	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:01	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:01	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:02	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:02	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:02	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:02	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:03	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:03	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:03	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:03	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:04	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:04	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:04	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:04	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:05	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:05	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:05	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:05	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:06	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:06	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:06	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:06	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:07	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:07	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:07	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:07	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:08	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:08	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:08	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:08	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:09	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:09	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:09	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:09	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:10	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:10	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:10	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:10	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:11	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:11	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:11	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:11	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:12	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:12	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:12	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:12	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:13	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:13	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:14	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:14	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:14	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:14	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:15	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:15	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:15	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:15	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:16	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:16	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:16	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:16	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:17	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:17	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:17	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:17	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:18	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:18	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:18	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:18	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:19	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:19	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:19	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:19	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:20	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:20	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:20	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:20	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:21	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:21	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:21	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:21	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:22	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:22	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:22	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:22	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:23	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:23	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:23	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:23	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:24	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:24	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:24	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:24	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:25	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:25	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:25	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:25	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:26	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:26	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:26	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:26	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:27	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:27	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:27	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:27	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:28	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:28	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:28	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:28	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:29	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:29	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:29	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:29	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:30	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:30	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:30	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:30	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:31	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:31	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:31	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:31	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:32	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:32	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:32	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:32	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:33	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:33	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:33	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:33	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:34	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:34	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:34	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:34	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:35	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:35	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:35	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:35	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:36	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:36	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:36	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:36	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:37	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:37	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:37	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:37	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:38	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:38	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:38	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:38	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:39	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:39	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:39	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:39	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:40	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:40	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:40	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:40	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:41	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:41	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:41	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:41	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:42	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:42	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:42	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:42	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:43	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:43	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:43	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:43	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:44	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:44	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:44	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:44	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:45	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:45	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:45	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:45	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:46	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:46	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:46	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:46	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:47	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:47	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:47	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:47	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:48	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:48	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:48	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:48	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:49	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:49	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:49	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:49	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:50	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:50	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:50	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:50	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:51	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:51	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:51	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:51	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:52	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:52	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:52	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:52	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:53	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:53	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:53	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:53	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:54	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:54	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:54	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:54	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:55	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:55	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:55	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:55	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:56	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:56	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:56	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:56	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:57	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:57	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:57	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:57	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:58	KLT	AlarmSumServer:10908        	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:58	KLT	AlarmSumServer:10908        	IPC_so_connect [8]: Error connecting to server
+
+05-Mar-2021 10:45:58	KLT	AlarmSumServer2:16648       	IPC-connect_to_server() [5]: WSAGetLastError = 10061
+
+05-Mar-2021 10:45:58	KLT	AlarmSumServer2:16648       	IPC_so_connect [8]: Error connecting to server
+

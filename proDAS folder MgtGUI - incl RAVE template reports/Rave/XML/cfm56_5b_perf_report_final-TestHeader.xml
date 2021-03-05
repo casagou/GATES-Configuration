@@ -1,0 +1,42 @@
+<xml xmlns:s='uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882'
+	xmlns:dt='uuid:C2F41010-65B3-11d1-A29F-00AA00C14882'
+	xmlns:rs='urn:schemas-microsoft-com:rowset'
+	xmlns:z='#RowsetSchema'>
+<s:Schema id='RowsetSchema'>
+	<s:ElementType name='row' content='eltOnly' rs:updatable='true'>
+		<s:AttributeType name='TEST_NAME_UNIQUE' rs:number='1' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='50' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='Dummy5B' rs:number='2' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='50' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:extends type='rs:rowbase'/>
+	</s:ElementType>
+</s:Schema>
+<rs:data>
+	<rs:insert>
+		<z:row TEST_NAME_UNIQUE='TEST_NAME_UNIQUE' Dummy5B='Dummy5B'/>
+		<z:row TEST_NAME_UNIQUE='TEST_CELL_NAME' Dummy5B='GATES_Vantaa'/>
+		<z:row TEST_NAME_UNIQUE='TEST_ID' Dummy5B='4'/>
+		<z:row TEST_NAME_UNIQUE='TEST_NAME' Dummy5B='Dummy5B'/>
+		<z:row TEST_NAME_UNIQUE='TEST_DATE' Dummy5B='2021-02-11'/>
+		<z:row TEST_NAME_UNIQUE='ENGINE_SERIAL_NO' Dummy5B='111122'/>
+		<z:row TEST_NAME_UNIQUE='ENGINE_NAME' Dummy5B='CFM56-5B'/>
+		<z:row TEST_NAME_UNIQUE='ARCH_SET_ID' Dummy5B=''/>
+		<z:row TEST_NAME_UNIQUE='ARCH_DATE' Dummy5B=''/>
+		<z:row TEST_NAME_UNIQUE='TEST_DESC' Dummy5B=''/>
+		<z:row TEST_NAME_UNIQUE='BUILD_NO' Dummy5B='2'/>
+		<z:row TEST_NAME_UNIQUE='TEST_OPER1' Dummy5B='hi'/>
+		<z:row TEST_NAME_UNIQUE='TEST_OPER2' Dummy5B='bye'/>
+		<z:row TEST_NAME_UNIQUE='TEST_ENG' Dummy5B='why'/>
+		<z:row TEST_NAME_UNIQUE='CLEANED' Dummy5B=''/>
+		<z:row TEST_NAME_UNIQUE='CUSTOMER' Dummy5B='CFM56-5B_SETUP'/>
+		<z:row TEST_NAME_UNIQUE='ENGINE_STANDARD' Dummy5B='MULTIPLE_RATING-SAC'/>
+		<z:row TEST_NAME_UNIQUE='TEST_CLOSED' Dummy5B='N'/>
+		<z:row TEST_NAME_UNIQUE='TEST_CLOSED_DATE' Dummy5B=''/>
+		<z:row TEST_NAME_UNIQUE='ECU_PN' Dummy5B=' '/>
+		<z:row TEST_NAME_UNIQUE='' Dummy5B=''/>
+		<z:row TEST_NAME_UNIQUE='' Dummy5B=''/>
+	</rs:insert>
+</rs:data>
+</xml>
