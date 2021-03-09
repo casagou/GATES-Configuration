@@ -91,7 +91,7 @@ set_channel("FIFB", 0)
 wait("TLA = 0", 10, 1.0, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Throttle is not at GI after 10 s.")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Throttle GI check. {} Motoring ".format(REPORT))
 
 	pass
@@ -115,7 +115,7 @@ instruction("Check oil pressure rise and check engine for leaks")
 wait("APOilLoc = 5", 15, 0.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "POIL did not reach 5 psi.")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped oil pressure check {} Motoring ".format(REPORT))
 
 	pass
@@ -123,7 +123,7 @@ if skipgv:
 wait("N2 > 300", 30, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "No positive N2 indication in 30 s. Press SKIP to abort Motoring")
 
 
-if skipgv:
+if SkipGV:
 
 	instruction("Set ENGINE START SWITCH to OFF.Do troubleshooting")
 
@@ -175,7 +175,7 @@ caution("When ENGINE START LEVER is at IDLE, fuel will start flowing fuel into t
 note("NOTE: Set ENGINE START LEVER at IDLE for a maximum of 15 seconds.")
 
 
-if not skipgv:
+if not SkipGV:
 	set_channel("WetFlag", 1)
 	instruction("Turn OFF ignition power")
 	set_channel("IgnPwrL", 0)
@@ -183,7 +183,7 @@ if not skipgv:
 	instruction("Set ENGINE START LEVER to IDLE")
 	wait("EngStrtLvr = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Fuel not ON")
 
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped Fuel ON instruction {} Motoring ".format(REPORT))
 		pass
 	
@@ -227,7 +227,7 @@ if not skipgv:
 
 	wait("EngStrtLvr = 0", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Fuel is not OFF")
 
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped Fuel Cutoff instruction {} Motoring ".format(REPORT))
 
 		pass
@@ -303,7 +303,7 @@ StartYES = prompt_boo("Do you want to Start the engine?")
 
 if StartYES:
 	
-	auto_start("04Start")
+	autostart("04Start.py")
 
 else:
 	quit()

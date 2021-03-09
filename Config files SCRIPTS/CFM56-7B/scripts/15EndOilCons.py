@@ -74,7 +74,7 @@ if getCV("BadOilCons") == 1:
 	if lvaddtest:
 		set_channel("OilConsSta", 0)
 
-		auto_start("18AdditionalOilCons")
+		autostart("18AdditionalOilCons.py")
 
 		pass
 	pass

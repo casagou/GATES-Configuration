@@ -4,6 +4,7 @@ import time
 from math import *
 from nxtps import *
 
+
 # Global variable definition
 
 #* 08IdleLeakCheck.tps
@@ -28,23 +29,16 @@ OilLk = None
 #Channel Registration
 channel("Eng_On")
 
-
 if getCV("Eng_On") == 0:
-	call_tps("06AutoStart")
-
+	call_tps("06AutoStart.py")
 	pass
 
 note("NOTE: Make sure that all lines, blanking plugs and harnesses")
-
 note("      are properly secured for Idle leak check.")
-
-
 delay(300)
 
-
-if skipgv:
+if SkipGV:
 	result("Operator skipped 5 min stabilization at IDLE {} IdleLeakCheck ".format(REPORT))
-
 	pass
 
 FuelLk = prompt_boo("Are there fuel leaks?")
@@ -55,7 +49,6 @@ if FuelLk:
 
 else:
 	result("There are no fuel leaks {} IdleLeakCheck ".format(REPORT))
-
 	pass
 
 OilLk = prompt_boo("Are there oil leaks?")
@@ -69,7 +62,7 @@ else:
 
 	pass
 
-call_tps("16Shutdown")
+call_tps("16Shutdown.py")
 
 
 instruction("Check inlet and exhaust")

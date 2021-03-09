@@ -34,7 +34,7 @@ channel("PreRTMin,PreRTHr,PreFuel")
 instruction("Zero all Pressure Brick Transducers or press SKIP", SKIP)
 
 
-if not skipgv:
+if not SkipGV:
 	pbs_zero()
 	pass
 

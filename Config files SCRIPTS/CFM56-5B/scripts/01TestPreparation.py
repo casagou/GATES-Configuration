@@ -126,7 +126,7 @@ if lvIgntest:
     
 	wait("D03115 = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "MASTER LEVER not OFF")
 
-    #if skipgv:
+    #if SkipGV:
         #result("Operator skipped Fuel OFF instruction {} TestPrep ".format(REPORT))
 
 		#pass
@@ -136,7 +136,7 @@ if lvIgntest:
 
 	wait("TLA = 0", 10, 1.0, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Throttle is not at GI after 10 s.")
 
-	#if skipgv:
+	#if SkipGV:
 		#result("Operator skipped Throttle GI check. {} TestPrep ".format(REPORT))
 
 		#pass
@@ -158,7 +158,7 @@ if lvIgntest:
 	wait("FCAirOn = 0", 10, 1.0, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Air supply is not disabled.")
 
 	
-	#if skipgv:
+	#if SkipGV:
 		#result("Operator skipped Air Supply Disabled {} TestPrep ".format(REPORT))
 
 		#pass
@@ -277,7 +277,7 @@ note("Facility Pumps and Valves will pressurize fuel lines.")
 wait("FCS_FuelRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility fuel not ON")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Fuel on instruction {} TestPrep ".format(REPORT))
 
 	result("Static fuel leak check not performed {} TestPrep ".format(REPORT))

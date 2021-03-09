@@ -103,7 +103,7 @@ delay(5)
 wait("N1K = 3100", 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach 3100 rpm in 10 s.")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped 3100 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 	pass
@@ -135,7 +135,7 @@ if getCV("B3") == 1 or getCV("B2") == 1 or getCV("B1") == 1 or getCV("B4") == 1 
 	wait("N1K = 4000", 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach 4000 rpm in 10 s.")
 
 	
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped 4000 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 		pass
@@ -168,7 +168,7 @@ if getCV("B6") == 1 or getCV("B9") == 1 or getCV("B5") == 1 or getCV("B8") == 1:
 		wait("N1K = 3800", 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach 3800 rpm in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped 3800 rpm N1R check {} FunctionalCheck ".format(REPORT))
 
 			pass
@@ -200,7 +200,7 @@ if getCV("B3") == 1 or getCV("B2") == 1 or getCV("B1") == 1:
 	wait("N1K = 4400", 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach 4400 rpm in 10 s.")
 
 	
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped 4400 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 		pass
@@ -233,7 +233,7 @@ if getCV("B3") == 1:
 	wait("N1K = " +str(getCV("N1MCB3")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B3 Max Cont in 10 s.")
 
 	
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped 4762 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 		pass
@@ -263,7 +263,7 @@ else:
 		wait("N1K = "+str(getCV("N1MCB2")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B2 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped 4762 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 			pass
@@ -292,7 +292,7 @@ else:
 			wait("N1K = "+str(getCV("N1MCB1")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B1 Max Cont in 10 s.")
 
 			
-			if skipgv:
+			if SkipGV:
 				result("Operator skipped 4762 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 				pass
@@ -323,7 +323,7 @@ else:
 				wait("N1K = "+str(getCV("N1MCB4")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B4 Max Cont in 10 s.")
 
 				
-				if skipgv:
+				if SkipGV:
 					result("Operator skipped 4405 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 					pass
@@ -354,7 +354,7 @@ else:
 					wait("N1K = "+str(getCV("N1MCB7")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B7 Max Cont in 10 s.")
 
 					
-					if skipgv:
+					if SkipGV:
 						result("Operator skipped 4405 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 						pass
@@ -385,7 +385,7 @@ else:
 						wait("N1K = "+str(getCV("N1MCB6")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B6 Max Cont in 10 s.")
 
 						
-						if skipgv:
+						if SkipGV:
 							result("Operator skipped 4100 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 							pass
@@ -416,7 +416,7 @@ else:
 							wait("N1K = "+str(getCV("N1MCB9")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B9 Max Cont in 10 s.")
 
 							
-							if skipgv:
+							if SkipGV:
 								result("Operator skipped 4100 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 								pass
@@ -447,7 +447,7 @@ else:
 								wait("N1K = "+str(getCV("N1MCB5")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B5 Max Cont in 10 s.")
 
 								
-								if skipgv:
+								if SkipGV:
 									result("Operator skipped 4100 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 									pass
@@ -478,7 +478,7 @@ else:
 									wait("N1K = "+str(getCV("N1MCB8")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B8 Max Cont in 10 s.")
 
 									
-									if skipgv:
+									if SkipGV:
 										result("Operator skipped 4100 rpm N1 check {} FunctionalCheck ".format(REPORT))
 
 										pass
@@ -544,6 +544,6 @@ VibSurvey = prompt_boo("Do you want to perform the Vibration Survey at this time
 
 
 if VibSurvey:
-	auto_start("11VibrationSurvey")
+	autostart("11VibrationSurvey")
 
 	pass

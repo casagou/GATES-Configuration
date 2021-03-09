@@ -43,7 +43,7 @@ if getCV("Eng_On") == 0:
 instruction("Run the engine 5 minutes at Ground Idle, or press SKIP" , SKIP)
 
 
-if not skipgv:
+if not SkipGV:
 	wait("GIFlag = 1", 10, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "Engine not at Min IDLE")
 
 	delay(300)
@@ -87,7 +87,7 @@ instruction("Set MASTER LEVER to OFF")
 wait("D03115 = 1", 10, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "MASTER LEVER was not set to OFF in 10 seconds")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Cutoff instruction. {} Shutdown ".format(REPORT))
 
 	result("Shutdown will be aborted {} Shutdown ".format(REPORT))
@@ -186,7 +186,7 @@ wait("FCS_FuelRdy = 1", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DF
 	#wait("TLA = 0", 10, 1.0, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Throttle is not at Min IDLE after 10 seconds.")
 
 	
-	#if skipgv:
+	#if SkipGV:
 		#result("Operator skipped Throttle Min IDLE check. {} Motoring ".format(REPORT))
 
 		#pass
@@ -215,12 +215,10 @@ set_channel("EngSelectorCRNK", 0)
 	
 instruction("Turn OFF Test Facility Air & Fuel supply", SKIP)
     
-if skipgv:
-	result("Facility Air & Fuel left ON.")
-	pass
-	
-wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
-wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
+if SkipGV:
+    result("Facility Air & Fuel left ON.")
+    wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
+    wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
 
 else:
     result("Operator skipped DRY MOTOR instruction. {} Shutdown ".format(REPORT))

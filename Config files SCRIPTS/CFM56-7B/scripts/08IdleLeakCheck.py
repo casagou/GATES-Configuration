@@ -35,7 +35,7 @@ note("      are properly secured for Idle leak check.")
 delay(300)
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped 5 min stabilization at GI {} IdleLeakCheck ".format(REPORT))
 
 	pass

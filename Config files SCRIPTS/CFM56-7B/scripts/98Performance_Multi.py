@@ -85,7 +85,7 @@ if getCV("Multiple") == 1:
 instruction("press NEXT to reset all previously recorded Take-Off Modifier Levels, or SKIP", SKIP)
 
 
-if not skipgv:
+if not SkipGV:
 	set_channel("N1ModReset", 1)
 
 	delay(3)
@@ -164,7 +164,7 @@ instruction("Set power to B27 Take-off , or press SKIP", SKIP)
 set_channel("TO_Pnt", 0)
 
 if getCV("B27") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 1)
 
 		set_channel("TOPoint", 1)
@@ -178,7 +178,7 @@ if getCV("B27") == 1:
 		
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(290)
 
 		else:
@@ -253,7 +253,7 @@ instruction("Set power to B26B2 Take-off , or press SKIP", SKIP)
 set_channel("TO_Pnt", 0)
 
 if getCV("B26B2") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 8)
 
 		set_channel("TOPoint", 1)
@@ -267,7 +267,7 @@ if getCV("B26B2") == 1:
 		
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(290)
 
 		else:
@@ -344,7 +344,7 @@ instruction("Set power to B26 Take-off , or press SKIP", SKIP)
 set_channel("TO_Pnt", 0)
 
 if getCV("B26") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 2)
 
 		set_channel("TOPoint", 1)
@@ -358,7 +358,7 @@ if getCV("B26") == 1:
 		
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(290)
 
 		else:
@@ -434,7 +434,7 @@ instruction("Set power to B27 Max Con , or press SKIP", SKIP)
 # hold previous N1 Mod Level by setting TO_Pnt to 0
 
 if getCV("B27") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 1)
 
 		delay(2)
@@ -445,7 +445,7 @@ if getCV("B27") == 1:
 
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(270)
 
 		else:
@@ -499,7 +499,7 @@ instruction("Set power to B26 Max Con , or press SKIP", SKIP)
 # hold previous N1 Mod Level by setting TO_Pnt to 0
 # V1.04 set_channel TO_Pnt, 0
 if getCV("B26") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 2)
 
 		delay(2)
@@ -510,7 +510,7 @@ if getCV("B26") == 1:
 
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(270)
 
 		else:
@@ -564,7 +564,7 @@ instruction("Set power to B24B1 Take-off , or press SKIP", SKIP)
 set_channel("TO_Pnt", 0)
 
 if getCV("B24B1") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 4)
 
 		set_channel("TOPoint", 1)
@@ -578,7 +578,7 @@ if getCV("B24B1") == 1:
 		
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(290)
 
 		else:
@@ -653,7 +653,7 @@ instruction("Set power to B24 Take-off , or press SKIP", SKIP)
 set_channel("TO_Pnt", 0)
 
 if getCV("B24") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 3)
 
 		set_channel("TOPoint", 1)
@@ -667,7 +667,7 @@ if getCV("B24") == 1:
 		
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(290)
 
 		else:
@@ -740,7 +740,7 @@ instruction("Set power to B26B2 Max Con , or press SKIP", SKIP)
 # hold previous N1 Mod Level by setting TO_Pnt to 0
 # V1.04 set_channel TO_Pnt, 0
 if getCV("B26B2") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 8)
 
 		delay(2)
@@ -751,7 +751,7 @@ if getCV("B26B2") == 1:
 
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(270)
 
 		else:
@@ -804,7 +804,7 @@ instruction("Set power to B24 Max Con , or press SKIP", SKIP)
 # hold previous N1 Mod Level by setting TO_Pnt to 0
 # V1.04 set_channel TO_Pnt, 0
 if getCV("B24") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 3)
 
 		delay(2)
@@ -815,7 +815,7 @@ if getCV("B24") == 1:
 
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(270)
 
 		else:
@@ -867,7 +867,7 @@ instruction("Set power to B24B1 Max Con , or press SKIP", SKIP)
 # hold previous N1 Mod Level by setting TO_Pnt to 0
 # V1.04 set_channel TO_Pnt, 0
 if getCV("B24B1") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 4)
 
 		delay(2)
@@ -878,7 +878,7 @@ if getCV("B24B1") == 1:
 
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(270)
 
 		else:
@@ -932,7 +932,7 @@ instruction("Set power to B22B1 Take-off , or press SKIP", SKIP)
 set_channel("TO_Pnt", 0)
 
 if getCV("B22B1") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 6)
 
 		set_channel("TOPoint", 1)
@@ -946,7 +946,7 @@ if getCV("B22B1") == 1:
 		
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(290)
 
 		else:
@@ -1020,7 +1020,7 @@ instruction("Set power to B22 Take-off , or press SKIP", SKIP)
 set_channel("TO_Pnt", 0)
 
 if getCV("B22") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 5)
 
 		set_channel("TOPoint", 1)
@@ -1034,7 +1034,7 @@ if getCV("B22") == 1:
 		
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(290)
 
 		else:
@@ -1107,7 +1107,7 @@ instruction("Set power to B22B1 Max Con , or press SKIP", SKIP)
 
 # hold previous N1 Mod Level by setting TO_Pnt to 0
 if getCV("B22B1") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 6)
 
 		delay(2)
@@ -1118,7 +1118,7 @@ if getCV("B22B1") == 1:
 
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(270)
 
 		else:
@@ -1170,7 +1170,7 @@ instruction("Set power to B22 Max Con , or press SKIP", SKIP)
 # hold previous N1 Mod Level by setting TO_Pnt to 0
 
 if getCV("B22") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 5)
 
 		delay(2)
@@ -1181,7 +1181,7 @@ if getCV("B22") == 1:
 
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(270)
 
 		else:
@@ -1234,7 +1234,7 @@ instruction("Set power to B20 Take-off , or press SKIP", SKIP)
 set_channel("TO_Pnt", 0)
 
 if getCV("B20") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 7)
 
 		set_channel("TOPoint", 1)
@@ -1248,7 +1248,7 @@ if getCV("B20") == 1:
 		
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(290)
 
 		else:
@@ -1322,7 +1322,7 @@ instruction("Set power to B20 Max Con , or press SKIP", SKIP)
 # hold previous N1 Mod Level by setting TO_Pnt to 0
 
 if getCV("B20") == 1:
-	if not skipgv:
+	if not SkipGV:
 		set_channel("ID", 7)
 
 		delay(2)
@@ -1333,7 +1333,7 @@ if getCV("B20") == 1:
 
 		instruction("Stabilize for 5 minutes or press SKIP if already stable", SKIP)
 
-		if not skipgv:
+		if not SkipGV:
 			delay(270)
 
 		else:
@@ -1401,6 +1401,6 @@ do_fullset(10, "Perf Point: GI", "Perf_GI")
 OilConYes = prompt_boo("Do you want to complete Oil Consuption Check?")
 
 if OilConYes:
-	auto_start("15EndOilCons")
+	autostart("15EndOilCons.py")
 
 	pass

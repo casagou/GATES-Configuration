@@ -283,7 +283,7 @@ wait("POIL>5", 30, 2.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_
 if SkipGV:
 	result("Start aborted due to no Oil pressure indication", REPORT + "Start")
 
-	auto_start("AbortStart")
+	autostart("AbortStart")
 
 else:
 	result("Oil pressure indication positive", REPORT + "Start")

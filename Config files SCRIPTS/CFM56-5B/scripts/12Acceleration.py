@@ -28,7 +28,7 @@ TestYes = None
 OilConsNow = None
 
 # Channel Registration
-channel("Eng_On,GIFlag,N1MC,N1M,N1K,N1TO,N1TO15,N1TO95,tAcc1,tAcc2,TransReset")
+channel("Eng_On,GIFlag,N1MC,N1K,N1TO,N1TO15,N1TO95,tAcc1,tAcc2,TransReset")
 
 channel("B1,B2,B3,B4,B5,B6,B7,B8,B9,ID,MultiDevTest")
 
@@ -104,7 +104,7 @@ note(" stop at that position. ")
 wait("N1K ="+ str(getCV("N1TO")) , 30, 15, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, " Did not reach target N1TO in 30 s ")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped N1 TO instruction {} Acceleration ".format(REPORT))
 
 	SkipAcc = 1
@@ -130,7 +130,7 @@ wait("N1K ="+ str(getCV("N1TO15")) , 30, 5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WA
 delay(180)
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped  check {} Acceleration ".format(REPORT))
 
 else:
@@ -167,7 +167,7 @@ delay(25)
 instruction("Slowly decrease engine N1K speed to MC power.")
 wait("N1K >"+ str(getCV("N1MC")), 15, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine is not at Max Contnuous power.")
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped returning engine to MC power {} Acceleration ".format(REPORT))
 	pass
 
@@ -185,7 +185,7 @@ if TestYes:
 TestYes = prompt_boo("Do you want to start an Engine Performance Check?")
 
 if TestYes:
-	auto_start("98Performance_Multi")
+	autostart("98Performance_Multi.py")
 else:
 	instruction("Slowly move throttle to Min IDLE position")
 	note("and select next test procedure.")

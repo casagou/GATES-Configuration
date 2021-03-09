@@ -72,7 +72,7 @@ note(" and set throttle stop at that position. ")
 wait("N1K ="+ str(getCV("N1TO")) , 30, 15, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, " Did not reach target N1TO in 30 s ")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped N1 TO instruction {} Acceleration ".format(REPORT))
 
 	SkipAcc = 1
@@ -98,7 +98,7 @@ wait("N1K ="+ str(getCV("N1TO15")) , 30, 5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WA
 delay(300)
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped  check {} Acceleration ".format(REPORT))
 
 else:
@@ -140,7 +140,7 @@ result("N1 MC warmup target is: {} +\- 10 rpm ".format(getCV("N1MCWarmup")))
 
 wait("N1K >"+ str(getCV("N1MCWarmup")), 15, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine is not at Max Contnuous power.")
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped returning engine to MC power {} Acceleration ".format(REPORT))
 	pass
 
@@ -158,7 +158,7 @@ if TestYes:
 TestYes = prompt_boo("Do you want to start an Engine Performance Check?")
 
 if TestYes:
-	#auto_start("98Performance_Multi")
+	#autostart("98Performance_Multi.py")
 	quit()
 	
 else:

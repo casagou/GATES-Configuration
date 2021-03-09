@@ -127,7 +127,7 @@ if getCV("Eng_On") == 1:
 
     delay(300)
 
-    auto_start("15EndOilCons")
+    autostart("15EndOilCons.py")
     
 else:
     
@@ -194,7 +194,7 @@ else:
 
     delay(300)
 
-    auto_start("15EndOilCons")
+    autostart("15EndOilCons.py")
     
     pass
 pass

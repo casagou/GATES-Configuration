@@ -38,12 +38,12 @@ channel("EngStable30s,EngStable")
 instruction("If the engine is running, please shutdown engine.")
 
 if getCV("Eng_On") == 1:
-	call_tps("16Shutdown")
-pass
+    call_tps("16Shutdown.py")
+    pass
 
-if skipgv:
-	result("Operator skipped Engine Shutdown instruction {} AutoStart ".format(REPORT))
-pass
+if SkipGV:
+    result("Operator skipped Engine Shutdown instruction {} AutoStart ".format(REPORT))
+    pass
 
 instruction("After engine shutdown, remove power to both channels of the ECU and wait at least 30 seconds")
     
@@ -124,7 +124,7 @@ if getCV("EngStable30s") == 1:
 
 wait("EngStable30s = 1", 95, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine has not stabilized for 30 seconds")
     
-if skipgv:
+if SkipGV:
     result("Operator skipped Engine stabilization time {} FADECCheck ".format(REPORT))
     pass
 
@@ -192,6 +192,6 @@ if TestYes:
 Functional = prompt_boo("Do you want to procede to the Functional Check?")
 
 if VibSurvey:
-	auto_start("10FunctionalCheck")
+	autostart("10FunctionalCheck")
 
 	pass

@@ -42,7 +42,7 @@ channel("Eng_On")
 
 
 if getCV("Eng_On") == 1:
-	call_tps("04AutoStart")
+	call_tps("04AutoStart.tps")
 
 	pass
 

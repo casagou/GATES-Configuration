@@ -53,5 +53,5 @@ delay(300)
 
 instruction("Decelerate to GROUND IDLE. Stabilize the engine for 5 min.")
 
-auto_start("15EndOilCons")
+autostart("15EndOilCons.tps")
 

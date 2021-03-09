@@ -37,7 +37,7 @@ channel("Eng_On, N1MC, N1_OBS, N2_OBS, VSV, VBV, N1TO, N2GIH, N2GIL, N2FIH, N2FI
 
 # ***** TESTING 007 PARA 3.B. (1) (a) *****
 if getCV("Eng_On") == 0:
-	call_tps("04AutoStart")
+	call_tps("04AutoStart.tps")
 
 	pass
 

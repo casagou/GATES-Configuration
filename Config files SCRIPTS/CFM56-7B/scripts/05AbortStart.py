@@ -32,7 +32,7 @@ instruction("Set ENGINE START LEVER to CUTOFF")
 
 wait("EngStrtLvr = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Fuel is not OFF after 10 seconds")
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Fuel OFF check {} AbortStart ".format(REPORT))
 
 	pass

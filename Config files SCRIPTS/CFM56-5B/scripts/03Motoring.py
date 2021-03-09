@@ -62,7 +62,7 @@ instruction("Set Throttle to GI (0 Deg)")
 
 wait("TLA = 0", 10, 1.0, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Throttle is not at GI after 10 s.")
 
-if skipgv:
+if SkipGV:
     result("Operator skipped Throttle GI check. {} Motoring ".format(REPORT))
 
     pass
@@ -84,7 +84,7 @@ set_channel("D03115", 1)
 wait("D03115 = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "MASTER LEVER not OFF")
 
 
-if skipgv:
+if SkipGV:
     result("Operator skipped Fuel OFF instruction {} Motoring ".format(REPORT))
     pass
 
@@ -113,13 +113,13 @@ instruction("Check oil pressure rise and check engine for leaks")
 wait("POIL = 5", 15, 0.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "POIL did not reach 5 psi.")
 
 
-if skipgv:
+if SkipGV:
     result("Operator skipped oil pressure check {} Motoring ".format(REPORT))
     pass
 
 wait("N2 > 300", 30, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "No positive N2 indication in 30 s. Press SKIP to abort Motoring")
 
-if skipgv:
+if SkipGV:
 	quit()
 	pass
 
@@ -161,7 +161,7 @@ caution("When MASTER LEVER IS ON, fuel will start flowing fuel into the engine."
 note("NOTE: Set the MASTER LEVER - ON for a maximum of 15 seconds.")
 
 
-if not skipgv:
+if not SkipGV:
 	set_channel("WetFlag", 1)
 
 instruction("Set MASTER LEVER to ON")
@@ -169,7 +169,7 @@ set_channel("D03115", 0)
 set_channel("D03114", 1)
 
 wait("D03114 = 1", 2, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "MASTER LEVER not ON")
-if skipgv:
+if SkipGV:
     result("Operator skipped Fuel ON instruction {} Motoring ".format(REPORT))
     pass
 
@@ -213,7 +213,7 @@ set_channel("D03115", 1)
 
 wait("D03115 = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Fuel is not OFF")
 
-if skipgv:
+if SkipGV:
     result("Operator skipped Fuel Cutoff instruction {} Motoring ".format(REPORT))
     pass
 
@@ -291,10 +291,10 @@ if StartYES:
 
 
 if AutoStrt:
-	autostart("06AutoStart")
+	autostart("06AutoStart.py")
 
 else:
-	autostart("04ManualStart")
+	autostart("04ManualStart.py")
 	pass
 
 pass

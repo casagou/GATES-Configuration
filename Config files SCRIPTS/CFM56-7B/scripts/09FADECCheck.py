@@ -42,7 +42,7 @@ if getCV("Eng_On") == 1:
     
     pass
 
-if skipgv:
+if SkipGV:
 
 	result("Operator skipped Engine Shutdown instruction {} AutoStart ".format(REPORT))
 
@@ -97,7 +97,7 @@ wait("B27524 = 0", 2, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WA
 
 instruction("Do an engine start precedure and stabilize at Min. Idle.")
 
-call_tps("06AutoStart")
+call_tps("06AutoStart.py")
 
 if getCV("Eng_On") == 1
     delay(120)
@@ -118,7 +118,7 @@ wait("EngStable30s = 1", 95, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_
         result("Engine has stabilized for 30 seconds.")
         pass
     
-    if skipgv:
+    if SkipGV:
 		result("Operator skipped Engine stabilization time {} FADECCheck ".format(REPORT))
         pass
 
@@ -193,7 +193,7 @@ if TestYes:
 Functional = prompt_boo("Do you want to procede to the Functional Check?")
 
 if VibSurvey:
-	auto_start("10FunctionalCheck")
+	autostart("10FunctionalCheck.py")
 
 	pass
     

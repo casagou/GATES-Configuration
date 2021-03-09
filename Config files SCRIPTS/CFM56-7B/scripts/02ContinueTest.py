@@ -53,7 +53,7 @@ set_channel("ID", round(getCV("ID_N1TOMx"), 4))
 
 instruction("Zero all Pressure Brick Transducers or press SKIP", SKIP)
 
-if skipgv == False:
+if SkipGV == False:
 	pbs_zero()
 	pass
 instruction("Record previous test time and fuel burn")

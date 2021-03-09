@@ -59,7 +59,7 @@ if getCV("GIFlag") == 0:
 
 wait("tAtGI > 300", 300, 2, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Time at GI has not reached 300 s")
 
-if skipgv:
+if SkipGV:
 		result("Operator skipped 5 minute stabilization time {} FunctionalCheck ".format(REPORT))
 		pass
 
@@ -79,8 +79,8 @@ delay(5)
 
 wait("N1K = 3300", 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1K did not reach 3300 rpm in 10 s.")
 
-# V1.05 skipgv modified
-if skipgv:
+# V1.05 SkipGV modified
+if SkipGV:
 	result("Operator skipped 3300 rpm N1K check {} FunctionalCheck ".format(REPORT))
 
 	pass
@@ -105,8 +105,8 @@ delay(5)
 
 wait("N1K = 4200", 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1K did not reach 4200 rpm in 10 s.")
 
-# V1.05 skipgv modified
-if skipgv:
+# V1.05 SkipGV modified
+if SkipGV:
 	result("Operator skipped 4200 rpm N1K check {} FunctionalCheck ".format(REPORT))
 
 	pass
@@ -133,7 +133,7 @@ delay(5)
 wait("N1K = 4600", 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1K did not reach 4600 rpm in 10 s.")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped 4600 rpm N1K check {} FunctionalCheck ".format(REPORT))
 
 	pass
@@ -161,7 +161,7 @@ wait("N1K ="+ str(getCV("N1MC")), 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT
 
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Max Cont check {} FunctionalCheck ".format(REPORT))
 
 	pass
@@ -186,7 +186,7 @@ caution("If shutdown of engine is requirted, perform only after 9 minutes at MI"
 wait("GIFlag = 1", 10, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine is not at GI after 10 s")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped GI check {} FunctionalCheck ".format(REPORT))
 
 	pass
@@ -233,6 +233,6 @@ VibSurvey = prompt_boo("Do you want to perform the Vibration Survey at this time
 
 
 if VibSurvey:
-	auto_start("11VibrationSurvey")
+	autostart("11VibrationSurvey.py")
 
 	pass

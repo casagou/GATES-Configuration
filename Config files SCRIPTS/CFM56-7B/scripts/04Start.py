@@ -36,7 +36,7 @@ wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT
 
 wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Facility OFF instruction {} ManStart ".format(REPORT))
 
 	pass
@@ -149,7 +149,7 @@ if getCV("StrtSwitch") == 0:
 	wait("StrtSwitch = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "ENGINE START SWITCH not in GRD position.")
 
 
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped ENGINE START SWITCH set to GRD {} Start ".format(REPORT))
 
 	else:
@@ -167,18 +167,18 @@ instruction("Check for positive, increasing oil pressure")
 wait("APOilLoc > 5", 15, 0.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, "POIL did not reach 5 psi")
 
 
-if skipgv:
+if SkipGV:
 
 	result("Operator skipped POIL > 5 psi ")
 	
-	auto_start("05AbortStart")
+	autostart("05AbortStart.py")
 	
 	pass
 
 wait("N2PCT > 20", 30, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine did not reach 20 % N2 in 30 seconds")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped N2PCT > 20% ")
 
 	pass
@@ -192,7 +192,7 @@ wait("N2PCT > 20", , , WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_P
 set_channel("EngStrtLvr", 1)
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Fuel ON instruction {} ManStart ".format(REPORT))
 
 	pass
@@ -214,7 +214,7 @@ result("Fuel flow during start is: {} PPH. {} Start ".format(getCV("WFK"), REPOR
 wait("N2 > 7230", 30, 5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N2 speed did not reach 7230 rpm in 30 seconds")
 
 
-if skipgv:
+if SkipGV:
 
 	result("Operator skipped N2>7230 rpm ")
 
@@ -236,7 +236,7 @@ instruction("Set ENGINE START SWITCH to OFF")
 
 wait("StrtSwitch = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, "Mode Selector Switch not responding.")
 
-if skipgv:
+if SkipGV:
 		result("Operator skipped Mode Selector to NORMAL {} ManStart ".format(REPORT))
 
 else:

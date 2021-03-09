@@ -33,7 +33,7 @@ instruction("Ensure MASTER LEVER is set to OFF")
 wait("D03115 = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "MASTER LEVER is not OFF")
 
 
-if skipgv:
+if SkipGV:
     result("Operator skipped Fuel OFF check {} AbortStart ".format(REPORT))
     pass
 

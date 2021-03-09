@@ -48,7 +48,7 @@ channel("B1,B2,B3,B4,B5,B6,B7,B8,B9,EGTHD,EGTHD_MC,EGTHD_TO,EGTHDM,EGTHDM_MC,AIF
 instruction("press NEXT to reset all previously recorded Take-Off Modifier Levels, or SKIP", SKIP)
 
 
-if not skipgv:
+if not SkipGV:
 	set_channel("N1ModReset", 1)
 
 	delay(3)
@@ -128,7 +128,7 @@ instruction("Stabilize Engine at MC N1 Speed +\- 10 rpm for 8 minutes")
 wait("N1K = "+str(getCV("N1MC")), 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B3 Max Cont rpm in 10 s.")
 
 	
-if skipgv:
+if SkipGV:
 		result("Operator skipped MC warm up point {} Performance MC Warmup ".format(REPORT))
 
 		pass
@@ -162,7 +162,7 @@ if getCV("B3") == 1:
 	wait("N1K = "+str(getCV("N1TOB3")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B3 Take Off in 10 s.")
 
 	
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped B3 TO point {} Performance B3 TO ".format(REPORT))
 
 		pass
@@ -295,7 +295,7 @@ if getCV("B2") == 1:
 		wait("N1K = "+str(getCV("N1TOB2")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B2 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B2 TO point {} Performance B2 TO ".format(REPORT))
 
 			pass
@@ -419,7 +419,7 @@ if getCV("B2") == 1:
 		wait("N1K = "+str(getCV("N1TOB2")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B2 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B2 TO point {} Performance B2 TO ".format(REPORT))
 
 			pass
@@ -556,7 +556,7 @@ if getCV("B1") == 1:
 		wait("N1K = "+str(getCV("N1TOB1")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B1 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B1 TO point {} Performance B1 TO ".format(REPORT))
 
 			pass
@@ -680,7 +680,7 @@ if getCV("B1") == 1:
 		wait("N1K = "+str(getCV("N1TOB1")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B1 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B2 TO point {} Performance B1 TO ".format(REPORT))
 
 			pass
@@ -806,7 +806,7 @@ if getCV("B3") == 1 or getCV("B2") == 1 or getCV("B1") == 1:
 	wait("N1K = "+str(getCV("N1MCB1")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B3\B2\B1 Max Cont in 10 s.")
 
 	
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped B1 MC point {} Performance B3 B2 B1 MC ".format(REPORT))
 
 		pass
@@ -890,7 +890,7 @@ if getCV("B4") == 1 or getCV("B7") == 1:
 		wait("N1K = "+str(getCV("N1TOB4")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B4\B7 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B4 TO point {} Performance B4 B7 TO ".format(REPORT))
 
 			pass
@@ -1009,7 +1009,7 @@ if getCV("B4") == 1 or getCV("B7") == 1:
 		wait("N1K = "+str(getCV("N1MCB4")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B4\B7 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B4 MC point {} Performance B4 B7 MC ".format(REPORT))
 
 			pass
@@ -1068,7 +1068,7 @@ if getCV("B4") == 1 or getCV("B7") == 1:
 		wait("N1K = "+str(getCV("N1MCB4")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B4 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B4 MC point {} Performance B4 B7 MC Warmup ".format(REPORT))
 
 			pass
@@ -1093,7 +1093,7 @@ if getCV("B4") == 1 or getCV("B7") == 1:
 		wait("N1K = "+str(getCV("N1TOB4")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B4\B7 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B4 TO point {} Performance B4 B7 TO ".format(REPORT))
 
 			pass
@@ -1212,7 +1212,7 @@ if getCV("B4") == 1 or getCV("B7") == 1:
 		wait("N1K = "+str(getCV("N1MCB4")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B4\B7 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B4 MC point {} Performance B4 B7 MC ".format(REPORT))
 
 			pass
@@ -1288,7 +1288,7 @@ if getCV("B6") == 1:
 		wait("N1K = "+str(getCV("N1TOB6")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B6 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B4 TO point {} Performance B6 TO ".format(REPORT))
 
 			pass
@@ -1405,7 +1405,7 @@ if getCV("B6") == 1:
 		wait("N1K = "+str(getCV("N1MCB6")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B6 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B6 MC point {} Performance B6 MC Warmup ".format(REPORT))
 
 			pass
@@ -1427,7 +1427,7 @@ if getCV("B6") == 1:
 		wait("N1K = "+str(getCV("N1TOB6")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B6 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B4 TO point {} Performance B6 TO ".format(REPORT))
 
 			pass
@@ -1560,7 +1560,7 @@ if getCV("B9") == 1:
 
 		wait("N1K = "+str(getCV("N1TOB9")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B9 Take Off in 10 s.")
 
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B9 TO point {} Performance B9 TO ".format(REPORT))
 
 			pass
@@ -1677,7 +1677,7 @@ if getCV("B9") == 1:
 		wait("N1K = "+str(getCV("N1MCB9")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B9 MC point {} Performance B9 MC warmup ".format(REPORT))
 
 			pass
@@ -1699,7 +1699,7 @@ if getCV("B9") == 1:
 		wait("N1K = "+str(getCV("N1TOB9")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B9 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B9 TO point {} Performance B9 TO ".format(REPORT))
 
 			pass
@@ -1834,7 +1834,7 @@ if getCV("B5") == 1:
 		wait("N1K = "+str(getCV("N1TOB5")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B5 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B5 TO point {} Performance B5 TO ".format(REPORT))
 
 			pass
@@ -1952,7 +1952,7 @@ if getCV("B5") == 1:
 		wait("N1K = "+str(getCV("N1MCB5")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B5 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B5 MC point {} Performance B5 MC Warmup ".format(REPORT))
 
 			pass
@@ -1974,7 +1974,7 @@ if getCV("B5") == 1:
 		wait("N1K = "+str(getCV("N1TOB5")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B5 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B5 TO point {} Performance B5 TO ".format(REPORT))
 
 			pass
@@ -2098,7 +2098,7 @@ if getCV("B6") == 1 or getCV("B9") == 1 or getCV("B5") == 1:
 	wait("N1K = "+str(getCV("N1MCB6")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B5\B6\B9 Max Cont in 10 s.")
 
 	
-	if skipgv:
+	if SkipGV:
 		result("Operator skipped B6 MC point {} Performance B6 B9 B5 MC ".format(REPORT))
 
 		pass
@@ -2180,7 +2180,7 @@ if getCV("B8") == 1:
 		wait("N1K = "+str(getCV("N1TOB8")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B8 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B8 TO point {} Performance B8 TO ".format(REPORT))
 
 			pass
@@ -2291,7 +2291,7 @@ if getCV("B8") == 1:
 		wait("N1K = "+str(getCV("N1MCB8")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B8 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B8 MC point {} Performance B8 MC ".format(REPORT))
 
 			pass
@@ -2345,7 +2345,7 @@ if getCV("B8") == 1:
 		wait("N1K = "+str(getCV("N1MCB8")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B8 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B8 MC point {} Performance B8 MC Warmup ".format(REPORT))
 
 			pass
@@ -2367,7 +2367,7 @@ if getCV("B8") == 1:
 		wait("N1K = "+str(getCV("N1TOB8")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B8 Take Off in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B8 TO point {} Performance B8 TO ".format(REPORT))
 
 			pass
@@ -2480,7 +2480,7 @@ if getCV("B8") == 1:
 		wait("N1K = "+str(getCV("N1MCB8")) , 10, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "N1 did not reach B8 Max Cont in 10 s.")
 
 		
-		if skipgv:
+		if SkipGV:
 			result("Operator skipped B8 MC point {} Performance B8 MC ".format(REPORT))
 
 			pass
@@ -2564,6 +2564,6 @@ do_fullset(10, "Perf Point: GI", "Perf_GI")
 OilConYes = prompt_boo("Do you want to complete Oil Consuption Check?")
 
 if OilConYes:
-	auto_start("15EndOilCons")
+	autostart("15EndOilCons.py")
 
 	pass

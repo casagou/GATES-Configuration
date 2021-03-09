@@ -57,7 +57,7 @@ note("hold it there for 30 s and set the throttle stop.")
 wait("N1K = " + str(getCV("N1TO")) , 120, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine not at TO in 120 s")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Take Off check {} Vib_Accel ".format(REPORT))
 
 	pass
@@ -118,7 +118,7 @@ PerfStrYes = prompt_boo("Do you want to start Performance Check?")
 
 
 if PerfStrYes:
-	auto_start("98Performance_Multi")
+	autostart("98Performance_Multi.py")
 
 	pass
 

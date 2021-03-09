@@ -93,7 +93,7 @@ if round(getCV("Eng_On"), 4) == True:
 
 instruction("Zero all Pressure Brick Transducers", SKIP)
 
-if skipgv == False:
+if SkipGV == False:
 	pbs_zero()
 	pass
     
@@ -198,7 +198,7 @@ note("Facility Pumps and Valves will pressurize fuel lines.")
 wait("FCS_FuelRdy = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility fuel not ON")
 
 
-if skipgv:
+if SkipGV:
 	result("Operator skipped Fuel on instruction {} TestPrep ".format(REPORT))
 
 	result("Static fuel leak check not performed {} TestPrep ".format(REPORT))
