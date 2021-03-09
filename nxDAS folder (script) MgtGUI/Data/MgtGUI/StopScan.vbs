@@ -51,7 +51,7 @@ Dim oOpcode, oAPI, oTrace
 AlarmSumDispPC = "gates_mgt"
 InfoSumDispPC = "gates_mgt"
 ARINCDispPC    = "gates_mgt"
-RTDPCNames     = "gates_mgt"
+RTDPCNames     = "gates_mgt, gates_rtd1"
 
 
 'Initialise Strings and parameters
