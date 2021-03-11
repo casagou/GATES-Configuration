@@ -30,7 +30,6 @@
 '*    DATE         REV     INITIALS  DESCRIPTION
 '*    ----------   -----   --------  --------------------------------------------------
 '*    08-DEC-03            FM        Added Error handling
-'*    26-APR-07    V2.01   DP        Moved startup of ARINC to RTD1
 '******************************************************************************
 
 Option Explicit
@@ -45,26 +44,29 @@ Dim ARINCDispPC
 Dim remCtrl 
 
 'COM Objects
-Dim rte, oTrace
+Dim oOpcode, oAPI, oTrace
+
 
 '***************************START CHANGE***************************************
-
 AlarmSumDispPC = "gates_mgt"
 InfoSumDispPC = "gates_mgt"
 ARINCDispPC    = "gates_mgt"
 RTDPCNames     = "gates_mgt,gates_rtd1"
+
 
 'Initialise Strings and parameters
 Const strTraceFile = "C:\\proDAS\\Data\\Trace\\StopScanTrace.txt"
 Const strHost = "rtehost"
 Const strService = "ui_serv"
 Const ScriptName = "StopScan.vbs"
+
+'FOR TESTING
+'MsgBox "StopScan script running"
 '***************************END CHANGE*****************************************
 
 
 
 '***************************DO NOT CHANGE**************************************
-
 
 '*******************************************************
 '**** 1. Stop Alarm Summary Display
@@ -73,7 +75,7 @@ Dim objCommands
 
 Set objCommands = CreateObject("ALARMSUMSERVER.Commands", AlarmSumDispPC)
 If Err.Number <> 0 Then
-   MsgBox "Failed to stop the Alarm Summary Display on '"+AlarmSumDispPC+ "' : "+Err.Description
+   MsgBox "Failed to stop the Alarm Summary Display on '" & AlarmSumDispPC & "' : " & Err.Description
    Err.Number = 0
 Else
    objCommands.Stop
@@ -81,11 +83,11 @@ Else
 End If
 
 '*******************************************************
-'**** 2. Stop Info Summary Display
+'**** 1.5. Stop Info Summary Display
 '*******************************************************
 Set objCommands = CreateObject("ALARMSUMSERVER2.Commands", InfoSumDispPC)
 If Err.Number <> 0 Then
-   MsgBox "Failed to stop the Info Summary Display on '"+InfoSumDispPC+ "' : "+Err.Description
+   MsgBox "Failed to stop the Info Summary Display on '" & InfoSumDispPC & "' : " & Err.Description
    Err.Number = 0
 Else
    objCommands.Stop
@@ -93,26 +95,26 @@ Else
 End If
 
 '*******************************************************
-'**** 3. Stop ARINC Display
+'**** 2. Stop ARINC Display
 '*******************************************************
-'Set objCommands = CreateObject("ARINCDISPLAYSERVER.Commands", ARINCDispPC )
-'If Err.Number <> 0 Then
-'   MsgBox "Failed to stop the ARINC Display on '"+ARINCDispPC+ "' : "+Err.Description
-'   Err.Number = 0
-'Else
-'   objCommands.Stop
-'   Set objCommands = Nothing
-'End If
+Set objCommands = CreateObject("ARINCDISPLAYSERVER.Commands", ARINCDispPC )
+If Err.Number <> 0 Then
+   MsgBox "Failed to stop the ARINC Display on '" & ARINCDispPC & "' : " & Err.Description
+   Err.Number = 0
+Else
+   objCommands.Stop
+   Set objCommands = Nothing
+End If
 
 '*******************************************************
-'**** 3.1. Stop OMS GUI (T800 or T700) 
+'**** 2.1. Stop OMS GUI (T800 or T700) // serge
 '*******************************************************
 'Set remCtrl = CreateObject( "MDS.Remoting.RemotingClient" )
-'remCtrl.ShutdownProcess "STN1_RTD3", "OmsGUI", False
-
+'remCtrl.ShutdownProcess ARINCDispPC, "OmsGUI", False
+'Set remCtrl = Nothing
 
 '*******************************************************
-'**** 4. Stop Real Time Display
+'**** 3. Stop Real Time Display
 '*******************************************************
 dim arrPCNames
 arrPCNames = split (RTDPCNames, ",")
@@ -124,81 +126,75 @@ PCcount = ubound (arrPCNames)
 const Force = TRUE   ' enforce termination even if other clients still hold a connection
 
 dim i
-dim RTDDriver
-dim Errors
-
 For i = 0 to PCcount
-   Err.Clear
+   dim RTDDriver
    If arrPCNames(i) = "" Then
       Set RTDDriver = CreateObject("proDAS.RTDDriver")          ' local
-      If Err.Number <> 0 Then
-         MsgBox "Failed to stop the RTD Driver on the local computer: "+Err.Description
+	'WScript.sleep 1000
+      If Err.Number <> 0 And Err.Number <> 424 Then
+         MsgBox "Failed to stop the RTD Driver on the local computer: " & Err.Description
          Err.Number = 0
       End If
-      StopRtdDriver
    Else
-      'First RTD Driver instance
+      
       set RTDDriver = CreateObject ("proDAS.RTDDriver", arrPCNames(i)) ' remote
-      If Err.Number <> 0 Then
-         MsgBox "Failed to stop the RTD Driver on '"+arrPCNames(i)+"': "+Err.Description
+      'WScript.sleep 1000
+      'MsgBox "error number is " &Err.number
+      If Err.Number <> 0 And Err.Number <> 424 Then
+         MsgBox "Failed to stop the RTD Driver on '" & arrPCNames(i) & "': " & Err.Description
          Err.Number = 0
       End If
-      StopRtdDriver
-
-      'Second RTD Driver instance
-     
-	  set RTDDriver = CreateObject ("proDAS.RTDDriver2", arrPCNames(i)) ' remote
-          If Err.Number <> 0 And Err.Number <> 424 Then
-             MsgBox "Failed to stop the RTD Driver on '" & arrPCNames(i) & "': "+Err.Description
-             Err.Number = 0
-          End If
-          StopRtdDriver
- 
-      
    End If
 
+   dim Errors
+   set Errors = RTDDriver.Errors
+   CheckErrors
+
+   RTDDriver.Terminate Force
 next
 'delay 5
 
 '*******************************************************
-'**** 5. Send Save Critical Log OpCode 12 = SAVE_LOG
+'**** 4. Send PBS OpCode 156 = PBS_CONT_LOW_PURGE
 '*******************************************************
-'Call InitialiseCOMobjects		' Creates COM objects
+'Dim argSubSystems, argSubSystemIDs, arrSubSystems, arrSubSystemIDs, PBSSubSysID
+
+'argSubSystems = GetArg ("subsystem")
+'arrSubSystems = Split (argSubSystems, ",")
+'argSubSystemIDs = GetArg ("subsystemIDs")
+'arrSubSystemIDs = Split (argSubSystemIDs, ",")
+
+
+'Match PBS SubSystem to correponding ID from Command Line Paramaters
+'For i = 0 To ubound(arrSubSystems)
+'  If arrSubSystems(i) = "PBS" Then
+'    PBSSubSysID = arrSubSystemIDs(i)
+'    Exit For
+'  End If
+'Next
+
+'Ensure we have a PBS Sub System ID
+'If isEmpty(PBSSubSysID) Then
+'  MsgBox "Can't find PBS Sub System ID in Command Line Argumets!" &_
+'    vbNewLine & "Not Sending PBS_CONT_LOW_PURGE OpCode"
+'Else
+  'MsgBox PBSSubSysID
+'  Call InitialiseCOMobjects		' Creates COM objects
   
-'if rte.InitAndConnect() then
+  'Connect to RTE and Send OpCode if successful
+'  If Not ConnectToRTE Then
+'    MsgBox "Unable to connect to RTE host: '" & strHost & "' and service: '" & strService & "'"
+'  Else
+'    Call SendOpCode(156, PBSSubSysID)
+'  End If
 
-	'Dim code
+'End If
 
-	'code = rte.SendOpcode(12,"")
-
-	'Call oTrace.WriteArgs(ScriptName, "Sendopcode: ", "Opcode 12 status = " & code)
-		
-
-'else
-
-	'Call oTrace.WriteArgs(ScriptName, "ConnectToRTE:","Cannot connect to the RTE")
-
-'end if
-
-'Terminate
-
-
-'*******************************************************
-'**  Stop the RTDDriver
-'*******************************************************
-sub StopRtdDriver
-  set Errors = RTDDriver.Errors
-  CheckErrors
-  set Errors = Nothing
-
-  RTDDriver.Terminate Force
-  set RTDDriver = Nothing
-end sub
+'Call Terminate		' Deletes COM objects
 
 '*******************************************************
 '**  check for errors and notify the user, if appropriate
 '*******************************************************
-
 sub CheckErrors
    if ( Errors.LastCallHasFailed ) then
       dim msg
@@ -223,7 +219,7 @@ On Error Resume Next
     Set args = WScript.Arguments
 
     If args.Count > 0 Then
-      For i = 0 To args.Count-1
+      For i = 0 To args.Count
         If UCase( args(i) ) = "/" + Flag  Then
           retVal = args(i+1)
           Exit For
@@ -237,11 +233,12 @@ End Function
 '**** Sub InitialiseCOMobjects
 '******************************************************************************
 Sub InitialiseCOMobjects
-
-  
   Err.Clear
 
-  Set rte = CreateObject("RteControlLib.RteControl")
+  On Error Resume Next
+  
+  Set oApi = CreateObject("MDSComm.WinApi")
+  Set oOpcode = CreateObject("OSSCom.Opcode")
   Set oTrace = CreateObject ("MDSComm.Trace")
   
   Call oTrace.Open (strTraceFile)
@@ -256,20 +253,93 @@ Sub InitialiseCOMobjects
     
 End Sub
 
+'******************************************************************************
+'**** Function ConnectToRTE()
+'******************************************************************************
+Function ConnectToRTE()
+  Dim theResult : theResult = False
+
+  Err.Clear
+
+  Call oOpcode.InitConnection(oTrace.TraceFileName, strHost, strService)
+  If Err.Number <> 0 Then
+    Call oTrace.WriteArgs(ScriptName, "ConnectToRTE()", "oOPcode.InitConnection(%s, %s, %s) failed. Err.Number = 0x%x", oTrace.TraceFileName, strHost, strService, Err.Number)
+  Else
+    Call oTrace.WriteArgs(ScriptName, "ConnectToRTE()", "Connection successful!")
+    theResult = True
+  End If
+
+  ConnectToRTE = theResult
+End Function
+
+'******************************************************************************
+'**** Function SendOpCode()
+'******************************************************************************
+Function SendOpCode(theOpCode, theMessage)
+  Err.Clear
+  On Error Resume Next
+
+  Dim Index, Reply, Timeout
+  
+  If Not oTrace Is Nothing Then
+
+    Call oTrace.WriteArgs(ScriptName, "SendOpCode", "Entering Function")
+   
+    'Send the message
+    Index = oOpcode.SendMessage (theOpCode, theMessage )
+  
+    ' On error trace message
+    If Err.Number <> 0 Then
+      Call oTrace.WriteArgs(ScriptName, "SendOpCode", "SendMessage() error [0x0%x]", Err.Number)
+  
+    ' Otherwise wait for reply
+    Else
+      Reply = Space(50)
+      Timeout = 10000
+      Call oOpcode.GetReplyVariant (Index, Reply, Timeout )
+  
+      ' Check for an error
+      If Err.Number <> 0 Then
+          Call oTrace.WriteArgs(ScriptName, "SendOpCode", "Error during GetReplyVariant. [0x0%x]", Err.Number)
+      Else
+      
+        ' Be sure that the reply is the same as the opcode message to not have error
+        If Trim(UCase(Reply)) <> "OK" Then
+          Call oTrace.WriteArgs(ScriptName, "SendOpCode", "Reply is not correct. [%s]", Reply)
+        End If
+      End If
+    End If
+      'sleep for 1000 msec
+    oApi.Sleep(1000)
+  Else
+    Call oTrace.WriteArgs(ScriptName, "SendOpCode", "COM Object(s) NOT Initialized")
+  End If
+
+  
+  If  Err.Number <> 0  then   
+    Call oTrace.WriteArgs(ScriptName, "SendOpCode() Error " & Err.Number & Err.Description, "")
+    MsgBox "Error Number:" & Err.Number & _
+      vbCrLf & Err.Description
+  End If
+  
+  Exit Function
+  
+End Function
 
 '******************************************************************************
 '**** Sub Terminate
 '******************************************************************************
 Sub Terminate
   Err.Clear
+  On Error Resume Next
 
   Call oTrace.WriteArgs(ScriptName, "Terminate()", "")
-
-  rte.Terminate()
-
-  Set rte = Nothing
+  Set oOpcode = Nothing
   Set oTrace = Nothing
-    
+  Set oApi = Nothing
+  Exit Sub
+  
+  
   If  Err.Number <> 0  then   
     MsgBox "Error Number:" & Err.Number & _
       vbCrLf & Err.Description
@@ -277,5 +347,4 @@ Sub Terminate
   
   Exit Sub
 End Sub
-
 '***************************DO NOT CHANGE**************************************
