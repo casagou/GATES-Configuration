@@ -33,5 +33,5 @@
 192.168.50.84  DTS1126
 192.168.50.85  DTS1127
 192.168.50.90  gates-fcs-modbus   #Modbus Ethernet card
-192.168.50.95  gates-pbs4100   #Vibration system TBD
+192.168.50.95  gates-pbs4100   #Vibration system
 #-------------------------------------------------------
