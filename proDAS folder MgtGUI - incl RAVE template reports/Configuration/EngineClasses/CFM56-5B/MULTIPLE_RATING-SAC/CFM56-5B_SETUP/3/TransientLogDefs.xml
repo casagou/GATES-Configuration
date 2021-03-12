@@ -1,5 +1,5 @@
-<TransientLogDefs LastModificationDate="2021-02-25 07:17:15" Version="1.1">
-	<TransientLogDef LastModificationDate="2021-02-25 07:17:22" FormatVersion="2.0" Enabled="true" Name="Demo_Log" Description="auto_report" Rate="10" Duration="300000.000000">
+<TransientLogDefs LastModificationDate="2021-02-25 14:17:15" Version="1.1">
+	<TransientLogDef LastModificationDate="2021-02-25 14:17:22" FormatVersion="2.0" Enabled="true" Name="Demo_Log" Description="auto_report" Rate="10" Duration="300000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="Al_Float2_Lim"/>
 			<TransientLogDefChannel Name="PLC_to_DAS_Float_056"/>
@@ -834,7 +834,7 @@
 			<TransientLogDefChannel Name="PLC_to_DAS_Float_057"/>
 		</Categories>
 	</TransientLogDef>
-	<TransientLogDef LastModificationDate="2021-02-25 07:17:15" FormatVersion="2.0" Enabled="true" Name="Start" Description="auto_report" Rate="10" Duration="240000.000000">
+	<TransientLogDef LastModificationDate="2021-02-25 14:17:15" FormatVersion="2.0" Enabled="true" Name="Start" Description="auto_report" Rate="10" Duration="240000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="A27522"/>
 			<TransientLogDefChannel Name="StartL"/>
@@ -887,7 +887,7 @@
 			<TransientLogDefChannel Name="StartEng"/>
 		</Categories>
 	</TransientLogDef>
-	<TransientLogDef LastModificationDate="2021-02-25 07:17:15" FormatVersion="2.0" Enabled="true" Name="Acceleration" Description="auto_report" Rate="10" Duration="240000.000000">
+	<TransientLogDef LastModificationDate="2021-02-25 14:17:15" FormatVersion="2.0" Enabled="true" Name="Acceleration" Description="auto_report" Rate="10" Duration="240000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="tAcc1"/>
 			<TransientLogDefChannel Name="Vib2N1Pk"/>
@@ -915,7 +915,7 @@
 			<TransientLogDefChannel Name="VIBFFCCN2"/>
 		</Categories>
 	</TransientLogDef>
-	<TransientLogDef LastModificationDate="2021-02-25 07:17:15" FormatVersion="2.0" Enabled="true" Name="Vibration" Description="auto_report" Rate="10" Duration="240000.000000">
+	<TransientLogDef LastModificationDate="2021-02-25 14:17:15" FormatVersion="2.0" Enabled="true" Name="Vibration" Description="auto_report" Rate="10" Duration="240000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="EGT"/>
 			<TransientLogDefChannel Name="N2IO"/>
@@ -944,14 +944,14 @@
 			<TransientLogDefChannel Name="N1IO"/>
 		</Categories>
 	</TransientLogDef>
-	<TransientLogDef LastModificationDate="2021-02-25 07:17:15" FormatVersion="2.0" Enabled="true" Name="TB" Description="auto_report " Rate="10" Duration="240000.000000">
+	<TransientLogDef LastModificationDate="2021-02-25 14:17:15" FormatVersion="2.0" Enabled="true" Name="TB" Description="auto_report " Rate="10" Duration="240000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="FANBRGN1"/>
 			<TransientLogDefChannel Name="N1S"/>
 			<TransientLogDefChannel Name="VIBFFCCN1"/>
 		</Categories>
 	</TransientLogDef>
-	<TransientLogDef LastModificationDate="2021-02-25 07:17:15" FormatVersion="2.0" Enabled="true" Name="Motoring" Description="auto_report" Rate="10" Duration="240000.000000">
+	<TransientLogDef LastModificationDate="2021-02-25 14:17:15" FormatVersion="2.0" Enabled="true" Name="Motoring" Description="auto_report" Rate="10" Duration="240000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="N1S"/>
 			<TransientLogDefChannel Name="N2S"/>
@@ -962,7 +962,7 @@
 			<TransientLogDefChannel Name="TOil"/>
 		</Categories>
 	</TransientLogDef>
-	<TransientLogDef LastModificationDate="2021-02-25 07:17:15" FormatVersion="2.0" Enabled="true" Name="Deceleration" Description="auto_report" Rate="10" Duration="240000.000000">
+	<TransientLogDef LastModificationDate="2021-02-25 14:17:15" FormatVersion="2.0" Enabled="true" Name="Deceleration" Description="auto_report" Rate="10" Duration="240000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="tAcc1"/>
 			<TransientLogDefChannel Name="Vib2N1Pk"/>
@@ -990,7 +990,7 @@
 			<TransientLogDefChannel Name="VIBFFCCN2"/>
 		</Categories>
 	</TransientLogDef>
-	<TransientLogDef LastModificationDate="2021-03-01 13:45:33" FormatVersion="2.0" Enabled="true" Name="Vibration_Accel" Description="auto_report" Rate="10" Duration="240000.000000">
+	<TransientLogDef LastModificationDate="2021-03-01 20:45:33" FormatVersion="2.0" Enabled="true" Name="Vibration_Accel" Description="auto_report" Rate="10" Duration="240000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="N1"/>
 			<TransientLogDefChannel Name="VIBTRFN1"/>
@@ -1008,7 +1008,7 @@
 			<TransientLogDefChannel Name="VIB1_2"/>
 		</Categories>
 	</TransientLogDef>
-	<TransientLogDef LastModificationDate="2021-03-01 13:58:57" FormatVersion="2.0" Enabled="true" Name="Vibration_Decel" Description="auto_report" Rate="10" Duration="240000.000000">
+	<TransientLogDef LastModificationDate="2021-03-01 20:58:57" FormatVersion="2.0" Enabled="true" Name="Vibration_Decel" Description="auto_report" Rate="10" Duration="240000.000000">
 		<Categories>
 			<TransientLogDefChannel Name="N1"/>
 			<TransientLogDefChannel Name="VIBTRFN1"/>

@@ -1,5 +1,5 @@
-<Subsystems LastModificationDate="2021-02-25 07:17:15" Version="1.1">
-	<Subsystem Name="arinc429" Description="Avionics data bus signals from Engine" Enabled="true" Id="9" Type="Arinc429" LastModificationDate="2021-02-25 07:17:21" CreationDate="2021-02-25 07:17:21">
+<Subsystems LastModificationDate="2021-02-25 14:17:15" Version="1.1">
+	<Subsystem Name="arinc429" Description="Avionics data bus signals from Engine" Enabled="true" Id="9" Type="Arinc429" LastModificationDate="2021-02-25 14:17:21" CreationDate="2021-02-25 14:17:21">
 		<Pinouts>
 			<Pinout Name="ArincTx01" Source="O" Port="1" Speed="L"/>
 			<Pinout Name="ArincRx08" Source="I" Port="8" Speed="L"/>
@@ -15,7 +15,7 @@
 			<Pinout Name="ArincRx07" Source="I" Port="7" Speed="L"/>
 		</Pinouts>
 	</Subsystem>
-	<Subsystem Name="Vibration" Description="Vibration and balancing signals from PBS-4100R+" Enabled="true" Id="8" Type="MVIB" LastModificationDate="2021-02-25 07:17:21" CreationDate="2021-02-25 07:17:21"/>
+	<Subsystem Name="Vibration" Description="Vibration and balancing signals from PBS-4100R+" Enabled="true" Id="8" Type="MVIB" LastModificationDate="2021-02-25 14:17:21" CreationDate="2021-02-25 14:17:21"/>
 	<Subsystem Name="Calculated" Description="Calculated and simulated signals" Enabled="true" Id="7" Type="Calculated"/>
 	<Subsystem Name="DTS" Description="Temperature measurements from DTS4050" Enabled="true" Id="6" Type="DTS3250">
 		<Devices>
@@ -25,7 +25,7 @@
 			<Device HostName="DTS1127" ScannerModel="DTS3250" NumberOfChannels="16" UnitScanRate="40" AverageSamples="1" DefaultEu="C"/>
 		</Devices>
 	</Subsystem>
-	<Subsystem Name="FCS" Description="Facility Control System signals" Enabled="true" Id="5" Type="ModBusEthernet" LastModificationDate="2021-02-25 07:17:21" CreationDate="2021-02-25 07:17:21" MaxBooleanInAddress="50000" MaxFloatInAddress="50000" MaxBooleanOutAddress="50000" MaxFloatOutAddress="50000"/>
+	<Subsystem Name="FCS" Description="Facility Control System signals" Enabled="true" Id="5" Type="ModBusEthernet" LastModificationDate="2021-02-25 14:17:21" CreationDate="2021-02-25 14:17:21" MaxBooleanInAddress="50000" MaxFloatInAddress="50000" MaxBooleanOutAddress="50000" MaxFloatOutAddress="50000"/>
 	<Subsystem Name="IDDS" Description="Mandatory for iDDS to work" Enabled="true" Id="4" Type="iDDS"/>
 	<Subsystem Name="PBS" Description="Pressure measurements from Model 9216" Enabled="true" Id="3" Type="PBS">
 		<Bricks>
@@ -71,5 +71,5 @@
 			</Brick>
 		</Bricks>
 	</Subsystem>
-	<Subsystem Name="Throttle" Description="Throttle Mark3 signals" Enabled="true" Id="2" Type="ModBusEthernet" LastModificationDate="2021-02-25 07:17:22" CreationDate="2021-02-25 07:17:22" MaxBooleanInAddress="50000" MaxFloatInAddress="50000" MaxBooleanOutAddress="50000" MaxFloatOutAddress="50000"/>
+	<Subsystem Name="Throttle" Description="Throttle Mark3 signals" Enabled="true" Id="2" Type="ModBusEthernet" LastModificationDate="2021-02-25 14:17:22" CreationDate="2021-02-25 14:17:22" MaxBooleanInAddress="50000" MaxFloatInAddress="50000" MaxBooleanOutAddress="50000" MaxFloatOutAddress="50000"/>
 </Subsystems>

@@ -35,10 +35,10 @@ TestYes = None
 channel("Eng_On")
 
 
-#channel("CellRdy,StAirOn,StAirFB,MFPump,MFPumpST,P_Fuel_Fac,OILQTY,IdleCtrlST,IdleCtrl,IGNCtrl_Act,IGNCtrl_ActST,StartControl,StrtCtrlST,AIRSTRT,StrtCtrlST,AIRSTRT,StrtVlvST, FuelOn,TLAFILTR,StartReset,LITF,tToLite,tToLiteMax,POIL,GIFlag,N1,PeakEGT,STCorr,tToIdleLim,POILC,POILCLoLim,POILCHiLim,ECUFltChaA,ECUFltChaB,HPTCDelta,LPTCDelta")
+#channel("CellRdy,StAirOn,StAirFB,MFPump,MFPumpST,P_Fuel_Fac,OILQTY,IdleCtrlST,IdleCtrl,IGNCtrl_Act,IGNCtrl_ActST,StartControl,StrtCtrlST,AIRSTRT,StrtCtrlST,AIRSTRT,StrtVlvST,FuelOn,TLAFILTR,StartReset,LITF,tToLite,tToLiteMax,POIL,GIFlag,N1,PeakEGT,STCorr,tToIdleLim,POILC,POILCLoLim,POILCHiLim,ECUFltChaA,ECUFltChaB,HPTCDelta,LPTCDelta")
 
 
-#show_view("rtd2host", "View 0", "Start.v")
+#show_view("rtd2host","View 0","Start.v")
 
 
 if getCV("Eng_On") == 1:
@@ -47,7 +47,7 @@ if getCV("Eng_On") == 1:
 	pass
 
 
-instruction("Perform inspection for leaks, proper drainage and")
+instruction("Perform inspection for leaks,proper drainage and")
 
 note("any abnormal conditions")
 
@@ -55,32 +55,32 @@ note("any abnormal conditions")
 FuelLk = prompt_boo("Are there fuel leaks?")
 
 if FuelLk:
-	result("There are fuel leaks", REPORT + "LeakCheck")
+	result("There are fuel leaks",REPORT + "LeakCheck")
 
 else:
-	result("There are no fuel leaks", REPORT + "LeakCheck")
+	result("There are no fuel leaks",REPORT + "LeakCheck")
 
 	pass
 
 OilLk = prompt_boo("Are there oil leaks?")
 
 if OilLk:
-	result("There are oil leaks", REPORT + "LeakCheck")
+	result("There are oil leaks",REPORT + "LeakCheck")
 
 else:
-	result("There are no oil leaks", REPORT + "LeakCheck")
+	result("There are no oil leaks",REPORT + "LeakCheck")
 
 	pass
 
-note("NOTE: If adjustment is required, correct all faults. If any")
+note("NOTE: If adjustment is required,correct all faults. If any")
 
-note("      leaks were corrected, repeat the Start and Leak Check")
+note("      leaks were corrected,repeat the Start and Leak Check")
 
 
 TestYes = prompt_boo("Is Test Final leak check completed?")
 
 if TestYes:
-	result("Test Final leak check completed and authorized.", REPORT + "Test9")
+	result("Test Final leak check completed and authorized.",REPORT + "Test9")
 
 	pass
 

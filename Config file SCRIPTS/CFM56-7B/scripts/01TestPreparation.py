@@ -38,7 +38,7 @@ lvNoleak = None
 lvPreTest = None
 
 # Channel Registration
-channel("Eng_On,PreRTMin,PreRTHr,PreFuel,PLA,IDGdisc,FuelEnable,ID,ID_N1TOMx,BVlvUp,BVlvEnable,BVlv_Pos,B27A_Model,B27AE_Model")
+channel("Eng_On,PreRTMin,PreRTHr,PreFuel,PLA,IDGdisc,ID,ID_N1TOMx,B27A_Model,B27AE_Model")
 
 
 

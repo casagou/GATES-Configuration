@@ -21,7 +21,7 @@ from nxtps import *
 #******************************************************************************
 
 # Channel Registration
-channel("EngStrtLvr,StrtSwitch,ECUpwrA,ECUpwrB,IgnPwrL,IgnPwrR,Ignit1X,Ignit2X,FIFB,FCS_AirRdy,FCS_FuelRdy,N2PCT,N2,tToLite,tToLiteMax,WFK,EndStartL,tToIdle,EndLite,N2,APOilLoc,StartReset")
+channel("EngStrtLvr,StrtSwitch,ECUpwrA,ECUpwrB,IgnPwrL,IgnPwrR,Ignit1X,Ignit2X,FIFB,FCS_AirRdy,FCS_FuelRdy,N2PCT,N2,tToLite,tToLiteMax,WFK,EndStartL,tToIdle,EndLite,N2,PEOFILTR,StartReset")
 
 In_ExhOK = None
 Numeric = None
@@ -164,7 +164,7 @@ else:
 
 instruction("Check for positive, increasing oil pressure")
 
-wait("APOilLoc > 5", 15, 0.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, "POIL did not reach 5 psi")
+wait("PEOFILTR > 5", 15, 0.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, "POIL did not reach 5 psi")
 
 
 if SkipGV:

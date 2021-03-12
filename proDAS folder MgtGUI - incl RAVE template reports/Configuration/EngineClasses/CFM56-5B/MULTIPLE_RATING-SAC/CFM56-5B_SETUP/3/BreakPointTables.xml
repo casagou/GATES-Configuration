@@ -1,5 +1,5 @@
-<BreakPointTables LastModificationDate="2021-02-25 07:17:15" Version="1.1">
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:40" Enabled="true" Name="PT100.DegC" Description="Standard PT100 RTD Ohms to Deg C conversion" Type="2d" XEngineeringUnit="ohm" YEngineeringUnit="degC" Id="160">
+<BreakPointTables LastModificationDate="2021-02-25 14:17:15" Version="1.1">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:40" Enabled="true" Name="PT100.DegC" Description="Standard PT100 RTD Ohms to Deg C conversion" Type="2d" XEngineeringUnit="ohm" YEngineeringUnit="degC" Id="161">
 		<Pair X="18.52" Y="-200"/>
 		<Pair X="18.96" Y="-199"/>
 		<Pair X="19.39" Y="-198"/>
@@ -1052,7 +1052,7 @@
 		<Pair X="390.19" Y="849"/>
 		<Pair X="390.48" Y="850"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:42" Enabled="true" Name="TypeR.C" Description="Standard Type R thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="159">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:42" Enabled="true" Name="TypeR.C" Description="Standard Type R thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="160">
 		<Pair X="-0.226" Y="-50"/>
 		<Pair X="-0.223" Y="-49"/>
 		<Pair X="-0.219" Y="-48"/>
@@ -2873,7 +2873,7 @@
 		<Pair X="21.089" Y="1767"/>
 		<Pair X="21.101" Y="1768"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:42" Enabled="true" Name="TypeR.F" Description="Standard Type R thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="158">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:42" Enabled="true" Name="TypeR.F" Description="Standard Type R thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="159">
 		<Pair X="-0.226" Y="-58"/>
 		<Pair X="-0.223" Y="-56.2"/>
 		<Pair X="-0.219" Y="-54.4"/>
@@ -4694,7 +4694,7 @@
 		<Pair X="21.089" Y="3212.6"/>
 		<Pair X="21.101" Y="3214.4"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:42" Enabled="true" Name="TypeC.F" Description="Standard Type C thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="157">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:42" Enabled="true" Name="TypeC.F" Description="Standard Type C thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="158">
 		<Pair X="-3.987566E-04" Y="32"/>
 		<Pair X="7.042647E-03" Y="33"/>
 		<Pair X="0.0144916" Y="34"/>
@@ -8873,7 +8873,7 @@
 		<Pair X="71.58659" Y="4207"/>
 		<Pair X="71.63265" Y="4208"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:44" Enabled="true" Name="TypeR.K" Description="Standard Type R thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="156">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:44" Enabled="true" Name="TypeR.K" Description="Standard Type R thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="157">
 		<Pair X="-0.226" Y="223.15"/>
 		<Pair X="-0.223" Y="224.15"/>
 		<Pair X="-0.219" Y="225.15"/>
@@ -10694,7 +10694,7 @@
 		<Pair X="21.089" Y="2040.15"/>
 		<Pair X="21.101" Y="2041.15"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:44" Enabled="true" Name="TypeR.R" Description="Standard Type R thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="155">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:44" Enabled="true" Name="TypeR.R" Description="Standard Type R thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="156">
 		<Pair X="-0.226" Y="401.67"/>
 		<Pair X="-0.223" Y="403.47"/>
 		<Pair X="-0.219" Y="405.27"/>
@@ -12515,7 +12515,7 @@
 		<Pair X="21.089" Y="3672.27"/>
 		<Pair X="21.101" Y="3674.07"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:44" Enabled="true" Name="TypeS.C" Description="Standard Type S thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="154">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:44" Enabled="true" Name="TypeS.C" Description="Standard Type S thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="155">
 		<Pair X="-0.236" Y="-50"/>
 		<Pair X="-0.232" Y="-49"/>
 		<Pair X="-0.228" Y="-48"/>
@@ -14336,7 +14336,7 @@
 		<Pair X="18.682" Y="1767"/>
 		<Pair X="18.693" Y="1768"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:45" Enabled="true" Name="PT100.DegK" Description="Standard PT100 RTD Ohms to Deg K conversion" Type="2d" XEngineeringUnit="ohm" YEngineeringUnit="K" Id="153">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:45" Enabled="true" Name="PT100.DegK" Description="Standard PT100 RTD Ohms to Deg K conversion" Type="2d" XEngineeringUnit="ohm" YEngineeringUnit="K" Id="154">
 		<Pair X="18.52" Y="73.15"/>
 		<Pair X="18.96" Y="74.15"/>
 		<Pair X="19.39" Y="75.15"/>
@@ -15389,7 +15389,7 @@
 		<Pair X="390.19" Y="1122.15"/>
 		<Pair X="390.48" Y="1123.15"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:45" Enabled="true" Name="TypeS.F" Description="Standard Type S thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="152">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:45" Enabled="true" Name="TypeS.F" Description="Standard Type S thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="153">
 		<Pair X="-0.236" Y="-58"/>
 		<Pair X="-0.232" Y="-56.2"/>
 		<Pair X="-0.228" Y="-54.4"/>
@@ -17210,7 +17210,7 @@
 		<Pair X="18.682" Y="3212.6"/>
 		<Pair X="18.693" Y="3214.4"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:45" Enabled="true" Name="TypeS.K" Description="Standard Type S thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="151">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:45" Enabled="true" Name="TypeS.K" Description="Standard Type S thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="152">
 		<Pair X="-0.236" Y="223.15"/>
 		<Pair X="-0.232" Y="224.15"/>
 		<Pair X="-0.228" Y="225.15"/>
@@ -19031,7 +19031,7 @@
 		<Pair X="18.682" Y="2040.15"/>
 		<Pair X="18.693" Y="2041.15"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:46" Enabled="true" Name="TypeS.R" Description="Standard Type S thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="150">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:46" Enabled="true" Name="TypeS.R" Description="Standard Type S thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="151">
 		<Pair X="-0.236" Y="401.67"/>
 		<Pair X="-0.232" Y="403.47"/>
 		<Pair X="-0.228" Y="405.27"/>
@@ -20852,7 +20852,7 @@
 		<Pair X="18.682" Y="3672.27"/>
 		<Pair X="18.693" Y="3674.07"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:40" Enabled="true" Name="TypeK.F" Description="Standard Type K thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="149">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:40" Enabled="true" Name="TypeK.F" Description="Standard Type K thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="150">
 		<Pair X="-3.554" Y="-148"/>
 		<Pair X="-3.523" Y="-146.2"/>
 		<Pair X="-3.492" Y="-144.4"/>
@@ -22327,7 +22327,7 @@
 		<Pair X="54.852" Y="2499.8"/>
 		<Pair X="54.886" Y="2501.6"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:46" Enabled="true" Name="TypeT.C" Description="Standard Type T thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="148">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:46" Enabled="true" Name="TypeT.C" Description="Standard Type T thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="149">
 		<Pair X="-6.258" Y="-270"/>
 		<Pair X="-6.256" Y="-269"/>
 		<Pair X="-6.255" Y="-268"/>
@@ -23000,7 +23000,7 @@
 		<Pair X="20.81" Y="399"/>
 		<Pair X="20.872" Y="400"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:46" Enabled="true" Name="TypeT.F" Description="Standard Type T thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="147">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:46" Enabled="true" Name="TypeT.F" Description="Standard Type T thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="148">
 		<Pair X="-6.258" Y="-454"/>
 		<Pair X="-6.256" Y="-452.2"/>
 		<Pair X="-6.255" Y="-450.4"/>
@@ -23673,7 +23673,7 @@
 		<Pair X="20.81" Y="750.2"/>
 		<Pair X="20.872" Y="752"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:47" Enabled="true" Name="TypeT.K" Description="Standard Type T thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="146">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:47" Enabled="true" Name="TypeT.K" Description="Standard Type T thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="147">
 		<Pair X="-6.258" Y="3.15"/>
 		<Pair X="-6.256" Y="4.15"/>
 		<Pair X="-6.255" Y="5.15"/>
@@ -24346,7 +24346,7 @@
 		<Pair X="20.81" Y="672.15"/>
 		<Pair X="20.872" Y="673.15"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:47" Enabled="true" Name="TypeC.K" Description="Standard Type C thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="145">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:47" Enabled="true" Name="TypeC.K" Description="Standard Type C thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="146">
 		<Pair X="-3.987566E-04" Y="273.15"/>
 		<Pair X="7.042647E-03" Y="273.7056"/>
 		<Pair X="0.0144916" Y="274.2611"/>
@@ -28525,7 +28525,7 @@
 		<Pair X="71.58659" Y="2592.594"/>
 		<Pair X="71.63265" Y="2593.15"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:48" Enabled="true" Name="TypeT.R" Description="Standard Type T thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="144">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:48" Enabled="true" Name="TypeT.R" Description="Standard Type T thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="145">
 		<Pair X="-6.258" Y="5.67"/>
 		<Pair X="-6.256" Y="7.47"/>
 		<Pair X="-6.255" Y="9.27"/>
@@ -29198,7 +29198,7 @@
 		<Pair X="20.81" Y="1209.87"/>
 		<Pair X="20.872" Y="1211.67"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:48" Enabled="true" Name="PT100.DegR" Description="Standard PT100 RTD Ohms to Deg R conversion" Type="2d" XEngineeringUnit="ohm" YEngineeringUnit="degR" Id="143">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:48" Enabled="true" Name="PT100.DegR" Description="Standard PT100 RTD Ohms to Deg R conversion" Type="2d" XEngineeringUnit="ohm" YEngineeringUnit="degR" Id="144">
 		<Pair X="18.52" Y="131.67"/>
 		<Pair X="18.96" Y="133.47"/>
 		<Pair X="19.39" Y="135.27"/>
@@ -30251,7 +30251,7 @@
 		<Pair X="390.19" Y="2019.87"/>
 		<Pair X="390.48" Y="2021.67"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:48" Enabled="true" Name="TypeB.C" Description="Standard Type B thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="142">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:48" Enabled="true" Name="TypeB.C" Description="Standard Type B thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="143">
 		<Pair X="-0.0057" Y="0"/>
 		<Pair X="-0.0056" Y="1"/>
 		<Pair X="-0.0055" Y="2"/>
@@ -32074,7 +32074,7 @@
 		<Pair X="13.809" Y="1819"/>
 		<Pair X="13.82" Y="1820"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:49" Enabled="true" Name="TypeB.F" Description="Standard Type B thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="141">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:49" Enabled="true" Name="TypeB.F" Description="Standard Type B thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="142">
 		<Pair X="-0.0057" Y="32"/>
 		<Pair X="-0.0056" Y="33.8"/>
 		<Pair X="-0.0055" Y="35.6"/>
@@ -33897,7 +33897,7 @@
 		<Pair X="13.809" Y="3306.2"/>
 		<Pair X="13.82" Y="3308"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:49" Enabled="true" Name="TypeB.K" Description="Standard Type B thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="140">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:49" Enabled="true" Name="TypeB.K" Description="Standard Type B thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="141">
 		<Pair X="-0.0057" Y="273.15"/>
 		<Pair X="-0.0056" Y="274.15"/>
 		<Pair X="-0.0055" Y="275.15"/>
@@ -35720,7 +35720,7 @@
 		<Pair X="13.809" Y="2092.15"/>
 		<Pair X="13.82" Y="2093.15"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:49" Enabled="true" Name="TypeB.R" Description="Standard Type B thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="139">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:49" Enabled="true" Name="TypeB.R" Description="Standard Type B thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="140">
 		<Pair X="-0.0057" Y="491.67"/>
 		<Pair X="-0.0056" Y="493.47"/>
 		<Pair X="-0.0055" Y="495.27"/>
@@ -37543,7 +37543,7 @@
 		<Pair X="13.809" Y="3765.87"/>
 		<Pair X="13.82" Y="3767.67"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:41" Enabled="true" Name="TypeK.K" Description="Standard Type K thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="138">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:41" Enabled="true" Name="TypeK.K" Description="Standard Type K thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="139">
 		<Pair X="-3.554" Y="173.15"/>
 		<Pair X="-3.523" Y="174.15"/>
 		<Pair X="-3.492" Y="175.15"/>
@@ -39018,7 +39018,7 @@
 		<Pair X="54.852" Y="1644.15"/>
 		<Pair X="54.886" Y="1645.15"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:50" Enabled="true" Name="TypeC.C" Description="Standard Type C thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="137">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:50" Enabled="true" Name="TypeC.C" Description="Standard Type C thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="138">
 		<Pair X="-3.987566E-04" Y="0"/>
 		<Pair X="7.042647E-03" Y="0.5555556"/>
 		<Pair X="0.0144916" Y="1.111111"/>
@@ -43197,7 +43197,7 @@
 		<Pair X="71.58659" Y="2319.444"/>
 		<Pair X="71.63265" Y="2320"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:51" Enabled="true" Name="TypeC.R" Description="Standard Type C thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="136">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:51" Enabled="true" Name="TypeC.R" Description="Standard Type C thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="137">
 		<Pair X="-3.987566E-04" Y="491.67"/>
 		<Pair X="7.042647E-03" Y="492.67"/>
 		<Pair X="0.0144916" Y="493.67"/>
@@ -47376,7 +47376,7 @@
 		<Pair X="71.58659" Y="4666.67"/>
 		<Pair X="71.63265" Y="4667.67"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:52" Enabled="true" Name="TypeJ.C" Description="Standard Type J thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="135">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:52" Enabled="true" Name="TypeJ.C" Description="Standard Type J thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="136">
 		<Pair X="-3.245" Y="-67.778"/>
 		<Pair X="-3.22" Y="-67.222"/>
 		<Pair X="-3.195" Y="-66.667"/>
@@ -49660,7 +49660,7 @@
 		<Pair X="69.49" Y="1198.889"/>
 		<Pair X="69.521" Y="1199.444"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:53" Enabled="true" Name="TypeJ.F" Description="Standard Type J thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="134">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:53" Enabled="true" Name="TypeJ.F" Description="Standard Type J thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="135">
 		<Pair X="-3.245" Y="-90.0004"/>
 		<Pair X="-3.22" Y="-88.9996"/>
 		<Pair X="-3.195" Y="-88.0006"/>
@@ -51944,7 +51944,7 @@
 		<Pair X="69.49" Y="2190"/>
 		<Pair X="69.521" Y="2190.999"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:53" Enabled="true" Name="TypeJ.K" Description="Standard Type J thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="133">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:53" Enabled="true" Name="TypeJ.K" Description="Standard Type J thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="134">
 		<Pair X="-3.245" Y="205.372"/>
 		<Pair X="-3.22" Y="205.928"/>
 		<Pair X="-3.195" Y="206.483"/>
@@ -54228,7 +54228,7 @@
 		<Pair X="69.49" Y="1472.039"/>
 		<Pair X="69.521" Y="1472.594"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:54" Enabled="true" Name="TypeJ.R" Description="Standard Type J thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="132">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:54" Enabled="true" Name="TypeJ.R" Description="Standard Type J thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="133">
 		<Pair X="-3.245" Y="369.6696"/>
 		<Pair X="-3.22" Y="370.6704"/>
 		<Pair X="-3.195" Y="371.6694"/>
@@ -56512,7 +56512,7 @@
 		<Pair X="69.49" Y="2649.67"/>
 		<Pair X="69.521" Y="2650.669"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:54" Enabled="true" Name="TypeK.C" Description="Standard Type K thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="131">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:54" Enabled="true" Name="TypeK.C" Description="Standard Type K thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="132">
 		<Pair X="-3.554" Y="-100"/>
 		<Pair X="-3.523" Y="-99"/>
 		<Pair X="-3.492" Y="-98"/>
@@ -57987,7 +57987,7 @@
 		<Pair X="54.852" Y="1371"/>
 		<Pair X="54.886" Y="1372"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:41" Enabled="true" Name="PT100.DegF" Description="Standard PT100 RTD Ohms to Deg F conversion" Type="2d" XEngineeringUnit="ohm" YEngineeringUnit="degF" Id="130">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:41" Enabled="true" Name="PT100.DegF" Description="Standard PT100 RTD Ohms to Deg F conversion" Type="2d" XEngineeringUnit="ohm" YEngineeringUnit="degF" Id="131">
 		<Pair X="18.52" Y="-328"/>
 		<Pair X="18.96" Y="-326.2"/>
 		<Pair X="19.39" Y="-324.4"/>
@@ -59040,7 +59040,7 @@
 		<Pair X="390.19" Y="1560.2"/>
 		<Pair X="390.48" Y="1562"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:41" Enabled="true" Name="TypeK.R" Description="Standard Type K thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="129">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:41" Enabled="true" Name="TypeK.R" Description="Standard Type K thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="130">
 		<Pair X="-3.554" Y="311.67"/>
 		<Pair X="-3.523" Y="313.47"/>
 		<Pair X="-3.492" Y="315.27"/>
@@ -60515,7 +60515,7 @@
 		<Pair X="54.852" Y="2959.47"/>
 		<Pair X="54.886" Y="2961.27"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:41" Enabled="true" Name="TypeN.C" Description="Standard Type N thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="128">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:41" Enabled="true" Name="TypeN.C" Description="Standard Type N thermocouple conversion table: mv to Deg C" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degC" Id="129">
 		<Pair X="-2.407" Y="-100"/>
 		<Pair X="-2.301" Y="-95"/>
 		<Pair X="-2.193" Y="-90"/>
@@ -60798,7 +60798,7 @@
 		<Pair X="47.333" Y="1295"/>
 		<Pair X="47.513" Y="1300"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:41" Enabled="true" Name="TypeN.F" Description="Standard Type N thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="127">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:41" Enabled="true" Name="TypeN.F" Description="Standard Type N thermocouple conversion table: mv to Deg F" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degF" Id="128">
 		<Pair X="-2.407" Y="-148"/>
 		<Pair X="-2.301" Y="-139"/>
 		<Pair X="-2.193" Y="-130"/>
@@ -61081,7 +61081,7 @@
 		<Pair X="47.333" Y="2363"/>
 		<Pair X="47.513" Y="2372"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:42" Enabled="true" Name="TypeN.K" Description="Standard Type N thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="126">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:42" Enabled="true" Name="TypeN.K" Description="Standard Type N thermocouple conversion table: mv to Deg K" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="K" Id="127">
 		<Pair X="-2.407" Y="173.15"/>
 		<Pair X="-2.301" Y="178.15"/>
 		<Pair X="-2.193" Y="183.15"/>
@@ -61364,7 +61364,7 @@
 		<Pair X="47.333" Y="1568.15"/>
 		<Pair X="47.513" Y="1573.15"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:16:42" Enabled="true" Name="TypeN.R" Description="Standard Type N thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="125">
+	<BreakPointTable LastModificationDate="2021-02-25 14:16:42" Enabled="true" Name="TypeN.R" Description="Standard Type N thermocouple conversion table: mv to Deg R" Type="2d" XEngineeringUnit="mV" YEngineeringUnit="degR" Id="126">
 		<Pair X="-2.407" Y="311.67"/>
 		<Pair X="-2.301" Y="320.67"/>
 		<Pair X="-2.193" Y="329.67"/>
@@ -61647,7 +61647,7 @@
 		<Pair X="47.333" Y="2822.67"/>
 		<Pair X="47.513" Y="2831.67"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="BMCFWX.CFM56_5B" Description="Bellmouth Flow Coeff Fig. 1314" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="124">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="BMCFWX.CFM56_5B" Description="Bellmouth Flow Coeff Fig. 1314" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="125">
 		<Pair X="1" Y="0.9717"/>
 		<Pair X="1.05" Y="0.9743"/>
 		<Pair X="1.1" Y="0.9767"/>
@@ -61660,7 +61660,7 @@
 		<Pair X="1.45" Y="0.9893"/>
 		<Pair X="1.5" Y="0.9905"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="KHN1.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="123">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="KHN1.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="124">
 		<Pair X="0" Y="1"/>
 		<Pair X="10" Y="0.99956"/>
 		<Pair X="20" Y="0.99913"/>
@@ -61683,7 +61683,7 @@
 		<Pair X="190" Y="0.99172"/>
 		<Pair X="200" Y="0.99129"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B8" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="122">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B8" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="123">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -61717,7 +61717,7 @@
 		<Triple X="7" Y="3" Z="-62"/>
 		<Triple X="7" Y="4" Z="-52"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B9" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="121">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B9" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="122">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -61751,7 +61751,7 @@
 		<Triple X="7" Y="3" Z="-67"/>
 		<Triple X="7" Y="4" Z="-52"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="EGTTRIM.CFM56_5B5" Description="EGT Trim Fig. 1321" Type="2d" XEngineeringUnit="psia" YEngineeringUnit="degC" Id="120">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="EGTTRIM.CFM56_5B5" Description="EGT Trim Fig. 1321" Type="2d" XEngineeringUnit="psia" YEngineeringUnit="degC" Id="121">
 		<Pair X="0" Y="25"/>
 		<Pair X="9.346" Y="25"/>
 		<Pair X="12.228" Y="32"/>
@@ -61759,7 +61759,7 @@
 		<Pair X="14.696" Y="48"/>
 		<Pair X="30" Y="48"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1KRatedMC.CFM56_5B_SAC" Description="N1C Rated @ MC Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="119">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1KRatedMC.CFM56_5B_SAC" Description="N1C Rated @ MC Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="120">
 		<Triple X="1" Y="1" Z="4762"/>
 		<Triple X="1" Y="2" Z="4762"/>
 		<Triple X="1" Y="3" Z="4762"/>
@@ -61797,7 +61797,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="WFAdj.CFM56_5B" Description="Fuel Flow Acc Adjust Fig. 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="118">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="WFAdj.CFM56_5B" Description="Fuel Flow Acc Adjust Fig. 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="119">
 		<Pair X="500" Y="1.0001"/>
 		<Pair X="1000" Y="0.9998"/>
 		<Pair X="1500" Y="0.9996"/>
@@ -61821,7 +61821,7 @@
 		<Pair X="5000" Y="1.0039"/>
 		<Pair X="5050" Y="1.0039"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="TRiseMC.CFM56_5B4_B7" Description="Temperature rise at MC fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="117">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="TRiseMC.CFM56_5B4_B7" Description="Temperature rise at MC fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="118">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -61983,7 +61983,7 @@
 		<Triple X="100" Y="110" Z="20.7"/>
 		<Triple X="100" Y="120" Z="21.5"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FNDR.CFM56_5B" Description="Thrust Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="lbf" Id="116">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FNDR.CFM56_5B" Description="Thrust Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="lbf" Id="117">
 		<Pair X="3750" Y="16793"/>
 		<Pair X="3800" Y="17378"/>
 		<Pair X="3850" Y="17961"/>
@@ -62013,7 +62013,7 @@
 		<Pair X="5050" Y="32778"/>
 		<Pair X="5100" Y="33228"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="EGTTRIM.CFM56_5B6" Description="EGT Trim Fig. 1321" Type="2d" XEngineeringUnit="psia" YEngineeringUnit="degC" Id="115">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="EGTTRIM.CFM56_5B6" Description="EGT Trim Fig. 1321" Type="2d" XEngineeringUnit="psia" YEngineeringUnit="degC" Id="116">
 		<Pair X="0" Y="0"/>
 		<Pair X="9.346" Y="0"/>
 		<Pair X="12.228" Y="9"/>
@@ -62021,7 +62021,7 @@
 		<Pair X="14.696" Y="30"/>
 		<Pair X="30" Y="30"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="EGTTRIM.CFM56_5B8" Description="EGT Trim Fig. 1321" Type="2d" XEngineeringUnit="psia" YEngineeringUnit="degC" Id="114">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="EGTTRIM.CFM56_5B8" Description="EGT Trim Fig. 1321" Type="2d" XEngineeringUnit="psia" YEngineeringUnit="degC" Id="115">
 		<Pair X="0" Y="56"/>
 		<Pair X="9.346" Y="56"/>
 		<Pair X="12.228" Y="61"/>
@@ -62029,7 +62029,7 @@
 		<Pair X="14.696" Y="64"/>
 		<Pair X="30" Y="64"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="EGTTRIM.CFM56_5B9" Description="EGT Trim Fig. 1321" Type="2d" XEngineeringUnit="psia" YEngineeringUnit="degC" Id="113">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="EGTTRIM.CFM56_5B9" Description="EGT Trim Fig. 1321" Type="2d" XEngineeringUnit="psia" YEngineeringUnit="degC" Id="114">
 		<Pair X="0" Y="0"/>
 		<Pair X="9.346" Y="0"/>
 		<Pair X="12.228" Y="9"/>
@@ -62037,7 +62037,7 @@
 		<Pair X="14.696" Y="34"/>
 		<Pair X="30" Y="34"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="KHFN.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="112">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="KHFN.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="113">
 		<Pair X="0" Y="1"/>
 		<Pair X="10" Y="1.00003"/>
 		<Pair X="20" Y="1.00005"/>
@@ -62060,7 +62060,7 @@
 		<Pair X="190" Y="1.00049"/>
 		<Pair X="200" Y="1.00051"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="WFDR.CFM56_5B" Description="Fuel Flow Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="pph" Id="111">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="WFDR.CFM56_5B" Description="Fuel Flow Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="pph" Id="112">
 		<Pair X="3750" Y="5493"/>
 		<Pair X="3800" Y="5694"/>
 		<Pair X="3850" Y="5897"/>
@@ -62090,7 +62090,7 @@
 		<Pair X="5050" Y="12582"/>
 		<Pair X="5100" Y="12860"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="EGTDRFN.CFM56_5B" Description="Thrust based EGT derivative for trending Figure 1316" Type="2d" XEngineeringUnit="lbf" YEngineeringUnit="K" Id="110">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="EGTDRFN.CFM56_5B" Description="Thrust based EGT derivative for trending Figure 1316" Type="2d" XEngineeringUnit="lbf" YEngineeringUnit="K" Id="111">
 		<Pair X="16793" Y="900"/>
 		<Pair X="17378" Y="908"/>
 		<Pair X="17961" Y="916"/>
@@ -62120,7 +62120,7 @@
 		<Pair X="32778" Y="1129"/>
 		<Pair X="33228" Y="1137"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO95.CFM56_5B6" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="109">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO95.CFM56_5B6" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="110">
 		<Pair X="-30" Y="3929"/>
 		<Pair X="-29" Y="3936"/>
 		<Pair X="-28" Y="3944"/>
@@ -62203,7 +62203,7 @@
 		<Pair X="49" Y="4502"/>
 		<Pair X="50" Y="4508"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="EGTDR.CFM56_5B" Description="EGT Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="K" Id="108">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="EGTDR.CFM56_5B" Description="EGT Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="K" Id="109">
 		<Pair X="3750" Y="900"/>
 		<Pair X="3800" Y="908"/>
 		<Pair X="3850" Y="916"/>
@@ -62233,7 +62233,7 @@
 		<Pair X="5050" Y="1129"/>
 		<Pair X="5100" Y="1137"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1KRatedTO.CFM56_5B_DAC" Description="N1C Rated @ TO Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="107">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1KRatedTO.CFM56_5B_DAC" Description="N1C Rated @ TO Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="108">
 		<Triple X="1" Y="1" Z="4836"/>
 		<Triple X="1" Y="2" Z="4935"/>
 		<Triple X="1" Y="3" Z="5053"/>
@@ -62271,7 +62271,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N2DR.CFM56_5B" Description="N2 Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="rpm" Id="106">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N2DR.CFM56_5B" Description="N2 Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="rpm" Id="107">
 		<Pair X="3750" Y="13394"/>
 		<Pair X="3800" Y="13456"/>
 		<Pair X="3850" Y="13515"/>
@@ -62301,7 +62301,7 @@
 		<Pair X="5050" Y="14749"/>
 		<Pair X="5100" Y="14789"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="W2DR.CFM56_5B" Description="Air Flow Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="pps" Id="105">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="W2DR.CFM56_5B" Description="Air Flow Derivative Figure 1316" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="pps" Id="106">
 		<Pair X="3750" Y="714"/>
 		<Pair X="3800" Y="725"/>
 		<Pair X="3850" Y="736"/>
@@ -62331,7 +62331,7 @@
 		<Pair X="5050" Y="967"/>
 		<Pair X="5100" Y="971"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="TRiseMC.CFM56_5B5_B6_B9" Description="Temperature rise at MC fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="104">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="TRiseMC.CFM56_5B5_B6_B9" Description="Temperature rise at MC fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="105">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -62493,7 +62493,7 @@
 		<Triple X="100" Y="110" Z="17.2"/>
 		<Triple X="100" Y="120" Z="17.8"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:11" Enabled="true" Name="N1TO.CFM56_5B2" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="103">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:11" Enabled="true" Name="N1TO.CFM56_5B2" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="104">
 		<Pair X="-30" Y="4564"/>
 		<Pair X="-29" Y="4572"/>
 		<Pair X="-28" Y="4580"/>
@@ -62576,7 +62576,7 @@
 		<Pair X="49" Y="4861"/>
 		<Pair X="50" Y="4851"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:11" Enabled="true" Name="WFDRFN.CFM56_5B" Description="Fuel Flow Derivative (FN adjust) Figure 1316" Type="2d" XEngineeringUnit="lbf" YEngineeringUnit="pph" Id="102">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:11" Enabled="true" Name="WFDRFN.CFM56_5B" Description="Fuel Flow Derivative (FN adjust) Figure 1316" Type="2d" XEngineeringUnit="lbf" YEngineeringUnit="pph" Id="103">
 		<Pair X="16793" Y="5493"/>
 		<Pair X="17378" Y="5694"/>
 		<Pair X="17961" Y="5897"/>
@@ -62606,7 +62606,7 @@
 		<Pair X="32778" Y="12582"/>
 		<Pair X="33228" Y="12860"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="KHWF.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="101">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="KHWF.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="102">
 		<Pair X="0" Y="1"/>
 		<Pair X="10" Y="0.99931"/>
 		<Pair X="20" Y="0.99862"/>
@@ -62629,7 +62629,7 @@
 		<Pair X="190" Y="0.98686"/>
 		<Pair X="200" Y="0.98617"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:11" Enabled="true" Name="XN1.CFM56_5B" Description="Theta exponent Fig. 1311 " Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="100">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:11" Enabled="true" Name="XN1.CFM56_5B" Description="Theta exponent Fig. 1311 " Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="101">
 		<Pair X="0" Y="0.5"/>
 		<Pair X="3300" Y="0.5"/>
 		<Pair X="3500" Y="0.499"/>
@@ -62645,7 +62645,7 @@
 		<Pair X="5440" Y="0.43"/>
 		<Pair X="5500" Y="0.43"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:11" Enabled="true" Name="XWF.CFM56_5B" Description="Theta exponent Fig. 1311" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="99">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:11" Enabled="true" Name="XWF.CFM56_5B" Description="Theta exponent Fig. 1311" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="100">
 		<Pair X="0" Y="-0.28"/>
 		<Pair X="1500" Y="0.482"/>
 		<Pair X="1750" Y="0.567"/>
@@ -62667,7 +62667,7 @@
 		<Pair X="5250" Y="0.63"/>
 		<Pair X="5500" Y="0.63"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:11" Enabled="true" Name="XEGT.CFM56_5B" Description="Theta exponent Fig. 1311" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="98">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:11" Enabled="true" Name="XEGT.CFM56_5B" Description="Theta exponent Fig. 1311" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="99">
 		<Pair X="0" Y="0.97404"/>
 		<Pair X="1500" Y="1.0525"/>
 		<Pair X="1750" Y="1.04407"/>
@@ -62689,7 +62689,7 @@
 		<Pair X="5250" Y="1.02535"/>
 		<Pair X="5500" Y="1"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:11" Enabled="true" Name="XN2C.CFM56_5B" Description="Theta exponent Fig. 1311" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="97">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:11" Enabled="true" Name="XN2C.CFM56_5B" Description="Theta exponent Fig. 1311" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="98">
 		<Pair X="0" Y="0.36"/>
 		<Pair X="1500" Y="0.36"/>
 		<Pair X="1750" Y="0.36"/>
@@ -62711,7 +62711,7 @@
 		<Pair X="5250" Y="0.36"/>
 		<Pair X="5500" Y="0.36"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:11" Enabled="true" Name="POilCorrType1.CFM56_5B" Description="Type 1 oils - pressure correction for speed and temperature" Type="3d" XEngineeringUnit="rpm" YEngineeringUnit="degC" ZEngineeringUnit="psi" Id="96">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:11" Enabled="true" Name="POilCorrType1.CFM56_5B" Description="Type 1 oils - pressure correction for speed and temperature" Type="3d" XEngineeringUnit="rpm" YEngineeringUnit="degC" ZEngineeringUnit="psi" Id="97">
 		<Triple X="7500" Y="10" Z="37.7"/>
 		<Triple X="7500" Y="20" Z="39.2"/>
 		<Triple X="7500" Y="30" Z="39.7"/>
@@ -63921,7 +63921,18 @@
 		<Triple X="15000" Y="90" Z="-4.9"/>
 		<Triple X="15000" Y="120" Z="-1.3"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="FNKRatedTO.CFM56_5B_SAC" Description="FNC Rated @ TO Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="lbf" Id="95">
+	<BreakPointTable LastModificationDate="2021-03-08 18:51:24" Enabled="true" Name="SFCMC.CFM56_5B" Description="SFC at take off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="lb/(lbf h)" Id="96">
+		<Pair X="1" Y="0.364"/>
+		<Pair X="2" Y="0.364"/>
+		<Pair X="3" Y="0.364"/>
+		<Pair X="4" Y="0.35"/>
+		<Pair X="5" Y="0.339"/>
+		<Pair X="6" Y="0.339"/>
+		<Pair X="7" Y="0.35"/>
+		<Pair X="8" Y="0.337"/>
+		<Pair X="9" Y="0.35"/>
+	</BreakPointTable>
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="FNKRatedTO.CFM56_5B_SAC" Description="FNC Rated @ TO Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="lbf" Id="95">
 		<Triple X="1" Y="1" Z="30000"/>
 		<Triple X="1" Y="2" Z="31000"/>
 		<Triple X="1" Y="3" Z="32000"/>
@@ -63959,14 +63970,14 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="EGT_KFactor.CFM56_5B" Description="Inlet Conden K Fact Fig. 1310" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="94">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="EGT_KFactor.CFM56_5B" Description="Inlet Conden K Fact Fig. 1310" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="94">
 		<Pair X="0" Y="-0.00011"/>
 		<Pair X="3800" Y="-0.00011"/>
 		<Pair X="4600" Y="-0.00011"/>
 		<Pair X="5200" Y="-0.0003"/>
 		<Pair X="5500" Y="-0.0003"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="KHEGT.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="93">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="KHEGT.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="93">
 		<Pair X="0" Y="1"/>
 		<Pair X="10" Y="1.00013"/>
 		<Pair X="20" Y="1.00026"/>
@@ -63989,7 +64000,7 @@
 		<Pair X="190" Y="1.00244"/>
 		<Pair X="200" Y="1.00257"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="KHN2.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="92">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="KHN2.CFM56_5B" Description="Humidity Correction Factor Fig. 1309 " Type="2d" XEngineeringUnit="grn" YEngineeringUnit="-" Id="92">
 		<Pair X="0" Y="1"/>
 		<Pair X="10" Y="0.99957"/>
 		<Pair X="20" Y="0.99914"/>
@@ -64012,13 +64023,13 @@
 		<Pair X="190" Y="0.99186"/>
 		<Pair X="200" Y="0.99143"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="KShunt.CFM56_5BP" Description="EGT Shunt Factor Fig. 1312" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="degC" Id="91">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="KShunt.CFM56_5BP" Description="EGT Shunt Factor Fig. 1312" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="degC" Id="91">
 		<Pair X="0" Y="0"/>
 		<Pair X="9500" Y="0"/>
 		<Pair X="10000" Y="10"/>
 		<Pair X="16000" Y="10"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="TRiseTO.CFM56_5B1" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="90">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="TRiseTO.CFM56_5B1" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="90">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -64180,7 +64191,7 @@
 		<Triple X="100" Y="110" Z="28.6"/>
 		<Triple X="100" Y="120" Z="29.6"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N1TO95.CFM56_5B9" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="89">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N1TO95.CFM56_5B9" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="89">
 		<Pair X="-30" Y="3920"/>
 		<Pair X="-29" Y="3927"/>
 		<Pair X="-28" Y="3935"/>
@@ -64263,7 +64274,7 @@
 		<Pair X="49" Y="4484"/>
 		<Pair X="50" Y="4490"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N1KRatedMC.CFM56_5B_DAC" Description="N1C Rated @ MC Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="88">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N1KRatedMC.CFM56_5B_DAC" Description="N1C Rated @ MC Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="88">
 		<Triple X="1" Y="1" Z="4762"/>
 		<Triple X="1" Y="2" Z="4762"/>
 		<Triple X="1" Y="3" Z="4762"/>
@@ -64301,7 +64312,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="SFCTO.CFM56_5B" Description="SFC at take off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="lb/(lbf h)" Id="87">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="SFCTO.CFM56_5B" Description="SFC at take off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="lb/(lbf h)" Id="87">
 		<Pair X="1" Y="0.37"/>
 		<Pair X="2" Y="0.377"/>
 		<Pair X="3" Y="0.386"/>
@@ -64312,7 +64323,7 @@
 		<Pair X="8" Y="0.344"/>
 		<Pair X="9" Y="0.348"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N1TO.CFM56_5B4_B7" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="86">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N1TO.CFM56_5B4_B7" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="86">
 		<Pair X="-30" Y="4224"/>
 		<Pair X="-29" Y="4232"/>
 		<Pair X="-28" Y="4240"/>
@@ -64395,7 +64406,7 @@
 		<Pair X="49" Y="4757"/>
 		<Pair X="50" Y="4746"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="ThetaHDMC.CFM56_5B" Description="Theta HD Max Cont Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="85">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="ThetaHDMC.CFM56_5B" Description="Theta HD Max Cont Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="85">
 		<Pair X="1" Y="1.064"/>
 		<Pair X="2" Y="1.064"/>
 		<Pair X="3" Y="1.064"/>
@@ -64406,7 +64417,7 @@
 		<Pair X="8" Y="1.064"/>
 		<Pair X="9" Y="0.996"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="ThetaHDTO.CFM56_5B" Description="Theta HD Take Off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="84">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="ThetaHDTO.CFM56_5B" Description="Theta HD Take Off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="84">
 		<Pair X="1" Y="1.052056"/>
 		<Pair X="2" Y="1.052056"/>
 		<Pair X="3" Y="1.052056"/>
@@ -64417,7 +64428,7 @@
 		<Pair X="8" Y="1.104112"/>
 		<Pair X="9" Y="1.104112"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="FNKRatedMC.CFM56_5B_SAC" Description="FNC Rated @ MC Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="lbf" Id="83">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="FNKRatedMC.CFM56_5B_SAC" Description="FNC Rated @ MC Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="lbf" Id="83">
 		<Triple X="1" Y="1" Z="29090"/>
 		<Triple X="1" Y="2" Z="29090"/>
 		<Triple X="1" Y="3" Z="29090"/>
@@ -64455,7 +64466,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="EGTExpMC.CFM56_5B" Description="HD EGT Exponent Max Cont Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="82">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="EGTExpMC.CFM56_5B" Description="HD EGT Exponent Max Cont Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="82">
 		<Pair X="1" Y="1.064"/>
 		<Pair X="2" Y="1.064"/>
 		<Pair X="3" Y="1.064"/>
@@ -64466,7 +64477,7 @@
 		<Pair X="8" Y="1.064"/>
 		<Pair X="9" Y="0.996"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="EGTExpTO.CFM56_5B" Description="HD EGT Exponent Take Off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="81">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="EGTExpTO.CFM56_5B" Description="HD EGT Exponent Take Off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="81">
 		<Pair X="1" Y="1.062"/>
 		<Pair X="2" Y="1.052"/>
 		<Pair X="3" Y="1.036"/>
@@ -64477,7 +64488,7 @@
 		<Pair X="8" Y="1.021"/>
 		<Pair X="9" Y="1.036"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="XN2CHDMC.CFM56_5B" Description="HD XN2C Exponent Max Cont Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="80">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="XN2CHDMC.CFM56_5B" Description="HD XN2C Exponent Max Cont Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="80">
 		<Pair X="1" Y="0.36"/>
 		<Pair X="2" Y="0.36"/>
 		<Pair X="3" Y="0.36"/>
@@ -64488,7 +64499,7 @@
 		<Pair X="8" Y="0.36"/>
 		<Pair X="9" Y="0.36"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="XN2CHDTO.CFM56_5B" Description="HD XN2C Exponent Take Off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="79">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="XN2CHDTO.CFM56_5B" Description="HD XN2C Exponent Take Off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="79">
 		<Pair X="1" Y="0.36"/>
 		<Pair X="2" Y="0.36"/>
 		<Pair X="3" Y="0.36"/>
@@ -64499,7 +64510,7 @@
 		<Pair X="8" Y="0.36"/>
 		<Pair X="9" Y="0.36"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="XN2.CFM56_5B" Description="Theta exponent Fig. 1311" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="78">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="XN2.CFM56_5B" Description="Theta exponent Fig. 1311" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="78">
 		<Pair X="0" Y="0.47"/>
 		<Pair X="1500" Y="0.47"/>
 		<Pair X="1750" Y="0.47"/>
@@ -64521,7 +64532,7 @@
 		<Pair X="5250" Y="0.44"/>
 		<Pair X="5500" Y="0.44"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="POilCorrType2.CFM56_5B" Description="Type 2 oils - pressure correction for speed and temperature" Type="3d" XEngineeringUnit="rpm" YEngineeringUnit="degC" ZEngineeringUnit="psi" Id="77">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="POilCorrType2.CFM56_5B" Description="Type 2 oils - pressure correction for speed and temperature" Type="3d" XEngineeringUnit="rpm" YEngineeringUnit="degC" ZEngineeringUnit="psi" Id="77">
 		<Triple X="7500" Y="10" Z="33.2"/>
 		<Triple X="7500" Y="20" Z="35.6"/>
 		<Triple X="7500" Y="30" Z="36.9"/>
@@ -65731,7 +65742,7 @@
 		<Triple X="15000" Y="90" Z="-2"/>
 		<Triple X="15000" Y="120" Z="1.7"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="TRiseTO.CFM56_5B3" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="76">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="TRiseTO.CFM56_5B3" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="76">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -65893,7 +65904,7 @@
 		<Triple X="100" Y="110" Z="32.3"/>
 		<Triple X="100" Y="120" Z="33.4"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="FNKRatedTO.CFM56_5B_DAC" Description="FNC Rated @ TO Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="lbf" Id="75">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="FNKRatedTO.CFM56_5B_DAC" Description="FNC Rated @ TO Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="lbf" Id="75">
 		<Triple X="1" Y="1" Z="30000"/>
 		<Triple X="1" Y="2" Z="31000"/>
 		<Triple X="1" Y="3" Z="32000"/>
@@ -65931,7 +65942,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="FNKRatedMC.CFM56_5B_DAC" Description="FNC Rated @ MC Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="lbf" Id="74">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="FNKRatedMC.CFM56_5B_DAC" Description="FNC Rated @ MC Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="lbf" Id="74">
 		<Triple X="1" Y="1" Z="29090"/>
 		<Triple X="1" Y="2" Z="29090"/>
 		<Triple X="1" Y="3" Z="29090"/>
@@ -65969,7 +65980,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="XT3.CFM56_5B" Description="Theta exponent Fig. 1311 " Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="73">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="XT3.CFM56_5B" Description="Theta exponent Fig. 1311 " Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="73">
 		<Pair X="0" Y="1"/>
 		<Pair X="1500" Y="0.946"/>
 		<Pair X="1750" Y="0.945"/>
@@ -65991,7 +66002,7 @@
 		<Pair X="5250" Y="0.832"/>
 		<Pair X="5500" Y="0.832"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="THDTO.CFM56_5B_SAC" Description="Flat Rated TO Temp fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degF" Id="72">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="THDTO.CFM56_5B_SAC" Description="Flat Rated TO Temp fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degF" Id="72">
 		<Triple X="1" Y="1" Z="86"/>
 		<Triple X="1" Y="2" Z="86"/>
 		<Triple X="1" Y="3" Z="86"/>
@@ -66029,7 +66040,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N1TO.CFM56_5B6" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="71">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N1TO.CFM56_5B6" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="71">
 		<Pair X="-30" Y="4007"/>
 		<Pair X="-29" Y="4014"/>
 		<Pair X="-28" Y="4022"/>
@@ -66112,7 +66123,7 @@
 		<Pair X="49" Y="4528"/>
 		<Pair X="50" Y="4520"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="FMN1AdjMC.CFM56_5B2" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="70">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="FMN1AdjMC.CFM56_5B2" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="70">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -66146,7 +66157,7 @@
 		<Triple X="7" Y="3" Z="-81"/>
 		<Triple X="7" Y="4" Z="-84"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="TRiseTO.CFM56_5B2" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="69">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="TRiseTO.CFM56_5B2" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="69">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -66308,7 +66319,7 @@
 		<Triple X="100" Y="110" Z="30"/>
 		<Triple X="100" Y="120" Z="31.1"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="THDMC.CFM56_5B_SAC" Description="Flat Rated MC Temp fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degF" Id="68">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="THDMC.CFM56_5B_SAC" Description="Flat Rated MC Temp fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degF" Id="68">
 		<Triple X="1" Y="1" Z="77"/>
 		<Triple X="1" Y="2" Z="77"/>
 		<Triple X="1" Y="3" Z="77"/>
@@ -66346,7 +66357,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="THDTO.CFM56_5B_DAC" Description="Flat Rated TO Temp fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degF" Id="67">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="THDTO.CFM56_5B_DAC" Description="Flat Rated TO Temp fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degF" Id="67">
 		<Triple X="1" Y="1" Z="86"/>
 		<Triple X="1" Y="2" Z="86"/>
 		<Triple X="1" Y="3" Z="86"/>
@@ -66384,7 +66395,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N1TO95.CFM56_5B8" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="66">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N1TO95.CFM56_5B8" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="66">
 		<Pair X="-30" Y="3799"/>
 		<Pair X="-29" Y="3807"/>
 		<Pair X="-28" Y="3814"/>
@@ -66467,7 +66478,7 @@
 		<Pair X="49" Y="4351"/>
 		<Pair X="50" Y="4357"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="THDMC.CFM56_5B_DAC" Description="Flat Rated MC Temp fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degF" Id="65">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="THDMC.CFM56_5B_DAC" Description="Flat Rated MC Temp fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degF" Id="65">
 		<Triple X="1" Y="1" Z="77"/>
 		<Triple X="1" Y="2" Z="77"/>
 		<Triple X="1" Y="3" Z="77"/>
@@ -66505,7 +66516,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="EGTHDLimTO.CFM56_5B_SAC" Description="Hot Day TO EGT Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degC" Id="64">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="EGTHDLimTO.CFM56_5B_SAC" Description="Hot Day TO EGT Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degC" Id="64">
 		<Triple X="1" Y="1" Z="944"/>
 		<Triple X="1" Y="2" Z="946"/>
 		<Triple X="1" Y="3" Z="937"/>
@@ -66543,7 +66554,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="TRiseTO.CFM56_5B4_B7" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="63">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="TRiseTO.CFM56_5B4_B7" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="63">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -66705,7 +66716,7 @@
 		<Triple X="100" Y="110" Z="24.3"/>
 		<Triple X="100" Y="120" Z="25.1"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="EGTHDLimMC.CFM56_5B_SAC" Description="Hot Day MC EGT Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degC" Id="62">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="EGTHDLimMC.CFM56_5B_SAC" Description="Hot Day MC EGT Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degC" Id="62">
 		<Triple X="1" Y="1" Z="901"/>
 		<Triple X="1" Y="2" Z="901"/>
 		<Triple X="1" Y="3" Z="901"/>
@@ -66743,7 +66754,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="EGTHDLimTO.CFM56_5B_DAC" Description="Hot Day TO EGT Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degC" Id="61">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="EGTHDLimTO.CFM56_5B_DAC" Description="Hot Day TO EGT Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degC" Id="61">
 		<Triple X="1" Y="1" Z="944"/>
 		<Triple X="1" Y="2" Z="946"/>
 		<Triple X="1" Y="3" Z="937"/>
@@ -66781,7 +66792,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="EGTHDLimMC.CFM56_5B_DAC" Description="Hot Day MC EGT Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degC" Id="60">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="EGTHDLimMC.CFM56_5B_DAC" Description="Hot Day MC EGT Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="degC" Id="60">
 		<Triple X="1" Y="1" Z="901"/>
 		<Triple X="1" Y="2" Z="901"/>
 		<Triple X="1" Y="3" Z="901"/>
@@ -66819,7 +66830,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N2HDLim.CFM56_5B_SAC" Description="Hot Day TO N2 Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="59">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N2HDLim.CFM56_5B_SAC" Description="Hot Day TO N2 Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="59">
 		<Triple X="1" Y="1" Z="15039"/>
 		<Triple X="1" Y="2" Z="15065"/>
 		<Triple X="1" Y="3" Z="15100"/>
@@ -66857,7 +66868,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N2HDLim.CFM56_5B_DAC" Description="Hot Day TO N2 Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="58">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N2HDLim.CFM56_5B_DAC" Description="Hot Day TO N2 Lim Fig. 1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="58">
 		<Triple X="1" Y="1" Z="15039"/>
 		<Triple X="1" Y="2" Z="15065"/>
 		<Triple X="1" Y="3" Z="15100"/>
@@ -66895,7 +66906,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="XN2HDMC.CFM56_5B" Description="HD XN2 Exponent Max Cont Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="57">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="XN2HDMC.CFM56_5B" Description="HD XN2 Exponent Max Cont Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="57">
 		<Pair X="1" Y="0.44"/>
 		<Pair X="2" Y="0.44"/>
 		<Pair X="3" Y="0.44"/>
@@ -66906,7 +66917,7 @@
 		<Pair X="8" Y="0.464"/>
 		<Pair X="9" Y="0.462"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N1TO.CFM56_5B9" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="56">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N1TO.CFM56_5B9" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="56">
 		<Pair X="-30" Y="3997"/>
 		<Pair X="-29" Y="4005"/>
 		<Pair X="-28" Y="4013"/>
@@ -66989,7 +67000,7 @@
 		<Pair X="49" Y="4511"/>
 		<Pair X="50" Y="4503"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="TCQT3HI.CFM56_5B" Description="Steady State TCQT3 Schedule fig 1304" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="55">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="TCQT3HI.CFM56_5B" Description="Steady State TCQT3 Schedule fig 1304" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="55">
 		<Pair X="8500" Y="1.02"/>
 		<Pair X="12000" Y="1"/>
 		<Pair X="12828" Y="0.928"/>
@@ -66998,7 +67009,7 @@
 		<Pair X="14903" Y="0.93"/>
 		<Pair X="16000" Y="1.014"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="TRiseTO.CFM56_5B5" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="54">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="TRiseTO.CFM56_5B5" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="54">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -67160,7 +67171,7 @@
 		<Triple X="100" Y="110" Z="19.1"/>
 		<Triple X="100" Y="120" Z="19.7"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="TRiseTO.CFM56_5B6" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="53">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="TRiseTO.CFM56_5B6" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="53">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -67322,7 +67333,7 @@
 		<Triple X="100" Y="110" Z="21"/>
 		<Triple X="100" Y="120" Z="21.7"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B4_B7" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="52">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B4_B7" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="52">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -67332,7 +67343,7 @@
 		<Triple X="1" Y="3" Z="-8"/>
 		<Triple X="1" Y="4" Z="-6"/>
 		<Triple X="2" Y="1" Z="-190"/>
-		<Triple X="2" Y="2" Z="2"/>
+		<Triple X="2" Y="2" Z="-2"/>
 		<Triple X="2" Y="3" Z="-16"/>
 		<Triple X="2" Y="4" Z="-12"/>
 		<Triple X="3" Y="1" Z="-285"/>
@@ -67356,7 +67367,7 @@
 		<Triple X="7" Y="3" Z="-69"/>
 		<Triple X="7" Y="4" Z="-52"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FNAdj.CFM56_5B" Description="FN Acc Adjust Fig. 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="51">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FNAdj.CFM56_5B" Description="FN Acc Adjust Fig. 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="51">
 		<Pair X="500" Y="1.0156"/>
 		<Pair X="1000" Y="1.0052"/>
 		<Pair X="1500" Y="1.0043"/>
@@ -67380,7 +67391,7 @@
 		<Pair X="5000" Y="1.0086"/>
 		<Pair X="5050" Y="1.0086"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="TRiseTO.CFM56_5B8" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="50">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="TRiseTO.CFM56_5B8" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="50">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -67542,7 +67553,7 @@
 		<Triple X="100" Y="110" Z="19.1"/>
 		<Triple X="100" Y="120" Z="19.7"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="TRiseTO.CFM56_5B9" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="49">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="TRiseTO.CFM56_5B9" Description="Temperature rise at TO fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="49">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -67704,7 +67715,7 @@
 		<Triple X="100" Y="110" Z="21"/>
 		<Triple X="100" Y="120" Z="21.7"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO.CFM56_5B8" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="48">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO.CFM56_5B8" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="48">
 		<Pair X="-30" Y="3880"/>
 		<Pair X="-29" Y="3888"/>
 		<Pair X="-28" Y="3896"/>
@@ -67787,7 +67798,7 @@
 		<Pair X="49" Y="4383"/>
 		<Pair X="50" Y="4375"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1MC.CFM56_5B1" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="47">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1MC.CFM56_5B1" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="47">
 		<Pair X="-30" Y="4398"/>
 		<Pair X="-29" Y="4407"/>
 		<Pair X="-28" Y="4415"/>
@@ -67870,7 +67881,7 @@
 		<Pair X="49" Y="4767"/>
 		<Pair X="50" Y="4758"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1MC.CFM56_5B2" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="46">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1MC.CFM56_5B2" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="46">
 		<Pair X="-30" Y="4398"/>
 		<Pair X="-29" Y="4407"/>
 		<Pair X="-28" Y="4415"/>
@@ -67953,7 +67964,7 @@
 		<Pair X="49" Y="4861"/>
 		<Pair X="50" Y="4851"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1KRatedTO.CFM56_5B_SAC" Description="N1C Rated @ TO Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="45">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1KRatedTO.CFM56_5B_SAC" Description="N1C Rated @ TO Fig.1301" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="rpm" Id="45">
 		<Triple X="1" Y="1" Z="4836"/>
 		<Triple X="1" Y="2" Z="4935"/>
 		<Triple X="1" Y="3" Z="5053"/>
@@ -67991,7 +68002,7 @@
 		<Triple X="4" Y="8" Z="-88888"/>
 		<Triple X="4" Y="9" Z="-88888"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="TRiseMC.CFM56_5B8" Description="Temperature rise at MC fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="44">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="TRiseMC.CFM56_5B8" Description="Temperature rise at MC fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="44">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -68153,7 +68164,7 @@
 		<Triple X="100" Y="110" Z="15.2"/>
 		<Triple X="100" Y="120" Z="15.8"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1MC.CFM56_5B3" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="43">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1MC.CFM56_5B3" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="43">
 		<Pair X="-30" Y="4398"/>
 		<Pair X="-29" Y="4407"/>
 		<Pair X="-28" Y="4415"/>
@@ -68236,7 +68247,7 @@
 		<Pair X="49" Y="4978"/>
 		<Pair X="50" Y="4968"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1MC.CFM56_5B4_B7" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="42">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1MC.CFM56_5B4_B7" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="42">
 		<Pair X="-30" Y="4060"/>
 		<Pair X="-29" Y="4068"/>
 		<Pair X="-28" Y="4076"/>
@@ -68319,7 +68330,7 @@
 		<Pair X="49" Y="4647"/>
 		<Pair X="50" Y="4654"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO15.CFM56_5B1" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="41">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO15.CFM56_5B1" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="41">
 		<Pair X="-30" Y="1920"/>
 		<Pair X="-29" Y="1924"/>
 		<Pair X="-28" Y="1928"/>
@@ -68402,7 +68413,7 @@
 		<Pair X="49" Y="2210"/>
 		<Pair X="50" Y="2213"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1MC.CFM56_5B5_B6" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="40">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1MC.CFM56_5B5_B6" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="40">
 		<Pair X="-30" Y="3776"/>
 		<Pair X="-29" Y="3783"/>
 		<Pair X="-28" Y="3791"/>
@@ -68485,7 +68496,7 @@
 		<Pair X="49" Y="4331"/>
 		<Pair X="50" Y="4338"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1MC.CFM56_5B8" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="39">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1MC.CFM56_5B8" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="39">
 		<Pair X="-30" Y="3684"/>
 		<Pair X="-29" Y="3691"/>
 		<Pair X="-28" Y="3699"/>
@@ -68568,7 +68579,7 @@
 		<Pair X="49" Y="4227"/>
 		<Pair X="50" Y="4234"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1MC.CFM56_5B9" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="38">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1MC.CFM56_5B9" Description="Max Cont of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="38">
 		<Pair X="-30" Y="3776"/>
 		<Pair X="-29" Y="3783"/>
 		<Pair X="-28" Y="3791"/>
@@ -68651,14 +68662,14 @@
 		<Pair X="49" Y="4331"/>
 		<Pair X="50" Y="4338"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N2MINIDLE.CFM56_5B" Description="Minumum Idle minimum N2 Limit T001 fig. 1306" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="37">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N2MINIDLE.CFM56_5B" Description="Minumum Idle minimum N2 Limit T001 fig. 1306" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="37">
 		<Pair X="-30" Y="8475"/>
 		<Pair X="-12.22" Y="8475"/>
 		<Pair X="15" Y="8475"/>
 		<Pair X="48.8889" Y="9475"/>
 		<Pair X="60" Y="9475"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="SST.CFM56_5B" Description="Specification Start Time Fig. 1301 (Testing 001)" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="s" Id="36">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="SST.CFM56_5B" Description="Specification Start Time Fig. 1301 (Testing 001)" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="s" Id="36">
 		<Pair X="-23.2" Y="56.79"/>
 		<Pair X="-17.8" Y="54.99"/>
 		<Pair X="-12.2" Y="53.69"/>
@@ -68673,7 +68684,7 @@
 		<Pair X="37.8" Y="51.09"/>
 		<Pair X="43.3" Y="52.42"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="T25Q2.CFM56_5B" Description="Temperature rise ratio Fig. 1313 " Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="35">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="T25Q2.CFM56_5B" Description="Temperature rise ratio Fig. 1313 " Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="35">
 		<Pair X="0" Y="1"/>
 		<Pair X="850" Y="1.0096"/>
 		<Pair X="1150" Y="1.0172"/>
@@ -68688,7 +68699,7 @@
 		<Pair X="5050" Y="1.4387"/>
 		<Pair X="5500" Y="1.4387"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B6" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="34">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B6" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="34">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -68722,7 +68733,7 @@
 		<Triple X="7" Y="3" Z="-56"/>
 		<Triple X="7" Y="4" Z="-52"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="TCQT3LO.CFM56_5B" Description="Steady State TCQT3 Schedule fig 1304" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="33">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="TCQT3LO.CFM56_5B" Description="Steady State TCQT3 Schedule fig 1304" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="33">
 		<Pair X="8500" Y="1"/>
 		<Pair X="12000" Y="0.981"/>
 		<Pair X="12828" Y="0.907"/>
@@ -68731,7 +68742,7 @@
 		<Pair X="14903" Y="0.91"/>
 		<Pair X="16000" Y="0.993"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B1" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="32">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B1" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="32">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -68765,7 +68776,7 @@
 		<Triple X="7" Y="3" Z="-81"/>
 		<Triple X="7" Y="4" Z="-84"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO15.CFM56_5B2" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="31">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO15.CFM56_5B2" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="31">
 		<Pair X="-30" Y="1952"/>
 		<Pair X="-29" Y="1956"/>
 		<Pair X="-28" Y="1960"/>
@@ -68848,7 +68859,7 @@
 		<Pair X="49" Y="2247"/>
 		<Pair X="50" Y="2250"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO15.CFM56_5B3" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="30">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO15.CFM56_5B3" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="30">
 		<Pair X="-30" Y="1984"/>
 		<Pair X="-29" Y="1988"/>
 		<Pair X="-28" Y="1992"/>
@@ -68931,7 +68942,7 @@
 		<Pair X="49" Y="2284"/>
 		<Pair X="50" Y="2287"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="EGTAdj.CFM56_5B" Description="EGT Acc Adjust Figure 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="29">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="EGTAdj.CFM56_5B" Description="EGT Acc Adjust Figure 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="29">
 		<Pair X="500" Y="1.0006"/>
 		<Pair X="1000" Y="1"/>
 		<Pair X="1500" Y="0.9998"/>
@@ -68955,7 +68966,7 @@
 		<Pair X="5000" Y="0.9996"/>
 		<Pair X="5050" Y="0.9996"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO15.CFM56_5B4_B7" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="28">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO15.CFM56_5B4_B7" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="28">
 		<Pair X="-30" Y="1823"/>
 		<Pair X="-29" Y="1827"/>
 		<Pair X="-28" Y="1831"/>
@@ -69038,7 +69049,7 @@
 		<Pair X="49" Y="2099"/>
 		<Pair X="50" Y="2102"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO15.CFM56_5B5" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="27">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO15.CFM56_5B5" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="27">
 		<Pair X="-30" Y="1643"/>
 		<Pair X="-29" Y="1647"/>
 		<Pair X="-28" Y="1650"/>
@@ -69121,7 +69132,7 @@
 		<Pair X="49" Y="1892"/>
 		<Pair X="50" Y="1895"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO15.CFM56_5B6" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="26">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO15.CFM56_5B6" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="26">
 		<Pair X="-30" Y="1699"/>
 		<Pair X="-29" Y="1703"/>
 		<Pair X="-28" Y="1706"/>
@@ -69204,7 +69215,7 @@
 		<Pair X="49" Y="1956"/>
 		<Pair X="50" Y="1959"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B5" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="25">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B5" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="25">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -69238,7 +69249,7 @@
 		<Triple X="7" Y="3" Z="-56"/>
 		<Triple X="7" Y="4" Z="-52"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO15.CFM56_5B8" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="24">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO15.CFM56_5B8" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="24">
 		<Pair X="-30" Y="1628"/>
 		<Pair X="-29" Y="1631"/>
 		<Pair X="-28" Y="1634"/>
@@ -69321,7 +69332,7 @@
 		<Pair X="49" Y="1874"/>
 		<Pair X="50" Y="1877"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO15.CFM56_5B9" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="23">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO15.CFM56_5B9" Description="15% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="23">
 		<Pair X="-30" Y="1692"/>
 		<Pair X="-29" Y="1696"/>
 		<Pair X="-28" Y="1699"/>
@@ -69404,7 +69415,7 @@
 		<Pair X="49" Y="1948"/>
 		<Pair X="50" Y="1951"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="N1TO.CFM56_5B3" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="22">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="N1TO.CFM56_5B3" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="22">
 		<Pair X="-30" Y="4678"/>
 		<Pair X="-29" Y="4686"/>
 		<Pair X="-28" Y="4694"/>
@@ -69487,7 +69498,7 @@
 		<Pair X="49" Y="4978"/>
 		<Pair X="50" Y="4968"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B3" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="21">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B3" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="21">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -69521,7 +69532,7 @@
 		<Triple X="7" Y="3" Z="-80"/>
 		<Triple X="7" Y="4" Z="-84"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO.CFM56_5B5" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="20">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO.CFM56_5B5" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="20">
 		<Pair X="-30" Y="3906"/>
 		<Pair X="-29" Y="3913"/>
 		<Pair X="-28" Y="3921"/>
@@ -69604,7 +69615,7 @@
 		<Pair X="49" Y="4477"/>
 		<Pair X="50" Y="4484"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO95.CFM56_5B1" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="19">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO95.CFM56_5B1" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="19">
 		<Pair X="-30" Y="4358"/>
 		<Pair X="-29" Y="4366"/>
 		<Pair X="-28" Y="4374"/>
@@ -69687,7 +69698,7 @@
 		<Pair X="49" Y="4973"/>
 		<Pair X="50" Y="4980"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO95.CFM56_5B2" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="18">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO95.CFM56_5B2" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="18">
 		<Pair X="-30" Y="4425"/>
 		<Pair X="-29" Y="4433"/>
 		<Pair X="-28" Y="4442"/>
@@ -69770,7 +69781,7 @@
 		<Pair X="49" Y="5046"/>
 		<Pair X="50" Y="5053"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B8" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="17">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B8" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="17">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -69804,7 +69815,7 @@
 		<Triple X="7" Y="3" Z="-46"/>
 		<Triple X="7" Y="4" Z="-42"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO95.CFM56_5B3" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="16">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO95.CFM56_5B3" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="16">
 		<Pair X="-30" Y="4504"/>
 		<Pair X="-29" Y="4512"/>
 		<Pair X="-28" Y="4521"/>
@@ -69887,7 +69898,7 @@
 		<Pair X="49" Y="5132"/>
 		<Pair X="50" Y="5139"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO95.CFM56_5B4_B7" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="15">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO95.CFM56_5B4_B7" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="15">
 		<Pair X="-30" Y="4139"/>
 		<Pair X="-29" Y="4147"/>
 		<Pair X="-28" Y="4155"/>
@@ -69970,7 +69981,7 @@
 		<Pair X="49" Y="4733"/>
 		<Pair X="50" Y="4740"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO95.CFM56_5B5" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="14">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO95.CFM56_5B5" Description="95% N1 Take Off speed Fig. 1303" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="14">
 		<Pair X="-30" Y="3824"/>
 		<Pair X="-29" Y="3821"/>
 		<Pair X="-28" Y="3839"/>
@@ -70053,7 +70064,7 @@
 		<Pair X="49" Y="4385"/>
 		<Pair X="50" Y="4391"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="W2Adj.CFM56_5B" Description="Air Flow Acc Adjust Figure 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="13">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="W2Adj.CFM56_5B" Description="Air Flow Acc Adjust Figure 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="13">
 		<Pair X="500" Y="1.0034"/>
 		<Pair X="1000" Y="1.0022"/>
 		<Pair X="1500" Y="1.0019"/>
@@ -70077,7 +70088,7 @@
 		<Pair X="5000" Y="1.0001"/>
 		<Pair X="5050" Y="1.0001"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B9" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="12">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjMC.CFM56_5B9" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="12">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -70111,7 +70122,7 @@
 		<Triple X="7" Y="3" Z="-56"/>
 		<Triple X="7" Y="4" Z="-52"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:09" Enabled="true" Name="SAPCorr.CFM56_5B" Description="Start Time Correction Table Fig. 1301 (Testing 001)" Type="3d" XEngineeringUnit="psig" YEngineeringUnit="degC" ZEngineeringUnit="s" Id="11">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:09" Enabled="true" Name="SAPCorr.CFM56_5B" Description="Start Time Correction Table Fig. 1301 (Testing 001)" Type="3d" XEngineeringUnit="psig" YEngineeringUnit="degC" ZEngineeringUnit="s" Id="11">
 		<Triple X="25" Y="-17.8" Z="-11.35"/>
 		<Triple X="25" Y="-12.2" Z="-10.19"/>
 		<Triple X="25" Y="-6.7" Z="-9.36"/>
@@ -70234,7 +70245,7 @@
 		<Triple X="35" Y="32.2" Z="4.89"/>
 		<Triple X="35" Y="37.8" Z="4.88"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N1TO.CFM56_5B1" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="10">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N1TO.CFM56_5B1" Description="Take Off of the day Fig. 1302" Type="2d" XEngineeringUnit="degC" YEngineeringUnit="rpm" Id="10">
 		<Pair X="-30" Y="4469"/>
 		<Pair X="-29" Y="4477"/>
 		<Pair X="-28" Y="4485"/>
@@ -70317,7 +70328,7 @@
 		<Pair X="49" Y="4767"/>
 		<Pair X="50" Y="4758"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B1" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="9">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B1" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="9">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -70351,7 +70362,7 @@
 		<Triple X="7" Y="3" Z="-80"/>
 		<Triple X="7" Y="4" Z="-98"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="XN2HDTO.CFM56_5B" Description="HD XN2 Exponent Take Off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="8">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="XN2HDTO.CFM56_5B" Description="HD XN2 Exponent Take Off Fig. 1308" Type="2d" XEngineeringUnit="-" YEngineeringUnit="-" Id="8">
 		<Pair X="1" Y="0.44"/>
 		<Pair X="2" Y="0.44"/>
 		<Pair X="3" Y="0.44"/>
@@ -70362,7 +70373,7 @@
 		<Pair X="8" Y="0.453"/>
 		<Pair X="9" Y="0.44"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="TRiseMC.CFM56_5B1_B2_B3" Description="Temperature rise at MC fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="7">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="TRiseMC.CFM56_5B1_B2_B3" Description="Temperature rise at MC fig. 1318" Type="3d" XEngineeringUnit="%" YEngineeringUnit="degF" ZEngineeringUnit="degF" Id="7">
 		<Triple X="10" Y="-30" Z="0"/>
 		<Triple X="10" Y="-20" Z="0"/>
 		<Triple X="10" Y="-10" Z="0"/>
@@ -70524,7 +70535,7 @@
 		<Triple X="100" Y="110" Z="27.3"/>
 		<Triple X="100" Y="120" Z="28.2"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B2" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="6">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B2" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="6">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -70558,7 +70569,7 @@
 		<Triple X="7" Y="3" Z="-85"/>
 		<Triple X="7" Y="4" Z="-102"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B3" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="5">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B3" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="5">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -70592,7 +70603,7 @@
 		<Triple X="7" Y="3" Z="-91"/>
 		<Triple X="7" Y="4" Z="-102"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B4_B7" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="4">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B4_B7" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="4">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -70610,7 +70621,7 @@
 		<Triple X="3" Y="3" Z="-24"/>
 		<Triple X="3" Y="4" Z="-21"/>
 		<Triple X="4" Y="1" Z="-427"/>
-		<Triple X="4" Y="2" Z="-13"/>
+		<Triple X="4" Y="2" Z="-6"/>
 		<Triple X="4" Y="3" Z="-32"/>
 		<Triple X="4" Y="4" Z="-28"/>
 		<Triple X="5" Y="1" Z="-537"/>
@@ -70626,7 +70637,7 @@
 		<Triple X="7" Y="3" Z="-69"/>
 		<Triple X="7" Y="4" Z="-59"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B5" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="3">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B5" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="3">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>
@@ -70660,7 +70671,7 @@
 		<Triple X="7" Y="3" Z="-62"/>
 		<Triple X="7" Y="4" Z="-52"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="N2Adj.CFM56_5B" Description="N2 Acc Adjust Figure 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="2">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="N2Adj.CFM56_5B" Description="N2 Acc Adjust Figure 1315" Type="2d" XEngineeringUnit="rpm" YEngineeringUnit="-" Id="2">
 		<Pair X="500" Y="1"/>
 		<Pair X="1000" Y="1"/>
 		<Pair X="1500" Y="0.9999"/>
@@ -70684,7 +70695,7 @@
 		<Pair X="5000" Y="0.9999"/>
 		<Pair X="5050" Y="0.9999"/>
 	</BreakPointTable>
-	<BreakPointTable LastModificationDate="2021-02-25 07:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B6" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="1">
+	<BreakPointTable LastModificationDate="2021-02-25 14:17:10" Enabled="true" Name="FMN1AdjTO.CFM56_5B6" Description="FMN1 Adjustments Fig 1306" Type="3d" XEngineeringUnit="-" YEngineeringUnit="-" ZEngineeringUnit="-" Id="1">
 		<Triple X="0" Y="1" Z="0"/>
 		<Triple X="0" Y="2" Z="0"/>
 		<Triple X="0" Y="3" Z="0"/>

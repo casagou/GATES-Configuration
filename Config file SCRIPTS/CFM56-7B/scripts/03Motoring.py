@@ -34,7 +34,7 @@ RTD1 = "SMESRTD1"
 
 
 # Channel Registration
-channel("FCS_AirRdy,FCS_FuelRdy,ECUpwrA,ECUpwrB,IgnPwrL,IgnPwrR,EngStrtLvr,StrtSwitch,FIFB,APOilLoc,N2,AVSVSel,BVSVSel,AVBVSel,BVBVSel,TLA,WFK")
+channel("FCS_AirRdy,FCS_FuelRdy,ECUpwrA,ECUpwrB,IgnPwrL,IgnPwrR,EngStrtLvr,StrtSwitch,FIFB,PEOFILTR,N2,VSVSEL,VBVSEL,TLA,WFK")
 
 
 
@@ -112,7 +112,7 @@ wait("StrtSwitch = 1", 3, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT
 
 instruction("Check oil pressure rise and check engine for leaks")
 
-wait("APOilLoc = 5", 15, 0.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "POIL did not reach 5 psi.")
+wait("PEOFILTR = 5", 15, 0.5, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "POIL did not reach 5 psi.")
 
 
 if SkipGV:
@@ -133,7 +133,7 @@ if SkipGV:
 wait("N2 > 3900", 30, 100, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, SKIP, "N2 did not reach 3900 rpm N2 in 30s")
 
 
-if getCV("AVSVSel") < 37.7 or getCV("BVSVSel") < 37.7:
+if getCV("VSVSEL") < 37.7
 	result("FAULT: VSV are not closed! {} Motoring ".format(REPORT))
 
 else:
@@ -142,7 +142,7 @@ else:
 	pass
 
 
-if getCV("AVBVSel") < 37 or getCV("BVBVSel") < 37:
+if getCV("VBVSEL") < 37
 	
 	result("FAULT: VBV are not open! {} Motoring ".format(REPORT))
 

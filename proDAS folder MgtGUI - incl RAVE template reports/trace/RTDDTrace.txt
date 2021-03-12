@@ -7424,3 +7424,1405 @@
 05-Mar-2021 09:05:47	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
 05-Mar-2021 09:05:47	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
 05-Mar-2021 09:05:47	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+06-Mar-2021 07:35:41	RDD	CApplication::InitInstance  	Application RTDDriver started.
+06-Mar-2021 07:35:41	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+06-Mar-2021 07:35:41	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+06-Mar-2021 07:35:41	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+06-Mar-2021 07:35:42	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+06-Mar-2021 07:35:42	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+06-Mar-2021 07:35:42	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+06-Mar-2021 07:35:42	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+06-Mar-2021 07:35:43	RDD	CRTDConfiguration::Establish	starting connection
+06-Mar-2021 07:35:43	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 121b28c
+06-Mar-2021 07:35:43	RDD	CRTDConfiguration::LoadDataF	config id = 3
+06-Mar-2021 07:35:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+06-Mar-2021 07:35:48	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+06-Mar-2021 07:35:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+06-Mar-2021 07:35:48	RDD	CApplication::ReadPermittedP	profile string: 
+06-Mar-2021 07:35:48	RDD	CSecurity::Validate         	Username = sl5
+06-Mar-2021 07:36:20	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+06-Mar-2021 07:36:21	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+06-Mar-2021 07:36:21	RDD	CRTDConfiguration::Identify 	user name = engineer
+06-Mar-2021 07:36:21	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+06-Mar-2021 07:36:21	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+06-Mar-2021 07:36:22	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\MyRTDTestPage1-AI.v: time = 78 milliseconds
+06-Mar-2021 07:36:50	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+06-Mar-2021 07:36:50	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+06-Mar-2021 07:36:56	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+06-Mar-2021 07:36:56	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+06-Mar-2021 07:36:57	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+06-Mar-2021 07:36:57	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+06-Mar-2021 07:36:57	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\views\CFM56-5B\5B_Main_Page.v: time = 13156 milliseconds
+06-Mar-2021 07:38:43	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+06-Mar-2021 07:38:43	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+06-Mar-2021 07:38:43	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+06-Mar-2021 07:38:43	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+07-Mar-2021 00:05:45	RDD	CApplication::InitInstance  	Application RTDDriver started.
+07-Mar-2021 00:05:45	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+07-Mar-2021 00:05:45	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+07-Mar-2021 00:05:45	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+07-Mar-2021 00:05:45	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+07-Mar-2021 00:05:45	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+07-Mar-2021 00:05:45	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+07-Mar-2021 00:05:45	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+07-Mar-2021 00:05:45	RDD	CRTDConfiguration::Establish	starting connection
+07-Mar-2021 00:05:46	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 3bf1c5c
+07-Mar-2021 00:05:47	RDD	CRTDConfiguration::LoadDataF	config id = 3
+07-Mar-2021 00:05:53	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+07-Mar-2021 00:05:53	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+07-Mar-2021 00:05:53	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+07-Mar-2021 00:05:53	RDD	CApplication::ReadPermittedP	profile string: 
+07-Mar-2021 00:05:53	RDD	CSecurity::Validate         	Username = sl5
+07-Mar-2021 00:06:11	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+07-Mar-2021 00:06:12	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+07-Mar-2021 00:06:13	RDD	CRTDConfiguration::Identify 	user name = engineer
+07-Mar-2021 00:06:13	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+07-Mar-2021 00:06:13	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+07-Mar-2021 00:06:14	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\MyRTDTestPage1-AI.v: time = 78 milliseconds
+07-Mar-2021 00:06:27	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+07-Mar-2021 00:06:27	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+07-Mar-2021 00:06:32	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+07-Mar-2021 00:06:32	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+07-Mar-2021 00:06:32	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+07-Mar-2021 00:06:32	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+07-Mar-2021 00:06:32	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\views\CFM56-5B\5B_Main_Page.v: time = 10156 milliseconds
+08-Mar-2021 15:32:17	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+08-Mar-2021 15:32:17	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+08-Mar-2021 15:32:21	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+08-Mar-2021 15:32:21	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+08-Mar-2021 15:32:22	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+08-Mar-2021 15:32:22	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+08-Mar-2021 15:32:22	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\views\CFM56-5B\5B_TempPres.v: time = 7594 milliseconds
+08-Mar-2021 16:00:47	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+08-Mar-2021 16:00:47	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+08-Mar-2021 16:00:51	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+08-Mar-2021 16:00:51	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+08-Mar-2021 16:00:52	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+08-Mar-2021 16:00:52	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+08-Mar-2021 16:00:52	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\views\CFM56-5B\5B_TempPres.v: time = 8188 milliseconds
+08-Mar-2021 18:33:08	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+08-Mar-2021 18:33:08	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+08-Mar-2021 18:33:08	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+08-Mar-2021 23:05:14	RDD	CApplication::InitInstance  	Application RTDDriver started.
+08-Mar-2021 23:05:14	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+08-Mar-2021 23:05:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+08-Mar-2021 23:05:14	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+08-Mar-2021 23:05:14	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+08-Mar-2021 23:05:14	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+08-Mar-2021 23:05:14	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+08-Mar-2021 23:05:14	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+08-Mar-2021 23:05:14	RDD	CRTDConfiguration::Establish	starting connection
+08-Mar-2021 23:05:15	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 7b6c064
+08-Mar-2021 23:05:16	RDD	CRTDConfiguration::LoadDataF	config id = 3
+08-Mar-2021 23:05:22	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+08-Mar-2021 23:05:22	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+08-Mar-2021 23:05:22	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+08-Mar-2021 23:05:22	RDD	CApplication::ReadPermittedP	profile string: 
+08-Mar-2021 23:05:22	RDD	CSecurity::Validate         	Username = engineer
+08-Mar-2021 23:05:22	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+08-Mar-2021 23:05:23	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+08-Mar-2021 23:05:23	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+08-Mar-2021 23:05:23	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+08-Mar-2021 23:05:24	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\MyRTDTestPage1-AI.v: time = 63 milliseconds
+09-Mar-2021 00:14:23	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:14:24	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:14:24	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:17:56	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 00:17:56	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 00:17:56	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:17:56	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 00:17:56	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 00:17:56	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 00:17:56	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 00:17:56	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 00:17:57	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 00:17:58	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 7cefe74
+09-Mar-2021 00:17:59	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 00:18:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:18:06	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 00:18:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:18:06	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 00:18:06	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 00:18:06	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 00:18:08	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:18:08	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:18:08	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:19:36	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 00:19:36	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 00:19:36	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:19:36	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 00:19:36	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 00:19:36	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 00:19:36	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 00:19:36	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 00:19:36	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 00:19:37	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 7975ed4
+09-Mar-2021 00:19:38	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 00:19:45	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:19:45	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 00:19:45	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:19:45	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 00:19:45	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 00:19:45	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 00:19:46	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:19:47	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:19:47	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:21:54	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 00:21:54	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 00:21:54	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:21:54	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 00:21:54	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 00:21:54	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 00:21:54	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 00:21:54	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 00:21:55	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 00:21:56	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 12b4dc4
+09-Mar-2021 00:21:57	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 00:22:03	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:22:03	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 00:22:03	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:22:03	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 00:22:03	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 00:22:03	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 00:22:03	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 00:22:03	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 00:22:04	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:23:46	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:23:47	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:23:47	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:25:33	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 00:25:33	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 00:25:33	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:25:33	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 00:25:33	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 00:25:33	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 00:25:33	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 00:25:34	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 00:25:34	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 00:25:35	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 16c83cc
+09-Mar-2021 00:25:36	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 00:25:43	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:25:43	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 00:25:43	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:25:43	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 00:25:44	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 00:25:44	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 00:25:45	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 00:25:46	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 00:25:46	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 02:05:56	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 02:05:56	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 02:05:56	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:05:56	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 02:05:56	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 02:05:56	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 02:05:56	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 02:05:56	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 02:05:57	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 02:05:58	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1395cac
+09-Mar-2021 02:05:59	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 02:06:04	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:06:04	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 02:06:04	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:06:04	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 02:06:05	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 02:06:05	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 02:06:05	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 02:06:05	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 02:06:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:13:55	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:13:55	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 02:13:55	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 02:20:01	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 02:20:01	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 02:20:01	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:20:01	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 02:20:01	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 02:20:02	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 02:20:02	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 02:20:02	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 02:20:02	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 02:20:02	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 5d10e14
+09-Mar-2021 02:20:02	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 02:20:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:20:06	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 02:20:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:20:06	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 02:20:07	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 02:20:07	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 02:20:07	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 02:20:07	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 02:20:08	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:40:24	RDD	CRTDConfiguration::Identify 	user name = engineer
+09-Mar-2021 02:40:26	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 02:40:26	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 02:49:35	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:49:35	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 02:49:35	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 02:51:03	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 02:51:03	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 02:51:03	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:51:03	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 02:51:03	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 02:51:03	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 02:51:03	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 02:51:03	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 02:51:04	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 02:51:04	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1386b04
+09-Mar-2021 02:51:04	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 02:51:10	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:51:10	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 02:51:10	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:51:10	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 02:51:10	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 02:51:10	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 02:51:10	RDD	CSecurity::Validate         	Username = 
+09-Mar-2021 02:53:28	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 02:53:29	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 02:53:29	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 03:16:32	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 03:16:32	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 03:16:32	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 03:16:32	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 03:16:32	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 03:16:32	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 03:16:32	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 03:16:32	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 03:16:32	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 03:16:32	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 5cf0254
+09-Mar-2021 03:16:32	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 03:16:37	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 03:16:37	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 03:16:37	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 03:16:37	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 03:16:37	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 03:16:37	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 03:16:37	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 03:16:37	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 03:16:38	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 05:30:24	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 05:30:25	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 05:30:25	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 05:51:09	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 05:51:09	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 05:51:09	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 05:51:09	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 05:51:09	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 05:51:09	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 05:51:09	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 05:51:09	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 05:51:09	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 05:51:09	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 14ea314
+09-Mar-2021 05:51:09	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 05:51:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 05:51:14	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 05:51:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 05:51:14	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 05:51:14	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 05:51:14	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 05:51:15	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 05:51:15	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 05:51:16	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 06:29:18	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 06:29:19	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 06:29:19	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 06:35:34	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 06:35:34	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 06:35:34	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 06:35:34	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 06:35:34	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 06:35:34	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 06:35:34	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 06:35:34	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 06:35:35	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 06:35:35	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 38b87fc
+09-Mar-2021 06:35:35	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 06:35:39	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 06:35:39	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 06:35:39	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 06:35:39	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 06:35:39	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 06:35:39	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 06:35:39	RDD	CSecurity::Validate         	Username = 
+09-Mar-2021 06:35:51	RDD	CSecurity::Validate         	GET user name: engineer -> user level = 3, validated=TRUE
+09-Mar-2021 06:35:51	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 06:35:53	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 06:43:24	RDD	CRTDConfiguration::Identify 	user name = engineer
+09-Mar-2021 06:43:24	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 06:43:24	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 06:43:29	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 06:43:29	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 06:43:30	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 06:43:30	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 06:43:30	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\views\CFM56-5B\5B_Main_Page.v: time = 9766 milliseconds
+09-Mar-2021 06:49:39	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 06:49:39	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 06:49:39	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 07:01:34	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 07:01:34	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 07:01:34	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 07:01:34	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 07:01:34	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 07:01:34	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 07:01:34	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 07:01:34	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 07:01:35	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 07:01:36	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1204f44
+09-Mar-2021 07:01:37	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 07:01:43	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 07:01:43	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 07:01:43	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 07:01:43	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 07:01:43	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 07:01:43	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 07:01:43	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 07:01:43	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 07:01:44	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 07:01:45	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_DAS_Control.v: time = 62 milliseconds
+09-Mar-2021 07:02:27	RDD	CRTDConfiguration::Identify 	user name = engineer
+09-Mar-2021 07:02:28	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 07:02:28	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 07:02:33	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 07:02:33	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 07:02:33	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 07:02:33	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 07:02:33	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\views\CFM56-5B\5B_Main_Page.v: time = 10032 milliseconds
+09-Mar-2021 15:37:55	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 15:37:56	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 15:37:56	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 15:42:18	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 15:42:18	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 15:42:18	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 15:42:18	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 15:42:18	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 15:42:18	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 15:42:18	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 15:42:18	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 15:42:18	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 15:42:18	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 140eba4
+09-Mar-2021 15:42:18	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 15:42:23	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 15:42:23	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 15:42:23	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 15:42:23	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 15:42:23	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 15:42:23	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 15:42:23	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 15:42:23	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 15:42:24	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 15:42:25	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_DAS_Control.v: time = 78 milliseconds
+09-Mar-2021 17:34:54	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 17:34:54	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 17:34:54	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 22:31:19	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 22:31:19	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 22:31:19	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:31:19	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 22:31:19	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 22:31:19	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 22:31:19	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 22:31:19	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 22:31:20	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 22:31:21	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 752760c
+09-Mar-2021 22:31:22	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 22:31:27	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:31:27	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 22:31:27	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:31:27	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 22:31:27	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 22:31:27	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 22:31:28	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 22:31:28	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 22:31:29	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:31:29	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_DAS_Control.v: time = 78 milliseconds
+09-Mar-2021 22:31:56	RDD	CRTDConfiguration::Identify 	user name = engineer
+09-Mar-2021 22:31:59	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 22:31:59	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 22:32:10	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 22:32:10	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 22:56:46	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:56:46	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 22:56:46	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 22:58:18	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 22:58:18	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 22:58:18	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:58:18	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 22:58:19	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 22:58:19	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 22:58:19	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 22:58:19	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 22:58:19	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 22:58:20	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 6ea5f1c
+09-Mar-2021 22:58:21	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 22:58:26	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:58:26	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 22:58:26	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:58:26	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 22:58:27	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 22:58:27	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 22:58:27	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 22:58:27	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 22:58:28	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 22:58:28	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_DAS_Control.v: time = 47 milliseconds
+09-Mar-2021 23:01:26	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:01:27	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:01:27	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:13:25	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 23:13:25	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 23:13:25	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:13:25	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 23:13:25	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 23:13:25	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 23:13:25	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 23:13:25	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 23:13:25	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 23:13:26	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 50781d4
+09-Mar-2021 23:13:27	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 23:13:32	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:13:32	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 23:13:32	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:13:32	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 23:13:32	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:13:32	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 23:13:33	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 23:13:33	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 23:13:34	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:13:34	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_DAS_Control.v: time = 79 milliseconds
+09-Mar-2021 23:15:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:15:15	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:15:15	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:15:58	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 23:15:58	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 23:15:58	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:15:58	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 23:15:58	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 23:15:58	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 23:15:58	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 23:15:58	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 23:15:59	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 23:16:00	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 686335c
+09-Mar-2021 23:16:01	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 23:16:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:16:06	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 23:16:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:16:06	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 23:16:06	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:16:06	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 23:16:06	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 23:16:06	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 23:16:07	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:16:08	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_DAS_Control.v: time = 47 milliseconds
+09-Mar-2021 23:38:53	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:38:54	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:38:54	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:40:40	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 23:40:40	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 23:40:40	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:40:40	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 23:40:40	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 23:40:40	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 23:40:40	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 23:40:40	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 23:40:41	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 23:40:41	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 723e134
+09-Mar-2021 23:40:42	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 23:40:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:40:48	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 23:40:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:40:48	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 23:40:48	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:40:48	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 23:40:50	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:40:50	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:40:50	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:42:05	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 23:42:05	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 23:42:05	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:42:05	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 23:42:05	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 23:42:05	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 23:42:05	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 23:42:06	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 23:42:06	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 23:42:07	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 207f44
+09-Mar-2021 23:42:08	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 23:42:13	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:42:13	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 23:42:13	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:42:13	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 23:42:13	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:42:13	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 23:42:14	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 23:42:14	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 23:42:15	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:42:15	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_DAS_Control.v: time = 47 milliseconds
+09-Mar-2021 23:54:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:54:06	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:54:06	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+09-Mar-2021 23:57:04	RDD	CApplication::InitInstance  	Application RTDDriver started.
+09-Mar-2021 23:57:04	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+09-Mar-2021 23:57:04	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:57:04	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+09-Mar-2021 23:57:04	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+09-Mar-2021 23:57:04	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+09-Mar-2021 23:57:04	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+09-Mar-2021 23:57:04	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+09-Mar-2021 23:57:04	RDD	CRTDConfiguration::Establish	starting connection
+09-Mar-2021 23:57:04	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 68a890c
+09-Mar-2021 23:57:04	RDD	CRTDConfiguration::LoadDataF	config id = 3
+09-Mar-2021 23:57:08	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:57:08	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+09-Mar-2021 23:57:09	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:57:09	RDD	CApplication::ReadPermittedP	profile string: 
+09-Mar-2021 23:57:09	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:57:09	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 23:57:09	RDD	CSecurity::Validate         	Username = engineer
+09-Mar-2021 23:57:09	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+09-Mar-2021 23:57:10	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+09-Mar-2021 23:57:14	RDD	CRTDConfiguration::Identify 	user name = engineer
+09-Mar-2021 23:57:14	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:57:14	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 23:57:17	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:57:17	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+09-Mar-2021 23:57:17	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+09-Mar-2021 23:57:17	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:57:17	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 23:57:18	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+09-Mar-2021 23:57:18	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+09-Mar-2021 23:57:18	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 7797 milliseconds
+10-Mar-2021 00:01:19	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:01:19	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 00:01:19	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 00:02:53	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 00:02:53	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 00:02:53	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:02:53	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 00:02:53	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 00:02:53	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 00:02:53	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 00:02:54	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 00:02:54	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 00:02:55	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 72c1bc4
+10-Mar-2021 00:02:56	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 00:03:01	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:03:01	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 00:03:01	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:03:01	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 00:03:01	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:03:01	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:03:01	RDD	CSecurity::Validate         	Username = engineer
+10-Mar-2021 00:03:01	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+10-Mar-2021 00:03:03	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:03:06	RDD	CRTDConfiguration::Identify 	user name = engineer
+10-Mar-2021 00:03:06	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:03:06	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:03:09	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:03:09	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+10-Mar-2021 00:03:09	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+10-Mar-2021 00:03:09	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:03:09	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:03:10	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:03:10	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:03:10	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 7281 milliseconds
+10-Mar-2021 00:08:01	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:08:01	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 00:08:01	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 00:08:39	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 00:08:39	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 00:08:39	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:08:39	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 00:08:39	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 00:08:39	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 00:08:40	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 00:08:40	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 00:08:41	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 00:08:41	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = a8ba84
+10-Mar-2021 00:08:42	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 00:08:47	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:08:47	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 00:08:47	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:08:47	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 00:08:47	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:08:47	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:08:48	RDD	CSecurity::Validate         	Username = engineer
+10-Mar-2021 00:08:48	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+10-Mar-2021 00:08:49	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:08:52	RDD	CRTDConfiguration::Identify 	user name = engineer
+10-Mar-2021 00:08:53	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:08:53	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:08:56	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:08:56	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+10-Mar-2021 00:08:56	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+10-Mar-2021 00:08:56	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:08:56	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:08:56	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:08:56	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:08:57	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 7610 milliseconds
+10-Mar-2021 00:20:19	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:20:19	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 00:20:19	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 00:22:02	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 00:22:02	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 00:22:02	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:22:02	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 00:22:02	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 00:22:02	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 00:22:02	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 00:22:02	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 00:22:03	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 00:22:04	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1a6242c
+10-Mar-2021 00:22:05	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 00:22:10	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:22:10	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 00:22:10	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:22:10	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 00:22:10	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:22:10	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:22:10	RDD	CSecurity::Validate         	Username = engineer
+10-Mar-2021 00:22:11	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+10-Mar-2021 00:22:12	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 00:22:15	RDD	CRTDConfiguration::Identify 	user name = engineer
+10-Mar-2021 00:22:16	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:22:16	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:22:18	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:22:18	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+10-Mar-2021 00:22:18	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+10-Mar-2021 00:22:18	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:22:18	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:22:19	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 00:22:19	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 00:22:19	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 7500 milliseconds
+10-Mar-2021 04:24:32	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 04:24:32	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 04:25:42	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 04:25:42	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 04:27:58	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 04:27:58	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 04:27:58	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 04:53:06	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 04:53:06	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 04:53:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 04:53:06	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 04:53:06	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 04:53:06	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 04:53:06	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 04:53:06	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 04:53:07	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 04:53:08	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 6e3980c
+10-Mar-2021 04:53:09	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 04:53:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 04:53:14	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 04:53:15	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 04:53:15	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 04:53:15	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 04:53:15	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 04:53:15	RDD	CSecurity::Validate         	Username = engineer
+10-Mar-2021 04:53:15	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+10-Mar-2021 04:53:16	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 04:53:20	RDD	CRTDConfiguration::Identify 	user name = engineer
+10-Mar-2021 04:53:21	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 04:53:21	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 04:53:24	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 04:53:24	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+10-Mar-2021 04:53:24	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+10-Mar-2021 04:53:24	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 04:53:24	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 04:53:25	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 04:53:25	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 04:53:25	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 8453 milliseconds
+10-Mar-2021 18:49:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 18:49:49	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 18:49:49	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 19:07:14	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 19:07:14	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 19:07:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 19:07:14	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 19:07:14	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 19:07:14	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 19:07:14	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 19:07:15	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 19:07:15	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 19:07:16	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 29cb0c
+10-Mar-2021 19:07:17	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 19:07:22	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 19:07:22	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 19:07:23	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 19:07:23	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 19:07:23	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 19:07:23	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 19:07:23	RDD	CSecurity::Validate         	Username = engineer
+10-Mar-2021 19:07:23	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+10-Mar-2021 19:07:24	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 19:07:28	RDD	CRTDConfiguration::Identify 	user name = engineer
+10-Mar-2021 19:07:29	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 19:07:29	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 19:07:31	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 19:07:31	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+10-Mar-2021 19:07:31	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+10-Mar-2021 19:07:31	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 19:07:31	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 19:07:32	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 19:07:32	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 19:07:32	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 7500 milliseconds
+10-Mar-2021 22:27:02	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:27:02	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 22:27:02	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 22:29:46	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 22:29:46	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 22:29:46	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:29:46	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 22:29:46	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 22:29:46	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 22:29:46	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 22:29:46	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 22:29:47	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 22:29:47	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 60a70f4
+10-Mar-2021 22:29:47	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 22:29:52	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:29:52	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 22:29:52	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:29:52	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 22:29:53	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 22:29:53	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 22:29:53	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:29:54	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 22:29:54	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 22:45:03	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 22:45:03	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 22:45:03	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:45:03	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 22:45:03	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 22:45:03	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 22:45:03	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 22:45:03	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 22:45:04	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 22:45:04	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1aeae54
+10-Mar-2021 22:45:04	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 22:45:08	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:45:08	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 22:45:09	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:45:09	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 22:45:09	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 22:45:09	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 22:45:09	RDD	CSecurity::Validate         	Username = engineer
+10-Mar-2021 22:45:09	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+10-Mar-2021 22:45:10	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 22:45:13	RDD	CRTDConfiguration::Identify 	user name = engineer
+10-Mar-2021 22:45:14	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 22:45:14	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 22:45:16	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 22:45:16	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+10-Mar-2021 22:45:16	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+10-Mar-2021 22:45:17	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 22:45:17	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 22:45:17	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 22:45:17	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 22:45:17	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 7125 milliseconds
+10-Mar-2021 23:22:30	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:22:31	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 23:22:31	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 23:53:26	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 23:53:26	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 23:53:26	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:53:26	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 23:53:26	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 23:53:26	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 23:53:26	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 23:53:26	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 23:53:27	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 23:53:27	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 66d7dfc
+10-Mar-2021 23:53:27	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 23:53:31	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:53:31	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 23:53:31	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:53:31	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 23:53:31	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:53:31	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 23:53:31	RDD	CSecurity::Validate         	Username = engineer
+10-Mar-2021 23:53:32	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+10-Mar-2021 23:53:33	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:53:36	RDD	CRTDConfiguration::Identify 	user name = engineer
+10-Mar-2021 23:53:36	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:53:36	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 23:53:39	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:53:39	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+10-Mar-2021 23:53:39	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+10-Mar-2021 23:53:39	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:53:39	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 23:53:40	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:53:40	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 23:53:40	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 6688 milliseconds
+10-Mar-2021 23:57:21	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:57:22	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 23:57:22	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+10-Mar-2021 23:58:48	RDD	CApplication::InitInstance  	Application RTDDriver started.
+10-Mar-2021 23:58:48	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+10-Mar-2021 23:58:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:58:48	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+10-Mar-2021 23:58:48	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+10-Mar-2021 23:58:48	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+10-Mar-2021 23:58:48	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+10-Mar-2021 23:58:49	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+10-Mar-2021 23:58:49	RDD	CRTDConfiguration::Establish	starting connection
+10-Mar-2021 23:58:49	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1d5ecd4
+10-Mar-2021 23:58:49	RDD	CRTDConfiguration::LoadDataF	config id = 3
+10-Mar-2021 23:58:54	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:58:54	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+10-Mar-2021 23:58:54	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:58:54	RDD	CApplication::ReadPermittedP	profile string: 
+10-Mar-2021 23:58:54	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:58:54	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 23:58:54	RDD	CSecurity::Validate         	Username = engineer
+10-Mar-2021 23:58:54	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+10-Mar-2021 23:58:55	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+10-Mar-2021 23:58:58	RDD	CRTDConfiguration::Identify 	user name = engineer
+10-Mar-2021 23:58:59	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:58:59	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 23:59:01	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:59:01	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+10-Mar-2021 23:59:01	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+10-Mar-2021 23:59:01	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:59:01	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 23:59:02	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+10-Mar-2021 23:59:02	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+10-Mar-2021 23:59:02	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 6390 milliseconds
+11-Mar-2021 03:48:19	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 03:48:20	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 03:48:20	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 03:51:43	RDD	CApplication::InitInstance  	Application RTDDriver started.
+11-Mar-2021 03:51:43	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+11-Mar-2021 03:51:43	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 03:51:43	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Mar-2021 03:51:43	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+11-Mar-2021 03:51:43	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+11-Mar-2021 03:51:43	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+11-Mar-2021 03:51:43	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+11-Mar-2021 03:51:43	RDD	CRTDConfiguration::Establish	starting connection
+11-Mar-2021 03:51:43	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 43fecf4
+11-Mar-2021 03:51:43	RDD	CRTDConfiguration::LoadDataF	config id = 3
+11-Mar-2021 03:51:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 03:51:48	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+11-Mar-2021 03:51:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 03:51:48	RDD	CApplication::ReadPermittedP	profile string: 
+11-Mar-2021 03:51:48	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 03:51:48	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 03:51:48	RDD	CSecurity::Validate         	Username = engineer
+11-Mar-2021 03:51:48	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+11-Mar-2021 03:51:49	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 03:51:52	RDD	CRTDConfiguration::Identify 	user name = engineer
+11-Mar-2021 03:51:53	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 03:51:53	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 03:51:55	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 03:51:55	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+11-Mar-2021 03:51:55	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+11-Mar-2021 03:51:55	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 03:51:55	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 03:51:56	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 03:51:56	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 03:51:56	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 6750 milliseconds
+11-Mar-2021 04:44:46	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 04:44:46	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 04:44:56	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 04:44:56	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 04:44:58	RDD	ExceptionForeign..ctor      	Could not set channel CL_Enable to value 1: ERROR: could not write the channel value
+11-Mar-2021 15:45:47	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 15:45:47	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 15:46:17	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 15:46:17	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 16:49:24	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 16:49:24	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 16:49:25	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 16:49:25	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 16:59:58	RDD	CApplication::InitInstance  	Application RTDDriver started.
+11-Mar-2021 16:59:58	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+11-Mar-2021 16:59:58	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 16:59:58	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Mar-2021 16:59:58	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+11-Mar-2021 16:59:58	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+11-Mar-2021 16:59:58	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+11-Mar-2021 16:59:58	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+11-Mar-2021 16:59:59	RDD	CRTDConfiguration::Establish	starting connection
+11-Mar-2021 16:59:59	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 199dcdc
+11-Mar-2021 17:00:00	RDD	CRTDConfiguration::LoadDataF	config id = 3
+11-Mar-2021 17:00:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 17:00:06	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+11-Mar-2021 17:00:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 17:00:06	RDD	CApplication::ReadPermittedP	profile string: 
+11-Mar-2021 17:00:06	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 17:00:06	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 17:00:07	RDD	CSecurity::Validate         	Username = engineer
+11-Mar-2021 17:00:07	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+11-Mar-2021 17:00:08	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 17:00:13	RDD	CRTDConfiguration::Identify 	user name = engineer
+11-Mar-2021 17:00:14	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 17:00:14	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 17:00:14	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 17:00:14	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 17:00:14	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 17:00:14	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 17:00:18	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 17:00:18	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 17:00:21	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 17:00:21	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+11-Mar-2021 17:00:21	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+11-Mar-2021 17:00:21	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 17:00:21	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 17:00:21	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 17:00:21	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 17:00:22	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 6860 milliseconds
+11-Mar-2021 20:11:55	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:11:56	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 20:11:56	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 20:36:40	RDD	CApplication::InitInstance  	Application RTDDriver started.
+11-Mar-2021 20:36:40	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+11-Mar-2021 20:36:40	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:36:40	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Mar-2021 20:36:40	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+11-Mar-2021 20:36:40	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+11-Mar-2021 20:36:40	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+11-Mar-2021 20:36:40	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+11-Mar-2021 20:36:40	RDD	CRTDConfiguration::Establish	starting connection
+11-Mar-2021 20:36:41	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 2c8b3c
+11-Mar-2021 20:36:42	RDD	CRTDConfiguration::LoadDataF	config id = 2
+11-Mar-2021 20:36:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:36:48	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+11-Mar-2021 20:36:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:36:48	RDD	CApplication::ReadPermittedP	profile string: 
+11-Mar-2021 20:36:48	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:36:48	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:36:48	RDD	CSecurity::Validate         	Username = engineer
+11-Mar-2021 20:36:48	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+11-Mar-2021 20:36:49	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:36:53	RDD	CRTDConfiguration::Identify 	user name = engineer
+11-Mar-2021 20:36:54	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:36:54	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:36:57	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:36:57	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+11-Mar-2021 20:36:57	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+11-Mar-2021 20:36:57	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:36:57	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:36:58	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:36:58	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:36:58	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-7B\1_Clock.v: time = 8281 milliseconds
+11-Mar-2021 20:40:56	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:40:56	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 20:40:56	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 20:50:31	RDD	CApplication::InitInstance  	Application RTDDriver started.
+11-Mar-2021 20:50:31	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+11-Mar-2021 20:50:32	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:50:32	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Mar-2021 20:50:32	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+11-Mar-2021 20:50:32	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+11-Mar-2021 20:50:32	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+11-Mar-2021 20:50:32	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+11-Mar-2021 20:50:32	RDD	CRTDConfiguration::Establish	starting connection
+11-Mar-2021 20:50:32	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 5a6c30c
+11-Mar-2021 20:50:32	RDD	CRTDConfiguration::LoadDataF	config id = 2
+11-Mar-2021 20:50:36	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:50:36	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+11-Mar-2021 20:50:36	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:50:36	RDD	CApplication::ReadPermittedP	profile string: 
+11-Mar-2021 20:50:37	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:50:37	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:50:37	RDD	CSecurity::Validate         	Username = engineer
+11-Mar-2021 20:50:37	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+11-Mar-2021 20:50:38	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:50:41	RDD	CRTDConfiguration::Identify 	user name = engineer
+11-Mar-2021 20:50:42	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:50:42	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:50:45	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:50:45	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+11-Mar-2021 20:50:45	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+11-Mar-2021 20:50:45	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:50:45	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:50:46	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:50:46	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:50:46	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-7B\1_Clock.v: time = 7765 milliseconds
+11-Mar-2021 20:52:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:52:07	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 20:52:07	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 20:52:40	RDD	CApplication::InitInstance  	Application RTDDriver started.
+11-Mar-2021 20:52:40	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+11-Mar-2021 20:52:40	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:52:40	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Mar-2021 20:52:40	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+11-Mar-2021 20:52:40	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+11-Mar-2021 20:52:40	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+11-Mar-2021 20:52:41	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+11-Mar-2021 20:52:41	RDD	CRTDConfiguration::Establish	starting connection
+11-Mar-2021 20:52:42	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1baed8c
+11-Mar-2021 20:52:43	RDD	CRTDConfiguration::LoadDataF	config id = 2
+11-Mar-2021 20:52:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:52:48	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+11-Mar-2021 20:52:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:52:48	RDD	CApplication::ReadPermittedP	profile string: 
+11-Mar-2021 20:52:48	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:52:48	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:52:48	RDD	CSecurity::Validate         	Username = engineer
+11-Mar-2021 20:52:48	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+11-Mar-2021 20:52:49	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 20:52:53	RDD	CRTDConfiguration::Identify 	user name = engineer
+11-Mar-2021 20:52:54	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:52:54	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:52:57	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:52:57	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+11-Mar-2021 20:52:57	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+11-Mar-2021 20:52:57	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:52:57	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:52:58	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 20:52:58	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 20:52:58	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-7B\1_Clock.v: time = 8500 milliseconds
+11-Mar-2021 21:01:19	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:01:19	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 21:01:19	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 21:02:29	RDD	CApplication::InitInstance  	Application RTDDriver started.
+11-Mar-2021 21:02:29	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+11-Mar-2021 21:02:29	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:02:29	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Mar-2021 21:02:29	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+11-Mar-2021 21:02:29	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+11-Mar-2021 21:02:29	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+11-Mar-2021 21:02:29	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+11-Mar-2021 21:02:30	RDD	CRTDConfiguration::Establish	starting connection
+11-Mar-2021 21:02:30	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 9f439c
+11-Mar-2021 21:02:31	RDD	CRTDConfiguration::LoadDataF	config id = 2
+11-Mar-2021 21:02:36	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:02:36	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+11-Mar-2021 21:02:36	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:02:36	RDD	CApplication::ReadPermittedP	profile string: 
+11-Mar-2021 21:02:36	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:02:36	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 21:02:36	RDD	CSecurity::Validate         	Username = engineer
+11-Mar-2021 21:02:36	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+11-Mar-2021 21:02:38	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:02:41	RDD	CRTDConfiguration::Identify 	user name = engineer
+11-Mar-2021 21:02:41	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:02:41	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 21:02:44	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:02:44	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+11-Mar-2021 21:02:44	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+11-Mar-2021 21:02:44	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:02:44	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 21:02:45	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:02:45	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 21:02:46	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-7B\1_Clock.v: time = 7828 milliseconds
+11-Mar-2021 21:04:04	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:04:04	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 21:04:04	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 21:04:40	RDD	CApplication::InitInstance  	Application RTDDriver started.
+11-Mar-2021 21:04:40	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+11-Mar-2021 21:04:40	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:04:40	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Mar-2021 21:04:40	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+11-Mar-2021 21:04:40	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+11-Mar-2021 21:04:40	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+11-Mar-2021 21:04:40	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+11-Mar-2021 21:04:41	RDD	CRTDConfiguration::Establish	starting connection
+11-Mar-2021 21:04:42	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1b916ec
+11-Mar-2021 21:04:43	RDD	CRTDConfiguration::LoadDataF	config id = 2
+11-Mar-2021 21:04:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:04:48	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+11-Mar-2021 21:04:48	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:04:48	RDD	CApplication::ReadPermittedP	profile string: 
+11-Mar-2021 21:04:48	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:04:48	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 21:04:48	RDD	CSecurity::Validate         	Username = engineer
+11-Mar-2021 21:04:48	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+11-Mar-2021 21:04:49	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 21:04:53	RDD	CRTDConfiguration::Identify 	user name = engineer
+11-Mar-2021 21:04:53	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:04:53	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 21:04:56	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:04:56	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+11-Mar-2021 21:04:56	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+11-Mar-2021 21:04:56	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:04:56	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 21:04:57	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 21:04:57	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 21:04:57	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-7B\1_Clock.v: time = 7969 milliseconds
+11-Mar-2021 22:53:25	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 22:53:25	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 22:53:25	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+11-Mar-2021 23:12:06	RDD	CApplication::InitInstance  	Application RTDDriver started.
+11-Mar-2021 23:12:06	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+11-Mar-2021 23:12:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 23:12:06	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+11-Mar-2021 23:12:06	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+11-Mar-2021 23:12:06	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+11-Mar-2021 23:12:06	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+11-Mar-2021 23:12:06	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+11-Mar-2021 23:12:07	RDD	CRTDConfiguration::Establish	starting connection
+11-Mar-2021 23:12:07	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 64dbb6c
+11-Mar-2021 23:12:08	RDD	CRTDConfiguration::LoadDataF	config id = 2
+11-Mar-2021 23:12:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 23:12:14	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+11-Mar-2021 23:12:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 23:12:14	RDD	CApplication::ReadPermittedP	profile string: 
+11-Mar-2021 23:12:14	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 23:12:14	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+11-Mar-2021 23:12:14	RDD	CSecurity::Validate         	Username = engineer
+11-Mar-2021 23:12:15	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+11-Mar-2021 23:12:16	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+11-Mar-2021 23:12:17	RDD	CRTDConfiguration::Identify 	user name = engineer
+11-Mar-2021 23:12:17	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+11-Mar-2021 23:12:17	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 01:24:14	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 01:24:14	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 01:24:14	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 01:31:11	RDD	CApplication::InitInstance  	Application RTDDriver started.
+12-Mar-2021 01:31:11	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+12-Mar-2021 01:31:11	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 01:31:11	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+12-Mar-2021 01:31:11	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+12-Mar-2021 01:31:11	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+12-Mar-2021 01:31:11	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+12-Mar-2021 01:31:11	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+12-Mar-2021 01:31:11	RDD	CRTDConfiguration::Establish	starting connection
+12-Mar-2021 01:31:11	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1cce21c
+12-Mar-2021 01:31:11	RDD	CRTDConfiguration::LoadDataF	config id = 1
+12-Mar-2021 01:31:15	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 01:31:15	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CF6-80C2
+12-Mar-2021 01:31:16	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 01:31:16	RDD	CApplication::ReadPermittedP	profile string: 
+12-Mar-2021 01:31:16	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 01:31:16	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 01:31:16	RDD	CSecurity::Validate         	Username = engineer
+12-Mar-2021 01:31:16	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+12-Mar-2021 01:31:17	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 01:31:26	RDD	CRTDConfiguration::Identify 	user name = engineer
+12-Mar-2021 01:31:27	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 01:31:27	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 01:31:30	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 01:31:30	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+12-Mar-2021 01:31:30	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+12-Mar-2021 01:31:30	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 01:31:30	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 01:31:31	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 01:31:31	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 01:31:31	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CF6-80C2\1_Clock.v: time = 13766 milliseconds
+12-Mar-2021 01:51:20	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 01:51:21	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 01:51:21	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 02:10:02	RDD	CApplication::InitInstance  	Application RTDDriver started.
+12-Mar-2021 02:10:02	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+12-Mar-2021 02:10:02	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:10:02	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+12-Mar-2021 02:10:02	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+12-Mar-2021 02:10:02	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+12-Mar-2021 02:10:02	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+12-Mar-2021 02:10:03	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+12-Mar-2021 02:10:04	RDD	CRTDConfiguration::Establish	starting connection
+12-Mar-2021 02:10:04	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 4e4e8cc
+12-Mar-2021 02:10:04	RDD	CRTDConfiguration::LoadDataF	config id = 0
+12-Mar-2021 02:10:04	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:10:04	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\
+12-Mar-2021 02:10:04	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:10:04	RDD	CApplication::ReadPermittedP	profile string: 
+12-Mar-2021 02:10:05	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 02:10:05	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 02:10:05	RDD	CSecurity::Validate         	Username = engineer
+12-Mar-2021 02:10:05	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+12-Mar-2021 02:10:06	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:10:06	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\1_Clock.v: time = 78 milliseconds
+12-Mar-2021 02:10:31	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:10:31	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 02:10:31	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 02:12:21	RDD	CApplication::InitInstance  	Application RTDDriver started.
+12-Mar-2021 02:12:21	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+12-Mar-2021 02:12:21	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:12:21	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+12-Mar-2021 02:12:21	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+12-Mar-2021 02:12:21	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+12-Mar-2021 02:12:21	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+12-Mar-2021 02:12:21	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+12-Mar-2021 02:12:22	RDD	CRTDConfiguration::Establish	starting connection
+12-Mar-2021 02:12:22	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 4451c2c
+12-Mar-2021 02:12:22	RDD	CRTDConfiguration::LoadDataF	config id = 2
+12-Mar-2021 02:12:26	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:12:26	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+12-Mar-2021 02:12:26	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:12:26	RDD	CApplication::ReadPermittedP	profile string: 
+12-Mar-2021 02:12:26	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 02:12:26	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 02:12:27	RDD	CSecurity::Validate         	Username = engineer
+12-Mar-2021 02:12:27	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+12-Mar-2021 02:12:28	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:12:31	RDD	CRTDConfiguration::Identify 	user name = engineer
+12-Mar-2021 02:12:32	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 02:12:32	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 02:12:35	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 02:12:35	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+12-Mar-2021 02:12:35	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+12-Mar-2021 02:12:35	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 02:12:35	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 02:12:36	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 02:12:36	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 02:12:36	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-7B\1_Clock.v: time = 7625 milliseconds
+12-Mar-2021 02:50:22	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 02:50:22	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 02:50:22	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 03:36:23	RDD	CApplication::InitInstance  	Application RTDDriver started.
+12-Mar-2021 03:36:23	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+12-Mar-2021 03:36:23	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 03:36:23	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+12-Mar-2021 03:36:23	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+12-Mar-2021 03:36:23	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+12-Mar-2021 03:36:23	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+12-Mar-2021 03:36:23	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+12-Mar-2021 03:36:24	RDD	CRTDConfiguration::Establish	starting connection
+12-Mar-2021 03:36:25	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1bed8ec
+12-Mar-2021 03:36:26	RDD	CRTDConfiguration::LoadDataF	config id = 2
+12-Mar-2021 03:36:32	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 03:36:32	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+12-Mar-2021 03:36:32	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 03:36:32	RDD	CApplication::ReadPermittedP	profile string: 
+12-Mar-2021 03:36:32	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 03:36:32	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 03:36:32	RDD	CSecurity::Validate         	Username = engineer
+12-Mar-2021 03:36:32	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+12-Mar-2021 03:36:33	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 03:36:38	RDD	CRTDConfiguration::Identify 	user name = engineer
+12-Mar-2021 03:36:39	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 03:36:39	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 03:36:42	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 03:36:42	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+12-Mar-2021 03:36:42	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+12-Mar-2021 03:36:42	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 03:36:42	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 03:36:43	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 03:36:43	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 03:36:43	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-7B\1_Clock.v: time = 9750 milliseconds
+12-Mar-2021 04:04:32	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:04:33	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 04:04:33	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 04:07:47	RDD	CApplication::InitInstance  	Application RTDDriver started.
+12-Mar-2021 04:07:47	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+12-Mar-2021 04:07:47	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:07:47	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+12-Mar-2021 04:07:47	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+12-Mar-2021 04:07:47	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+12-Mar-2021 04:07:47	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+12-Mar-2021 04:07:47	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+12-Mar-2021 04:07:48	RDD	CRTDConfiguration::Establish	starting connection
+12-Mar-2021 04:07:49	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 19eba44
+12-Mar-2021 04:07:50	RDD	CRTDConfiguration::LoadDataF	config id = 2
+12-Mar-2021 04:07:56	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:07:56	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-7B
+12-Mar-2021 04:07:56	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:07:56	RDD	CApplication::ReadPermittedP	profile string: 
+12-Mar-2021 04:07:56	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:07:56	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 04:07:56	RDD	CSecurity::Validate         	Username = engineer
+12-Mar-2021 04:07:56	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+12-Mar-2021 04:07:57	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:08:00	RDD	CRTDConfiguration::Identify 	user name = engineer
+12-Mar-2021 04:08:01	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:08:01	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 04:08:03	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:08:03	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+12-Mar-2021 04:08:03	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+12-Mar-2021 04:08:03	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:08:03	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 04:08:04	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:08:04	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 04:08:05	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-7B\1_Clock.v: time = 7156 milliseconds
+12-Mar-2021 04:34:27	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:34:28	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 04:34:28	RDD	CApplication::CleanUp       	Application RTDDriver terminated.
+12-Mar-2021 04:49:22	RDD	CApplication::InitInstance  	Application RTDDriver started.
+12-Mar-2021 04:49:22	RDD	CRTDCommandLineInfo::ParsePa	Param = Embedding
+12-Mar-2021 04:49:22	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:49:22	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views
+12-Mar-2021 04:49:22	RDD	CRTDDriverApp::InitInstance 	Tracing attributes for Database.COM have been set successfully
+12-Mar-2021 04:49:22	RDD	CRTDDriverApp::InitInstance 	Application is not running as a singleton, due to the registry setting: 0x80000002\Software\proDAS\RTDDriver\General\Singleton
+12-Mar-2021 04:49:22	RDD	CRTDDriverApp::InitInstance 	m_bRunEmbedded: 1, m_bRunAutomated: 0, bInteractive: 0
+
+12-Mar-2021 04:49:22	RDD	CRTDDriverApp::InitializeSer	username: , user level = 0
+12-Mar-2021 04:49:22	RDD	CRTDConfiguration::Establish	starting connection
+12-Mar-2021 04:49:23	RDD	CRTDConfiguration::Establish	connection successful: m_pConfigServer = 1b41c8c
+12-Mar-2021 04:49:23	RDD	CRTDConfiguration::LoadDataF	config id = 3
+12-Mar-2021 04:49:29	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:49:29	RDD	CApplication::ChangeWorkingD	changed working directory to \\rtehost\RTE\Views\CFM56-5B
+12-Mar-2021 04:49:29	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:49:29	RDD	CApplication::ReadPermittedP	profile string: 
+12-Mar-2021 04:49:29	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:49:29	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 04:49:29	RDD	CSecurity::Validate         	Username = engineer
+12-Mar-2021 04:49:29	RDD	CSecurity::Validate         	user name: engineer -> user level = 3
+12-Mar-2021 04:49:30	RDD	CApplication::GetRTDRoot    	profile string: \\rtehost\RTE\Views
+12-Mar-2021 04:49:33	RDD	CRTDConfiguration::Identify 	user name = engineer
+12-Mar-2021 04:49:34	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:49:34	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 04:49:36	RDD	RTDPS                       	Buffered List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:49:36	RDD	RTDPS                       	Buffered List: Capture Rate: 200.000000 Hz
+12-Mar-2021 04:49:36	RDD	RTDPS                       	m_pBuffer: lSecondsToBuffer = 10, nMaxFrames = 4000, nChannels = 8, m_lMaxChannelData = 32000
+
+12-Mar-2021 04:49:36	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:49:36	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 04:49:37	RDD	RTDPS                       	Instantaneous List: Transfer Rate: 10.000000 Hz
+12-Mar-2021 04:49:37	RDD	RTDPS                       	Instantaneous List: Capture Rate: -1.000000 Hz
+12-Mar-2021 04:49:37	RDD	CPageView::LoadPage         	loading page \\rtehost\RTE\Views\CFM56-5B\1_Clock.v: time = 6437 milliseconds

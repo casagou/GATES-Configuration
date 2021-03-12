@@ -24,7 +24,7 @@ from nxtps import *
 Shutdown = None
 EndOil = None
 
-channel("OilCSStr,Eng_On,GIFlag,AIFlag,TOil_2DegC,OilConRate,BadOilCons,OilConsum,tOilConsum,TOil_EngOf,TOil_OCStr,TOil_OCStr1,tAtGI,N1RDWN,N2RDWN,NADownL,NBDownL,NARDWN,NBRDWN,TransReset,A27211,NAStop,NBStop,FuelEnable,GndPower")
+channel("OilCSStr,Eng_On,GIFlag,AIFlag,TOil_2DegC,OilConRate,BadOilCons,OilConsum,tOilConsum,TOil_EngOf,tAtGI,N1RDWN,N2RDWN,NADownL,NBDownL,NARDWN,NBRDWN,TransReset,A27211,NAStop,NBStop")
 
 
 if getCV("OilCSStr") == 0 or getCV("Eng_On") == 0:

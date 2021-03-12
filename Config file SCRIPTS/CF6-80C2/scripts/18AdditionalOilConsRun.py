@@ -22,7 +22,7 @@ from nxtps import *
 #*
 #******************************************************************************
 
-channel("Eng_On, N1_OBS, N185")
+channel("Eng_On,N1_OBS,N185")
 
 
 if getCV("Eng_On") == 0:
@@ -38,7 +38,7 @@ instruction("Accelerate to 86% N1 Power and,")
 
 note("Stabilize engine at this point for 15 minutes.")
 
-wait("N1_OBS="+str(round(getCV("N185"), 4)) , 30, 10, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Engine not at 86%N1 in 30 s.")
+wait("N1_OBS="+str(round(getCV("N185"),4)),30,10,WAIT_PARAM3_DFT,WAIT_PARAM4_DFT,WAIT_PARAM5_DFT,WAIT_PARAM6_DFT,WAIT_PARAM7_DFT,MSG,"Engine not at 86%N1 in 30 s.")
 
 if SkipGV:
 	result("Operator skipped MC power setting")

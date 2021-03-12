@@ -1,4 +1,4 @@
-cfg_rev_no=68
+cfg_rev_no=98
 config-name=GA-TELESIS
 spte-name=CFM56-5B_SETUP
 standard-name=MULTIPLE_RATING-SAC

@@ -1239,3 +1239,363 @@
 05-Mar-2021 09:05:30	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
 05-Mar-2021 09:05:30	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
 05-Mar-2021 09:06:08	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+06-Mar-2021 07:35:41	   	                            	
+06-Mar-2021 07:35:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+06-Mar-2021 07:35:41	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+06-Mar-2021 07:35:41	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+06-Mar-2021 07:35:41	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+06-Mar-2021 07:38:02	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+06-Mar-2021 07:38:02	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+06-Mar-2021 07:38:02	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+06-Mar-2021 07:38:02	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+06-Mar-2021 07:38:02	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+06-Mar-2021 07:38:03	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+06-Mar-2021 07:38:03	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+06-Mar-2021 07:38:03	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+06-Mar-2021 07:38:03	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+06-Mar-2021 07:38:03	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+07-Mar-2021 00:05:44	   	                            	
+07-Mar-2021 00:05:44	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+07-Mar-2021 00:05:44	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+07-Mar-2021 00:05:44	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+07-Mar-2021 00:05:45	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+08-Mar-2021 17:39:20	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+08-Mar-2021 17:39:20	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+08-Mar-2021 17:39:20	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+08-Mar-2021 17:39:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+08-Mar-2021 17:39:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+08-Mar-2021 17:39:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+08-Mar-2021 17:39:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+08-Mar-2021 17:39:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+08-Mar-2021 17:39:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+08-Mar-2021 17:39:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+08-Mar-2021 18:24:20	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+08-Mar-2021 23:05:13	   	                            	
+08-Mar-2021 23:05:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Mar-2021 23:05:13	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Mar-2021 23:05:13	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Mar-2021 23:05:13	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 00:14:23	   	                            	
+09-Mar-2021 00:14:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 00:14:23	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 00:14:23	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 00:14:23	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Mar-2021 00:17:56	   	                            	
+09-Mar-2021 00:17:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 00:17:56	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 00:17:56	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 00:17:56	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Mar-2021 00:19:35	   	                            	
+09-Mar-2021 00:19:35	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 00:19:35	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 00:19:35	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 00:19:36	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Mar-2021 00:21:54	   	                            	
+09-Mar-2021 00:21:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 00:21:54	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 00:21:54	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 00:21:54	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 00:25:33	   	                            	
+09-Mar-2021 00:25:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 00:25:33	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 00:25:33	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 00:25:33	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Mar-2021 02:05:56	   	                            	
+09-Mar-2021 02:05:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 02:05:56	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 02:05:56	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 02:05:56	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 02:20:01	   	                            	
+09-Mar-2021 02:20:01	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 02:20:01	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 02:20:01	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 02:20:01	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 02:51:03	   	                            	
+09-Mar-2021 02:51:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 02:51:03	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 02:51:03	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 02:51:03	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 02:54:26	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+09-Mar-2021 02:54:26	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+09-Mar-2021 02:54:26	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+09-Mar-2021 02:54:26	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+09-Mar-2021 02:54:27	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+09-Mar-2021 02:54:27	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+09-Mar-2021 02:54:27	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+09-Mar-2021 02:54:27	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+09-Mar-2021 02:54:27	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+09-Mar-2021 02:54:27	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+09-Mar-2021 02:59:26	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+09-Mar-2021 03:16:32	   	                            	
+09-Mar-2021 03:16:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 03:16:32	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 03:16:32	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 03:16:32	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 05:51:09	   	                            	
+09-Mar-2021 05:51:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 05:51:09	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 05:51:09	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 05:51:09	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 06:35:33	   	                            	
+09-Mar-2021 06:35:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 06:35:33	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 06:35:33	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 06:35:34	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 07:01:34	   	                            	
+09-Mar-2021 07:01:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 07:01:34	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 07:01:34	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 07:01:34	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 15:42:17	   	                            	
+09-Mar-2021 15:42:17	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 15:42:17	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 15:42:17	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 15:42:17	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 22:31:18	   	                            	
+09-Mar-2021 22:31:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 22:31:18	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 22:31:18	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 22:31:18	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 22:58:18	   	                            	
+09-Mar-2021 22:58:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 22:58:18	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 22:58:18	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 22:58:18	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 23:13:24	   	                            	
+09-Mar-2021 23:13:24	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 23:13:24	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 23:13:24	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 23:13:24	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 23:15:14	   	                            	
+09-Mar-2021 23:15:14	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 23:15:14	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 23:15:14	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 23:15:14	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Mar-2021 23:15:58	   	                            	
+09-Mar-2021 23:15:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 23:15:58	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 23:15:58	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 23:15:58	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 23:40:40	   	                            	
+09-Mar-2021 23:40:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 23:40:40	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 23:40:40	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 23:40:40	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Mar-2021 23:42:05	   	                            	
+09-Mar-2021 23:42:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 23:42:05	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 23:42:05	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 23:42:05	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Mar-2021 23:57:03	   	                            	
+09-Mar-2021 23:57:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Mar-2021 23:57:03	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Mar-2021 23:57:03	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Mar-2021 23:57:04	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Mar-2021 00:02:53	   	                            	
+10-Mar-2021 00:02:53	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 00:02:53	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 00:02:53	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 00:02:53	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Mar-2021 00:08:39	   	                            	
+10-Mar-2021 00:08:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 00:08:39	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 00:08:39	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 00:08:39	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Mar-2021 00:22:02	   	                            	
+10-Mar-2021 00:22:02	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 00:22:02	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 00:22:02	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 00:22:02	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Mar-2021 04:53:05	   	                            	
+10-Mar-2021 04:53:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 04:53:05	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 04:53:05	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 04:53:05	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Mar-2021 19:07:14	   	                            	
+10-Mar-2021 19:07:14	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 19:07:14	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 19:07:14	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 19:07:14	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Mar-2021 22:29:46	   	                            	
+10-Mar-2021 22:29:46	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 22:29:46	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 22:29:46	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 22:29:46	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+10-Mar-2021 22:45:03	   	                            	
+10-Mar-2021 22:45:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 22:45:03	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 22:45:03	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 22:45:03	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Mar-2021 23:53:26	   	                            	
+10-Mar-2021 23:53:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 23:53:26	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 23:53:26	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 23:53:26	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Mar-2021 23:58:48	   	                            	
+10-Mar-2021 23:58:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Mar-2021 23:58:48	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Mar-2021 23:58:48	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Mar-2021 23:58:48	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+11-Mar-2021 03:51:43	   	                            	
+11-Mar-2021 03:51:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Mar-2021 03:51:43	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+11-Mar-2021 03:51:43	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+11-Mar-2021 03:51:43	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+11-Mar-2021 16:59:57	   	                            	
+11-Mar-2021 16:59:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Mar-2021 16:59:57	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+11-Mar-2021 16:59:57	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+11-Mar-2021 16:59:58	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+11-Mar-2021 20:36:39	   	                            	
+11-Mar-2021 20:36:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Mar-2021 20:36:39	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+11-Mar-2021 20:36:39	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+11-Mar-2021 20:36:39	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+11-Mar-2021 20:50:31	   	                            	
+11-Mar-2021 20:50:31	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Mar-2021 20:50:31	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+11-Mar-2021 20:50:31	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+11-Mar-2021 20:50:31	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+11-Mar-2021 20:52:10	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+11-Mar-2021 20:52:11	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+11-Mar-2021 20:52:33	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+11-Mar-2021 20:52:40	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+11-Mar-2021 21:01:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+11-Mar-2021 21:01:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+11-Mar-2021 21:01:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+11-Mar-2021 21:01:21	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+11-Mar-2021 21:01:22	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+11-Mar-2021 21:01:22	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+11-Mar-2021 21:01:22	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+11-Mar-2021 21:01:22	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+11-Mar-2021 21:01:22	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+11-Mar-2021 21:01:22	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+11-Mar-2021 21:02:28	   	                            	
+11-Mar-2021 21:02:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+11-Mar-2021 21:02:28	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+11-Mar-2021 21:02:28	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+11-Mar-2021 21:02:28	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+11-Mar-2021 21:04:08	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+11-Mar-2021 21:04:08	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+11-Mar-2021 21:04:09	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+11-Mar-2021 21:04:09	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+11-Mar-2021 21:04:09	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+11-Mar-2021 21:04:09	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+11-Mar-2021 21:04:09	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+11-Mar-2021 21:04:09	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+11-Mar-2021 21:04:09	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+11-Mar-2021 21:04:09	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+11-Mar-2021 21:04:36	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+11-Mar-2021 21:04:40	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+11-Mar-2021 22:53:30	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+11-Mar-2021 22:53:30	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+11-Mar-2021 22:53:30	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+11-Mar-2021 22:53:30	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+11-Mar-2021 22:53:31	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+11-Mar-2021 22:53:31	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+11-Mar-2021 22:53:31	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+11-Mar-2021 22:53:31	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+11-Mar-2021 22:53:31	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+11-Mar-2021 22:53:31	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+11-Mar-2021 23:12:01	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+11-Mar-2021 23:12:01	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+11-Mar-2021 23:12:06	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+12-Mar-2021 01:24:37	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+12-Mar-2021 01:24:37	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+12-Mar-2021 01:24:38	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+12-Mar-2021 01:24:38	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+12-Mar-2021 01:24:38	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+12-Mar-2021 01:24:38	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+12-Mar-2021 01:24:38	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+12-Mar-2021 01:24:38	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+12-Mar-2021 01:24:38	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+12-Mar-2021 01:24:38	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+12-Mar-2021 01:24:38	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 01:24:39	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 01:31:08	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 01:31:08	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+12-Mar-2021 01:31:11	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+12-Mar-2021 01:51:25	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+12-Mar-2021 01:51:25	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+12-Mar-2021 01:51:25	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+12-Mar-2021 01:51:25	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+12-Mar-2021 01:51:25	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+12-Mar-2021 01:51:25	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+12-Mar-2021 01:51:26	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+12-Mar-2021 01:51:26	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+12-Mar-2021 01:51:26	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+12-Mar-2021 01:51:26	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+12-Mar-2021 01:51:26	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 01:51:27	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 02:09:57	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 02:09:57	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+12-Mar-2021 02:10:02	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+12-Mar-2021 02:10:35	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+12-Mar-2021 02:10:35	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+12-Mar-2021 02:10:35	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+12-Mar-2021 02:10:35	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+12-Mar-2021 02:10:35	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+12-Mar-2021 02:10:35	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+12-Mar-2021 02:10:35	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+12-Mar-2021 02:10:35	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+12-Mar-2021 02:10:36	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+12-Mar-2021 02:10:36	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+12-Mar-2021 02:10:36	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 02:10:37	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 02:12:17	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 02:12:17	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+12-Mar-2021 02:12:21	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+12-Mar-2021 02:50:43	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+12-Mar-2021 02:50:43	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+12-Mar-2021 02:50:43	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+12-Mar-2021 02:50:43	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+12-Mar-2021 02:50:43	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+12-Mar-2021 02:50:43	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+12-Mar-2021 02:50:43	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+12-Mar-2021 02:50:43	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+12-Mar-2021 02:50:44	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+12-Mar-2021 02:50:44	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+12-Mar-2021 02:50:44	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 02:50:45	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 03:36:17	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 03:36:17	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+12-Mar-2021 03:36:22	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+12-Mar-2021 04:04:40	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+12-Mar-2021 04:04:40	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+12-Mar-2021 04:04:40	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+12-Mar-2021 04:04:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+12-Mar-2021 04:04:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+12-Mar-2021 04:04:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+12-Mar-2021 04:04:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+12-Mar-2021 04:04:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+12-Mar-2021 04:04:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+12-Mar-2021 04:04:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+12-Mar-2021 04:04:41	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 04:04:42	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 04:07:40	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 04:07:40	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+12-Mar-2021 04:07:47	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+12-Mar-2021 04:34:33	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+12-Mar-2021 04:34:33	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+12-Mar-2021 04:34:33	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+12-Mar-2021 04:34:33	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+12-Mar-2021 04:34:33	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+12-Mar-2021 04:34:34	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+12-Mar-2021 04:34:34	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+12-Mar-2021 04:34:34	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+12-Mar-2021 04:34:34	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+12-Mar-2021 04:34:34	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+12-Mar-2021 04:34:34	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 04:34:35	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 04:49:12	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 04:49:12	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
+12-Mar-2021 04:49:21	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+12-Mar-2021 14:36:09	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.

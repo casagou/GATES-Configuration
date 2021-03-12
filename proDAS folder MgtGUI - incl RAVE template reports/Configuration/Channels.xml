@@ -1,4 +1,4 @@
-<Channels LastModificationDate="2021-02-25 07:17:15" Version="1.1">
+<Channels LastModificationDate="2021-02-25 14:17:15" Version="1.1">
 	<Channel Name="Year" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="4i" DisplayMax="100"/>
 	<Channel Name="Month" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="2i" DisplayMax="100"/>
 	<Channel Name="Day" Description="" SubsystemName="InternalAll" SubsystemType="Internal" DataType="Integer" UpdateRate="200" EngineeringUnit="-" AlternateName="" DisplayMin="0" Format="2i" DisplayMax="100"/>

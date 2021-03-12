@@ -1,0 +1,2267 @@
+		Dummy5B		
+		MAX_CONT_B8		
+		2021-03-11  18:50:25		
+		Test final ID=8 with TO_Pnt=1 and MCRange=1		STD_DEV
+A01111		0	B	
+A01112		0	B	
+A01113		0	B	
+A01114		0	B	
+A01115		0	B	
+A01116		0	B	
+A01117		0	B	
+A01118		0	B	
+A01119		0	B	
+A01120		0	B	
+A01121		0	B	
+A01122		0	B	
+A01123		0	B	
+A01124		0	B	
+A01127		0	B	
+A01128		0	B	
+A01129		0	B	
+A06611		0	B	
+A06612		0	B	
+A06613		0	B	
+A06614		0	B	
+A06615		0	B	
+A06616		0	B	
+A06617		0	B	
+A06618		0	B	
+A06619		0	B	
+A06620		0	B	
+A2	in^2	3334.4130859375	G	
+A27011		0	B	
+A27012		0	B	
+A27013		0	B	
+A27014		0	B	
+A27015		0	B	
+A27016		0	B	
+A27017		0	B	
+A27018		0	B	
+A27019		0	B	
+A27020		0	B	
+A27021		0	B	
+A27022		0	B	
+A27023		0	B	
+A27024		0	B	
+A27025		0	B	
+A27026		0	B	
+A27027		0	B	
+A27028		0	B	
+A27029		0	B	
+A27111		0	B	
+A27112		0	B	
+A27114		0	B	
+A27115		0	B	
+A27116		0	B	
+A27117		0	B	
+A27118		0	B	
+A27119		0	B	
+A27120		0	B	
+A27121		0	B	
+A27122		0	B	
+A27123		0	B	
+A27124		0	B	
+A27125		0	B	
+A27126		0	B	
+A27127		0	B	
+A27128		0	B	
+A27129		0	B	
+A27211		0	B	
+A27212		0	B	
+A27213		0	B	
+A27214		0	B	
+A27215		0	B	
+A27216		0	B	
+A27217		0	B	
+A27218		0	B	
+A27219		0	B	
+A27220		0	B	
+A27221		0	B	
+A27222		0	B	
+A27223		0	B	
+A27224		0	B	
+A27225		0	B	
+A27226		0	B	
+A27227		0	B	
+A27228		0	B	
+A27229		0	B	
+A27311		0	B	
+A27312		0	B	
+A27313		0	B	
+A27314		0	B	
+A27315		0	B	
+A27316		0	G	
+A27317		0	B	
+A27318		0	B	
+A27319		0	B	
+A27320		0	B	
+A27321		0	B	
+A27322		0	B	
+A27323		0	B	
+A27324		0	B	
+A27325		0	B	
+A27326		0	B	
+A27327		0	B	
+A27328		0	B	
+A27329		0	B	
+A27411		0	B	
+A27412		0	B	
+A27413		0	B	
+A27414		0	B	
+A27415		0	B	
+A27416		0	B	
+A27417		0	B	
+A27418		0	G	
+A27419		0	G	
+A27420		0	B	
+A27421		0	B	
+A27422		0	B	
+A27423		0	B	
+A27424		0	B	
+A27425		0	B	
+A27426		0	B	
+A27427		0	B	
+A27428		0	B	
+A27429		0	G	
+A27511		0	B	
+A27512		0	B	
+A27513		0	B	
+A27514		0	B	
+A27515		0	B	
+A27516		0	B	
+A27517		0	B	
+A27518		0	B	
+A27519		0	B	
+A27520		0	B	
+A27521		0 (DISOK=0)	G	
+A27522		0	B	
+A27523		0	B	
+A27524		0	B	
+A27525		0	B	
+A27526		0	B	
+A27527		0	B	
+A27528		0	B	
+A27529		0	B	
+A35011		0	B	
+A35012		0	B	
+A35013		0	B	
+A35014		0	B	
+A35015		0	B	
+A35016		0	B	
+A35017		0	B	
+A35018		0	B	
+A35019		0	B	
+A35020		0	B	
+A35021		0	B	
+A35022		0	B	
+A35023		0	B	
+A35024		0	B	
+A35025		0	B	
+A35026		0	B	
+A35027		0	B	
+A35028		0	B	
+A35029		0	B	
+A35111		0	B	
+A35112		0	B	
+A35113		0	B	
+A35114		0	B	
+A35115		0	B	
+A35116		0	B	
+A35117		0	B	
+A35118		0	B	
+A35119		0	B	
+A35120		0	B	
+A35121		0	B	
+A35122		0	B	
+A35123		0	B	
+A35124		0	B	
+A35125		0	B	
+A35126		0	B	
+A35127		0	B	
+A35128		0	B	
+A35129		0	B	
+A35211		0	B	
+A35212		0	B	
+A35213		0	B	
+A35214		0	B	
+A35215		0	B	
+A35216		0	B	
+A35217		0	B	
+A35218		0	B	
+A35219		0	B	
+A35220		0	B	
+A35221		0	B	
+A35222		0	B	
+A35223		0	B	
+A35224		0	B	
+A35225		0	B	
+A35226		0	B	
+A35227		0	B	
+A35228		0	B	
+A35229		0	B	
+A35311		0	B	
+A35312		0	B	
+A35313		0	B	
+A35314		0	B	
+A35315		0	B	
+A35316		0	B	
+A35317		0	B	
+A35318		0	B	
+A35319		0	B	
+A35320		0	B	
+A35321		0	G	
+A35322		0	G	
+A35323		0	B	
+A35324		0	B	
+A35325		0	B	
+A35326		0	B	
+A35327		0	B	
+A35328		0	B	
+A35329		0	B	
+A35411		0	B	
+A35412		0	B	
+A35413		0	B	
+A35414		0	B	
+A35415		0	B	
+A35416		0	B	
+A35417		0	B	
+A35418		0	B	
+A35419		0	B	
+A35420		0	B	
+A35421		0	B	
+A35422		0	B	
+A35423		0	B	
+A35424		0	B	
+A35425		0	B	
+A35426		0	B	
+A35427		0	B	
+A35428		0	B	
+A35429		0	B	
+A35511		0	B	
+A35512		0	B	
+A35513		0	B	
+A35514		0	B	
+A35515		0	B	
+A35516		0	B	
+A35517		0	B	
+A35518		0	B	
+A35519		0	B	
+A35520		0	B	
+A35521		0	B	
+A35522		0	G	
+A35523		0	G	
+A35524		0	G	
+A35525		0	G	
+A35526		0	G	
+A35527		0	G	
+A35528		0	G	
+A35529		0	B	
+AFMVSel	-	-99999	B	
+AIFlag		0	B	
+AIFlagL		0	B	
+AIValveCLSD		1	G	
+AIValveOPEN		1	G	
+AIValvePwr		0	G	
+AKFac	-	0	G	
+AVBVSel	-	-99999	B	
+AVSVSel	deg	-99999	B	
+AccChn	rpm	4029	G	
+AccTrg1	rpm	1782.61206054688	G	
+AccTrg1L		1	G	
+AccTrg2	rpm	4141.61181640625	G	
+AccTrg2L		1	G	
+Accel		1	G	
+AccelTime	-	0	G	
+Accel_		0	G	
+AirStartCutOff		0	G	
+AirStrtOpen		0	B	
+AirSys_Rdy		0	G	
+Air_On		0	G	
+Al_Bool1		1 (ALARM=1)	G	
+Al_Bool2		0 (DISOK=0)	G	
+Al_Float1	-	1.12300002574921	G	
+Al_Float1_Lim	-	90.5198822021484	G	
+Al_Float2	-	8	G	
+Al_Float2_Lim	-	88888	G	
+Alarm0001		0	G	
+Alarm0002		1	G	
+Alarm0003		0	G	
+Alarm0004		0	G	
+Alarm0005		0	G	
+Alarm0006		1	G	
+Alarm0007		0	G	
+Alarm0008		0	G	
+Alarm0009		0	G	
+Alarm0010		1	G	
+Alarm0011		0	G	
+Alarm0012		0	G	
+Alarm0013		0	G	
+Alarm0014		1	G	
+Alarm0015		0	G	
+Alarm0016		0	G	
+Alarm0017		0	G	
+Alarm0018		0	G	
+Alarm0019		0	G	
+Alarm0020		0	G	
+Alarm0021		0	G	
+Alarm0022		0	G	
+Alarm0023		0	G	
+Alarm0024		0	G	
+Alarm0025		0	G	
+Alarm0026		0	G	
+Alarm0027		0	G	
+Alarm0028		0	G	
+Alarm0029		0	G	
+Alarm0030		0	G	
+Alarm0031		0	G	
+Alarm0032		0	G	
+Alarm0033		0	G	
+Alarm0034		0	G	
+Alarm0035		0	G	
+Alarm0036		0	G	
+Alarm0037		0	G	
+Alarm0038		0	G	
+Alarm0039		1	G	
+Alarm0040		1	G	
+Alarm0041		1	G	
+Alarm0042		0	G	
+Alarm0043		0	G	
+Alarm0044		0	G	
+Alarm0045		1	G	
+Alarm0046		0	G	
+Alarm0047		0	G	
+Alarm0048		0	G	
+Alarm0049		1	G	
+Alarm0050		1	G	
+Alarm0051		1	G	
+Alarm0052		1	G	
+Alarm0053		1	G	
+Alarm0054		1	G	
+Alarm0055		1	G	
+Alarm0056		0	G	
+Alarm0057		0	G	
+Alarm0058		0	G	
+Alarm0059		0	G	
+Alarm0060		1	G	
+Alarm0061		0	G	
+Alarm0062		0	G	
+Alarm0063		0	G	
+Alarm0064		0	G	
+Alarm0065		0	G	
+Alarm0066		0	G	
+Alarm0067		0	G	
+Alarm0068		0	G	
+Alarm0069		0	G	
+Alarm0070		0	G	
+Alarm0071		0	G	
+Alarm0072		1	G	
+Alarm0073		0	G	
+Alarm0074		0	G	
+Alarm0075		0	G	
+Alarm0076		0	G	
+Alarm0077		0	G	
+Alarm0078		0	G	
+Alarm0079		0	G	
+Alarm0080		0	G	
+Alarm0081		0	G	
+Alarm0082		0	G	
+Alarm0083		0	G	
+Alarm0084		1	G	
+Alarm0085		0	G	
+Alarm0086		0	G	
+Alarm0087		0	G	
+Alarm0088		1	G	
+Alarm0089		0	G	
+Alarm0090		1	G	
+Alarm0091		0	G	
+Alarm0092		0	G	
+Alarm0093		0	G	
+Alarm0094		0	G	
+Alarm0095		0	G	
+Alarm0096		0	G	
+Alarm0097		0	G	
+Alarm0098		0	G	
+Alarm0099		0	G	
+Alarm0100		0	G	
+Alarm0101		1	G	
+Alarm0102		0	G	
+Alarm0103		0	G	
+Alarm0104		0	G	
+Alarm0105		0	G	
+Alarm0106		0	G	
+Alarm0107		0	G	
+Alarm0108		0	G	
+Alarm0109		0	G	
+Alarm0110		0	G	
+Alarm0111		0	G	
+Alarm0112		0	G	
+Alarm0113		0	G	
+Alarm0114		1	G	
+Alarm0115		1	G	
+Alarm0116		0	G	
+Alarm0117		0	G	
+Alarm0118		0	G	
+Alarm0119		0	G	
+Alarm0120		0	G	
+Alarm0121		0	G	
+Alarm0122		0	G	
+Alarm0123		0	G	
+Alarm0124		0	G	
+Alarm0125		0	G	
+Alarm0126		0	G	
+Alarm0127		0	G	
+Alarm0128		1	G	
+Alarm0129		0	G	
+Alarm0130		0	G	
+Alarm0131		0	G	
+Alarm0132		0	G	
+Alarm0133		1	G	
+Alarm0134		0	G	
+Alarm0135		0	G	
+Alarm0136		0	G	
+Alarm0137		0	G	
+Alarm0138		0	G	
+Alarm0139		0	G	
+Alarm0140		0	G	
+Alarm0141		0	G	
+Alarm0142		0	G	
+Alarm0143		0	G	
+Alarm0144		0	G	
+Alarm0145		0	G	
+Alarm0146		0	G	
+Alarm0147		0	G	
+Alarm0148		0	G	
+Alarm0149		0	G	
+Alarm0150		0	G	
+Alarm0151		0	G	
+Alarm0152		0	G	
+Alarm0153		0	G	
+Alarm0154		0	G	
+Alarm0155		0	G	
+Alarm0156		0	G	
+Alarm0157		0	G	
+Alarm0158		0	G	
+Alarm0159		0	G	
+Alarm0160		0	G	
+Alarm0161		0	G	
+Alarm0162		0	G	
+Alarm0163		0	G	
+Alarm0164		0	G	
+Alarm0165		0	G	
+Alarm0166		0	G	
+Alarm0167		0	G	
+Alarm0168		1	G	
+Alarm0169		0	G	
+Alarm0170		0	G	
+Alarm0171		0	G	
+Alarm0172		0	G	
+Alarm0173		1	G	
+Alarm0174		0	G	
+Alarm0175		0	G	
+Alarm0176		0	G	
+Alarm0177		0	G	
+Alarm0178		0	G	
+Alarm_Ack_All		0	G	
+Alarm_Ack_All_		1	G	
+Alarm_Ack_All_Flag		0	G	
+Alarm_Ack_All_SW		0	G	
+Alarm_Ack_Last		0	G	
+Alarm_Ack_Last_Flag		0	G	
+Alarm_Ack_Last_SW		0	G	
+Alarm_Ack_Timer	-	0	G	
+Alarm_Enable		1	G	
+Alarm_Enable_SW		1	G	
+Alarm_Status	-	2	G	
+ArmValve_Clsd		0	G	
+ArmValve_Open		0	G	
+ArmVlvClose_CMD		0	G	
+ArmVlvOpen_CMD		0	G	
+At_Fuel_Supply_Position		0	G	
+At_Inhibit_Oil_Position		0	G	
+AugDoor_Clsd		0	G	
+AugDoor_Open		0	G	
+Augmenter_Down		0	G	
+Augmenter_Up		0	G	
+AutoSTRT_FL		0	B	
+B01111		0	B	
+B01112		0	B	
+B01113		0	B	
+B01114		0	B	
+B01115		0	B	
+B01116		0	B	
+B01117		0	B	
+B01118		0	B	
+B01119		0	B	
+B01120		0	B	
+B01121		0	B	
+B01122		0	B	
+B01123		0	B	
+B01124		0	B	
+B01127		0	G	
+B01128		0	G	
+B01129		0	B	
+B06611		0	B	
+B06612		0	B	
+B06613		0	B	
+B06614		0	B	
+B06615		0	B	
+B06616		0	B	
+B06617		0	B	
+B06618		0	B	
+B06619		0	B	
+B06620		0	B	
+B1		0	G	
+B1Mx		0	G	
+B2		0	G	
+B27011		0	B	
+B27012		0	B	
+B27013		0	B	
+B27014		0	B	
+B27015		0	B	
+B27016		0	B	
+B27017		0	B	
+B27018		0	B	
+B27019		0	B	
+B27020		0	B	
+B27021		0	B	
+B27022		0	B	
+B27023		0	B	
+B27024		0	B	
+B27025		0	B	
+B27026		0	B	
+B27027		0	B	
+B27028		0	B	
+B27029		0	B	
+B27111		0	B	
+B27112		0	B	
+B27114		0	B	
+B27115		0	B	
+B27116		0	B	
+B27117		0	B	
+B27118		0	B	
+B27119		0	B	
+B27120		0	B	
+B27121		0	B	
+B27122		0	B	
+B27123		0	B	
+B27124		0	B	
+B27125		0	B	
+B27126		0	B	
+B27127		0	B	
+B27128		0	B	
+B27129		0	B	
+B27211		0	B	
+B27212		0	B	
+B27213		0	B	
+B27214		0	B	
+B27215		0	B	
+B27216		0	B	
+B27217		0	B	
+B27218		0	B	
+B27219		0	B	
+B27220		0	B	
+B27221		0	B	
+B27222		0	B	
+B27223		0	B	
+B27224		0	B	
+B27225		0	B	
+B27226		0	B	
+B27227		0	B	
+B27228		0	B	
+B27229		0	B	
+B27311		0	B	
+B27312		0	B	
+B27313		0	B	
+B27314		0	B	
+B27315		0	B	
+B27316		0	B	
+B27317		0	B	
+B27318		0	B	
+B27319		0	B	
+B27320		0	B	
+B27321		0	B	
+B27322		0	B	
+B27323		0	B	
+B27324		0	B	
+B27325		0	B	
+B27326		0	B	
+B27327		0	B	
+B27328		0	B	
+B27329		0	B	
+B27411		0	B	
+B27412		0	B	
+B27413		0	B	
+B27414		0	B	
+B27415		0	B	
+B27416		0	B	
+B27417		0	B	
+B27418		0	B	
+B27419		0	G	
+B27420		0	B	
+B27421		0	B	
+B27422		0	B	
+B27423		0	B	
+B27424		0	B	
+B27425		0	B	
+B27426		0	B	
+B27427		0	B	
+B27428		0	B	
+B27429		0	B	
+B27511		0	B	
+B27512		0	B	
+B27513		0	B	
+B27514		0	B	
+B27515		0	B	
+B27516		0	B	
+B27517		0	B	
+B27518		0	B	
+B27519		0	B	
+B27520		0	B	
+B27521		0 (DISOK=0)	G	
+B27522		0	B	
+B27523		0	B	
+B27524		0	B	
+B27525		0	B	
+B27526		0	B	
+B27527		0	B	
+B27528		0	B	
+B27529		0	G	
+B2Mx		0	G	
+B3		0	G	
+B35011		0	B	
+B35012		0	B	
+B35013		0	B	
+B35014		0	B	
+B35015		0	B	
+B35016		0	B	
+B35017		0	B	
+B35018		0	B	
+B35019		0	B	
+B35020		0	B	
+B35021		0	B	
+B35022		0	B	
+B35023		0	B	
+B35024		0	B	
+B35025		0	B	
+B35026		0	B	
+B35027		0	B	
+B35028		0	B	
+B35029		0	B	
+B35111		0	B	
+B35112		0	B	
+B35113		0	B	
+B35114		0	B	
+B35115		0	B	
+B35116		0	B	
+B35117		0	B	
+B35118		0	B	
+B35119		0	B	
+B35120		0	B	
+B35121		0	B	
+B35122		0	B	
+B35123		0	B	
+B35124		0	B	
+B35125		0	B	
+B35126		0	B	
+B35127		0	B	
+B35128		0	B	
+B35129		0	B	
+B35211		0	B	
+B35212		0	B	
+B35213		0	B	
+B35214		0	B	
+B35215		0	B	
+B35216		0	B	
+B35217		0	B	
+B35218		0	B	
+B35219		0	B	
+B35220		0	B	
+B35221		0	B	
+B35222		0	B	
+B35223		0	B	
+B35224		0	B	
+B35225		0	B	
+B35226		0	B	
+B35227		0	B	
+B35228		0	B	
+B35229		0	B	
+B35311		0	B	
+B35312		0	B	
+B35313		0	B	
+B35314		0	B	
+B35315		0	B	
+B35316		0	B	
+B35317		0	B	
+B35318		0	B	
+B35319		0	B	
+B35320		0	B	
+B35321		0	B	
+B35322		0	B	
+B35323		0	B	
+B35324		0	B	
+B35325		0	B	
+B35326		0	B	
+B35327		0	B	
+B35328		0	B	
+B35329		0	B	
+B35411		0	B	
+B35412		0	B	
+B35413		0	B	
+B35414		0	B	
+B35415		0	B	
+B35416		0	B	
+B35417		0	B	
+B35418		0	B	
+B35419		0	B	
+B35420		0	B	
+B35421		0	B	
+B35422		0	B	
+B35423		0	B	
+B35424		0	B	
+B35425		0	B	
+B35426		0	B	
+B35427		0	B	
+B35428		0	B	
+B35429		0	B	
+B35511		0	B	
+B35512		0	B	
+B35513		0	B	
+B35514		0	B	
+B35515		0	B	
+B35516		0	B	
+B35517		0	B	
+B35518		0	B	
+B35519		0	B	
+B35520		0	B	
+B35521		0	B	
+B35522		0	G	
+B35523		0	G	
+B35524		0	G	
+B35525		0	G	
+B35526		0	G	
+B35527		0	G	
+B35528		0	G	
+B35529		0	B	
+B3Mx		0	G	
+B4		0	G	
+B4Mx		0	G	
+B5		0	G	
+B5Mx		0	G	
+B6		0	G	
+B6Mx		0	G	
+B7		0	G	
+B7Mx		0	G	
+B8		0	G	
+B8Mx		0	G	
+B9		0	G	
+B9Mx		0	G	
+BFMVSel	-	-99999	B	
+BLDVlvClosed		1	G	
+BLDVlvInTranst		0	G	
+BLDVlvOpen		1	G	
+BMCFWX	-	-99999	B	
+BVBVSel	deg	-99999	B	
+BVSVSel	-	-99999	B	
+BadOilCons		0	G	
+BleedClosed		0	G	
+BleedInTranst		1	G	
+BleedOpen		0	G	
+Bonus_Workscope	-	0	G	
+Buzzer		0	G	
+Buzzer_Enable		1	G	
+Buzzer_Enable_SW		1	G	
+Buzzer_Flag		0	G	
+Buzzer_Out		0	G	
+Buzzer_Output		0	G	
+Buzzer_SW		0	G	
+Buzzer_SW_		1	G	
+Buzzer_Status	-	2	G	
+CDP	psia	-99999	B	
+CDPLIT	psig	-99999	B	
+CFM56_5B_on_test		1	G	
+CL_Enable		0	G	
+CL_Enable_SW		0	G	
+CL_Enable_SW_		1	G	
+CL_On		1	G	
+CL_On_HiTrig		0	B	
+CL_On_LoTrig		0	G	
+CL_Timer	s	0	G	
+CL_Timer_Start		0	G	
+CPR	-	51968.4609375	G	
+CST	s	-99999	B	
+CTR	-	-99999	B	
+Cat2Faults		0	B	
+CellDepr	inH2O	-409.940795898437 (LOLO=-409.983673095703)	G	
+CellRdy		0	G	
+CntSTGE4		0	G	
+CntVGRGE4		0	G	
+CntVRGE4		0	G	
+ConEstop_PB_ST		1	G	
+Config_Disable		1	G	
+Config_Disable_Ref		1	G	
+ContIGN_FL		0	B	
+Count	-	0	G	
+Count2	-	0	G	
+Count2EQ1		0	G	
+CountEQ1		0	G	
+CountSTB	-	0	G	
+CountVGR	-	0	G	
+CountVR	-	0	G	
+Critical_Log_Flag		0	G	
+Critical_Log_SW		0	G	
+Critical_Log_SW_		1	G	
+Critical_Log_SW_Timer	d.h	0	G	
+CutOff_Out		0	G	
+CutOff_Out_Ref		0	G	
+D0150		0	G	
+D03012		0	G	
+D03013		0	G	
+D03014		0	G	
+D03015		0	G	
+D03016		0	G	
+D03017		0	G	
+D03111		0	G	
+D03112		0	G	
+D03113		1	G	
+D03114		0	G	
+D03115		0	G	
+D03116		0	G	
+D03117		0	G	
+D03118		0	G	
+D03119		0	G	
+D03120		0	G	
+D03122		0	G	
+D03124		0	G	
+D03125		0	G	
+D03127		0	G	
+D03127ref		0	B	
+D03129		0	G	
+D03413		0	G	
+D03414		0	G	
+D03415		0	G	
+D03416		0	G	
+D03423		0	G	
+D050A	-	-99999	B	
+D050B	-	-99999	B	
+D052A	-	-99999	B	
+D052B	-	-99999	B	
+D054A	%	-99999	B	
+D054B	%	-99999	B	
+D055A	%	-99999	B	
+D055B	%	-99999	B	
+D057A	-	-99999	B	
+D057B	-	-99999	B	
+D060A	%	-99999	B	
+D060B	%	-99999	B	
+D061A	deg	-99999	B	
+D061B	deg	-99999	B	
+D062A	deg	-99999	B	
+D062B	deg	-99999	B	
+D063A	%	-99999	B	
+D063B	%	-99999	B	
+D064A	%	-99999	B	
+D064B	%	-99999	B	
+D114A	psia	-99999	B	
+D114B	psia	-99999	B	
+D116A	-	-99999	B	
+D116B	-	-99999	B	
+D127A	-	-99999	B	
+D127B	-	-99999	B	
+D130A	degC	-99999	B	
+D130B	degC	-99999	B	
+D131A	psia	-99999	B	
+D131B	psia	-99999	B	
+D133A	deg	-99999	B	
+D133B	deg	-99999	B	
+D166A	-	-99999	B	
+D166B	-	-99999	B	
+D203L	-	0	G	
+D203R	-	0	G	
+D205A	-	0	G	
+D205B	-	-99999	B	
+D205L	-	0	G	
+D205R	-	0	G	
+D211A	-	0	G	
+D211B	-	-99999	B	
+D211L	-	0	G	
+D211R	-	0	G	
+D214	-	0	G	
+D215A	-	-99999	B	
+D215B	-	-99999	B	
+D217A	psia	-99999	B	
+D217B	psia	-99999	B	
+D222	-	0	G	
+D22711		0	G	
+D22712		0	G	
+D22713		0	G	
+D22714		0	G	
+D22715		0	G	
+D22716		0	G	
+D22717		0	G	
+D22718		0	G	
+D22719		0	G	
+D22720		0	G	
+D22721		0	G	
+D22722		0	G	
+D22723		0	G	
+D22724		0	G	
+D22725		0	G	
+D22726		0	G	
+D22727		0	G	
+D22728		0	G	
+D22729		0	G	
+D242A	-	0	G	
+D242B	-	-99999	B	
+D242L	-	0	G	
+D242R	-	0	G	
+D244A	-	-99999	B	
+D244B	-	-99999	B	
+D260A	degC	-99999	B	
+D260B	degC	-99999	B	
+D260T		0	G	
+D262A	-	-99999	B	
+D262B	-	-99999	B	
+D263A	degC	-99999	B	
+D263B	degC	-99999	B	
+D264A	psia	-99999	B	
+D264B	psia	-99999	B	
+D265A	degC	-99999	B	
+D265B	degC	-99999	B	
+D300A	-	-99999	B	
+D300B	-	-99999	B	
+D301A	-	-99999	B	
+D301B	-	-99999	B	
+D302A	-	-99999	B	
+D302B	-	-99999	B	
+D303A	-	-99999	B	
+D303B	-	-99999	B	
+D304A	degC	-99999	B	
+D304B	degC	-99999	B	
+D306A	%	-99999	B	
+D306B	%	-99999	B	
+D307A	%	-99999	B	
+D307B	%	-99999	B	
+D316A	-	-99999	B	
+D316B	-	-99999	B	
+D337A	-	-99999	B	
+D337B	-	-99999	B	
+D341A	%	-99999	B	
+D341B	%	-99999	B	
+D342A	-	-99999	B	
+D342B	-	-99999	B	
+D343	-	0	G	
+D343A	-	-99999	B	
+D343B	-	-99999	B	
+D344A	%	-99999	B	
+D344B	%	-99999	B	
+D345A	degC	-99999	B	
+D345B	degC	-99999	B	
+D346A	%	-99999	B	
+D346B	%	-99999	B	
+DAS_Buzzer		0	G	
+DAS_Heartbeat	-	26.549877166748	G	
+DAS_Purge_Pressure_Switch		0	G	
+DAS_Purge_Vent_Solenoid		0	G	
+DAS_Start_Flag		0	G	
+DAS_Start_Timer_Flag		1	G	
+DAS_Supply_Pressure_Switch		0	G	
+DELAY	-	-99999	B	
+DELAYeq5		0	B	
+DateDays	-	44266	G	
+DateTime	-	.785072028636932	G	
+Day	-	11	G	
+DecChn	rpm	4029	G	
+DecTrg1	rpm	0	G	
+DecTrg2	rpm	0	G	
+Delta	-	.992601811885834	G	
+Digital_Aux_Trip_Ref		0	G	
+Digital_CalDisable_Ref		0	G	
+Digital_EngineSelect_Ref	-	0	G	
+Digital_Trip_Ref		0	G	
+DockSys_Rdy		1	G	
+Docking_HPU_Running		0	G	
+DryMC_FL		0	B	
+ECU28VDCFlt_FL		0	B	
+ECUChAActive		1	G	
+ECUChBActive		1	G	
+ECUfaultA		1	G	
+ECUfaultB		1	G	
+ECUpwrA		0	G	
+ECUpwrAbtn		0	G	
+ECUpwrAref		0	B	
+ECUpwrB		0	G	
+ECUpwrBbtn		0	G	
+ECUpwrBref		0	B	
+ECUsw	-	1	G	
+ECrank		0	G	
+EGT	degC	638	G	
+EGTAdj	-	.999499976634979	G	
+EGTDelta	K	-.89556884765625	S	
+EGTExpHD	-	1.06400001049042	S	
+EGTExpHDM	-	.99688708782196	S	
+EGTExpHDMC	-	1.06400001049042	G	
+EGTExpHDTO	-	1.02100002765656	G	
+EGTFNDelta	degC	-299.189239501953	S	
+EGTFn	degC	328.274200439453	S	
+EGTHD	degC	687.958129882812	S	
+EGTHDLim	degC	832	S	
+EGTHDLimMC	degC	832	G	
+EGTHDLimTO	degC	926	G	
+EGTHDLim_MC	degC	832	G	
+EGTHDLim_TO	degC	926	G	
+EGTHDM	degC	675.454650878906	S	
+EGTHDMMrg	degC	156.545349121094	S	
+EGTHDMMrg_MC	degC	0	G	
+EGTHDMMrg_MCd	degC	156.545349121094	S	
+EGTHDMMrg_TO	degC	0	G	
+EGTHDMMrg_TOd	degC	0	G	
+EGTHDM_MC	degC	0	G	
+EGTHDM_MCd	degC	675.454650878906	S	
+EGTHDM_TO	degC	0	G	
+EGTHDM_TOd	degC	0	G	
+EGTHDMar_MC	degC	144.041870117188	S	
+EGTHDMar_TO	degC	238.041870117187	S	
+EGTHDMrg	degC	144.041870117188	S	
+EGTHDMrgTrim	degC	152.041870117188	S	
+EGTHD_MC	degC	0	G	
+EGTHD_MCd	degC	687.958129882812	S	
+EGTHD_TO	degC	0	G	
+EGTHD_TOd	degC	0	G	
+EGTK	degC	631.687194824219	G	
+EGTK1	degC	627.914001464844	G	
+EGTK2	degC	627.463439941406	G	
+EGTK3	degC	626.56787109375	S	
+EGTK3M	degC	618.56787109375	S	
+EGTK3_MC	degC	0	G	
+EGTK3_MCd	degC	626.56787109375	S	
+EGTK3_TO	degC	0	G	
+EGTK3_TOd	degC	0	G	
+EGTM	degC	638	G	
+EGTMDel	degC	-8	S	
+EGTMDelMC	degC	-8	G	
+EGTMDelMCB1	degC	-17	G	
+EGTMDelMCB2	degC	-17	G	
+EGTMDelMCB3	degC	-17	G	
+EGTMDelMCB4	degC	-9	G	
+EGTMDelMCB5	degC	-8	G	
+EGTMDelMCB6	degC	-8	G	
+EGTMDelMCB7	degC	-9	G	
+EGTMDelMCB8	degC	-8	G	
+EGTMDelMCB9	degC	-8	G	
+EGTMDelTO	degC	-10	G	
+EGTMDelTOB1	degC	-18	G	
+EGTMDelTOB2	degC	-18	G	
+EGTMDelTOB3	degC	-20	G	
+EGTMDelTOB4	degC	-13	G	
+EGTMDelTOB5	degC	-10	G	
+EGTMDelTOB6	degC	-12	G	
+EGTMDelTOB7	degC	-13	G	
+EGTMDelTOB8	degC	-10	G	
+EGTMDelTOB9	degC	-12	G	
+EGTMin	degC	0	G	
+EGTPkAcc	degC	0	G	
+EGTR2	-	633.627136230469	G	
+EGTTRIM	degC	0	G	
+EGTTRIMB1	degC	0	G	
+EGTTRIMB2	degC	0	G	
+EGTTRIMB3	degC	0	G	
+EGTTRIMB4	degC	0	G	
+EGTTRIMB5	degC	0	G	
+EGTTRIMB6	degC	0	G	
+EGTTRIMB7	degC	0	G	
+EGTTRIMB8	degC	0	G	
+EGTTRIMB9	degC	0	G	
+EGTd	degC	0	G	
+EIsoPower_ST		0	G	
+EIsoRelay_ST		0	G	
+EIsoSwitch_ST		0	G	
+ENABLE_ALARMS		1	G	
+EPR	-	3.49619746208191	G	
+EPRK1	-	3.49619746208191	G	
+EStop		0	G	
+EStop_Ref		0	G	
+EXPEGT	-	.994328379631042	G	
+EXPN1	-	.490202754735947	G	
+EXPN1M	-	.491475015878677	S	
+EXPT3	-	.894955992698669	G	
+EXPT54	-	1	G	
+EXPWF	-	.594276010990143	G	
+Ecrank0		0	G	
+EmergTank_Lo		0	G	
+Emerg_Tank_Level	-	-3.625	G	
+EndLite		1	B	
+EndStart	pph	-99999	B	
+EndStartL		0	B	
+EngConfig	-	1	G	
+EngFuelVlv		0	B	
+EngPos1		1	G	
+EngSelectorCRNK		0	G	
+EngSelectorIGN		0	G	
+EngSelectorNRML		1	G	
+EngStable		1	G	
+EngStable120s		1	G	
+EngStable30s		1	G	
+EngStable60s		1	G	
+EngTest_Lights_CMD		0	G	
+Eng_On		1	G	
+Eng_Running		1	G	
+EngineConfig	-	1	G	
+EngineRating	-	0	G	
+EngineSN	-	0	G	
+Engine_At_Idle		0	B	
+Engine_Select	-	1	G	
+Engine_Select_Ref	-	1	G	
+Engine_Type	-	0	G	
+EstopFuelVlv_FDBK		0	G	
+EstopInd_Rdy		0	G	
+Estop_Power_ST		1	G	
+Estop_Relay_ST		0	G	
+FANBRGBB	mil	.0014310204423964	G	
+FANBRGN1	mil	.0000773753199609928	G	
+FANBRGN1AccLim	mil	4	G	
+FANBRGN1Lim	mil	8	G	
+FANBRGN1_ALT	mil	0	G	
+FANBRGN2	ips	0	G	
+FANBRGN2Lim	ips	1.60000002384186	G	
+FANBRGN2_ALT	mil	0	G	
+FCCount	-	0	G	
+FCS_115VRdy		1	G	
+FCS_28VdcRdy		0	G	
+FCS_AirRdy		0	G	
+FCS_FuelOn		0	G	
+FCS_FuelRdy		1	G	
+FF1	Hz	0	G	
+FF2	Hz	0	G	
+FI		0	G	
+FIFB		0	B	
+FI_Out		0	G	
+FI_Out_Ref		0	G	
+FI_Ref		0	B	
+FI_Ref_F		0	G	
+FL_AI		0	B	
+FL_MC		1	S	
+FL_MI		0	B	
+FL_N1TO15		0	G	
+FL_N1TO95		1	G	
+FL_TO		0	G	
+FMEGT	-	.995829999446869	G	
+FMEGTA0	-	.612240612506866	G	
+FMEGTA1	-	.0000506365104229189	G	
+FMEGTA2	-	-.00000000216649209683339	G	
+FMEGTA3	-	.000000000000030032471328616	G	
+FMEGTA4	-	0	G	
+FMEPR	-	1	G	
+FMEPRA0	-	1	G	
+FMEPRA1	-	0	G	
+FMEPRA2	-	0	G	
+FMEPRA3	-	0	G	
+FMEPRA4	-	0	G	
+FMFN	-	1.03600001335144	G	
+FMFNA0	-	.968873262405396	G	
+FMFNA1	-	.0000103735001175664	G	
+FMFNA2	-	-.000000000501359009863478	G	
+FMFNA3	-	.00000000000000729884987220536	G	
+FMFNA4	-	0	G	
+FMN2	-	1.00004005432129	G	
+FMN2A0	-	1.00889503955841	G	
+FMN2A1	-	-.00000070793709028294	G	
+FMN2A2	-	.0000000000139236200694115	G	
+FMN2A3	-	0	G	
+FMN2A4	-	0	G	
+FMW2R	-	1	G	
+FMW2RA0	-	.806755721569061	G	
+FMW2RA1	-	.0000342178500432055	G	
+FMW2RA2	-	-.00000000218211004821001	G	
+FMW2RA3	-	.0000000000000608607809331543	G	
+FMW2RA4	-	-.00000000000000000062481387422165	G	
+FMWF	-	.991999983787537	G	
+FMWFA0	-	1.01316297054291	G	
+FMWFA1	-	-.00000226844690587313	G	
+FMWFA2	-	.0000000000438736616481528	G	
+FMWFA3	-	0	G	
+FMWFA4	-	0	G	
+FN	lb	19996	G	
+FNAdj	lb	1.00620853900909	G	
+FNDelta	lb	-68.060546875	S	
+FNK	lb	20146.236328125	G	
+FNK1	lb	20871.501953125	G	
+FNK2	lb	21001.083984375	G	
+FNK3	lb	20933.0234375	S	
+FNK3M	lb	20431.0234375	S	
+FNK3S	lb	20933.0234375	S	
+FNK3_MC	lb	0	G	
+FNK3_MCd	lb	20933.0234375	S	
+FNK3_TO	lb	0	G	
+FNK3_TOd	lb	0	G	
+FNKRated	lb	19095	S	
+FNKRatedMC	lb	19095	G	
+FNKRatedTO	lb	21625	G	
+FNKRated_MC	lb	19095	G	
+FNKRated_TO	lb	21625	G	
+FNMDel	lb	-502	S	
+FNMDelMC	lb	-502	G	
+FNMDelMCB1	lb	-1094	G	
+FNMDelMCB2	lb	-1094	G	
+FNMDelMCB3	lb	-1091	G	
+FNMDelMCB4	lb	-822	G	
+FNMDelMCB5	lb	-663	G	
+FNMDelMCB6	lb	-663	G	
+FNMDelMCB7	lb	-822	G	
+FNMDelMCB8	lb	-502	G	
+FNMDelMCB9	lb	-663	G	
+FNMDelTO	lb	-725	G	
+FNMDelTOB1	lb	-1110	G	
+FNMDelTOB2	lb	-1052	G	
+FNMDelTOB3	lb	-1016	G	
+FNMDelTOB4	lb	-913	G	
+FNMDelTOB5	lb	-725	G	
+FNMDelTOB6	lb	-799	G	
+FNMDelTOB7	lb	-913	G	
+FNMDelTOB8	lb	-725	G	
+FNMDelTOB9	lb	-799	G	
+FNMrgPC	-	9.62567901611328	S	
+FNMrg_MC	%	0	G	
+FNMrg_MCd	%	9.62567901611328	S	
+FNMrg_TO	%	0	G	
+FNMrg_TOd	%	0	G	
+FNS	lb	19996.0078125	G	
+FN_1	lb	0	G	
+FN_2	lb	0	G	
+FN_TO	lb	19996.0078125	G	
+FOnDelayEQ5	-	0	G	
+FPR	-	1.01445329189301	G	
+FSIndex	-	0	G	
+FVOS		0	B	
+FVOSL		0	B	
+FVOSLEQ1		0	B	
+FVOSneFVO		0	B	
+Fault_TestA		0	G	
+Fault_TestB		0	G	
+FireLoopA	ohm	4990	G	
+FireLoopB	ohm	-99999	B	
+Fire_TestA		0	G	
+Fire_TestB		0	G	
+Fireloop_Relay1		0	G	
+Fireloop_Relay10		0	G	
+Fireloop_Relay11		0	G	
+Fireloop_Relay12		0	G	
+Fireloop_Relay2		0	G	
+Fireloop_Relay3		0	G	
+Fireloop_Relay4		0	G	
+Fireloop_Relay5		0	G	
+Fireloop_Relay6		0	G	
+Fireloop_Relay7		0	G	
+Fireloop_Relay8		0	G	
+Fireloop_Relay9		0	G	
+FlatTemp	degC	24.9999904632568	G	
+Flip_100Hz		1	G	
+Flip_10Hz		1	G	
+Flip_1Hz		1	G	
+Flip_200Hz		1	G	
+Flip_20Hz		1	G	
+Flip_25Hz		1	G	
+Flip_2Hz		0	G	
+Flip_33Hz		1	G	
+Flip_40Hz		1	G	
+Flip_50Hz		1	G	
+Flip_5Hz		1	G	
+Flip_66Hz		1	G	
+FuelBNeg		0	B	
+FuelBurn	-	-99999	B	
+FuelCons	L	0	G	
+FuelConsTCH	L	0	G	
+FuelConsTCT	L	0	G	
+FuelConsTC_1	L	0	G	
+FuelCons_EngTest	L	0	G	
+FuelCons_TC	L	0	G	
+FuelCons_TCL		0	G	
+FuelCutOff		1	B	
+FuelFltrDeltaPsw		1	G	
+FuelOn		0	B	
+FuelOnNeg		1	B	
+FuelOnS		0	B	
+FuelOnSL		0	B	
+FuelPump1_CMD		1	G	
+FuelPump1_RUN		0	G	
+FuelPump2_CMD		1	G	
+FuelPump2_RUN		0	G	
+FuelSys_Rdy		1	G	
+FuelTank1_Lo		0	G	
+FuelTank2_Lo		0	G	
+FuelVlvClose_CMD		1	G	
+FuelVlvOpen_CMD		1	G	
+FuelVlv_Clsd		0	G	
+FuelVlv_Open		0	G	
+Fuel_On_Out		0	G	
+Fuel_On_Out_Ref		0	G	
+Fuel_On_Throttle		0	G	
+Fuel_Supply_Pressure_Setpoint	-	14.6666669845581	G	
+Fuel_Tank_1_Level	-	-3.625	G	
+Fuel_Tank_2_Level	-	-3.625	G	
+FullsetStatus	-	0	G	
+Fullset_Flag		0	G	
+Fullset_SW		0	G	
+Fullset_SW_		1	G	
+Fullset_SW_Timer	d.h	0	G	
+Fullset_Status	-	0	G	
+Fullset_Status2	-	0	G	
+Fullset_Status_	-	0	G	
+GIFlag		0	B	
+GetAccTrg		0	G	
+GndPower		0	G	
+HPSOVopen_FL		0	B	
+HPSOVpwr		0	G	
+HPTC	degC	-99999	B	
+HPregVlvClosed		1	G	
+HPregVlvInTranst		0	G	
+HPregVlvOpen		1	G	
+HUMD	degC	11.2200803756714	G	
+HWTrigger		1	G	
+HYDLowPress		1	G	
+HYDPMPBPVlv		0	G	
+Heartbeat_Ref		0	G	
+HoldFNK3		0	G	
+Hour	-	18	G	
+Hydraulic_Pump_Motor_Start_CMD		0	G	
+ID	-	8	G	
+IDGDiscPwr		0	G	
+IDGstatus		0	G	
+ID_N1TOMx	-	-88888	G	
+IGN1Fault_FL		0	B	
+IGN2Fault_FL		0	B	
+Ice_Point	degC	0	G	
+IcingCond		0	G	
+IdleAttain		0	B	
+IdleAttainL		0	B	
+Idle_Out_Ref		0	G	
+Ign1Com_FL		0	B	
+Ign2Com_FL		0	B	
+IgnPwrL		0	G	
+IgnPwrR		0	G	
+Ignit1ST		0	B	
+Ignit1X		0	B	
+Ignit2ST		0	B	
+Ignit2X		0	B	
+Indicator_Adapter_Pins_Locked		0	G	
+Indicator_Adapter_Pins_Unlocked		0	G	
+Indicator_Coupling_Plate_Disengaged		0	G	
+Indicator_Coupling_Plate_Engaged		0	G	
+Indicator_Docking_HPU_On_Off		0	G	
+Inhibit_Oil_3_Way_Valve		0	G	
+Inhibit_Oil_Flow	-	-45.3125	G	
+Inhibit_Oil_Pump_Motor_Overload		0	G	
+Inhibit_Oil_Pump_Motor_Running		0	G	
+Inhibit_Oil_Pump_On_Off		0	G	
+Inhibit_Oil_Tank_Level_Low		0	G	
+InletDoor_Clsd		0	G	
+InletDoor_Open		0	G	
+Inlet_Door_Close		0	G	
+Inlet_Door_Open		0	G	
+InstJPowerOK		0	G	
+KCondA	-	1	G	
+KCondN1	-	.999318957328796	G	
+KCondN2	-	1	G	
+KCondT	-	.999625444412231	G	
+KCondW	-	1	G	
+KHEGT	-	1.00029981136322	G	
+KHFN	-	1.00005912780762	G	
+KHN1	-	.998995363712311	G	
+KHN2	-	.999008417129517	G	
+KHWF	-	.998408854007721	G	
+KShunt	-	0	G	
+K_Hum	-	.77933394908905	G	
+LHV	Btu	18560	G	
+LITF		0	B	
+Lever_1_Position	-	0	G	
+Lever_1_Position_Raw	-	0	G	
+Limit_Switch_Coupling_Plate_Disengaged		0	G	
+Limit_Switch_Coupling_Plate_Engaged		0	G	
+Limit_Switches_Adapter_Pins_Locked		0	G	
+Limit_Switches_Adapter_Pins_Unlocked		0	G	
+Local_Estop_Pressed		0	G	
+Local_Estop_Status		0	G	
+Local_Remote		0	G	
+Log_Flag		0	G	
+Log_SW		0	G	
+Log_SW_		1	G	
+Log_Status	d.h	0	G	
+LowPOil		1	G	
+MCFlag		1	S	
+MCRange		1	S	
+MFPumpST		0	G	
+MINIDLE_ok		0	B	
+MOP	psig	-99999	B	
+MOT	degC	0	G	
+MPwr115VAC_CMD		1	G	
+MainDoor_Clsd		0	G	
+ManualSTRT_FL		0	B	
+ManualStartSel		0	G	
+MasterLVR_FL		0	B	
+Math_Bool1		1	G	
+Math_Bool2		0	G	
+Math_Counter	-	-26.5	G	
+Math_Counter_100Hz	-	38.4821624755859	G	
+Math_Counter_10Hz	-	26.6498756408691	G	
+Math_Counter_200Hz	-	39.4782028198242	G	
+Math_Float1	-	1.12300002574921	G	
+Math_Float2	-	8	G	
+Math_Float3	-	88	G	
+Math_Float4	-	100	G	
+Math_Float5	-	111	G	
+Math_Reset		0	G	
+Math_Reverse		0	G	
+Millisecond	-	499.5	G	
+Minute	-	50	G	
+MjFCReset		0	G	
+Model_P	-	0	G	
+Monorail_Main_Power_Interlock		0	G	
+Month	-	3	G	
+MotorTot	-	0	G	
+Motoring		1	B	
+MultiDevTest		0	G	
+N1	rpm	4029	G	
+N1IO	rpm	0	G	
+N1K	rpm	4011.3291015625	G	
+N1KDel	rpm	-42	S	
+N1KDelMC	rpm	-42	G	
+N1KDelMCB1	rpm	-84	G	
+N1KDelMCB2	rpm	-84	G	
+N1KDelMCB3	rpm	-84	G	
+N1KDelMCB4	rpm	-52	G	
+N1KDelMCB5	rpm	-52	G	
+N1KDelMCB6	rpm	-52	G	
+N1KDelMCB7	rpm	-52	G	
+N1KDelMCB8	rpm	-42	G	
+N1KDelMCB9	rpm	-52	G	
+N1KDelTO	rpm	-52	G	
+N1KDelTOB1	rpm	-98	G	
+N1KDelTOB2	rpm	-102	G	
+N1KDelTOB3	rpm	-102	G	
+N1KDelTOB4	rpm	-59	G	
+N1KDelTOB5	rpm	-52	G	
+N1KDelTOB6	rpm	-52	G	
+N1KDelTOB7	rpm	-59	G	
+N1KDelTOB8	rpm	-52	G	
+N1KDelTOB9	rpm	-52	G	
+N1KFac	rpm	-.000199999994947575	G	
+N1KRM	rpm	3961	S	
+N1KRated	rpm	4003	S	
+N1KRatedMC	rpm	4003	G	
+N1KRatedTO	rpm	4210	G	
+N1KRated_MC	rpm	4003	G	
+N1KRated_TO	rpm	4210	G	
+N1MC	rpm	4021.61206054688	G	
+N1MCB1	rpm	4781.61181640625	G	
+N1MCB2	rpm	4781.61181640625	G	
+N1MCB3	rpm	4781.61181640625	G	
+N1MCB4	rpm	4424.61181640625	G	
+N1MCB5	rpm	4120.61181640625	G	
+N1MCB6	rpm	4120.61181640625	G	
+N1MCB7	rpm	4424.61181640625	G	
+N1MCB8	rpm	4021.61206054688	G	
+N1MCB9	rpm	4120.61181640625	G	
+N1MOD	rpm	4083.62622070313	S	
+N1MODMC	rpm	4083.62622070313	S	
+N1MODTO	rpm	4158.57666015625	S	
+N1Mod0		0	S	
+N1Mod1		0	S	
+N1Mod2		0	S	
+N1Mod3		0	S	
+N1Mod4		0	S	
+N1Mod5		0	S	
+N1Mod6		0	S	
+N1Mod7		1	S	
+N1ModLvl	-	7	S	
+N1ModLvlB1	-	0	G	
+N1ModLvlB2	-	0	G	
+N1ModLvlB3	-	-99999	G	
+N1ModLvlB4	-	0	G	
+N1ModLvlB5	-	0	G	
+N1ModLvlB6	-	0	G	
+N1ModLvlB7	-	0	G	
+N1ModLvlB8	-	7	S	
+N1ModLvlB9	-	0	G	
+N1ModLvlMC	-	7	G	
+N1ModLvlTO	-	7	G	
+N1ModLvl_Alt	-	0	G	
+N1ModReset		0	G	
+N1OVRLimit_FL		0	B	
+N1PCT	%	-99999	B	
+N1R	rpm	4008.59716796875	G	
+N1R247	rpm	4011.8896484375	G	
+N1RDWN	s	0	G	
+N1RMC	rpm	0	G	
+N1RMCd	rpm	4008.59716796875	S	
+N1RTO	rpm	0	G	
+N1RTOd	rpm	0	G	
+N1R_MC	rpm	4003	G	
+N1R_TO	rpm	4210	G	
+N1S	rpm	4029.0009765625	G	
+N1TO	rpm	4228.61181640625	G	
+N1TO15	rpm	1782.61206054688	G	
+N1TO15B1	rpm	2101.61206054687	G	
+N1TO15B2	rpm	2136.61206054688	G	
+N1TO15B3	rpm	2171.61206054687	G	
+N1TO15B4	rpm	1996.61206054687	G	
+N1TO15B5	rpm	1799.61206054688	G	
+N1TO15B6	rpm	1860.61206054687	G	
+N1TO15B7	rpm	1996.61206054687	G	
+N1TO15B8	rpm	1782.61206054688	G	
+N1TO15B9	rpm	1852.61206054688	G	
+N1TO95	rpm	4141.61181640625	G	
+N1TO95B1	rpm	4738.61181640625	G	
+N1TO95B2	rpm	4810.61181640625	G	
+N1TO95B3	rpm	4893.61181640625	G	
+N1TO95B4	rpm	4507.61181640625	G	
+N1TO95B5	rpm	4171.61181640625	G	
+N1TO95B6	rpm	4283.61181640625	G	
+N1TO95B7	rpm	4507.61181640625	G	
+N1TO95B8	rpm	4141.61181640625	G	
+N1TO95B9	rpm	4269.61181640625	G	
+N1TOB1	rpm	4855.61181640625	G	
+N1TOB2	rpm	4955.61181640625	G	
+N1TOB3	rpm	5073.61181640625	G	
+N1TOB4	rpm	4597.61181640625	G	
+N1TOB5	rpm	4259.61181640625	G	
+N1TOB6	rpm	4366.61181640625	G	
+N1TOB7	rpm	4597.61181640625	G	
+N1TOB8	rpm	4228.61181640625	G	
+N1TOB9	rpm	4352.61181640625	G	
+N1TOMx	rpm	4228.61181640625	G	
+N1_ANA	rpm	0	G	
+N1_PBS	rpm	4800.03564453125	G	
+N1atPLAMove	rpm	4029.0009765625	G	
+N1atV1MxA	rpm	4961	G	
+N1atV1MxD	rpm	0	G	
+N1atV2MxA	rpm	4961	G	
+N1atV2MxD	rpm	0	G	
+N1atV3MxA	rpm	0	G	
+N1atV3MxD	rpm	0	G	
+N2	rpm	13514	G	
+N2Adj	rpm	.999899983406067	G	
+N2CC3	rpm	13850.2939453125	S	
+N2Delta	rpm	-5.8212890625	S	
+N2HC	rpm	13500.603515625	G	
+N2HDLim	rpm	14770	G	
+N2HDLim_TO	rpm	14770	G	
+N2HDM	rpm	13850.2939453125	S	
+N2HDMMrg	%	6.53829431533813	S	
+N2HDMMrg_TO	rpm	0	G	
+N2HDMMrg_TOd	rpm	0	G	
+N2HDMrg	%	6.22685194015503	S	
+N2HDMrg_TO	rpm	0	G	
+N2HDMrg_TOd	rpm	0	G	
+N2HD_MC	rpm	0	G	
+N2HD_MCd	rpm	13850.2939453125	S	
+N2HD_TO	rpm	0	G	
+N2HD_TOd	rpm	0	G	
+N2K	rpm	13457.3046875	G	
+N2K1	-	13457.84375	G	
+N2K2	rpm	13456.498046875	G	
+N2K3	rpm	13450.6767578125	S	
+N2K3M	rpm	13404.6767578125	S	
+N2K3_MC	rpm	0	G	
+N2K3_MCd	rpm	13450.6767578125	S	
+N2K3_TO	rpm	0	G	
+N2K3_TOd	rpm	0	G	
+N2KFac	-	0	G	
+N2MDel	rpm	-46	S	
+N2MDelMC	rpm	-46	G	
+N2MDelMCB1	rpm	-81	G	
+N2MDelMCB2	rpm	-81	G	
+N2MDelMCB3	rpm	-80	G	
+N2MDelMCB4	rpm	-69	G	
+N2MDelMCB5	rpm	-56	G	
+N2MDelMCB6	rpm	-56	G	
+N2MDelMCB7	rpm	-69	G	
+N2MDelMCB8	rpm	-46	G	
+N2MDelMCB9	rpm	-56	G	
+N2MDelTO	rpm	-62	G	
+N2MDelTOB1	rpm	-80	G	
+N2MDelTOB2	rpm	-85	G	
+N2MDelTOB3	rpm	-91	G	
+N2MDelTOB4	rpm	-69	G	
+N2MDelTOB5	rpm	-62	G	
+N2MDelTOB6	rpm	-67	G	
+N2MDelTOB7	rpm	-69	G	
+N2MDelTOB8	rpm	-62	G	
+N2MDelTOB9	rpm	-67	G	
+N2MIN	rpm	8534.0166015625	G	
+N2OVRLimit_FL		0	B	
+N2PCT	%	-99999	B	
+N2R2	rpm	13457.3046875	G	
+N2R25	rpm	13359.81640625	G	
+N2R2HD	rpm	13850.2939453125	S	
+N2R2HDM	rpm	13804.2939453125	S	
+N2RDWN	s	0	G	
+N2S	rpm	13514.00390625	G	
+N2SS	rpm	13514.00390625	G	
+N2_ANA	rpm	0	G	
+N2_PBS	rpm	0	G	
+N2atV1MxA	rpm	-99999	G	
+N2atV1MxD	rpm	0	G	
+N2atV2MxA	rpm	-99999	G	
+N2atV2MxD	rpm	0	G	
+N2atV3MxA	rpm	0	G	
+N2atV3MxD	rpm	0	G	
+N2lt2000		0	G	
+N3RDWN	s	0	G	
+NADownL		0	G	
+NARDWN	s	-99999	B	
+NAStop		0	G	
+NBDownL		0	G	
+NBRDWN	s	-99999	B	
+NBStop		0	G	
+NCDownL		0	G	
+NCRDWN	s	-99999	B	
+NCStop		0	G	
+NH	rpm	13514	G	
+NHFuelOn	rpm	-99999	B	
+NHLIT	rpm	-99999	B	
+NHS	rpm	13514.00390625	G	
+NHSS	rpm	13514.00390625	G	
+NHatStrtCO	%	-99999	B	
+NL	rpm	4029	G	
+NLLIT	rpm	-99999	B	
+NewVib1N1Pk		0	G	
+NewVib1N1PkD		1	G	
+NewVib1N2Pk		0	G	
+NewVib1N2PkD		0	G	
+NewVib2N1Pk		0	G	
+NewVib2N1PkD		1	G	
+NewVib2N2Pk		0	G	
+NewVib2N2PkD		0	G	
+NewVib3N1Pk		0	G	
+NewVib3N1PkD		0	G	
+NewVib3N2Pk		0	G	
+NewVib3N2PkD		0	G	
+NotFI		1	B	
+NotFuelEnable		1	B	
+NumMotor	-	0	G	
+NumMtrPre	-	0	G	
+NumStart	-	0	G	
+Num_Fullset	count	94	G	
+Num_Log	count	90	G	
+OilCSEnd		0	G	
+OilCSRate	L/h	-88888	G	
+OilCSStr		0	G	
+OilConRate	L/h	-88888	G	
+OilConsLim	L/h	.569999992847443	G	
+OilConsSta		0	G	
+OilConsum	L	0	G	
+OilFltrDeltaPsw		1	G	
+OilPressLoSw		1	G	
+OilQty	%	-.000167799007613212	G	
+OilQtyS	L	-.000166964542586356	G	
+OilQtySEnd	L	-.0000923872066778131	G	
+OilQtySStr	L	-.0000923872066778131	G	
+OilType	-	2	G	
+OilXmtrsPwr		0	G	
+Oil_Type	-	0	G	
+On_Test	-	0	G	
+Operator_Name	-	0	G	
+P54Q2	-	-.000182127623702399	G	
+PAMB	psia	14.8000001907349	G	
+PBARO	psia	0	G	
+PBARO_Pa	Pa	0	G	
+PBARO_mb	mbar	1020.42407226562	G	
+PBS4100_Lockout		0	G	
+PBS_Cmd_Purge		0	G	
+PBS_Cmd_Purge_Location	-	1	G	
+PBS_Cmd_Purge_TestCell		0	G	
+PBS_Cmd_Purge_TestCell_		0	G	
+PBS_ForcePurge_Enable		0	G	
+PBS_ForcePurge_Enable_SW		0	G	
+PBS_PurgePress_TestCell_Flag		0	G	
+PBS_Purge_Enable		0	G	
+PBS_Purge_Enable_TestCell		0	G	
+PBS_Purge_Ready_TestCell		0	G	
+PBS_SupplyPress_TestCell_Flag		0	G	
+PB_Adapter_Pins_Lock		0	G	
+PB_Adapter_Pins_Unlock		0	G	
+PB_Coupling_Plate_Disengage		0	G	
+PB_Coupling_Plate_Engage		0	G	
+PB_Docking_HPU_Off		0	G	
+PB_Docking_HPU_On		0	G	
+PBar_Pa	Pa	102042.40625	G	
+PFUEL	psig	-99999	B	
+PFUELIN	psig	-99999	B	
+PFUELIN2	psig	-99999	B	
+PFuelIn_Norm		0	G	
+PFuelSup_Lo		0	G	
+PFuel_PLC	psig	-99999	B	
+PLA		0	G	
+PLAInit	deg	0	G	
+PLALIT	deg	-99999	B	
+PLAMoveL		0	G	
+PLA_1_Position	-	.00999999977648258	G	
+PLC_to_DAS_Bool_020		0	G	
+PLC_to_DAS_Bool_094		0	G	
+PLC_to_DAS_Bool_113		0	G	
+PLC_to_DAS_Bool_114		0	G	
+PLC_to_DAS_Bool_115		0	G	
+PLC_to_DAS_Bool_116		0	G	
+PLC_to_DAS_Bool_117		0	G	
+PLC_to_DAS_Bool_118		0	G	
+PLC_to_DAS_Bool_119		0	G	
+PLC_to_DAS_Bool_120		0	G	
+PLC_to_DAS_Bool_121		0	G	
+PLC_to_DAS_Bool_122		0	G	
+PLC_to_DAS_Bool_123		0	G	
+PLC_to_DAS_Bool_124		0	G	
+PLC_to_DAS_Bool_125		0	G	
+PLC_to_DAS_Bool_126		0	G	
+PLC_to_DAS_Bool_127		0	G	
+PLC_to_DAS_Bool_128		0	G	
+PLC_to_DAS_Bool_129		0	G	
+PLC_to_DAS_Bool_130		0	G	
+PLC_to_DAS_Bool_131		0	G	
+PLC_to_DAS_Bool_132		0	G	
+PLC_to_DAS_Bool_133		0	G	
+PLC_to_DAS_Bool_134		0	G	
+PLC_to_DAS_Bool_135		0	G	
+PLC_to_DAS_Bool_136		0	G	
+PLC_to_DAS_Bool_137		0	G	
+PLC_to_DAS_Bool_138		0	G	
+PLC_to_DAS_Bool_139		0	G	
+PLC_to_DAS_Bool_140		0	G	
+PLC_to_DAS_Bool_141		0	G	
+PLC_to_DAS_Bool_142		0	G	
+PLC_to_DAS_Bool_143		0	G	
+PLC_to_DAS_Bool_144		0	G	
+PLC_to_DAS_Bool_145		0	G	
+PLC_to_DAS_Bool_146		0	G	
+PLC_to_DAS_Bool_147		0	G	
+PLC_to_DAS_Bool_148		0	G	
+PLC_to_DAS_Bool_149		0	G	
+PLC_to_DAS_Bool_150		0	G	
+PLC_to_DAS_Bool_151		0	G	
+PLC_to_DAS_Bool_152		0	G	
+PLC_to_DAS_Bool_153		0	G	
+PLC_to_DAS_Bool_154		0	G	
+PLC_to_DAS_Bool_155		0	G	
+PLC_to_DAS_Bool_156		0	G	
+PLC_to_DAS_Bool_157		0	G	
+PLC_to_DAS_Bool_158		0	G	
+PLC_to_DAS_Bool_159		0	G	
+PLC_to_DAS_Bool_160		0	G	
+PLC_to_DAS_Bool_161		0	G	
+PLC_to_DAS_Bool_162		0	G	
+PLC_to_DAS_Bool_163		0	G	
+PLC_to_DAS_Bool_164		0	G	
+PLC_to_DAS_Bool_165		0	G	
+PLC_to_DAS_Bool_166		0	G	
+PLC_to_DAS_Bool_167		0	G	
+PLC_to_DAS_Bool_168		0	G	
+PLC_to_DAS_Bool_169		0	G	
+PLC_to_DAS_Bool_170		0	G	
+PLC_to_DAS_Bool_171		0	G	
+PLC_to_DAS_Bool_172		0	G	
+PLC_to_DAS_Bool_173		0	G	
+PLC_to_DAS_Bool_174		0	G	
+PLC_to_DAS_Bool_175		0	G	
+PLC_to_DAS_Bool_176		0	G	
+PLC_to_DAS_Bool_177		0	G	
+PLC_to_DAS_Bool_178		0	G	
+PLC_to_DAS_Bool_179		0	G	
+PLC_to_DAS_Bool_180		0	G	
+PLC_to_DAS_Bool_181		0	G	
+PLC_to_DAS_Bool_182		0	G	
+PLC_to_DAS_Bool_183		0	G	
+PLC_to_DAS_Bool_184		0	G	
+PLC_to_DAS_Bool_185		0	G	
+PLC_to_DAS_Bool_186		0	G	
+PLC_to_DAS_Bool_187		0	G	
+PLC_to_DAS_Bool_188		0	G	
+PLC_to_DAS_Bool_189		0	G	
+PLC_to_DAS_Bool_190		0	G	
+PLC_to_DAS_Bool_191		0	G	
+PLC_to_DAS_Bool_192		0	G	
+PLC_to_DAS_Bool_193		0	G	
+PLC_to_DAS_Bool_194		0	G	
+PLC_to_DAS_Bool_195		0	G	
+PLC_to_DAS_Bool_196		0	G	
+PLC_to_DAS_Bool_197		0	G	
+PLC_to_DAS_Bool_198		0	G	
+PLC_to_DAS_Bool_199		0	G	
+PLC_to_DAS_Bool_200		0	G	
+PLC_to_DAS_Bool_201		0	G	
+PLC_to_DAS_Bool_202		0	G	
+PLCtoDAS_Heartbeat	-	5.44999980926514	G	
+PLubeOil	-	0	G	
+POIL	psig	.00060908799059689 (LOLO=.0000101327905213111)	G	
+POILLIT	psig	-99999	B	
+PS13	psig	-.00423782831057906	G	
+PS13A	psia	14.795859336853	G	
+PS2	psia	.00048508308827877	G	
+PS2A	psia	14.8005151748657	G	
+PS2WL	psig	.000297732651233673	G	
+PS2WR	psig	.000613461714237928	G	
+PS3	psig	-99999	B	
+PS3A	psia	-99999	B	
+PS3LIT	psig	-99999	B	
+PS3MIN	psig	22	G	
+PS3Q2	-	-99999	B	
+PSCAV	psid	0	G	
+PSTAIR	psig	-99999	B	
+PSUMP	psig	-99999	B	
+PStart_Lo		0	G	
+PStored_Norm		0	G	
+PStrLIT	psig	-99999	B	
+PT17	psig	-.00193875248078257	G	
+PT17A	psia	14.7980613708496	G	
+PT17LH	psig	-.00104665930848569	G	
+PT17Q2	-	1.01445329189301	G	
+PT17RH	psig	-.00287968385964632	G	
+PT25	psig	-.00338511099107563	G	
+PT25A	psia	14.7966146469116	G	
+PT2A	psia	14.5670003890991	G	
+PT2Calc	psia	14.5872764587402	G	
+PT2OvrPS2	-	.985591948032379	G	
+PT2_1	psig	0	G	
+PT2_2	psig	0	G	
+PT2_mb	mbar	0	G	
+PT495	psia	36.2000007629395	G	
+PT495A	psia	51	G	
+PT54	psig	-.00255824951454997	G	
+PT54A	psia	14.7973432540894	G	
+PTrigRef		1	G	
+PWRSys_Rdy		1	G	
+P_AirStart		0	G	
+P_AirStart30psi		0	G	
+P_Cell_Front	psig	.000442796037532389	G	
+P_Cell_Rear	psig	.000909875321667641	G	
+P_Fuel_Fac	psig	0	G	
+Panel_Mode_A	-	-99999	B	
+Panel_Mode_B	-	-99999	B	
+PeakEGT	degC	0	G	
+PeakN2	rpm	0	G	
+PeakPOIL	psig	0	G	
+PeakWF	pph	0	G	
+PersDoors_Clsd		0	G	
+Pi	-	3.14159250259399	G	
+Platform_Stwd		0	G	
+PoilC	psig	-99999	B	
+PoilCF	psi	-99999	B	
+PoilCHiLim	psid	64.5	G	
+PoilCLoLim	psid	45.7000007629395	G	
+Power_115VAC_400Hz_Output	-	13.1021995544434	G	
+Power_24VDC_Supply2_OK		1	G	
+PreFuel	L	0	G	
+PreRTHr	h	0	G	
+PreRTMin	min	0	G	
+PreRTSec	s	0	G	
+Pump_Fan_CMD		0	G	
+PurgeEnable		1	G	
+Pwr115VAC_CMD		1	G	
+Pwr115VAC_OK		1	G	
+Pwr24VDC1_OK		1	G	
+Pwr24VDC_Rdy		1	G	
+Pwr28VDC_CMD		1	G	
+Pwr28VDC_OK		0	G	
+PwrOn		0	G	
+Pwr_QEC28VDC_CMD		1	G	
+RELHUM	%	68.7422180175781	G	
+RELHUM_Dec	%	.687422156333923	G	
+RHUM	%	68.7422180175781	G	
+RHum_Dec	Pa	.687422156333923	G	
+RTDCONTROL		1	G	
+RTDNOTIFY		1	G	
+RTE_LOAD	-	3.78502988815308	G	
+RTHr	s	1	G	
+RTMin	s	50	G	
+RTSec	s	37.5	G	
+RatingPlug		0	G	
+RelHum_cond1	-	100	G	
+RelHum_cond2	-	99.9901809692383	G	
+RelHum_cond3	-	100	G	
+Rel_Humidity	%	100	G	
+Relay_Adapter_Pins_Lock		0	G	
+Relay_Adapter_Pins_Unlock		0	G	
+Relay_Coupling_Plate_Disengage		0	G	
+Relay_Coupling_Plate_Engage		0	G	
+RstChnA		0	G	
+RstChnB		0	G	
+RunTime	s	6638.5	G	
+SAPCorr	s	-99999	B	
+SAPLIT	psig	-99999	B	
+SATLIT	degC	-99999	B	
+SAVCmdOpen		0	B	
+SFCK3	lb/(lbf h)	.321671068668365	S	
+SFCMC	-	.337000012397766	G	
+SFCMrg	%	4.5486478805542	S	
+SFCMrg_MC	lb/(lbf h)	0	G	
+SFCMrg_MCd	lb/(lbf h)	4.5486478805542	S	
+SFCMrg_TO	lb/(lbf h)	0	G	
+SFCMrg_TOd	lb/(lbf h)	0	G	
+SFCRef	lb/(lbf h)	.337000012397766	S	
+SFCRef_MC	lb/(lbf h)	.337000012397766	G	
+SFCRef_TO	lb/(lbf h)	.34400001168251	G	
+SFCTO	-	.34400001168251	G	
+SFC_MC	lb/(lbf h)	0	G	
+SFC_MCd	lb/(lbf h)	.321671068668365	S	
+SFC_TO	lb/(lbf h)	0	G	
+SFC_TOd	lb/(lbf h)	0	G	
+SG	kg/L	.391025394201279	G	
+SGFuel	-	0	G	
+SPHUM	-	.00823619030416012	G	
+SPHUM_Grn	grn	23.0599994659424	G	
+SST	s	50.0836372375488	G	
+STB_Reset		0	G	
+STButton		0	G	
+STOld		0	G	
+STOldNESTB		0	G	
+Second	-	30.2250003814697	G	
+SpecialP		0	G	
+StartEng		0	B	
+StartEngFuelON		0	B	
+StartEngL		0	B	
+StartL		0	G	
+StartReset		0	G	
+Start_Air_Pressure_Setpoint	-	20	G	
+StarterFB		0	B	
+StrtEngPre	-	0	G	
+StrtEngTot	-	0	G	
+StrtReset		0	G	
+T12_ECU	degC	-99999	B	
+T2	degC	17	G	
+T2143	degR	591.137817382813	G	
+T2143H	degR	591.207824707031	S	
+T2143HM	degR	591.207824707031	S	
+T2143HMC	degR	591.207824707031	G	
+T2143HMMC	degR	591.207824707031	G	
+T2143HMTO	-	593.090026855469	G	
+T2143HTO	degR	593.090026855469	G	
+T25	degC	21.6893901824951	G	
+T25ECU	degC	-99999	B	
+T25Q2	-	1.27584648132324	G	
+T2DegF	degF	62.5999984741211	G	
+T2LIT	degC	-99999	B	
+T3	degC	-99999	B	
+T3R	-	-99999	B	
+T3_INST	degC	-99999	B	
+T54	degC	-99999	B	
+T54R2	-	-99999	B	
+TA	degC	0	G	
+TADAPTER	degC	-99999	B	
+TADAPTERAFT	degC	-99999	B	
+TAmb	degC	0	G	
+TC1_Ref	degC	0	G	
+TCAFTL	degC	-99999	B	
+TCAFTR	degC	-99999	B	
+TCCTRL	degC	-99999	B	
+TCCTRR	degC	-99999	B	
+TCEstop_PB_ST		0	G	
+TCFWDL	degC	-99999	B	
+TCFWDR	degC	-99999	B	
+TCQT3	-	-99999	B	
+TCQT3HI	-	.913275182247162	G	
+TCQT3LO	-	.894873678684235	G	
+TCQT3LimExcd		0	B	
+TC_Rdy		0	G	
+TCowl1	degC	0	G	
+TCowl2	degC	0	G	
+TCowl3	degC	0	G	
+TCowl4	degC	0	G	
+TCowl5	degC	0	G	
+TCowl6	degC	0	G	
+TD	degC	0	G	
+TDew	degC	0	G	
+TECU	degC	-99999	B	
+TFUEL_Fac	degC	594.296875	G	
+TFrost		0	G	
+TFrostRange		0	G	
+THD	degR	536.669982910156	G	
+TKFac	-	-.000110000000859145	G	
+TLA	deg	-99999	B	
+TLALITF	deg	-99999	B	
+TMS_Cylinder_Back_Position		1	G	
+TMS_HPU_24_VDC_Ready		0	G	
+TMS_HPU_Enable		1	G	
+TMS_Servo_Valve_Enable_Ack		0	G	
+TMS_Servo_Valve_Enable_CMD		1	G	
+TMS_Solenoid_Valve_Open_CMD		1	G	
+TOFlag		0	G	
+TOPoint		1	G	
+TORange		0	G	
+TO_Pnt		1	G	
+TOil	degC	-99999	B	
+TOilDelta	degC	-99999	B	
+TOil_2DegC		0	B	
+TOil_EngOf	degC	-99999	B	
+TOil_OCStr	degC	-88888	G	
+TOil_OCStr1	degC	0	G	
+TPR	-	-99999	B	
+TPumpOil	degC	-99999	B	
+TRAna_2		0	G	
+TRAna_3		0	G	
+TRAna_4		0	G	
+TRAna_5		0	G	
+TRDis_1		0	G	
+TRDis_2		0	G	
+TRDis_3		0	G	
+TRise	degF	3.40524053573608	G	
+TRiseMC	degF	3.40524053573608	G	
+TRiseMCB1	degF	9.87262535095215	G	
+TRiseMCB2	degF	9.87262535095215	G	
+TRiseMCB3	degF	9.87262535095215	G	
+TRiseMCB4	degF	6.40647315979004	G	
+TRiseMCB5	degF	4.41505146026611	G	
+TRiseMCB6	degF	4.41505146026611	G	
+TRiseMCB7	degF	6.40647315979004	G	
+TRiseMCB8	degF	3.40524053573608	G	
+TRiseMCB9	degF	4.41505146026611	G	
+TRiseTO	degF	5.48978090286255	G	
+TRiseTOB1	degF	10.5860471725464	G	
+TRiseTOB2	degF	11.2700843811035	G	
+TRiseTOB3	degF	12.3774690628052	G	
+TRiseTOB4	degF	8.3718957901001	G	
+TRiseTOB5	degF	5.48978090286255	G	
+TRiseTOB6	degF	6.50647354125977	G	
+TRiseTOB7	degF	8.3718957901001	G	
+TRiseTOB8	degF	5.48978090286255	G	
+TRiseTOB9	degF	6.50647354125977	G	
+TSAFT		1	G	
+TSCAV	degC	594.296875 (HIHI=594.296875)	G	
+TSFWD		1	G	
+TSTAIR	degC	9999.990234375	G	
+TScavOil	degC	-99999	B	
+TStAirLIT	degC	-99999	B	
+TStart	degC	0	G	
+TStartAir	degC	0	G	
+TT2	degC	17	G	
+TT2Del	degC	196.584854125977	S	
+TT2Flt		1	S	
+TT2LT0		0	G	
+TT2_1	degC	146.28288269043	G	
+TT2_2	degC	141.916030883789	G	
+TT2_3	degC	4.96823883056641	G	
+TT2_4	degC	130.055938720703	G	
+TT2_5	degC	107.509811401367	S	
+TT2_6	degC	146.28288269043	G	
+TT2_7	degC	-99999	B	
+TT2_8	degC	146.28288269043	G	
+TT2_9	degC	146.28288269043	G	
+TT2_F	degF	62.5999984741211	G	
+TT2_K	K	290.149993896484	G	
+T_AirStart	degC	0	G	
+T_Fuel_Fac	degC	0	G	
+T_Fuel_Fac1	degC	0	G	
+Tamb	degC	0	G	
+Test_Type	-	0	G	
+Theta	-	1.0069408416748	G	
+ThetaHD	-	1.06400001049042	S	
+ThetaHDM	-	1.06400001049042	S	
+ThetaHDMC	-	1.06400001049042	G	
+ThetaHDMMC	-	1.06400001049042	G	
+ThetaHDMTO	-	1.10411202907562	G	
+ThetaHDTO	-	1.10411202907562	G	
+ThrottleHealth_ST		1	G	
+ThrottleTOI_CMD		0	G	
+Throttle_FuelOn_ST		0	G	
+Throttle_TripTCO		0	G	
+Throttle_TripTOI		1	G	
+Time	-	1328946.5	G	
+TimeInSec	s	67830.6953125	G	
+TimerReset		0	G	
+Timer_AI	-	-99999	B	
+Timer_AI_	-	-99999	B	
+Timer_MC	-	1.34500002861023	S	
+Timer_MC_	s	95.5	S	
+Timer_MI	-	-99999	B	
+Timer_MI_	-	-99999	B	
+Timer_TO	-	0	G	
+Timer_TO_	s	0	G	
+TransReset		0	G	
+TransTime	s	0	G	
+Trip_CutOff		0	G	
+Trip_FlightIdle		0	G	
+Trip_Idle		0	G	
+Trip_Idle_Out		0	G	
+UECUCmdRef	V	0	G	
+UPS_Battery		0	G	
+UPS_BatteryLow		0	G	
+UPS_Bypass		0	G	
+UPS_Fault		0	G	
+UPS_Line		0	G	
+VGOldNEVGB		0	G	
+VGRB_Reset		0	G	
+VGRButton		0	G	
+VGROld		0	G	
+VIB1_1	-	.00143216410651803	G	
+VIB1_2	mil	.0000777224631747231	G	
+VIB1_3	deg	0	G	
+VIB1_4	ips	0	G	
+VIB2_1	-	.00258654216304421	G	
+VIB2_2	mil	.000125769438454881	G	
+VIB2_3	deg	0	G	
+VIB2_4	ips	0	G	
+VIBTRFBB	mil	.00258338381536305	G	
+VIBTRFN1	mil	.000125425343867391	G	
+VIBTRFN1AccLim	mil	4	G	
+VIBTRFN1Lim	mil	8	G	
+VIBTRFN2	ips	0	G	
+VIBTRFN2Lim	ips	1.60000002384186	G	
+VRB_Reset		0	G	
+VRButton		0	G	
+VROld		0	G	
+VROldNEVRB		0	G	
+Vap_Lights_CMD		1	G	
+Vib1N1Pk	mil	.000500613532494754	G	
+Vib1N1PkD	mil	0	G	
+Vib1N2Pk	ips	0	G	
+Vib1N2PkD	ips	0	G	
+Vib1_N1	mil	.0000767359961173497	G	
+Vib1_N2	ips	0	G	
+Vib2N1Pk	mil	.000661689322441816	G	
+Vib2N1PkD	mil	0	G	
+Vib2N2Pk	ips	0	G	
+Vib2N2PkD	ips	0	G	
+Vib2_N1	mil	.000125581529573537	G	
+Vib2_N2	ips	0	G	
+Vib3N1Pk	mil	0	G	
+Vib3N1PkD	mil	0	G	
+Vib3N2Pk	ips	0	G	
+Vib3N2PkD	ips	0	G	
+Vib3_N1	mil	0	G	
+Vib3_N2	ips	0	G	
+VibDReset		0	G	
+VibReset		0	G	
+VibSFact	degC	.200000002980232	G	
+W2AR	pps	-99999	B	
+W2Adj	-	1.00079143047333	G	
+W2Delta	pps	-1.34332275390625	S	
+W2K1	pps	-99999	B	
+W2K2	pps	-99999	B	
+W2K3	pps	-99999	B	
+WDRollAvg	deg	0	G	
+WDRollAvgTime	s	5	G	
+WDS180	deg	0	G	
+WF	lb	6827	G	
+WF0	pph	0	G	
+WF1	pph	0	G	
+WF2	pph	0	G	
+WFAdj	-	1.00131714344025	G	
+WFDelta	pph	-25.29931640625	S	
+WFDiff	L/min	0	G	
+WFDiffAbs	L/min	0	G	
+WFDiffPct	%	-99999	B	
+WFFNDelta	pps	-709.7568359375	S	
+WFFn	pph	6142.30908203125	S	
+WFK	pph	6898.23876953125	G	
+WFK1	pph	6843.052734375	G	
+WFK2	pph	6852.06591796875	G	
+WFK2_kgHr	kg/h	3108.07666015625	G	
+WFK3	pph	6826.7666015625	S	
+WFK3_MC	pph	0	G	
+WFK3_MCd	pph	6826.7666015625	S	
+WFK3_TO	pph	0	G	
+WFK3_TOd	pph	0	G	
+WFK3_kgHr	kg/h	3096.60107421875	S	
+WFK_kgHr	kg/h	3129.0205078125	G	
+WFLIT	pph	-99999	B	
+WFS	pph	6827.001953125	G	
+WFmax	L/min	0	G	
+WFmax_pph	pph	0	G	
+WKFac	-	0	G	
+Warning_Horn		0	G	
+WaterPump1_RUN		0	G	
+WaterPump2_RUN		0	G	
+WetFlag	-	0	G	
+WetMC_FL		0	B	
+WfOK		0	B	
+Wf_l	L/s	0	G	
+WindDirRad	-	0	G	
+WindDirection	-	0	G	
+WindSpeed	-	0	G	
+Workscope	-	4	G	
+WrkscpeEGTMcorr	degC	0	G	
+XN2	-	.464419990777969	G	
+XN2C	-	.360000014305115	G	
+XN2CHD	-	.360000014305115	S	
+XN2CHDM	-	.360000014305115	S	
+XN2CHDMC	-	.360000014305115	G	
+XN2CHDMMC	-	.360000014305115	S	
+XN2CHDMTO	-	.360000014305115	S	
+XN2CHDTO	-	.360000014305115	G	
+XN2HD	-	.46399998664856	S	
+XN2HDM	-	.463327467441559	S	
+XN2HDMC	-	.46399998664856	G	
+XN2HDMMC	-	.463327467441559	S	
+XN2HDMTO	-	.461828470230103	S	
+XN2HDTO	-	.453000009059906	G	
+Year	-	2021	G	
+ccon1	-	-5800	G	
+ccon2	-	1.38999998569489	G	
+ccon3	-	-.0486402921378613	G	
+ccon4	-	.0000418000017816667	G	
+ccon5	-	-.000000014500000311557	G	
+ccon6	-	0	G	
+ccon7	-	6.54596710205078	G	
+con1	-	-5670	G	
+con2	-	6.3899998664856	G	
+con3	-	-.00968000013381243	G	
+con4	-	.000000622000015937374	G	
+con5	-	.00000000206999994922796	G	
+con6	-	-.000000000000948000033508534	G	
+con7	-	4.16350173950195	G	
+cosWD	-	1	G	
+cosWDS	-	.99999988079071	G	
+cpws	-	1939.96545410156	G	
+das_DaDays	-	44266	G	
+das_DaTime	-	.785071969032288	G	
+das_Day	d	11	G	
+das_Hour	h	18	G	
+das_Min	min	50	G	
+das_Month	mth	3	G	
+das_Msec	ms	717	G	
+das_RTECPU	%	3.78467011451721	G	
+das_Sec	s	25	G	
+pw	-	1333.5751953125	G	
+pws	-	2309.18994140625	G	
+pws1	-	1939.96545410156	G	
+simWindDir	deg	66	G	
+simWindDirFlag		0	G	
+simWindDirSW		0	G	
+sinWD	-	0	G	
+sinWDS	-	0	G	
+tAcc1	s	0	G	
+tAcc2	s	0	G	
+tAtGI	s	-99999	B	
+tAtTO	s	.200000002980232	G	
+tEngStable	s	61190.91015625	G	
+tGIStart	s	-99999	B	
+tLITF	s	-99999	B	
+tOilCS	s	0	G	
+tOilConsum	s	0	G	
+tPLAStMove	s	67830.703125	G	
+tRDStart	s	-99999	B	
+tRunNeg		0	G	
+tRunning	s	6639.5	G	
+tRunning_	min	0	G	
+tStable	s	6639.49609375	G	
+tStartSt	s	67830.40625	G	
+tStarter	s	-99999	B	
+tStrtDisp	s	.200000002980232	G	
+tStrtGT5	s	-99999	B	
+tTOStart	s	67830.40625	G	
+tToIdle	s	-99999	B	
+tToIdleK	s	-99999	B	
+tToLite	s	-99999	B	
+tToLiteMax	s	-99999	B	
+tWfOn	s	-99999	B	
+t_DAS_Runtime_Global	h.min	550.205932617188	G	
+t_DAS_Runtime_Global2	d.h	22.2234325408936	G	
+t_DAS_Runtime_Global3	y.d	.0229309666901827	G	
+t_DAS_Runtime_Global_	s	1981232	G	
+t_DAS_Runtime_Test	h.min	221.428924560547	G	
+t_DAS_Runtime_Test2	d.h	9.05714893341064	G	
+t_DAS_Runtime_Test_	s	798170	G	
+t_DAS_Runtime_Volatile	h.min	1.50641667842865	G	
+t_DAS_Runtime_Volatile2	min.s	110.38500213623	G	
+t_DAS_Runtime_Volatile3	d.h	.0184402782469988	G	
+t_DAS_Runtime_Volatile_	s	6635	G	
+t_P_AirStart30psi	-	0	G	
+tst	degC	-10	G	
+x_DAS_Start	count	370	G	

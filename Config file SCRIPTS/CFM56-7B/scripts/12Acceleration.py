@@ -28,7 +28,7 @@ OilConsNow = None
 Warmup = None
 
 # Channel Registration
-channel("Eng_On,GIFlag,N1MC,N1M,N1K,N1TO,N1TO15,N1TO95,tAcc1,tAcc2,TransReset")
+channel("Eng_On,GIFlag,N1MC,N1K,N1TO,N1TO15,N1TO95,tAcc1,tAcc2,TransReset")
 
 channel("B20,B22,B22B1,B24,B24B1,B26,B26B2,B27,ID,Multiple,N1MCWarmup")
 

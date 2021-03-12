@@ -36,31 +36,31 @@ channel("Eng_On,OilConsSta,TOil_OCStr,TOil_OCStr1,GIFlag,tAtGI,OilQtySStr")
 call_tps("Shutdown")
 
 
-instruction("Within 15 minutes from shutdown, Mark oil level")
+instruction("Within 15 minutes from shutdown,Mark oil level")
 
 note("Fill the oil tank until the oil starts to flow from overflow port.")
 
 
-set_channel("OilConsSta", 0)
+set_channel("OilConsSta",0)
 
 delay(2)
 
-set_channel("OilConsSta", 1)
+set_channel("OilConsSta",1)
 
 
-do_fullset(5, "Start OC ", "StartOC")
-
-delay(2)
-
-set_channel("TOil_OCStr1", getCV("TOil_OCStr"))
+do_fullset(5,"Start OC ","StartOC")
 
 delay(2)
 
-result("Oil temperature was {} DegC.".format(str(round(getFV("TOil_OCStr"), 4)) ), REPORT + "StartOilCons")
+set_channel("TOil_OCStr1",getCV("TOil_OCStr"))
 
-result("Oil Quantity was {} ltrs.".format(str(round(getFV("OilQtySStr"), 4)) ), REPORT + "StartOilCons")
+delay(2)
 
-result("Oil Consumption Started.", REPORT + "StartOilCons")
+result("Oil temperature was {} DegC.".format(str(round(getFV("TOil_OCStr"),4)) ),REPORT + "StartOilCons")
+
+result("Oil Quantity was {} ltrs.".format(str(round(getFV("OilQtySStr"),4)) ),REPORT + "StartOilCons")
+
+result("Oil Consumption Started.",REPORT + "StartOilCons")
 
 
 
