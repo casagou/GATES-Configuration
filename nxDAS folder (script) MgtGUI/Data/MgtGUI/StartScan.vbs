@@ -1,4 +1,4 @@
-'******************************************************************************
+
 '* RTEStartScan.vbs
 '******************************************************************************
 '*  AUTHOR: Fereshteh Mahvarsayyad
@@ -47,6 +47,7 @@
 '*    10-JAN-20            JOA       Fixed script to start multi RTD Driver instance (wrong "if" logic). Cleaned up code and indentation. Added verbosity.
 '*    17-JAN-20            JOA       Multi RTD Driver instance (up to 4) with variable monitor quantity capability.
 '*    29-MAY-20            JOA       Minor correction. Added comments and scenario cases to facilitate configuration
+'     09-Apr-21		   SL	     Sending opcode 6 to get master config
 '******************************************************************************
 
 
@@ -54,6 +55,11 @@
 Option Explicit
 
 'On Error Resume Next
+
+Dim rte
+Dim rte_connected
+rte_connected = False
+Set rte = CreateObject("RteControlLib.RteControl")
 
 Dim StartRTD
 Dim RTDPCNames
@@ -77,7 +83,7 @@ Dim RTD6_Monitor1, RTD6_Monitor2, RTD6_Monitor3, RTD6_Monitor4
 
 Dim ViewObj
 
-'Command line parameters
+'Command line parameters // INVALID! use vars op_* instead
 Dim argHostName
 Dim argServiceName
 Dim argUserName
@@ -94,6 +100,22 @@ Dim objCommands
 
 Dim remCtrl
 
+' int
+Dim op_TestCellId 
+Dim op_ConfigId   
+Dim op_TestId     
+' bool        
+Dim op_IsInReplyMode   
+' string
+Dim op_EngineType        
+Dim op_TestName          
+Dim op_EngineStandart    
+Dim op_Customer          
+Dim op_EngineSerialNo    
+Dim op_EngineBuildNo     
+' long
+Dim op_ConfigRevNumber  
+
 '/////////////////////// SECTION TO BE UPDATED FOR EVERY PROJECT //////////////////////
 
 ' AlarmSumDispPC = "prodasmgt" 
@@ -107,7 +129,7 @@ ARINCDispPC    = "gates_mgt"
 	' if RTDPCNames includes MgtGUI, RTD #1, RTD #2, RTD #n, RTD #n+1,  then MgtGUI is i=0, RTD #1 is i=1, RTD #2 is i=2, RTD #n is i=n)
 	' if RTDPCNames includes RTD #1, RTD #2, RTD #n, RTD #n+1,  then RTD #1 is i=0, RTD #2 is i=1, RTD #n is i=n-1)
 'RTDPCNames     = "prodasmgt,prodasrtd1"
-RTDPCNames     = "gates_mgt,gates_rtd1"
+RTDPCNames     = "mgthost,gates_rtd1"
 
 
 StartRTD          = TRUE
@@ -120,13 +142,10 @@ StartRTD          = TRUE
 '*** Sub GetStartupPages() Sets up startup pages per engine
 '******************************************************************************
 Sub GetStartupPages()
-
-
-
-
+'MsgBox "op_EngineType = " & op_EngineType 
 '/////////////////////// SECTION TO BE UPDATED FOR EVERY PROJECT //////////////////////
 
-if argEngineType = "ATP_Calibration" Then
+if op_EngineType = "ATP_Calibration" Then
 
 ' MgtGUI (generally 1 monitor with no RTD pages or no RTD Driver at all)	
 	MgtGUI_Monitor1		= "1_DAS_Control.v"
@@ -140,7 +159,7 @@ if argEngineType = "ATP_Calibration" Then
 	RTD1_Monitor3		= "2_Alarms.v"
 	RTD1_Monitor4		= "2_Calculations.v"
 
-Elseif argEngineType = "CFM56-5B" Then
+Elseif op_EngineType = "CFM56-5B" Then
 
 ' MgtGUI (generally 1 monitor with no RTD pages or no RTD Driver at all)	
 	MgtGUI_Monitor1		= "5B_Main_Page.v"
@@ -154,7 +173,7 @@ Elseif argEngineType = "CFM56-5B" Then
 	RTD1_Monitor3		= "5B_Seal_BrkinB123.v"
 	RTD1_Monitor4		= "5B_Slam_Accel.v"
 
-Elseif argEngineType = "CFM56-5B_SETUP" Then
+Elseif op_EngineType = "CFM56-5B_SETUP" Then
 
 ' MgtGUI (generally 1 monitor with no RTD pages or no RTD Driver at all)	
 	MgtGUI_Monitor1		= "5B_Main_Page.v"
@@ -168,19 +187,19 @@ Elseif argEngineType = "CFM56-5B_SETUP" Then
 	RTD1_Monitor3		= "5B_Seal_BrkinB123.v"
 	RTD1_Monitor4		= "5B_Slam_Accel.v"
 
-Elseif argEngineType = "CF6-80C2" Then
+Elseif op_EngineType = "CF6-80C2" Then
 
 ' MgtGUI (generally 1 monitor with no RTD pages or no RTD Driver at all)	
-	MgtGUI_Monitor1		= "1_DAS_Control.v"
-	MgtGUI_Monitor2		= "2_Simulations2.v"
-	MgtGUI_Monitor3		= "7_Emissions.v"
-	MgtGUI_Monitor4		= "6_GasTurbine_Picture.v"
+	MgtGUI_Monitor1		= "CF6_Main_Page.v"
+	MgtGUI_Monitor2		= "CF6_Performance.v"
+	MgtGUI_Monitor3		= "CF6_Performance.v"
+	MgtGUI_Monitor4		= "CF6_Performance.v"
 
 ' RTD #1
-	RTD1_Monitor1		= "1_DAS_Control.v"
-	RTD1_Monitor2		= "2_Simulations2.v"
-	RTD1_Monitor3		= "3_CompressorMap_Panel.v"
-	RTD1_Monitor4		= "6_GasTurbine_Picture.v"
+	RTD1_Monitor1		= "CF6_Slam_Accel.v"
+	RTD1_Monitor2		= "CF6_TempPres.v"
+	RTD1_Monitor3		= "CF6_TempPres.v"
+	RTD1_Monitor4		= "CF6_TempPres.v"
 
 Else
 
@@ -204,7 +223,7 @@ End Sub
 
 
 '******************************************************************************
-'*** 1. Retrieve the arguments
+'*** 1. Retrieve the arguments // DOES NOT RETR THE ARGS 
 '******************************************************************************
 argHostName       = GetArg ("HostName")
 argServiceName    = GetArg ("Servicename")
@@ -219,6 +238,7 @@ argCustomer       = GetArg ("Customer")
 argSubSystems     = GetArg ("subsystem")
 arrSubSystems     = Split (argSubSystems, ",")
 
+GetMasterConfig()
 
 'StartAlarmSumDisp = IsSubSystemOnline("LIMIT_ACTION")
 StartAlarmSumDisp = True
@@ -227,6 +247,7 @@ StartInfoSumDisp = True
 'StartArincDisp = IsSubSystemOnline("ARINC")
 StartArincDisp=True
 
+rte.Terminate()
 
 
 '******************************************************************************
@@ -278,7 +299,8 @@ If StartArincDisp Then
     End If
 End If
 
-
+' SergIO
+Set rte = Nothing
 
 '******************************************************************************
 '**** 4. Start Real Time Display
@@ -615,3 +637,43 @@ Sub DumpArgs()
     MsgBox strDump
 End Sub
 '***************************DO NOT CHANGE**************************************
+
+'***************************BELOW SL BUGFIX ENGINE SELECTION*******************
+
+Function GetMasterConfig()
+	Dim reply
+	reply = SendCop(6)
+	
+	If reply<>"erunda" Then
+		Dim ar
+		Dim x
+		ar = Split(reply, ",")
+		'For x = 0 To 10
+		'  MsgBox "op_array(" & x & ") = " & ar(x)
+		'Next
+		op_TestCellId = ar(0)
+		op_ConfigId   = ar(1)
+		op_TestId     = ar(3)
+		op_IsInReplyMode   = ar(7)
+		op_EngineType      = ar(2)
+		op_TestName        = ar(4)
+		op_EngineStandart  = ar(5)
+		op_Customer        = ar(6)
+		op_EngineSerialNo  = ar(8)
+		op_EngineBuildNo   = ar(9)
+		op_ConfigRevNumber = ar(10)
+	End If
+End Function
+
+Function SendCop(cop)
+  If Not rte_connected Then
+    rte_connected = rte.InitAndConnect() 
+  End if
+	
+	Dim resp
+	resp = rte.SendOpcode(cop,"")
+	SendCop = resp
+
+	'MsgBox("SendCop: Cannot connect to the RTE")
+	'SendCop = "erunda"
+End Function

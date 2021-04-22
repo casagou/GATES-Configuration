@@ -95,14 +95,14 @@ End If
 '*******************************************************
 '**** 3. Stop ARINC Display
 '*******************************************************
-'Set objCommands = CreateObject("ARINCDISPLAYSERVER.Commands", ARINCDispPC )
-'If Err.Number <> 0 Then
-'   MsgBox "Failed to stop the ARINC Display on '"+ARINCDispPC+ "' : "+Err.Description
-'   Err.Number = 0
-'Else
-'   objCommands.Stop
-'   Set objCommands = Nothing
-'End If
+Set objCommands = CreateObject("ARINCDISPLAYSERVER.Commands", ARINCDispPC )
+If Err.Number <> 0 Then
+   MsgBox "Failed to stop the ARINC Display on '"+ARINCDispPC+ "' : "+Err.Description
+   Err.Number = 0
+Else
+   objCommands.Stop
+   Set objCommands = Nothing
+End If
 
 '*******************************************************
 '**** 3.1. Stop OMS GUI (T800 or T700) 
