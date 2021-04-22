@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exported from /edit/engineer/tests -->
+<mds_xml_root export_root_type="tests" is_list_element="false">
+    <tests active-test-name-id-name="DummyCF6">
+        <instance name="ATP_Calibration_01" build-number="654321" engineer-name="Nick" guid="5" operator-name-1="Joachim" operator-name-2="Mariusz" serial-number="123456" test-description="This is the only that works for now. If you create a new test, nxDAS will bug." test-cell-name="GATES_Vantaa" spte-name="ATP_Calibration" uut-name="ATP_Calibration" standard-name="In-House" config-name="All"/>
+        <instance name="Dummy5B" build-number="2" engineer-name="why" guid="1" operator-name-1="hi" operator-name-2="bye" serial-number="111122" test-description="" test-cell-name="GATES_Vantaa" spte-name="CFM56-5B_SETUP" uut-name="CFM56-5B" standard-name="MULTIPLE_RATING-SAC" config-name="GA-TELESIS"/>
+        <instance name="CFM56_5B_DAC" build-number="005" engineer-name="eng" guid="" operator-name-1="op1" operator-name-2="op2" serial-number="123456789" test-description="" test-cell-name="GATES_Vantaa" spte-name="CFM56-5B_SETUP" uut-name="CFM56-5B" standard-name="MULTIPLE_RATING-DAC" config-name="GA-TELESIS"/>
+        <instance name="DummyCF6" build-number="2" engineer-name="cow" guid="3" operator-name-1="how now" operator-name-2="brown" serial-number="121212" test-description="" test-cell-name="GATES_Vantaa" spte-name="CF6-80C2_SETUP" uut-name="CF6-80C2" standard-name="BOEING-FADEC" config-name="GA-TELESIS"/>
+        <instance name="Dummy7B" build-number="123456" engineer-name="JLD" guid="6" operator-name-1="JLD" operator-name-2="JLD" serial-number="123456" test-description="test " test-cell-name="GATES_Vantaa" spte-name="CFM56-7B_SETUP" uut-name="CFM56-7B" standard-name="MULTIPLE_RATING-SAC" config-name="GA-TELESIS"/>
+    </tests>
+</mds_xml_root>
