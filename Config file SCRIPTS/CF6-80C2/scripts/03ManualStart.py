@@ -28,7 +28,7 @@ from nxtps import *
 lv = None
 
 
-channel("FCS_AirRdy,FCS_FuelRdy,IGN1Pwr,IGN2Pwr,GrndTestMode,SAV_ON,StrtVlvEnST,FuelLvrRunST,SingleIgnitor,DualIgnitor,SingleIGNST,DualIGNST,AutoStrtST,P_Fuel_Fac,OILQTY,IdleCtrlST,IdleCtrl,StartControl,FUEL_ON,TRAFILTR,StartReset,LITF,tToLite,tToLiteMax,POIL,GIFlag,N1_OBS,N2_OBS,PeakEGT,STCorr,tToIdleLim,PoilC,POILCLOLO,POILCHIHI,ECUFltChaA,ECUFltChaB,HPTCDelta,LPTCDelta")
+channel("FCS_AirRdy,FCS_FuelRdy,IGN1Pwr,IGN2Pwr,GrndTestMode,SAV_ON,StrtVlvEnST,FuelLvrRunST,SingleIgnitor,DualIgnitor,SingleIGNST,DualIGNST,AutoStrtST,P_Fuel_Fac,OILQTY,IdleCtrlST,IdleCtrl,StartControl,FuelCondLvr,TRAFILTR,StartReset,LITF,tToLite,tToLiteMax,POIL,GIFlag,N1_OBS,N2_OBS,PeakEGT,STCorr,tToIdleLim,PoilC,POILCLOLO,POILCHIHI,ECUFltChaA,ECUFltChaB,HPTCDelta,LPTCDelta")
 
 
 # ***** LOCAL VARIABLE DECLARATIONS *****
@@ -37,7 +37,7 @@ channel("FCS_AirRdy,FCS_FuelRdy,IGN1Pwr,IGN2Pwr,GrndTestMode,SAV_ON,StrtVlvEnST,
 
 instruction("Ensure all engine control switches are in default position.")
 
-set_channel("FUEL_ON",0)
+set_channel("FuelCondLvr",0)
 set_channel("StartControl",0)
 set_channel("SAV_ON",0)
 
@@ -266,7 +266,7 @@ wait("LITF=1",45,0.1,WAIT_PARAM3_DFT,WAIT_PARAM4_DFT,WAIT_PARAM5_DFT,WAIT_PARAM6
 
 #JOA what is Max?
 
-if getCV("tToLite") > getCV("tToLite") Max:
+if getCV("tToLite") > getCV("tToLite"):
 	result("tTolite = {} secs".format(str(round(getCV("tToLite"),4)) ),REPORT +"Start")
 
 	result("Time to lite is > {} .".format(str(round(getCV("tToLiteMax"),4)) ),REPORT +"Start",RED)
@@ -356,13 +356,13 @@ else:
 delay(120)
 
 
-if (getCV("PoilC") <getCV("POILCLOLO")or (getCV("PoilC") >getCV("POILCHIHI"):
+if (getCV("PoilC") < getCV("POILCLOLO")) or (getCV("PoilC") > getCV("POILCHIHI")):
 	result("Oil pressure is not within idle limits {}".format(red),REPORT +"Start")
 
-	result("Oil pressure corrected = {} psig {}".format(str(round(getCV("PoilC"),4)) ,red),REPORT +"Start")
+	result("Oil pressure corrected = {} psig {}".format(str(round(getCV("PoilC"),4)),red),REPORT +"Start")
 
 else:
-	result("Oil pressure corrected = {} psig".format(str(round(getCV("PoilC"),4)) ),REPORT +"Start")
+	result("Oil pressure corrected = {} psig".format(str(round(getCV("PoilC"),4))),REPORT +"Start")
 
 	pass
 

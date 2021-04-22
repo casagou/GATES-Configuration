@@ -38,7 +38,7 @@ booPreRun = None
 lvIgntest = None
 
 # Channel Registration
-channel("Eng_On,PreRTMin,PreRTHr,PreFuel,D03114,D03115,EngSelectorNRML,EngSelectorIGN,EngSelectorCRNK,FCS_AirRdy,FCS_FuelRdy,ECUpwrAbtn,ECUpwrBbtn,IgnPwrL,IgnPwrR,ManualStartSel")
+channel("Eng_On,PreRTMin,PreRTHr,PreFuel,D03114,D03115,EngSelectorNRML,EngSelectorIGN,EngSelectorCRNK,FCS_AirRdy,FCS_FuelRdy,ECUpwrAbtn,ECUpwrBbtn,IgnPwrL_ref,IgnPwrR_ref,ManualStartSel")
 
 
 lvtempvar1 = 0
@@ -50,7 +50,7 @@ if getCV("Eng_On") == 1:
 
 note("TEST PREPARATION")
 
-instruction("Ensure Facility Air and Fuel spupply are OFF")
+instruction("Ensure Facility Air and Fuel Supply are OFF")
 wait("FCS_AirRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Air not OFF")
 wait("FCS_FuelRdy = 0", 5, 0.1, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Facility Fuel not OFF")
 
@@ -75,7 +75,7 @@ if booPreRun:
 
 
 
-instruction("Do an Air System leak check")
+instruction("Perform an Air System leak check")
 
 instruction("Turn Test Cell start air ON")
 
@@ -98,7 +98,7 @@ else:
 
 	pass
 
-instruction("Do an oil quantity check")
+instruction("Perform oil quantity check")
 
 lvOilLevel = prompt_boo("Is oil level satisfactory?")
 
@@ -165,11 +165,11 @@ if lvIgntest:
 	
 	instruction("Turn ON 115VAC ignition No.1 power to ECU Ch.A")
     
-	set_channel("IgnPwrL", 1)
+	set_channel("IgnPwrL_ref", 1)
     
 	instruction("Turn OFF 115VAC ignition No.2 power to ECU Ch.B")
     
-	set_channel("IgnPwrR", 0)
+	set_channel("IgnPwrR_ref", 0)
 
 	
 	instruction("Turn MANUAL START SWITCH to ON")
@@ -214,11 +214,11 @@ if lvIgntest:
 	
 	instruction("Turn ON 115VAC ignition No.2 power to ECU Ch.B")
     
-	set_channel("IgnPwrR", 1)
+	set_channel("IgnPwrR_ref", 1)
     
 	instruction("Turn OFF 115VAC ignition No.1 power to ECU Ch.A")
     
-	set_channel("IgnPwrL", 0)
+	set_channel("IgnPwrL_ref", 0)
 	
 	instruction("Turn MANUAL START SWITCH to ON")
 
@@ -287,12 +287,12 @@ else:
 
 	
 	if lvNoleak:
-		result("leaks were found {} TestPrep ".format(report))
+		result("leaks were found {} TestPrep ".format(REPORT))
 
 		instruction("Repair leaks before continuing")
 
 	else:
-		result("no leaks were found {} TestPrep ".format(report))
+		result("no leaks were found {} TestPrep ".format(REPORT))
 
 		pass
 	pass

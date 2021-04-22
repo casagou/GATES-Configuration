@@ -44,6 +44,7 @@ set_channel("VibReset", 0)
 
 set_channel("Accel", 1)
 
+instruction("Start Acceleration vibration log.")
 
 start_log("Vibration", "VibAccel")
 

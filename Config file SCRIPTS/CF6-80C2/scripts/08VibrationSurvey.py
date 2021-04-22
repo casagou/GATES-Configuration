@@ -30,7 +30,7 @@ channel("Eng_On,GIFlag,FIFlag,N1TO,N1MC,N1_OBS,VibReset,Accel,Vib1N1Pk,Vib2N1Pk,
 
 
 if getCV("Eng_On") == 0:
-	call_tps("04AutoStart.tps")
+	call_tps("04AutoStart.py")
 
 	pass
 

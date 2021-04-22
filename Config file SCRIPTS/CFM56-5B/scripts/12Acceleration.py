@@ -77,7 +77,7 @@ if getCV("GIFlag") == 1:
 	pass
 
 # V1.01 prompt_boo " Is this test conducted immediately after Start run ? ", HighPower
-HighPower = prompt_boo("Was the engine warmed up for five minutes at high power? ")
+HighPower = prompt_boo("Has the engine warmed up for 5 minutes at high power? ")
 
 # V1.01 If HighPower Then
 

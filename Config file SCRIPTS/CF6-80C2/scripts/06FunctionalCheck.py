@@ -35,7 +35,7 @@ channel("Eng_On,IdleCtrlST,GIFlag,FIFlag,N1TO,N1MC,N1_OBS,N2_OBS,N2GIL,N2GIH,N2F
 # ***** TESTING 005 PARA 3.A *****
 
 if getCV("Eng_On") == 0:
-	call_tps("Start")
+	call_tps("04AutoStart.py")
 
 	pass
 
@@ -65,56 +65,56 @@ do_fullset(5,"Ground Idle Functional Check","GIFuncCheck")
 delay(2)
 
 
-if (getCV("N2_OBS") <getCV("N2GIL")or (getCV("N2_OBS") >getCV("N2GIH"):
+if getCV("N2_OBS") < getCV("N2GIL") or getCV("N2_OBS") > getCV("N2GIH"):
 	result("N2 is not within idle limits - adjust",REPORT + "FuncCheck",RED)
 
-	result("N2= {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck",RED)
+	result("N2= {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck",RED)
 
 else:
-	result("N2= {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck")
+	result("N2= {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck")
 
 	pass
 
-result("T2 = {} DegC".format(str(round(getFV("TT2"),4)) ),REPORT + "FuncCheck")
+result("T2 = {} DegC".format(str(round(getFV("TT2"),4))),REPORT + "FuncCheck")
 
-result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4)) ),REPORT + "FuncCheck")
+result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4))),REPORT + "FuncCheck")
 
-result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck")
+result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck")
 
-result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4)) ),REPORT + "FuncCheck")
+result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4))),REPORT + "FuncCheck")
 
-result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4)) ),REPORT + "FuncCheck")
+result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4))),REPORT + "FuncCheck")
 
-result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4)) ),REPORT + "FuncCheck")
+result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4))),REPORT + "FuncCheck")
 
 if (getCV("PoilC") <getCV("POILCLOLO")or (getCV("PoilC") >getCV("POILCHIHI"):
 	result("Oil pressure is not within idle limits",REPORT + "FuncCheck",RED)
 
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC")) ),REPORT + "FuncCheck",RED)
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"))),REPORT + "FuncCheck",RED)
 
 else:
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC")) ),REPORT + "FuncCheck")
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"))),REPORT + "FuncCheck")
 
 	pass
-result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4)) ),REPORT + "FuncCheck")
+result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4))),REPORT + "FuncCheck")
 
-result("VBV = {} in".format(str(round(getFV("VBVSEL"),4)) ),REPORT + "FuncCheck")
+result("VBV = {} in".format(str(round(getFV("VBVSEL"),4))),REPORT + "FuncCheck")
 
-result("Thrust = {} lbs".format(str(round(getFV("FN"),4)) ),REPORT + "FuncCheck")
+result("Thrust = {} lbs".format(str(round(getFV("FN"),4))),REPORT + "FuncCheck")
 
-result("WF = {} lbs".format(str(round(getFV("WF"),4)) ),REPORT + "FuncCheck")
+result("WF = {} lbs".format(str(round(getFV("WF"),4))),REPORT + "FuncCheck")
 
 
 
@@ -143,56 +143,56 @@ do_fullset(5,"Flight Idle","FIFuncCheck")
 delay(2)
 
 
-if (getFV("N2") > getFV("N2FIH") )or(getFV("N2") < getFV("N2FIL") ):
+if (getFV("N2") > getFV("N2FIH"))or(getFV("N2") < getFV("N2FIL")):
 	result("N2 is not within idle limits - adjust",REPORT + "FuncCheck",RED)
 
-	result("N2= {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck",RED)
+	result("N2= {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck",RED)
 
 else:
-	result("N2= {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck")
+	result("N2= {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck")
 
 	pass
 
-result("T2 = {} DegC".format(str(round(getFV("TT2"),4)) ),REPORT + "FuncCheck")
+result("T2 = {} DegC".format(str(round(getFV("TT2"),4))),REPORT + "FuncCheck")
 
-result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4)) ),REPORT + "FuncCheck")
+result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4))),REPORT + "FuncCheck")
 
-result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck")
+result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck")
 
-result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4)) ),REPORT + "FuncCheck")
+result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4))),REPORT + "FuncCheck")
 
-result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4)) ),REPORT + "FuncCheck")
+result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4))),REPORT + "FuncCheck")
 
-result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4)) ),REPORT + "FuncCheck")
+result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4))),REPORT + "FuncCheck")
 
 if (getCV("PoilC") <getCV("POILCLOLO")or (getCV("PoilC") >getCV("POILCHIHI"):
 	result("Oil pressure is not within idle limits",REPORT + "FuncCheck",RED)
 
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4)) ),REPORT + "FuncCheck",RED)
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4))),REPORT + "FuncCheck",RED)
 
 else:
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4)) ),REPORT + "FuncCheck")
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4))),REPORT + "FuncCheck")
 
 	pass
-result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4)) ),REPORT + "FuncCheck")
+result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4))),REPORT + "FuncCheck")
 
-result("VBV = {} in".format(str(round(getFV("VBVSEL"),4)) ),REPORT + "FuncCheck")
+result("VBV = {} in".format(str(round(getFV("VBVSEL"),4))),REPORT + "FuncCheck")
 
-result("Thrust = {} lbs".format(str(round(getFV("FN"),4)) ),REPORT + "FuncCheck")
+result("Thrust = {} lbs".format(str(round(getFV("FN"),4))),REPORT + "FuncCheck")
 
-result("WF = {} lbs".format(str(round(getFV("WF"),4)) ),REPORT + "FuncCheck")
+result("WF = {} lbs".format(str(round(getFV("WF"),4))),REPORT + "FuncCheck")
 
 
 
@@ -259,13 +259,13 @@ do_fullset(1,"Vib Survey Accel","Vib_Survey_Acc")
 delay(3)
 
 
-result("Max #1 Brg Vibn = {} mils. N1 = {} rpm.".format(str(round(getFV("Vib1N1Pk"),4)) ,str(round(getFV("N1atV1MxA"),4)) ),REPORT+"FuncCheck")
+result("Max #1 Brg Vibn = {} mils. N1 = {} rpm.".format(str(round(getFV("Vib1N1Pk"),4)) ,str(round(getFV("N1atV1MxA"),4))),REPORT+"FuncCheck")
 
-result("Max TRF Flange Vibn = {} mils. N1 = {} rpm.".format(str(round(getFV("Vib2N1Pk"),4)) ,str(round(getFV("N1atV2MxA"),4)) ),REPORT +"FuncCheck")
+result("Max TRF Flange Vibn = {} mils. N1 = {} rpm.".format(str(round(getFV("Vib2N1Pk"),4)) ,str(round(getFV("N1atV2MxA"),4))),REPORT +"FuncCheck")
 
-result("Max #1 Brg Vibn = {} mils. N2 = {} rpm.".format(str(round(getFV("Vib1N2Pk"),4)) ,str(round(getFV("N2atV1MxA"),4)) ),REPORT +"FuncCheck")
+result("Max #1 Brg Vibn = {} mils. N2 = {} rpm.".format(str(round(getFV("Vib1N2Pk"),4)) ,str(round(getFV("N2atV1MxA"),4))),REPORT +"FuncCheck")
 
-result("Max TRF Vibn = {} mils. N2 = {} rpm.".format(str(round(getFV("Vib2N2Pk"),4)) ,str(round(getFV("N2atV2MxA"),4)) ),REPORT +"FuncCheck")
+result("Max TRF Vibn = {} mils. N2 = {} rpm.".format(str(round(getFV("Vib2N2Pk"),4)) ,str(round(getFV("N2atV2MxA"),4))),REPORT +"FuncCheck")
 
 
 # ********  3.D   *********
@@ -290,46 +290,46 @@ instruction("Record full_set")
 do_fullset(10,"Functional Check","MC_Warmup")
 
 
-result("T2 = {} DegC".format(str(round(getFV("TT2"),4)) ),REPORT + "FuncCheck")
+result("T2 = {} DegC".format(str(round(getFV("TT2"),4))),REPORT + "FuncCheck")
 
-result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4)) ),REPORT + "FuncCheck")
+result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4))),REPORT + "FuncCheck")
 
-result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck")
+result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck")
 
-result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4)) ),REPORT + "FuncCheck")
+result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4))),REPORT + "FuncCheck")
 
-result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4)) ),REPORT + "FuncCheck")
+result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4))),REPORT + "FuncCheck")
 
-result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4)) ),REPORT + "FuncCheck")
+result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4))),REPORT + "FuncCheck")
 
 if (getCV("PoilC") <getCV("POILCLOLO")or (getCV("PoilC") >getCV("POILCHIHI"):
 	result("Oil pressure is not within idle limits",REPORT + "FuncCheck",RED)
 
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4)) ),REPORT + "FuncCheck",RED)
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4))),REPORT + "FuncCheck",RED)
 
 else:
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4)) ),REPORT + "FuncCheck")
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4))),REPORT + "FuncCheck")
 
 	pass
-result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4)) ),REPORT + "FuncCheck")
+result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4))),REPORT + "FuncCheck")
 
-result("VBV = {} in".format(str(round(getFV("VBVSEL"),4)) ),REPORT + "FuncCheck")
+result("VBV = {} in".format(str(round(getFV("VBVSEL"),4))),REPORT + "FuncCheck")
 
-result("Thrust = {} lbs".format(str(round(getFV("FN"),4)) ),REPORT + "FuncCheck")
+result("Thrust = {} lbs".format(str(round(getFV("FN"),4))),REPORT + "FuncCheck")
 
-result("WF = {} lbs".format(str(round(getFV("WF"),4)) ),REPORT + "FuncCheck")
+result("WF = {} lbs".format(str(round(getFV("WF"),4))),REPORT + "FuncCheck")
 
 
 delay(120)
@@ -353,46 +353,46 @@ delay(180)
 do_fullset(10,"Functional Check","TO_Warmup")
 
 
-result("T2 = {} DegC".format(str(round(getFV("TT2"),4)) ),REPORT + "FuncCheck")
+result("T2 = {} DegC".format(str(round(getFV("TT2"),4))),REPORT + "FuncCheck")
 
-result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4)) ),REPORT + "FuncCheck")
+result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4))),REPORT + "FuncCheck")
 
-result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck")
+result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck")
 
-result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4)) ),REPORT + "FuncCheck")
+result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4))),REPORT + "FuncCheck")
 
-result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4)) ),REPORT + "FuncCheck")
+result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4))),REPORT + "FuncCheck")
 
-result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4)) ),REPORT + "FuncCheck")
+result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4))),REPORT + "FuncCheck")
 
 if (getCV("PoilC") <getCV("POILCLOLO")or (getCV("PoilC") >getCV("POILCHIHI"):
 	result("Oil pressure is not within idle limits",REPORT + "FuncCheck",RED)
 
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4)) ),REPORT + "FuncCheck",RED)
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4))),REPORT + "FuncCheck",RED)
 
 else:
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4)) ),REPORT + "FuncCheck")
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4))),REPORT + "FuncCheck")
 
 	pass
-result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4)) ),REPORT + "FuncCheck")
+result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4))),REPORT + "FuncCheck")
 
-result("VBV = {} in".format(str(round(getFV("VBVSEL"),4)) ),REPORT + "FuncCheck")
+result("VBV = {} in".format(str(round(getFV("VBVSEL"),4))),REPORT + "FuncCheck")
 
-result("Thrust = {} lbs".format(str(round(getFV("FN"),4)) ),REPORT + "FuncCheck")
+result("Thrust = {} lbs".format(str(round(getFV("FN"),4))),REPORT + "FuncCheck")
 
-result("WF = {} lbs".format(str(round(getFV("WF"),4)) ),REPORT + "FuncCheck")
+result("WF = {} lbs".format(str(round(getFV("WF"),4))),REPORT + "FuncCheck")
 
 
 # ********  3.F   *********
@@ -425,13 +425,13 @@ delay(2)
 result("Vibration check - Deceleration",REPORT +"Vib_Decel")
 
 
-result("Max #1 Brg Vibn = {} mils. N1 = {} rpm.".format(str(round(getFV("Vib1N1PkD"),4)) ,str(round(getFV("N1atV1MxD"),4)) ),REPORT+"FuncCheck")
+result("Max #1 Brg Vibn = {} mils. N1 = {} rpm.".format(str(round(getFV("Vib1N1PkD"),4)) ,str(round(getFV("N1atV1MxD"),4))),REPORT+"FuncCheck")
 
-result("Max TRF Flange Vibn = {} mils. N1 = {} rpm.".format(str(round(getFV("Vib2N1PkD"),4)) ,str(round(getFV("N1atV2MxD"),4)) ),REPORT +"FuncCheck")
+result("Max TRF Flange Vibn = {} mils. N1 = {} rpm.".format(str(round(getFV("Vib2N1PkD"),4)) ,str(round(getFV("N1atV2MxD"),4))),REPORT +"FuncCheck")
 
-result("Max #1 Brg Vibn = {} mils. N2 = {} rpm.".format(str(round(getFV("Vib1N2PkD"),4)) ,str(round(getFV("N2atV1MxD"),4)) ),REPORT +"FuncCheck")
+result("Max #1 Brg Vibn = {} mils. N2 = {} rpm.".format(str(round(getFV("Vib1N2PkD"),4)) ,str(round(getFV("N2atV1MxD"),4))),REPORT +"FuncCheck")
 
-result("Max TRF Vibn = {} mils. N2 = {} rpm.".format(str(round(getFV("Vib2N2PkD"),4)) ,str(round(getFV("N2atV2MxD"),4)) ),REPORT +"FuncCheck")
+result("Max TRF Vibn = {} mils. N2 = {} rpm.".format(str(round(getFV("Vib2N2PkD"),4)) ,str(round(getFV("N2atV2MxD"),4))),REPORT +"FuncCheck")
 
 
 
@@ -447,46 +447,46 @@ do_fullset(5,"GI point after decel","FuncCheck")
 
 delay(2)
 
-result("T2 = {} DegC".format(str(round(getFV("TT2"),4)) ),REPORT + "FuncCheck")
+result("T2 = {} DegC".format(str(round(getFV("TT2"),4))),REPORT + "FuncCheck")
 
-result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4)) ),REPORT + "FuncCheck")
+result("Oil Level = {} Qt".format(str(round(getFV("OILQTY"),4))),REPORT + "FuncCheck")
 
-result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4)) ),REPORT + "FuncCheck")
+result("N2 = {} rpm".format(str(round(getFV("N2_OBS"),4))),REPORT + "FuncCheck")
 
-result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4)) ),REPORT + "FuncCheck")
+result("N1 = {} rpm".format(str(round(getFV("N1_OBS"),4))),REPORT + "FuncCheck")
 
-result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4)) ),REPORT + "FuncCheck")
+result("EGT = {} degC".format(str(round(getFV("T495SELAOB"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1"),4))),REPORT + "FuncCheck")
 
-result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4)) ),REPORT + "FuncCheck")
+result("Fan Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N1 = {} mils".format(str(round(getFV("FANBRGN1_ALT"),4))),REPORT + "FuncCheck")
 
-result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4)) ),REPORT + "FuncCheck")
+result("Alt Vibs N2 = {} mils".format(str(round(getFV("FANBRGN2_ALT"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N1 = {} mils".format(str(round(getFV("VIBCRFN1"),4))),REPORT + "FuncCheck")
 
-result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4)) ),REPORT + "FuncCheck")
+result("TMF Vibs N2 = {} mils".format(str(round(getFV("VIBCRFN2"),4))),REPORT + "FuncCheck")
 
-result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4)) ),REPORT + "FuncCheck")
+result("Oil pressure is {} psig.".format(str(round(getFV("POIL"),4))),REPORT + "FuncCheck")
 
 if (getCV("PoilC") <getCV("POILCLOLO")or (getCV("PoilC") >getCV("POILCHIHI"):
 	result("Oil pressure is not within idle limits",REPORT + "FuncCheck",RED)
 
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4)) ),REPORT + "FuncCheck",RED)
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4))),REPORT + "FuncCheck",RED)
 
 else:
-	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4)) ),REPORT + "FuncCheck")
+	result("Oil pressure corrected = {} psig".format(str(round(getFV("PoilC"),4))),REPORT + "FuncCheck")
 
 	pass
-result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4)) ),REPORT + "FuncCheck")
+result("VSV = {} deg".format(str(round(getFV("VSVSEL"),4))),REPORT + "FuncCheck")
 
-result("VBV = {} in".format(str(round(getFV("VBVSEL"),4)) ),REPORT + "FuncCheck")
+result("VBV = {} in".format(str(round(getFV("VBVSEL"),4))),REPORT + "FuncCheck")
 
-result("Thrust = {} lbs".format(str(round(getFV("FN"),4)) ),REPORT + "FuncCheck")
+result("Thrust = {} lbs".format(str(round(getFV("FN"),4))),REPORT + "FuncCheck")
 
-result("WF = {} lbs".format(str(round(getFV("WF"),4)) ),REPORT + "FuncCheck")
+result("WF = {} lbs".format(str(round(getFV("WF"),4))),REPORT + "FuncCheck")
 
 delay(180)
 

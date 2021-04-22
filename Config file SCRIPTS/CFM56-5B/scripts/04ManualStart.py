@@ -74,7 +74,7 @@ if SkipGV:
 	result("Operator skipped Facility ON instruction {} ManStart ".format(REPORT))
 	pass
 
-instruction("Set Throttle to IDLE (0 Deg)")
+instruction("Move Throttle to IDLE Position")
 
 wait("TLA = 0", 10, 1.0, WAIT_PARAM3_DFT, WAIT_PARAM4_DFT, WAIT_PARAM5_DFT, WAIT_PARAM6_DFT, WAIT_PARAM7_DFT, MSG, "Throttle is not at GI after 10 s.")
 

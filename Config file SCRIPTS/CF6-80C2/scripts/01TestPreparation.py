@@ -44,12 +44,12 @@ channel("TRAFILTR,FN")
 
 
 
-instruction("With the engine coupled to bed,turn")
+instruction("With the engine coupled to bed,turn electrical power ON (28 V DC and 115 V AC at 400 Hz)")
 
 note("Electrical Power ON (28 V DC and 115 V AC at 400 Hz)")
 
 
-instruction("Tare Working thrust cell ")
+instruction("Tare Working Thrust Cell ")
 
 
 do_fullset(10,"Tare Fullset","Tare")

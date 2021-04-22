@@ -4,6 +4,9 @@ import time
 from math import *
 from nxtps import *
 
+from nxdas_tps_lib.update_oracle_db import * 
+active_test_name = os.popen("/usr/local/bin/nxget /nxdas/configuration/master/active-test-name").read() 
+
 # Global variable definition
 
 #* Test Information.py
@@ -46,8 +49,15 @@ lvB6 = None
 lvB8 = None
 lvB9 = None
 
+#example to write database
+#update_customer_specific(active_test_name, "ecu_pn", "abc", "b1", "2", "b2", "m", "b3", "n", "b4", "123", "b5", "abc") 
+#update_customer_specific(active_test_name, "WORKSCOPE", getCV("Workscope")) 
+#update_customer_specific(active_test_name, "WORKSCOPE", "Life s great")
+
+
 # Channel Registration
 channel("EngineSN,Workscope,LHV,TSN,CSN,ESM_No,MultiDevTest,B3,B2,B1,B4,B7,B5,B6,B8,B9")
+#channel("EngineSN,Workscope,LHV,MultiDevTest,B3,B2,B1,B4,B7,B5,B6,B8,B9")
 
 
 
@@ -108,6 +118,9 @@ else:
 			pass
 		pass
 	pass
+
+
+
 
 lvMulti = prompt_boo("Will you test multiple ratings?")
 

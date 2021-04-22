@@ -31,7 +31,7 @@ OilConYes = None
 channel("Eng_On,OilCSStr,OilCSEnd,N1K,N1MC")
 
 
-HighPower = prompt_boo("Was the engine warmed up for five minutes at high power and currently at MIN IDLE?")
+HighPower = prompt_boo("Has the engine warmed up for 5 minutes at high power and currently running at MIN IDLE?")
 
 if not HighPower:
 	instruction("Slowly accelerate (2 min) to Max Cont for 5 min.")

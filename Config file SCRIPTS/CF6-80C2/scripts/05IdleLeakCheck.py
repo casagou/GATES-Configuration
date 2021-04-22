@@ -6,7 +6,7 @@ from nxtps import *
 
 # Global variable definition
 #******************************************************************************
-#* 03IdleLeakCheck.py
+#* 05IdleLeakCheck.py
 #******************************************************************************
 #*  AUTHOR: J.Si
 #*
@@ -44,62 +44,63 @@ caution("DO NOT RUN ABOVE MIN IDLE WITH COWLS OPEN")
 
 
 if getCV("Eng_On") == 0:
-	call_tps("AutoStart")
 
-	pass
+    #call_tps("04AutoStart.py")
+
+    pass
 
 # ***** TESTING 004 PARA 3.C (1) (2) (3) *****
 
 
 if (getCV("N2_OBS") < getCV("N2GIL")) or (getCV("N2_OBS") > getCV("N2GIH")):
-	result("N2 is not within idle limits - adjust",REPORT + "IdleLeakCheck",RED)
-	result("N2= {} rpm".format(str(getCV("N2")) ),REPORT + "IdleLeakCheck",RED)
+	result("N2 is not within idle limits - adjust",REPORT+"IdleLeakCheck",RED)
+	result("N2= {} rpm".format(str(getCV("N2"))),REPORT+"IdleLeakCheck",RED)
 
 else:
-	result("N2= {} rpm".format(str(getCV("N2")) ),REPORT + "IdleLeakCheck")
+	result("N2= {} rpm".format(str(getCV("N2"))),REPORT + "IdleLeakCheck")
 
 	pass
 
-result("T2 = {} DegC".format(str(getFV("TT2")) ),REPORT + "IdleLeakCheck")
+result("T2 = {} DegC".format(str(getFV("TT2"))),REPORT + "IdleLeakCheck")
 
-result("Oil Level = {} Qt".format(str(getFV("OILQTY")) ),REPORT + "IdleLeakCheck")
+result("Oil Level = {} Qt".format(str(getFV("OILQTY"))),REPORT + "IdleLeakCheck")
 
-result("N2 = {} rpm".format(str(getFV("N2_OBS")) ),REPORT + "IdleLeakCheck")
+result("N2 = {} rpm".format(str(getFV("N2_OBS"))),REPORT + "IdleLeakCheck")
 
-result("N1 = {} rpm".format(str(getFV("N1_OBS")) ),REPORT + "IdleLeakCheck")
+result("N1 = {} rpm".format(str(getFV("N1_OBS"))),REPORT + "IdleLeakCheck")
 
-result("EGT = {} degC".format(str(getFV("T495SELAOB")) ),REPORT + "IdleLeakCheck")
+result("EGT = {} degC".format(str(getFV("T495SELAOB"))),REPORT + "IdleLeakCheck")
 
-result("Fan Vibs N1 = {} mils".format(str(getFV("FANBRGN1")) ),REPORT + "IdleLeakCheck")
+result("Fan Vibs N1 = {} mils".format(str(getFV("FANBRGN1"))),REPORT + "IdleLeakCheck")
 
-result("Fan Vibs N2 = {} mils".format(str(getFV("FANBRGN2")) ),REPORT + "IdleLeakCheck")
+result("Fan Vibs N2 = {} mils".format(str(getFV("FANBRGN2"))),REPORT + "IdleLeakCheck")
 
-result("Alt Vibs N1 = {} mils".format(str(getFV("FANBRGN1_ALT")) ),REPORT + "IdleLeakCheck")
+result("Alt Vibs N1 = {} mils".format(str(getFV("FANBRGN1_ALT"))),REPORT + "IdleLeakCheck")
 
-result("Alt Vibs N2 = {} mils".format(str(getFV("FANBRGN2_ALT")) ),REPORT + "IdleLeakCheck")
+result("Alt Vibs N2 = {} mils".format(str(getFV("FANBRGN2_ALT"))),REPORT + "IdleLeakCheck")
 
-result("TMF Vibs N1 = {} mils".format(str(getFV("VIBCRFN1")) ),REPORT + "IdleLeakCheck")
+result("TMF Vibs N1 = {} mils".format(str(getFV("VIBCRFN1"))),REPORT + "IdleLeakCheck")
 
-result("TMF Vibs N2 = {} mils".format(str(getFV("VIBCRFN2")) ),REPORT + "IdleLeakCheck")
+result("TMF Vibs N2 = {} mils".format(str(getFV("VIBCRFN2"))),REPORT + "IdleLeakCheck")
 
-result("Oil pressure is {} psig.".format(str(getFV("POIL")) ),REPORT + "IdleLeakCheck")
+result("Oil pressure is {} psig.".format(str(getFV("POIL"))),REPORT + "IdleLeakCheck")
 
-if getCV("PoilC") < getCV("POILCLOLO")or getCV("PoilC") > getCV("POILCHIHI"):
+if getCV("PoilC") < getCV("POILCLOLO") or getCV("PoilC") > getCV("POILCHIHI"):
 	result("Oil pressure is not within idle limits",REPORT + "IdleLeakCheck",RED)
 
-	result("Oil pressure corrected = {} psig".format(str(getCV("PoilC")) ),REPORT + "IdleLeakCheck",RED)
+	result("Oil pressure corrected = {} psig".format(str(getCV("PoilC"))),REPORT + "IdleLeakCheck",RED)
 
 else:
-	result("Oil pressure corrected = {} psig".format(str(getCV("PoilC")) ),REPORT + "IdleLeakCheck")
+	result("Oil pressure corrected = {} psig".format(str(getCV("PoilC"))),REPORT + "IdleLeakCheck")
 
 	pass
-result("VSV = {} deg".format(str(getFV("VSVSEL")) ),REPORT + "IdleLeakCheck")
+result("VSV = {} deg".format(str(getFV("VSVSEL"))),REPORT + "IdleLeakCheck")
 
-result("VBV = {} in".format(str(getFV("VBVSEL")) ),REPORT + "IdleLeakCheck")
+result("VBV = {} in".format(str(getFV("VBVSEL"))),REPORT + "IdleLeakCheck")
 
-result("Thrust = {} lbs".format(str(getFV("FN")) ),REPORT + "IdleLeakCheck")
+result("Thrust = {} lbs".format(str(getFV("FN"))),REPORT + "IdleLeakCheck")
 
-result("WF = {} lbs".format(str(getFV("WF")) ),REPORT + "IdleLeakCheck")
+result("WF = {} lbs".format(str(getFV("WF"))),REPORT + "IdleLeakCheck")
 
 
 
@@ -138,9 +139,10 @@ TestYes = prompt_boo("Is Test Initial leakcheck completed?")
 if TestYes:
 	result("Test Initial leakcheck completed and authorized.",REPORT + "Test3")
 
-	pass
-
-call_tps("Shutdown")
+else:
+    call_tps("17Shutdown.py")
+        
+    pass
 
 
 instruction("Check inlet and exhaust")
