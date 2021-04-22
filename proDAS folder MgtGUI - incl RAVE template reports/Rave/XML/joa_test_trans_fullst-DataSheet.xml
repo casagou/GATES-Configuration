@@ -1,0 +1,35 @@
+<xml xmlns:s='uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882'
+	xmlns:dt='uuid:C2F41010-65B3-11d1-A29F-00AA00C14882'
+	xmlns:rs='urn:schemas-microsoft-com:rowset'
+	xmlns:z='#RowsetSchema'>
+<s:Schema id='RowsetSchema'>
+	<s:ElementType name='row' content='eltOnly' rs:updatable='true'>
+		<s:AttributeType name='COLUMN_0' rs:number='1' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='100' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='COLUMN_1' rs:number='2' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='100' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='COLUMN_2' rs:number='3' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='100' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:AttributeType name='COLUMN_3' rs:number='4' rs:write='true'>
+			<s:datatype dt:type='string' rs:dbtype='str' dt:maxLength='100' rs:precision='0' rs:maybenull='false'/>
+		</s:AttributeType>
+		<s:extends type='rs:rowbase'/>
+	</s:ElementType>
+</s:Schema>
+<rs:data>
+	<rs:insert>
+		<z:row COLUMN_0='' COLUMN_1='' COLUMN_2='AutoStart' COLUMN_3='Take_Off'/>
+		<z:row COLUMN_0='' COLUMN_1='' COLUMN_2='2021-04-20  14:28:00' COLUMN_3='2021-04-20  14:27:05'/>
+		<z:row COLUMN_0='' COLUMN_1='' COLUMN_2=' ' COLUMN_3=' '/>
+		<z:row COLUMN_0='Math_Counter_100Hz' COLUMN_1='-' COLUMN_2='2.46261405944824' COLUMN_3='47.7806015014648'/>
+		<z:row COLUMN_0='Math_Counter_10Hz' COLUMN_1='-' COLUMN_2='4.94980907440186' COLUMN_3='-14.680136680603'/>
+		<z:row COLUMN_0='Math_Counter_200Hz' COLUMN_1='-' COLUMN_2='27.5073623657227' COLUMN_3='-27.1944618225098'/>
+		<z:row COLUMN_0='Math_Float1' COLUMN_1='-' COLUMN_2='1.12300002574921' COLUMN_3='1.12300002574921'/>
+		<z:row COLUMN_0='Math_Float2' COLUMN_1='-' COLUMN_2='8' COLUMN_3='8'/>
+		<z:row COLUMN_0='Math_Float3' COLUMN_1='-' COLUMN_2='88' COLUMN_3='88'/>
+	</rs:insert>
+</rs:data>
+</xml>

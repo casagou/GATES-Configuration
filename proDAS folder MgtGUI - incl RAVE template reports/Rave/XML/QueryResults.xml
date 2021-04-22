@@ -42,6 +42,9 @@
 </s:Schema>
 <rs:data>
 	<rs:insert>
+		<z:row test_cell='GATES_Vantaa' test_date='2021-02-12' test_name='CFM56_5B_DAC' b_c='C' test_description=''
+			 engine='CFM56-5B' test_cell_id='4' test_id='5' engine_serial_no='123456789' engine_standard='MULTIPLE_RATING-DAC'
+			 customer='CFM56-5B_SETUP'/>
 		<z:row test_cell='GATES_Vantaa' test_date='2021-02-11' test_name='Dummy5B' b_c='C' test_description='' engine='CFM56-5B'
 			 test_cell_id='4' test_id='4' engine_serial_no='111122' engine_standard='MULTIPLE_RATING-SAC' customer='CFM56-5B_SETUP'/>
 	</rs:insert>
