@@ -6,6 +6,13 @@
 
 ## Version History
 
+
+### 1.4
+
+Backup prior shipping. In-house testing 90% completed. 
+
+----
+
 ### 1.3
 
 Backup prior shipping. In-house testing 70% completed. 
