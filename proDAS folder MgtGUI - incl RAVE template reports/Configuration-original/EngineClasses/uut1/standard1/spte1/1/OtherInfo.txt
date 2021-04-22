@@ -1,0 +1,8 @@
+cfg_rev_no=4
+config-name=config1
+spte-name=spte1
+standard-name=standard1
+test-cell-name=RRITE
+uut-name=uut1
+active-test-name=mytest
+config-id=1

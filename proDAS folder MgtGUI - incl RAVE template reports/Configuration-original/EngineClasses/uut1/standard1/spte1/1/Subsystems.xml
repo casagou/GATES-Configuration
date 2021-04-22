@@ -1,0 +1,108 @@
+<Subsystems LastModificationDate="2021-01-15 15:58:39" Version="1.1">
+	<Subsystem Name="IDDS" Description="iDDS subscriber subsystem definition" Enabled="true" Id="6" Type="iDDS"/>
+	<Subsystem Name="calculated" Description="calculated subsystem definition" Enabled="true" Id="5" Type="Calculated"/>
+	<Subsystem Name="PBS" Description="" Enabled="true" Id="4" Type="PBS">
+		<Bricks>
+			<Brick SerialNumber="PB20246" ScannerType="9216" MaxScanRate="10" ContPurgeEnable="N" DefaultEu="psi">
+				<Ports>
+					<Port PortNumber="1" MaxPressRange="10" Description=""/>
+					<Port PortNumber="8" MaxPressRange="10" Description=""/>
+					<Port PortNumber="9" MaxPressRange="10" Description=""/>
+					<Port PortNumber="10" MaxPressRange="10" Description=""/>
+					<Port PortNumber="11" MaxPressRange="10" Description=""/>
+					<Port PortNumber="12" MaxPressRange="10" Description=""/>
+					<Port PortNumber="13" MaxPressRange="10" Description=""/>
+					<Port PortNumber="14" MaxPressRange="10" Description=""/>
+					<Port PortNumber="15" MaxPressRange="10" Description=""/>
+					<Port PortNumber="16" MaxPressRange="10" Description=""/>
+					<Port PortNumber="2" MaxPressRange="10" Description=""/>
+					<Port PortNumber="3" MaxPressRange="10" Description=""/>
+					<Port PortNumber="4" MaxPressRange="10" Description=""/>
+					<Port PortNumber="5" MaxPressRange="10" Description=""/>
+					<Port PortNumber="6" MaxPressRange="10" Description=""/>
+					<Port PortNumber="7" MaxPressRange="10" Description=""/>
+				</Ports>
+			</Brick>
+			<Brick SerialNumber="PB5310" ScannerType="9116" MaxScanRate="10" ContPurgeEnable="N" DefaultEu="psi">
+				<Ports>
+					<Port PortNumber="1" MaxPressRange="10" Description=""/>
+					<Port PortNumber="8" MaxPressRange="10" Description=""/>
+					<Port PortNumber="9" MaxPressRange="10" Description=""/>
+					<Port PortNumber="10" MaxPressRange="10" Description=""/>
+					<Port PortNumber="11" MaxPressRange="10" Description=""/>
+					<Port PortNumber="12" MaxPressRange="10" Description=""/>
+					<Port PortNumber="13" MaxPressRange="10" Description=""/>
+					<Port PortNumber="14" MaxPressRange="10" Description=""/>
+					<Port PortNumber="15" MaxPressRange="10" Description=""/>
+					<Port PortNumber="16" MaxPressRange="10" Description=""/>
+					<Port PortNumber="2" MaxPressRange="10" Description=""/>
+					<Port PortNumber="3" MaxPressRange="10" Description=""/>
+					<Port PortNumber="4" MaxPressRange="10" Description=""/>
+					<Port PortNumber="5" MaxPressRange="10" Description=""/>
+					<Port PortNumber="6" MaxPressRange="10" Description=""/>
+					<Port PortNumber="7" MaxPressRange="10" Description=""/>
+				</Ports>
+			</Brick>
+			<Brick SerialNumber="PB8793" ScannerType="9116" MaxScanRate="10" ContPurgeEnable="N" DefaultEu="psi">
+				<Ports>
+					<Port PortNumber="1" MaxPressRange="10" Description=""/>
+					<Port PortNumber="8" MaxPressRange="10" Description=""/>
+					<Port PortNumber="9" MaxPressRange="10" Description=""/>
+					<Port PortNumber="10" MaxPressRange="10" Description=""/>
+					<Port PortNumber="11" MaxPressRange="10" Description=""/>
+					<Port PortNumber="12" MaxPressRange="10" Description=""/>
+					<Port PortNumber="13" MaxPressRange="10" Description=""/>
+					<Port PortNumber="14" MaxPressRange="10" Description=""/>
+					<Port PortNumber="15" MaxPressRange="10" Description=""/>
+					<Port PortNumber="16" MaxPressRange="10" Description=""/>
+					<Port PortNumber="2" MaxPressRange="10" Description=""/>
+					<Port PortNumber="3" MaxPressRange="10" Description=""/>
+					<Port PortNumber="4" MaxPressRange="10" Description=""/>
+					<Port PortNumber="5" MaxPressRange="10" Description=""/>
+					<Port PortNumber="6" MaxPressRange="10" Description=""/>
+					<Port PortNumber="7" MaxPressRange="10" Description=""/>
+				</Ports>
+			</Brick>
+		</Bricks>
+	</Subsystem>
+	<Subsystem Name="TSM" Description="" Enabled="true" Id="3" Type="TSM">
+		<Scanners>
+			<Scanner SerialNumber="262250" ScannerModel="9146" ReferenceScanInterval="1" DefaultEngineeringUnit="K" ReferenceAlarmLimit="10" MaxScanRate="1" ADSamples="64">
+				<Modules>
+					<Module ChannelNumber="1" Type="TC" Description=""/>
+					<Module ChannelNumber="8" Type="TC" Description=""/>
+					<Module ChannelNumber="9" Type="TC" Description=""/>
+					<Module ChannelNumber="10" Type="TC" Description=""/>
+					<Module ChannelNumber="11" Type="TC" Description=""/>
+					<Module ChannelNumber="12" Type="TC" Description=""/>
+					<Module ChannelNumber="13" Type="TC" Description=""/>
+					<Module ChannelNumber="14" Type="TC" Description=""/>
+					<Module ChannelNumber="15" Type="TC" Description=""/>
+					<Module ChannelNumber="16" Type="TC" Description=""/>
+					<Module ChannelNumber="2" Type="TC" Description=""/>
+					<Module ChannelNumber="3" Type="TC" Description=""/>
+					<Module ChannelNumber="4" Type="TC" Description=""/>
+					<Module ChannelNumber="5" Type="TC" Description=""/>
+					<Module ChannelNumber="6" Type="TC" Description=""/>
+					<Module ChannelNumber="7" Type="TC" Description=""/>
+				</Modules>
+			</Scanner>
+		</Scanners>
+	</Subsystem>
+	<Subsystem Name="arinc429" Description="" Enabled="true" Id="2" Type="Arinc429" LastModificationDate="2021-01-15 15:59:06" CreationDate="2021-01-15 15:59:06">
+		<Pinouts>
+			<Pinout Name="ArincTx01" Source="O" Port="1" Speed="H"/>
+			<Pinout Name="ArincRx03" Source="I" Port="3" Speed="H"/>
+			<Pinout Name="ArincRx04" Source="I" Port="4" Speed="H"/>
+			<Pinout Name="ArincRx05" Source="I" Port="5" Speed="H"/>
+			<Pinout Name="ArincRx06" Source="I" Port="6" Speed="H"/>
+			<Pinout Name="ArincRx07" Source="I" Port="7" Speed="H"/>
+			<Pinout Name="ArincRx08" Source="I" Port="8" Speed="H"/>
+			<Pinout Name="ArincTx02" Source="O" Port="2" Speed="H"/>
+			<Pinout Name="ArincTx03" Source="O" Port="3" Speed="H"/>
+			<Pinout Name="ArincTx04" Source="O" Port="4" Speed="H"/>
+			<Pinout Name="ArincRx01" Source="I" Port="1" Speed="H"/>
+			<Pinout Name="ArincRx02" Source="I" Port="2" Speed="H"/>
+		</Pinouts>
+	</Subsystem>
+</Subsystems>

@@ -1,0 +1,66 @@
+<TransientLogDefs LastModificationDate="2021-01-15 15:58:39" Version="1.1">
+	<TransientLogDef LastModificationDate="2021-01-15 15:59:06" FormatVersion="2.0" Enabled="true" Name="Test1" Description="RR auto_report" Rate="200" Duration="86400000.000000">
+		<Categories>
+			<TransientLogDefChannel Name="calcTrigger"/>
+			<TransientLogDefChannel Name="ENABLE_ALARMS"/>
+			<TransientLogDefChannel Name="calcAI00003"/>
+			<TransientLogDefChannel Name="calcFn0"/>
+			<TransientLogDefChannel Name="calcFn8"/>
+			<TransientLogDefChannel Name="calcFn7"/>
+			<TransientLogDefChannel Name="Start_ContLog"/>
+			<TransientLogDefChannel Name="calcAI00007"/>
+			<TransientLogDefChannel Name="calcFn4"/>
+			<TransientLogDefChannel Name="calcFn3"/>
+			<TransientLogDefChannel Name="calcFn9"/>
+			<TransientLogDefChannel Name="calcAI00004"/>
+			<TransientLogDefChannel Name="calcFn10"/>
+			<TransientLogDefChannel Name="calcFn1"/>
+			<TransientLogDefChannel Name="calcFn5"/>
+			<TransientLogDefChannel Name="TRRecNo"/>
+			<TransientLogDefChannel Name="calcCos"/>
+			<TransientLogDefChannel Name="calcAI00008"/>
+			<TransientLogDefChannel Name="calcFn11"/>
+			<TransientLogDefChannel Name="calcSin"/>
+			<TransientLogDefChannel Name="calcAI00005"/>
+			<TransientLogDefChannel Name="calcDiv"/>
+			<TransientLogDefChannel Name="calcFn6"/>
+			<TransientLogDefChannel Name="calcAI00002"/>
+			<TransientLogDefChannel Name="calcAI00001"/>
+			<TransientLogDefChannel Name="calcAI00006"/>
+			<TransientLogDefChannel Name="calcFn2"/>
+			<TransientLogDefChannel Name="SSRecNo"/>
+		</Categories>
+	</TransientLogDef>
+	<TransientLogDef LastModificationDate="2021-01-15 15:59:06" FormatVersion="2.0" Enabled="true" Name="Test2" Description="RR auto_report" Rate="100" Duration="3600000.000000">
+		<Categories>
+			<TransientLogDefChannel Name="calcTrigger"/>
+			<TransientLogDefChannel Name="ENABLE_ALARMS"/>
+			<TransientLogDefChannel Name="calcAI00003"/>
+			<TransientLogDefChannel Name="calcFn0"/>
+			<TransientLogDefChannel Name="calcFn8"/>
+			<TransientLogDefChannel Name="calcFn7"/>
+			<TransientLogDefChannel Name="Start_ContLog"/>
+			<TransientLogDefChannel Name="calcAI00007"/>
+			<TransientLogDefChannel Name="calcFn4"/>
+			<TransientLogDefChannel Name="calcFn3"/>
+			<TransientLogDefChannel Name="calcFn9"/>
+			<TransientLogDefChannel Name="calcAI00004"/>
+			<TransientLogDefChannel Name="calcFn10"/>
+			<TransientLogDefChannel Name="calcFn1"/>
+			<TransientLogDefChannel Name="calcFn5"/>
+			<TransientLogDefChannel Name="TRRecNo"/>
+			<TransientLogDefChannel Name="calcCos"/>
+			<TransientLogDefChannel Name="calcAI00008"/>
+			<TransientLogDefChannel Name="calcFn11"/>
+			<TransientLogDefChannel Name="calcSin"/>
+			<TransientLogDefChannel Name="calcAI00005"/>
+			<TransientLogDefChannel Name="calcDiv"/>
+			<TransientLogDefChannel Name="calcFn6"/>
+			<TransientLogDefChannel Name="calcAI00002"/>
+			<TransientLogDefChannel Name="calcAI00001"/>
+			<TransientLogDefChannel Name="calcAI00006"/>
+			<TransientLogDefChannel Name="calcFn2"/>
+			<TransientLogDefChannel Name="SSRecNo"/>
+		</Categories>
+	</TransientLogDef>
+</TransientLogDefs>
