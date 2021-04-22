@@ -1,0 +1,75 @@
+<Subsystems LastModificationDate="2021-03-19 19:26:23" Version="1.1">
+	<Subsystem Name="arinc429" Description="Avionics data bus signals from Engine" Enabled="true" Id="9" Type="Arinc429" LastModificationDate="2021-03-19 19:26:45" CreationDate="2021-03-19 19:26:45">
+		<Pinouts>
+			<Pinout Name="ArincTx01" Source="O" Port="1" Speed="L"/>
+			<Pinout Name="ArincRx05" Source="I" Port="5" Speed="L"/>
+			<Pinout Name="ArincRx06" Source="I" Port="6" Speed="L"/>
+			<Pinout Name="ArincRx07" Source="I" Port="7" Speed="L"/>
+			<Pinout Name="ArincRx08" Source="I" Port="8" Speed="L"/>
+			<Pinout Name="ArincTx02" Source="O" Port="2" Speed="L"/>
+			<Pinout Name="ArincTx03" Source="O" Port="3" Speed="L"/>
+			<Pinout Name="ArincTx04" Source="O" Port="4" Speed="L"/>
+			<Pinout Name="ArincRx01" Source="I" Port="1" Speed="L"/>
+			<Pinout Name="ArincRx02" Source="I" Port="2" Speed="L"/>
+			<Pinout Name="ArincRx03" Source="I" Port="3" Speed="L"/>
+			<Pinout Name="ArincRx04" Source="I" Port="4" Speed="L"/>
+		</Pinouts>
+	</Subsystem>
+	<Subsystem Name="Vibration" Description="Vibration and balancing signals from PBS-4100R+" Enabled="true" Id="8" Type="MVIB" LastModificationDate="2021-03-19 19:26:45" CreationDate="2021-03-19 19:26:45"/>
+	<Subsystem Name="Calculated" Description="Calculated and simulated signals" Enabled="true" Id="7" Type="Calculated"/>
+	<Subsystem Name="DTS" Description="Temperature measurements from DTS4050" Enabled="true" Id="6" Type="DTS3250">
+		<Devices>
+			<Device HostName="DTS1124" ScannerModel="DTS4050" NumberOfChannels="16" UnitScanRate="40" AverageSamples="1" DefaultEu="C"/>
+			<Device HostName="DTS1125" ScannerModel="DTS4050" NumberOfChannels="16" UnitScanRate="40" AverageSamples="1" DefaultEu="C"/>
+			<Device HostName="DTS1126" ScannerModel="DTS4050" NumberOfChannels="16" UnitScanRate="40" AverageSamples="1" DefaultEu="C"/>
+			<Device HostName="DTS1127" ScannerModel="DTS4050" NumberOfChannels="16" UnitScanRate="40" AverageSamples="1" DefaultEu="C"/>
+		</Devices>
+	</Subsystem>
+	<Subsystem Name="FCS" Description="Facility Control System signals" Enabled="true" Id="5" Type="ModBusEthernet" LastModificationDate="2021-03-19 19:26:45" CreationDate="2021-03-19 19:26:45" MaxBooleanInAddress="50000" MaxFloatInAddress="50000" MaxBooleanOutAddress="50000" MaxFloatOutAddress="50000"/>
+	<Subsystem Name="IDDS" Description="Mandatory for iDDS to work" Enabled="true" Id="4" Type="iDDS"/>
+	<Subsystem Name="PBS" Description="Pressure measurements from Model 9216" Enabled="true" Id="3" Type="PBS">
+		<Bricks>
+			<Brick SerialNumber="PB21270" ScannerType="9216" MaxScanRate="100" ContPurgeEnable="N" DefaultEu="psi">
+				<Ports>
+					<Port PortNumber="1" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="12" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="13" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="14" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="15" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="16" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="2" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="3" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="4" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="5" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="6" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="7" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="8" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="9" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="10" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="11" MaxPressRange="500" Description="0 to +500 psi"/>
+				</Ports>
+			</Brick>
+			<Brick SerialNumber="PB21271" ScannerType="9216" MaxScanRate="100" ContPurgeEnable="N" DefaultEu="psi">
+				<Ports>
+					<Port PortNumber="1" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="12" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="13" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="14" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="15" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="16" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="2" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="3" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="4" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="5" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="6" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="7" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="8" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="9" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="10" MaxPressRange="500" Description="0 to +500 psi"/>
+					<Port PortNumber="11" MaxPressRange="500" Description="0 to +500 psi"/>
+				</Ports>
+			</Brick>
+		</Bricks>
+	</Subsystem>
+	<Subsystem Name="Throttle" Description="Throttle Mark3 signals" Enabled="true" Id="2" Type="ModBusEthernet" LastModificationDate="2021-03-19 19:26:46" CreationDate="2021-03-19 19:26:46" MaxBooleanInAddress="50000" MaxFloatInAddress="50000" MaxBooleanOutAddress="50000" MaxFloatOutAddress="50000"/>
+</Subsystems>

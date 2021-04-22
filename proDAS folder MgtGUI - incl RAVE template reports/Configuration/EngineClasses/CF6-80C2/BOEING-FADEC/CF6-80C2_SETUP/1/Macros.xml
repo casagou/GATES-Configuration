@@ -1,0 +1,87 @@
+<Macros LastModificationDate="2021-03-19 19:26:23" Version="1.1">
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="TestPreparation" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\01TestPreparation.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="AbortStart" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\17AbortStart.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="Motoring" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\02Motoring.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="ManualStart" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\03ManualStart.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="AutoStart" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\04AutoStart.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="WarmUp" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\13WarmUp.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="IdleLeakCheck" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\05IdleLeakCheck.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="FinalLeakCheck" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\10FinalleakCheck.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="FunctionalCheck" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\06FunctionalCheck.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="VibrationSurvey" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\08VibrationSurvey.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="Acceleration" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\07Acceleration.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="StartOilCons" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\15StartOilCons.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="EndOilCons" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\16EndOilCons.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="Shutdown" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\18Shutdown.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="TestConclusion" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\14TestConclusion.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="AdditionalOilCons" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\19AdditionalOilConsRun.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+	<Macro LastModificationDate="2021-03-19 19:26:22" Enabled="true" Name="Performance" Description="" FileName="\\rtehost\rte\configuration\CF6-80C2\scripts\09Performance.py">
+		<Categories>
+			<Category Name="Test Procedure"/>
+		</Categories>
+	</Macro>
+</Macros>

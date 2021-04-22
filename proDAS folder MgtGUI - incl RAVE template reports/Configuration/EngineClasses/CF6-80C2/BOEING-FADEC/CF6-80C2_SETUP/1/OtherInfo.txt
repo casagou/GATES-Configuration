@@ -1,0 +1,8 @@
+cfg_rev_no=60
+config-name=GA-TELESIS
+spte-name=CF6-80C2_SETUP
+standard-name=BOEING-FADEC
+test-cell-name=GATES_Vantaa
+uut-name=CF6-80C2
+active-test-name=DummyCF6
+config-id=1

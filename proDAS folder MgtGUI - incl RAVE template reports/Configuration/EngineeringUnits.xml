@@ -1,103 +1,6 @@
-<EngineeringUnits LastModificationDate="2021-02-25 14:15:06" Version="1">
+<EngineeringUnits LastModificationDate="2021-03-19 19:24:57" Version="1">
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="g-force" Description="Standard accelerations due to gravity on the Earth surface" Primary="true" Category="Acceleration"/>
-	<EngineeringUnit Gain="5.7295780E+01" Enabled="true" Offset="0" Name="rad" Description="Radians" Primary="false" Category="Angle"/>
-	<EngineeringUnit Gain="1.2599790E-04" Enabled="true" Offset="0" Name="pph" Description="Pounds/Hour" Primary="false" Category="Mass Flow"/>
-	<EngineeringUnit Gain="7.5598730E-03" Enabled="true" Offset="0" Name="ppm" Description="Pounds/Minute" Primary="false" Category="Mass Flow"/>
-	<EngineeringUnit Gain="4.5359240E-01" Enabled="true" Offset="0" Name="pps" Description="Pounds/Second" Primary="false" Category="Mass Flow"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="J/(mol K)" Description="Joules/(Mole Kelvin)" Primary="true" Category="molar-gas-constant"/>
-	<EngineeringUnit Gain="4.1840000E+00" Enabled="true" Offset="0" Name="cal/(mol K)" Description="Calories/(Mole Kelvin)" Primary="false" Category="molar-gas-constant"/>
-	<EngineeringUnit Gain="1.0132500E+02" Enabled="true" Offset="0" Name="L atm/(mol K)" Description="Liter Atmospheres/(Mole Kelvin)" Primary="false" Category="molar-gas-constant"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="m^3 Pa/(mol K)" Description="Cubic Meters Pascals/(Mole Kelvin)" Primary="false" Category="molar-gas-constant"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="g/mol" Description="Grams/Mole" Primary="true" Category="molar-mass"/>
-	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kg/mol" Description="Kilograms/Mole" Primary="false" Category="molar-mass"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="mol" Description="Moles" Primary="true" Category="molar-quantity"/>
-	<EngineeringUnit Gain="3.6000000E+02" Enabled="true" Offset="0" Name="rev" Description="Revolutions" Primary="false" Category="Angle"/>
-	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mmol" Description="Millimoles" Primary="false" Category="molar-quantity"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="L/mol" Description="Liters/Mole" Primary="true" Category="molar-volume"/>
-	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="cm^3/mol" Description="Cubic Centimeters/Mole" Primary="false" Category="molar-volume"/>
-	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="m^3/mol" Description="Cubic Meters/Mole" Primary="false" Category="molar-volume"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="-" Description="Dimensionless" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="count" Description="Counter" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="dB" Description="Decibels" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="d.h" Description="Days.Hours" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="h.min" Description="Hours.Minutes" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="min.s" Description="Minutes.Seconds" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="deg/sec" Description="Degrees/Second" Primary="true" Category="Angular Velocity"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="ratio" Description="Dimensionless" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="TBD" Description="To Be Determined" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="y.d" Description="Years.Days" Primary="false" Category=""/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="%" Description="Percents" Primary="true" Category="Percent"/>
-	<EngineeringUnit Gain="1.0000000E-01" Enabled="true" Offset="0" Name="permil" Description="Permils" Primary="false" Category="Percent"/>
-	<EngineeringUnit Gain="1.0000000E-04" Enabled="true" Offset="0" Name="uE" Description="Microstrains" Primary="false" Category="Percent"/>
-	<EngineeringUnit Gain="1.0000000E+04" Enabled="true" Offset="0" Name="vppm" Description="Volumetric Parts/Million" Primary="false" Category="Percent"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="W" Description="Watts" Primary="true" Category="Power"/>
-	<EngineeringUnit Gain="1.3560000E+00" Enabled="true" Offset="0" Name="ft lbf/s" Description="Foot Pounds-Force/Second" Primary="false" Category="Power"/>
-	<EngineeringUnit Gain="7.4569990E+02" Enabled="true" Offset="0" Name="hp" Description="Horsepower (Mechanical)" Primary="false" Category="Power"/>
-	<EngineeringUnit Gain="1.6670000E-02" Enabled="true" Offset="0" Name="deg/min" Description="Degrees/Minute" Primary="false" Category="Angular Velocity"/>
-	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kVA" Description="Kilovolt-amperes" Primary="false" Category="Power"/>
-	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kW" Description="Kilowatts" Primary="false" Category="Power"/>
-	<EngineeringUnit Gain="1.0000000E+06" Enabled="true" Offset="0" Name="MW" Description="Megawatts" Primary="false" Category="Power"/>
-	<EngineeringUnit Gain="7.3549880E+02" Enabled="true" Offset="0" Name="PS" Description="Horsepower (Metric)" Primary="false" Category="Power"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psi" Description="Pounds/Square Inch" Primary="true" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4695950E+01" Enabled="true" Offset="0" Name="atm" Description="Atmospheres" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4503770E+01" Enabled="true" Offset="0" Name="bar" Description="Bars" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4503770E+01" Enabled="true" Offset="0" Name="bara" Description="Bars Absolute" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="3.6127290E-02" Enabled="true" Offset="0" Name="inH2O" Description="Inches of Water Column (Conventional)" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="3.6126300E-02" Enabled="true" Offset="0" Name="inH2O_4degC" Description="Inches of Water Column (4 degC)" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="9.5490000E-01" Enabled="true" Offset="0" Name="rad/min" Description="Radians/Minute" Primary="false" Category="Angular Velocity"/>
-	<EngineeringUnit Gain="3.6091000E-02" Enabled="true" Offset="0" Name="inH2O_60degF" Description="Inches of Water Column (60 degF)" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="4.9115410E-01" Enabled="true" Offset="0" Name="inHg" Description="Inches of Mercury" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="4.9115300E-01" Enabled="true" Offset="0" Name="inHg_32degF" Description="Inches of Mercury (32degF)" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="4.8977100E-01" Enabled="true" Offset="0" Name="inHg_60degF" Description="Inches of Mercury (60degF)" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4223340E+01" Enabled="true" Offset="0" Name="kgf/cm^2" Description="Kilograms-Force/Square Centimetre" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4503770E-01" Enabled="true" Offset="0" Name="kPa" Description="Kilopascals" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4503770E-01" Enabled="true" Offset="0" Name="kPaa" Description="Kilopascals Absolute" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="6.9444440E-03" Enabled="true" Offset="0" Name="lbf/ft^2" Description="Pounds-Force/Square Foot" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="lbf/in^2" Description="Pounds/Square Inch (psi)" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4503770E-02" Enabled="true" Offset="0" Name="mbar" Description="Millibars" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="5.7295780E+01" Enabled="true" Offset="0" Name="rad/s" Description="Radians/Second" Primary="false" Category="Angular Velocity"/>
-	<EngineeringUnit Gain="1.4503770E-02" Enabled="true" Offset="0" Name="mbara" Description="Millibars Absolute" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4224000E-03" Enabled="true" Offset="0" Name="mmH2O" Description="Millimetres of Water (4 degC)" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.9337000E-02" Enabled="true" Offset="0" Name="mmHg" Description="Millimetres of Mercury (0 degC)" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4503770E+02" Enabled="true" Offset="0" Name="MPa" Description="Megapascals" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4503770E-04" Enabled="true" Offset="0" Name="Pa" Description="Pascals" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.4500000E-04" Enabled="true" Offset="0" Name="Paa" Description="Pascals Absolute" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psia" Description="Pounds/Square Inch Absolute" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psid" Description="Pounds/Square Inch Differential" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psig" Description="Pounds/Square Inch Gauge" Primary="false" Category="Pressure"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psi/s" Description="Pounds/Square Inch" Primary="true" Category="pressure-drift"/>
-	<EngineeringUnit Gain="6.0000000E+00" Enabled="true" Offset="0" Name="rpm" Description="Revolutions/Minute" Primary="false" Category="Angular Velocity"/>
-	<EngineeringUnit Gain="1.4503770E-01" Enabled="true" Offset="0" Name="kPa/s" Description="Kilopascals" Primary="false" Category="pressure-drift"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="ohm" Description="Ohms" Primary="true" Category="Resistance"/>
-	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kohm" Description="Kilohms" Primary="false" Category="Resistance"/>
-	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mohm" Description="Milliohms" Primary="false" Category="Resistance"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="MOhm/cm" Description="Megaohms/Centimetre" Primary="true" Category="resistance-distance"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="lb/(lbf h)" Description="Pounds of Fuel/(Hour-Pound of Thrust)" Primary="true" Category="SFC"/>
-	<EngineeringUnit Gain="3.5303940E-02" Enabled="true" Offset="0" Name="g/(kN s)" Description="Grams of Fuel/(Second Kilonewton)" Primary="false" Category="SFC"/>
-	<EngineeringUnit Gain="9.8066500E-01" Enabled="true" Offset="0" Name="kg/(daN h)" Description="Kilograms of Fuel/(Dekanewton Hour)" Primary="false" Category="SFC"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="J/kg" Description="Joules/Kilogram" Primary="true" Category="specific-energy"/>
-	<EngineeringUnit Gain="2.3260000E+03" Enabled="true" Offset="0" Name="Btu/lb" Description="British Thermal Units/Pound" Primary="false" Category="specific-energy"/>
-	<EngineeringUnit Gain="3.6000000E+02" Enabled="true" Offset="0" Name="rps" Description="Revolutions/Second" Primary="false" Category="Angular Velocity"/>
-	<EngineeringUnit Gain="4.1868000E+03" Enabled="true" Offset="0" Name="Chu/lb" Description="Celsius Heat Units/ Pound" Primary="false" Category="specific-energy"/>
-	<EngineeringUnit Gain="4.1840000E+03" Enabled="true" Offset="0" Name="kcal/kg" Description="Kilocalories/Kilogram" Primary="false" Category="specific-energy"/>
-	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kJ/kg" Description="Kilojoules/Kilogram" Primary="false" Category="specific-energy"/>
-	<EngineeringUnit Gain="1.0000000E+06" Enabled="true" Offset="0" Name="MJ/kg" Description="Megajoules/Kilogram" Primary="false" Category="specific-energy"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="J/(kg K)" Description="Joules/(Kilogram Kelvin)" Primary="true" Category="specific-heat-capacity"/>
-	<EngineeringUnit Gain="4.1868000E+03" Enabled="true" Offset="0" Name="Btu/(lb degF)" Description="British Thermal Units/(Pound Degree Fahrenheit)" Primary="false" Category="specific-heat-capacity"/>
-	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kJ/(kg K)" Description="Kilojoules/(Kilogram Kelvin)" Primary="false" Category="specific-heat-capacity"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="degC" Description="Degrees Celsius" Primary="true" Category="Temperature"/>
-	<EngineeringUnit Gain="5.5560000E-01" Enabled="true" Offset="-17.778" Name="degF" Description="Degrees Fahrenheit" Primary="false" Category="Temperature"/>
-	<EngineeringUnit Gain="5.5560000E-01" Enabled="true" Offset="-273.150" Name="degR" Description="Degrees Rankine" Primary="false" Category="Temperature"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="m^2" Description="Square Metres" Primary="true" Category="Area"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="-273.150" Name="K" Description="Kelvins" Primary="false" Category="Temperature"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="degC/s" Description="Degrees Celsius difference/Second" Primary="true" Category="temperature-drift"/>
-	<EngineeringUnit Gain="1.6666670E-02" Enabled="true" Offset="0" Name="degC/min" Description="Degrees Celsius difference/Minute" Primary="false" Category="temperature-drift"/>
-	<EngineeringUnit Gain="9.2592590E-03" Enabled="true" Offset="0" Name="degF/min" Description="Degrees Fahrenheit difference/Minute" Primary="false" Category="temperature-drift"/>
-	<EngineeringUnit Gain="5.5555560E-01" Enabled="true" Offset="0" Name="degF/s" Description="Degrees Fahrenheit difference/Second" Primary="false" Category="temperature-drift"/>
-	<EngineeringUnit Gain="1.6666670E-02" Enabled="true" Offset="0" Name="K/min" Description="Kelvins difference/Minute" Primary="false" Category="temperature-drift"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="K/s" Description="Kelvins difference/Second" Primary="false" Category="temperature-drift"/>
-	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="s" Description="Seconds" Primary="true" Category="Time"/>
-	<EngineeringUnit Gain="8.6400000E+04" Enabled="true" Offset="0" Name="d" Description="Days" Primary="false" Category="Time"/>
 	<EngineeringUnit Gain="3.6000000E+03" Enabled="true" Offset="0" Name="h" Description="Hours" Primary="false" Category="Time"/>
 	<EngineeringUnit Gain="1.0000000E-04" Enabled="true" Offset="0" Name="cm^2" Description="Square Centimetres" Primary="false" Category="Area"/>
 	<EngineeringUnit Gain="6.0000000E+01" Enabled="true" Offset="0" Name="min" Description="Minutes" Primary="false" Category="Time"/>
@@ -108,6 +11,7 @@
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="N m" Description="Newton Metres" Primary="true" Category="Torque"/>
 	<EngineeringUnit Gain="1.3560000E+00" Enabled="true" Offset="0" Name="ft lbf" Description="Foot Pound-Force" Primary="false" Category="Torque"/>
 	<EngineeringUnit Gain="1.1300000E-01" Enabled="true" Offset="0" Name="in lbf" Description="Inch Pound-Force" Primary="false" Category="Torque"/>
+	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kg/mol" Description="Kilograms/Mole" Primary="false" Category="molar-mass"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="Hz/cSt" Description="Hertz/Centistokes" Primary="true" Category="turbine-flow-meter"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="m/s" Description="Metres/Second" Primary="true" Category="Velocity"/>
 	<EngineeringUnit Gain="1.0200000E-03" Enabled="true" Offset="0" Name="cm/s^2" Description="Centimetres/Square Second" Primary="false" Category="Acceleration"/>
@@ -118,6 +22,7 @@
 	<EngineeringUnit Gain="2.5400000E-02" Enabled="true" Offset="0" Name="ips" Description="Inches/Second" Primary="false" Category="Velocity"/>
 	<EngineeringUnit Gain="2.7777780E-01" Enabled="true" Offset="0" Name="km/h" Description="Kilometers/Hour" Primary="false" Category="Velocity"/>
 	<EngineeringUnit Gain="1.6666670E+01" Enabled="true" Offset="0" Name="km/min" Description="Kilometers/Minute" Primary="false" Category="Velocity"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="mol" Description="Moles" Primary="true" Category="molar-quantity"/>
 	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="km/s" Description="Kilometers/Second" Primary="false" Category="Velocity"/>
 	<EngineeringUnit Gain="5.1440000E-01" Enabled="true" Offset="0" Name="kn" Description="Knots (Nautical Miles/Hour)" Primary="false" Category="Velocity"/>
 	<EngineeringUnit Gain="3.4027000E+02" Enabled="true" Offset="0" Name="Ma" Description="Mach speed in air at sea level" Primary="false" Category="Velocity"/>
@@ -128,6 +33,7 @@
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mm/s" Description="Millimetres/Second" Primary="false" Category="Velocity"/>
 	<EngineeringUnit Gain="4.4704000E-01" Enabled="true" Offset="0" Name="mph" Description="Miles/Hour" Primary="false" Category="Velocity"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="V" Description="Volts" Primary="true" Category="Voltage"/>
+	<EngineeringUnit Gain="3.6000000E+02" Enabled="true" Offset="0" Name="rev" Description="Revolutions" Primary="false" Category="Angle"/>
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mV" Description="Millivolts" Primary="false" Category="Voltage"/>
 	<EngineeringUnit Gain="1.0000000E-06" Enabled="true" Offset="0" Name="uV" Description="Microvolts" Primary="false" Category="Voltage"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="Vac" Description="Volts Alternating Current" Primary="false" Category="Voltage"/>
@@ -138,6 +44,7 @@
 	<EngineeringUnit Gain="2.8413060E-02" Enabled="true" Offset="0" Name="fl oz_UK" Description="Fluid Ounces (British Imperial)" Primary="false" Category="Volume"/>
 	<EngineeringUnit Gain="2.9573530E-02" Enabled="true" Offset="0" Name="fl oz_US" Description="Fluid Ounces (US)" Primary="false" Category="Volume"/>
 	<EngineeringUnit Gain="2.8316850E+01" Enabled="true" Offset="0" Name="ft^3" Description="Cubic Feet" Primary="false" Category="Volume"/>
+	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mmol" Description="Millimoles" Primary="false" Category="molar-quantity"/>
 	<EngineeringUnit Gain="4.5460900E+00" Enabled="true" Offset="0" Name="gal_UK" Description="Gallons (British Imperial)" Primary="false" Category="Volume"/>
 	<EngineeringUnit Gain="3.7854120E+00" Enabled="true" Offset="0" Name="gal_US" Description="Gallons (US)" Primary="false" Category="Volume"/>
 	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="m^3" Description="Cubic Metres" Primary="false" Category="Volume"/>
@@ -148,6 +55,7 @@
 	<EngineeringUnit Gain="1.1365220E+00" Enabled="true" Offset="0" Name="qt_UK" Description="Quarts (British Imperial)" Primary="false" Category="Volume"/>
 	<EngineeringUnit Gain="9.4635290E-01" Enabled="true" Offset="0" Name="qt_US" Description="Quarts (US)" Primary="false" Category="Volume"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="L/s" Description="Liters/Second" Primary="true" Category="Volumetric Flow"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="L/mol" Description="Liters/Mole" Primary="true" Category="molar-volume"/>
 	<EngineeringUnit Gain="2.7777780E-07" Enabled="true" Offset="0" Name="cm^3/h" Description="Cubic Metres/hour" Primary="false" Category="Volumetric Flow"/>
 	<EngineeringUnit Gain="1.6666670E-05" Enabled="true" Offset="0" Name="cm^3/min" Description="Cubic Metres/Minute" Primary="false" Category="Volumetric Flow"/>
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="cm^3/s" Description="Cubic Centimetres/Second" Primary="false" Category="Volumetric Flow"/>
@@ -158,6 +66,7 @@
 	<EngineeringUnit Gain="1.0000000E-12" Enabled="true" Offset="0" Name="C" Description="Coulombs" Primary="false" Category="Charge"/>
 	<EngineeringUnit Gain="4.5460900E+00" Enabled="true" Offset="0" Name="gps_UK" Description="Gallons/Second (British Imperial)" Primary="false" Category="Volumetric Flow"/>
 	<EngineeringUnit Gain="3.7854120E+00" Enabled="true" Offset="0" Name="gps_US" Description="Gallons/Second (US)" Primary="false" Category="Volumetric Flow"/>
+	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="cm^3/mol" Description="Cubic Centimeters/Mole" Primary="false" Category="molar-volume"/>
 	<EngineeringUnit Gain="1.1574070E-05" Enabled="true" Offset="0" Name="L/d" Description="Liters/Day" Primary="false" Category="Volumetric Flow"/>
 	<EngineeringUnit Gain="2.7777780E-04" Enabled="true" Offset="0" Name="L/h" Description="Liters/Hour" Primary="false" Category="Volumetric Flow"/>
 	<EngineeringUnit Gain="1.6666670E-02" Enabled="true" Offset="0" Name="L/min" Description="Liters/Minute" Primary="false" Category="Volumetric Flow"/>
@@ -168,6 +77,7 @@
 	<EngineeringUnit Gain="1.3143790E-04" Enabled="true" Offset="0" Name="pt_US/h" Description="Pints/Hour (US)" Primary="false" Category="Volumetric Flow"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="pC/g" Description="Picocoulombs/g-force" Primary="true" Category="Charge Sensitivity"/>
 	<EngineeringUnit Gain="3.1570070E-04" Enabled="true" Offset="0" Name="qt_UK/h" Description="Quarts/Hour (British Imperial)" Primary="false" Category="Volumetric Flow"/>
+	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="m^3/mol" Description="Cubic Meters/Mole" Primary="false" Category="molar-volume"/>
 	<EngineeringUnit Gain="2.6287580E-04" Enabled="true" Offset="0" Name="qt_US/h" Description="Quarts/Hour (US)" Primary="false" Category="Volumetric Flow"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="A" Description="Amperes" Primary="true" Category="Current"/>
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mA" Description="Milliamperes" Primary="false" Category="Current"/>
@@ -178,6 +88,7 @@
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="kg/(m s)" Description="Kilograms/(Metre Second)" Primary="false" Category="dynamic-viscosity"/>
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mPa s" Description="Millipascal Seconds" Primary="false" Category="dynamic-viscosity"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="N s/m^2" Description="Newton Seconds/Square Metre" Primary="false" Category="dynamic-viscosity"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="-" Description="Dimensionless" Primary="false" Category=""/>
 	<EngineeringUnit Gain="1.0000000E-01" Enabled="true" Offset="0" Name="P" Description="Poise" Primary="false" Category="dynamic-viscosity"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="PI" Description="Poiseuille" Primary="false" Category="dynamic-viscosity"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="J" Description="Joules" Primary="true" Category="Energy"/>
@@ -188,6 +99,7 @@
 	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kJ" Description="Kilojoules" Primary="false" Category="Energy"/>
 	<EngineeringUnit Gain="3.6000000E+06" Enabled="true" Offset="0" Name="kW h" Description="Kilowatt hours" Primary="false" Category="Energy"/>
 	<EngineeringUnit Gain="1.0000000E+06" Enabled="true" Offset="0" Name="MJ" Description="Megajoules" Primary="false" Category="Energy"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="count" Description="Counter" Primary="false" Category=""/>
 	<EngineeringUnit Gain="3.6000000E+03" Enabled="true" Offset="0" Name="W h" Description="Watt hours" Primary="false" Category="Energy"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="J/m^3" Description="Joules/Cubic Metre" Primary="true" Category="energy-density"/>
 	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="J/L" Description="Joules/Litre" Primary="false" Category="energy-density"/>
@@ -198,6 +110,8 @@
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="deg" Description="Degrees" Primary="true" Category="Angle"/>
 	<EngineeringUnit Gain="1.0000000E-08" Enabled="true" Offset="0" Name="dyn" Description="Dynes" Primary="false" Category="Force"/>
 	<EngineeringUnit Gain="4.4482220E-03" Enabled="true" Offset="0" Name="lbf" Description="Pounds-Force" Primary="false" Category="Force"/>
+	<EngineeringUnit Gain="5.7295780E+01" Enabled="true" Offset="0" Name="rad" Description="Radians" Primary="false" Category="Angle"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="dB" Description="Decibels" Primary="false" Category=""/>
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="N" Description="Newtons" Primary="false" Category="Force"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="Hz" Description="Hertz" Primary="true" Category="Frequency"/>
 	<EngineeringUnit Gain="6.0000000E+01" Enabled="true" Offset="0" Name="1/min" Description="Pulses/Minute" Primary="false" Category="Frequency"/>
@@ -208,6 +122,7 @@
 	<EngineeringUnit Gain="1.0000000E-06" Enabled="true" Offset="0" Name="cSt" Description="Centistokes" Primary="false" Category="kinetic-viscosity"/>
 	<EngineeringUnit Gain="1.6666670E-02" Enabled="true" Offset="0" Name="arcmin" Description="Minutes of arc" Primary="false" Category="Angle"/>
 	<EngineeringUnit Gain="1.0000000E-06" Enabled="true" Offset="0" Name="mm^2/s" Description="Square Millimetres/Second" Primary="false" Category="kinetic-viscosity"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="d.h" Description="Days.Hours" Primary="false" Category=""/>
 	<EngineeringUnit Gain="1.0000000E-04" Enabled="true" Offset="0" Name="St" Description="Stokes" Primary="false" Category="kinetic-viscosity"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="m" Description="Metres" Primary="true" Category="Length"/>
 	<EngineeringUnit Gain="1.0000000E-02" Enabled="true" Offset="0" Name="cm" Description="Centimetres" Primary="false" Category="Length"/>
@@ -218,6 +133,7 @@
 	<EngineeringUnit Gain="2.5400000E-02" Enabled="true" Offset="0" Name="in" Description="Inches" Primary="false" Category="Length"/>
 	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="km" Description="Kilometres" Primary="false" Category="Length"/>
 	<EngineeringUnit Gain="2.7777780E-04" Enabled="true" Offset="0" Name="arcsec" Description="Seconds of arc" Primary="false" Category="Angle"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="h.min" Description="Hours.Minutes" Primary="false" Category=""/>
 	<EngineeringUnit Gain="1.6093440E+03" Enabled="true" Offset="0" Name="mi" Description="Miles" Primary="false" Category="Length"/>
 	<EngineeringUnit Gain="2.5400000E-05" Enabled="true" Offset="0" Name="mil" Description="Thousandths of an Inch (vibration)" Primary="false" Category="Length"/>
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mm" Description="Millimetres" Primary="false" Category="Length"/>
@@ -228,6 +144,7 @@
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="g" Description="Grams" Primary="false" Category="Mass"/>
 	<EngineeringUnit Gain="6.4798910E-05" Enabled="true" Offset="0" Name="grn" Description="Grains" Primary="false" Category="Mass"/>
 	<EngineeringUnit Gain="4.5359240E-01" Enabled="true" Offset="0" Name="lb" Description="Pounds Mass" Primary="false" Category="Mass"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="min.s" Description="Minutes.Seconds" Primary="false" Category=""/>
 	<EngineeringUnit Gain="9.0000000E-01" Enabled="true" Offset="0" Name="grad" Description="Gradians" Primary="false" Category="Angle"/>
 	<EngineeringUnit Gain="1.0160470E+03" Enabled="true" Offset="0" Name="lg tn" Description="Long Tons" Primary="false" Category="Mass"/>
 	<EngineeringUnit Gain="1.0000000E-06" Enabled="true" Offset="0" Name="mg" Description="Milligrams" Primary="false" Category="Mass"/>
@@ -238,6 +155,7 @@
 	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="g/cm^3" Description="Grams/Cubic Centimetre" Primary="false" Category="mass-density"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="g/dm^3" Description="Grams/Cubic Decimetre" Primary="false" Category="mass-density"/>
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="g/L" Description="Grams/Litre" Primary="false" Category="mass-density"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="deg/sec" Description="Degrees/Second" Primary="true" Category="Angular Velocity"/>
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="g/m^3" Description="Grams/Cubic Metre" Primary="false" Category="mass-density"/>
 	<EngineeringUnit Gain="9.0000000E+01" Enabled="true" Offset="0" Name="quad" Description="Quadrants" Primary="false" Category="Angle"/>
 	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kg/dm^3" Description="Kilograms/Cubic Decimetre" Primary="false" Category="mass-density"/>
@@ -248,6 +166,88 @@
 	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="kg/s" Description="Kilograms/Second" Primary="true" Category="Mass Flow"/>
 	<EngineeringUnit Gain="1.6670000E-05" Enabled="true" Offset="0" Name="g/min" Description="Grams/Min" Primary="false" Category="Mass Flow"/>
 	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="g/s" Description="Grams/Second" Primary="false" Category="Mass Flow"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="ratio" Description="Dimensionless" Primary="false" Category=""/>
 	<EngineeringUnit Gain="2.7780000E-04" Enabled="true" Offset="0" Name="kg/h" Description="Kilograms/Hour" Primary="false" Category="Mass Flow"/>
 	<EngineeringUnit Gain="1.6666700E-02" Enabled="true" Offset="0" Name="kg/min" Description="Kilograms/Minute" Primary="false" Category="Mass Flow"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="TBD" Description="To Be Determined" Primary="false" Category=""/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="y.d" Description="Years.Days" Primary="false" Category=""/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="%" Description="Percents" Primary="true" Category="Percent"/>
+	<EngineeringUnit Gain="1.0000000E-01" Enabled="true" Offset="0" Name="permil" Description="Permils" Primary="false" Category="Percent"/>
+	<EngineeringUnit Gain="1.2599790E-04" Enabled="true" Offset="0" Name="pph" Description="Pounds/Hour" Primary="false" Category="Mass Flow"/>
+	<EngineeringUnit Gain="1.0000000E-04" Enabled="true" Offset="0" Name="uE" Description="Microstrains" Primary="false" Category="Percent"/>
+	<EngineeringUnit Gain="1.0000000E+04" Enabled="true" Offset="0" Name="vppm" Description="Volumetric Parts/Million" Primary="false" Category="Percent"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="W" Description="Watts" Primary="true" Category="Power"/>
+	<EngineeringUnit Gain="1.3560000E+00" Enabled="true" Offset="0" Name="ft lbf/s" Description="Foot Pounds-Force/Second" Primary="false" Category="Power"/>
+	<EngineeringUnit Gain="7.4569990E+02" Enabled="true" Offset="0" Name="hp" Description="Horsepower (Mechanical)" Primary="false" Category="Power"/>
+	<EngineeringUnit Gain="1.6670000E-02" Enabled="true" Offset="0" Name="deg/min" Description="Degrees/Minute" Primary="false" Category="Angular Velocity"/>
+	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kVA" Description="Kilovolt-amperes" Primary="false" Category="Power"/>
+	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kW" Description="Kilowatts" Primary="false" Category="Power"/>
+	<EngineeringUnit Gain="1.0000000E+06" Enabled="true" Offset="0" Name="MW" Description="Megawatts" Primary="false" Category="Power"/>
+	<EngineeringUnit Gain="7.3549880E+02" Enabled="true" Offset="0" Name="PS" Description="Horsepower (Metric)" Primary="false" Category="Power"/>
+	<EngineeringUnit Gain="7.5598730E-03" Enabled="true" Offset="0" Name="ppm" Description="Pounds/Minute" Primary="false" Category="Mass Flow"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psi" Description="Pounds/Square Inch" Primary="true" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4695950E+01" Enabled="true" Offset="0" Name="atm" Description="Atmospheres" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4503770E+01" Enabled="true" Offset="0" Name="bar" Description="Bars" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4503770E+01" Enabled="true" Offset="0" Name="bara" Description="Bars Absolute" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="3.6127290E-02" Enabled="true" Offset="0" Name="inH2O" Description="Inches of Water Column (Conventional)" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="3.6126300E-02" Enabled="true" Offset="0" Name="inH2O_4degC" Description="Inches of Water Column (4 degC)" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="9.5490000E-01" Enabled="true" Offset="0" Name="rad/min" Description="Radians/Minute" Primary="false" Category="Angular Velocity"/>
+	<EngineeringUnit Gain="3.6091000E-02" Enabled="true" Offset="0" Name="inH2O_60degF" Description="Inches of Water Column (60 degF)" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="4.9115410E-01" Enabled="true" Offset="0" Name="inHg" Description="Inches of Mercury" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="4.9115300E-01" Enabled="true" Offset="0" Name="inHg_32degF" Description="Inches of Mercury (32degF)" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="4.5359240E-01" Enabled="true" Offset="0" Name="pps" Description="Pounds/Second" Primary="false" Category="Mass Flow"/>
+	<EngineeringUnit Gain="4.8977100E-01" Enabled="true" Offset="0" Name="inHg_60degF" Description="Inches of Mercury (60degF)" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4223340E+01" Enabled="true" Offset="0" Name="kgf/cm^2" Description="Kilograms-Force/Square Centimetre" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4503770E-01" Enabled="true" Offset="0" Name="kPa" Description="Kilopascals" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4503770E-01" Enabled="true" Offset="0" Name="kPaa" Description="Kilopascals Absolute" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="6.9444440E-03" Enabled="true" Offset="0" Name="lbf/ft^2" Description="Pounds-Force/Square Foot" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="lbf/in^2" Description="Pounds/Square Inch (psi)" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4503770E-02" Enabled="true" Offset="0" Name="mbar" Description="Millibars" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="5.7295780E+01" Enabled="true" Offset="0" Name="rad/s" Description="Radians/Second" Primary="false" Category="Angular Velocity"/>
+	<EngineeringUnit Gain="1.4503770E-02" Enabled="true" Offset="0" Name="mbara" Description="Millibars Absolute" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4224000E-03" Enabled="true" Offset="0" Name="mmH2O" Description="Millimetres of Water (4 degC)" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="J/(mol K)" Description="Joules/(Mole Kelvin)" Primary="true" Category="molar-gas-constant"/>
+	<EngineeringUnit Gain="1.9337000E-02" Enabled="true" Offset="0" Name="mmHg" Description="Millimetres of Mercury (0 degC)" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4503770E+02" Enabled="true" Offset="0" Name="MPa" Description="Megapascals" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4503770E-04" Enabled="true" Offset="0" Name="Pa" Description="Pascals" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.4500000E-04" Enabled="true" Offset="0" Name="Paa" Description="Pascals Absolute" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psia" Description="Pounds/Square Inch Absolute" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psid" Description="Pounds/Square Inch Differential" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psig" Description="Pounds/Square Inch Gauge" Primary="false" Category="Pressure"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="psi/s" Description="Pounds/Square Inch" Primary="true" Category="pressure-drift"/>
+	<EngineeringUnit Gain="6.0000000E+00" Enabled="true" Offset="0" Name="rpm" Description="Revolutions/Minute" Primary="false" Category="Angular Velocity"/>
+	<EngineeringUnit Gain="1.4503770E-01" Enabled="true" Offset="0" Name="kPa/s" Description="Kilopascals" Primary="false" Category="pressure-drift"/>
+	<EngineeringUnit Gain="4.1840000E+00" Enabled="true" Offset="0" Name="cal/(mol K)" Description="Calories/(Mole Kelvin)" Primary="false" Category="molar-gas-constant"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="ohm" Description="Ohms" Primary="true" Category="Resistance"/>
+	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kohm" Description="Kilohms" Primary="false" Category="Resistance"/>
+	<EngineeringUnit Gain="1.0000000E-03" Enabled="true" Offset="0" Name="mohm" Description="Milliohms" Primary="false" Category="Resistance"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="MOhm/cm" Description="Megaohms/Centimetre" Primary="true" Category="resistance-distance"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="lb/(lbf h)" Description="Pounds of Fuel/(Hour-Pound of Thrust)" Primary="true" Category="SFC"/>
+	<EngineeringUnit Gain="3.5303940E-02" Enabled="true" Offset="0" Name="g/(kN s)" Description="Grams of Fuel/(Second Kilonewton)" Primary="false" Category="SFC"/>
+	<EngineeringUnit Gain="9.8066500E-01" Enabled="true" Offset="0" Name="kg/(daN h)" Description="Kilograms of Fuel/(Dekanewton Hour)" Primary="false" Category="SFC"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="J/kg" Description="Joules/Kilogram" Primary="true" Category="specific-energy"/>
+	<EngineeringUnit Gain="2.3260000E+03" Enabled="true" Offset="0" Name="Btu/lb" Description="British Thermal Units/Pound" Primary="false" Category="specific-energy"/>
+	<EngineeringUnit Gain="3.6000000E+02" Enabled="true" Offset="0" Name="rps" Description="Revolutions/Second" Primary="false" Category="Angular Velocity"/>
+	<EngineeringUnit Gain="1.0132500E+02" Enabled="true" Offset="0" Name="L atm/(mol K)" Description="Liter Atmospheres/(Mole Kelvin)" Primary="false" Category="molar-gas-constant"/>
+	<EngineeringUnit Gain="4.1868000E+03" Enabled="true" Offset="0" Name="Chu/lb" Description="Celsius Heat Units/ Pound" Primary="false" Category="specific-energy"/>
+	<EngineeringUnit Gain="4.1840000E+03" Enabled="true" Offset="0" Name="kcal/kg" Description="Kilocalories/Kilogram" Primary="false" Category="specific-energy"/>
+	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kJ/kg" Description="Kilojoules/Kilogram" Primary="false" Category="specific-energy"/>
+	<EngineeringUnit Gain="1.0000000E+06" Enabled="true" Offset="0" Name="MJ/kg" Description="Megajoules/Kilogram" Primary="false" Category="specific-energy"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="J/(kg K)" Description="Joules/(Kilogram Kelvin)" Primary="true" Category="specific-heat-capacity"/>
+	<EngineeringUnit Gain="4.1868000E+03" Enabled="true" Offset="0" Name="Btu/(lb degF)" Description="British Thermal Units/(Pound Degree Fahrenheit)" Primary="false" Category="specific-heat-capacity"/>
+	<EngineeringUnit Gain="1.0000000E+03" Enabled="true" Offset="0" Name="kJ/(kg K)" Description="Kilojoules/(Kilogram Kelvin)" Primary="false" Category="specific-heat-capacity"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="degC" Description="Degrees Celsius" Primary="true" Category="Temperature"/>
+	<EngineeringUnit Gain="5.5560000E-01" Enabled="true" Offset="-17.778" Name="degF" Description="Degrees Fahrenheit" Primary="false" Category="Temperature"/>
+	<EngineeringUnit Gain="5.5560000E-01" Enabled="true" Offset="-273.150" Name="degR" Description="Degrees Rankine" Primary="false" Category="Temperature"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="m^3 Pa/(mol K)" Description="Cubic Meters Pascals/(Mole Kelvin)" Primary="false" Category="molar-gas-constant"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="m^2" Description="Square Metres" Primary="true" Category="Area"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="-273.150" Name="K" Description="Kelvins" Primary="false" Category="Temperature"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="degC/s" Description="Degrees Celsius difference/Second" Primary="true" Category="temperature-drift"/>
+	<EngineeringUnit Gain="1.6666670E-02" Enabled="true" Offset="0" Name="degC/min" Description="Degrees Celsius difference/Minute" Primary="false" Category="temperature-drift"/>
+	<EngineeringUnit Gain="9.2592590E-03" Enabled="true" Offset="0" Name="degF/min" Description="Degrees Fahrenheit difference/Minute" Primary="false" Category="temperature-drift"/>
+	<EngineeringUnit Gain="5.5555560E-01" Enabled="true" Offset="0" Name="degF/s" Description="Degrees Fahrenheit difference/Second" Primary="false" Category="temperature-drift"/>
+	<EngineeringUnit Gain="1.6666670E-02" Enabled="true" Offset="0" Name="K/min" Description="Kelvins difference/Minute" Primary="false" Category="temperature-drift"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="K/s" Description="Kelvins difference/Second" Primary="false" Category="temperature-drift"/>
+	<EngineeringUnit Gain="1.0000000E+00" Enabled="true" Offset="0" Name="s" Description="Seconds" Primary="true" Category="Time"/>
+	<EngineeringUnit Gain="8.6400000E+04" Enabled="true" Offset="0" Name="d" Description="Days" Primary="false" Category="Time"/>
 </EngineeringUnits>
