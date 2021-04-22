@@ -1,0 +1,4 @@
+2021-04-20 6:30:24 PM	TraceUtil (2.0.1.10086) for RteCL (2.0.1.14004) is initialized OK. TraceLevel=Error
+2021-04-20 18:41:02	>>> ReplyReaderThread terminated
+2021-04-20 6:41:03 PM	>>> ConnectThread terminated
+2021-04-20 6:41:03 PM	>>> ReplyReaderThread terminated

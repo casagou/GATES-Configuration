@@ -1599,3 +1599,513 @@
 12-Mar-2021 04:49:12	ACL	CACLConnector::UpdateChannel	Err: Different number of channels in reply!
 12-Mar-2021 04:49:21	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
 12-Mar-2021 14:36:09	ACL	CARINCCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 18:25:33	   	                            	
+12-Mar-2021 18:25:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 18:25:33	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 18:25:33	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+12-Mar-2021 18:25:33	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+12-Mar-2021 19:30:23	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+12-Mar-2021 19:30:23	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+12-Mar-2021 19:30:23	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+12-Mar-2021 19:30:23	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+12-Mar-2021 19:30:23	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+12-Mar-2021 19:30:23	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+12-Mar-2021 19:30:24	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+12-Mar-2021 19:30:24	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+12-Mar-2021 19:30:24	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+12-Mar-2021 19:30:24	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+12-Mar-2021 19:37:34	   	                            	
+12-Mar-2021 19:37:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 19:37:34	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 19:37:34	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+12-Mar-2021 19:37:35	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+12-Mar-2021 20:23:12	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+12-Mar-2021 20:23:12	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+12-Mar-2021 20:23:12	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+12-Mar-2021 20:23:12	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+12-Mar-2021 20:23:12	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+12-Mar-2021 20:23:12	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+12-Mar-2021 20:23:12	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+12-Mar-2021 20:23:13	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+12-Mar-2021 20:23:13	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+12-Mar-2021 20:23:13	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+12-Mar-2021 20:40:59	   	                            	
+12-Mar-2021 20:40:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 20:40:59	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 20:40:59	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+12-Mar-2021 20:41:00	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+12-Mar-2021 23:21:13	   	                            	
+12-Mar-2021 23:21:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 23:21:13	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 23:21:13	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+12-Mar-2021 23:21:13	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+14-Mar-2021 00:07:40	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 1th time.
+14-Mar-2021 00:07:40	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 2th time.
+14-Mar-2021 00:07:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 3th time.
+14-Mar-2021 00:07:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 4th time.
+14-Mar-2021 00:07:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 5th time.
+14-Mar-2021 00:07:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 6th time.
+14-Mar-2021 00:07:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 7th time.
+14-Mar-2021 00:07:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 8th time.
+14-Mar-2021 00:07:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 9th time.
+14-Mar-2021 00:07:41	ACL	CACLConnector::UpdateChannel	Err #1: Failed to send the ACS_UPDATE_CHANNELS message - 10th time.
+14-Mar-2021 02:42:00	   	                            	
+14-Mar-2021 02:42:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+14-Mar-2021 02:42:00	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+14-Mar-2021 02:42:00	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+14-Mar-2021 02:42:00	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+19-Mar-2021 21:26:32	   	                            	
+19-Mar-2021 21:26:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Mar-2021 21:26:32	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+19-Mar-2021 21:26:32	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+19-Mar-2021 21:26:32	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+22-Mar-2021 19:16:34	   	                            	
+22-Mar-2021 19:16:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Mar-2021 19:16:34	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+22-Mar-2021 19:16:34	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+22-Mar-2021 19:16:34	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+23-Mar-2021 20:37:38	   	                            	
+23-Mar-2021 20:37:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Mar-2021 20:37:38	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+23-Mar-2021 20:37:38	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+23-Mar-2021 20:37:38	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+23-Mar-2021 20:55:53	   	                            	
+23-Mar-2021 20:55:53	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Mar-2021 20:55:53	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+23-Mar-2021 20:55:53	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+23-Mar-2021 20:55:53	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+24-Mar-2021 03:37:49	   	                            	
+24-Mar-2021 03:37:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Mar-2021 03:37:49	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+24-Mar-2021 03:37:49	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+24-Mar-2021 03:37:49	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+24-Mar-2021 22:14:50	   	                            	
+24-Mar-2021 22:14:50	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Mar-2021 22:14:50	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+24-Mar-2021 22:14:50	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+24-Mar-2021 22:14:50	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+26-Mar-2021 17:04:32	   	                            	
+26-Mar-2021 17:04:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Mar-2021 17:04:32	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+26-Mar-2021 17:04:32	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+26-Mar-2021 17:04:32	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+26-Mar-2021 19:46:59	   	                            	
+26-Mar-2021 19:46:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Mar-2021 19:46:59	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+26-Mar-2021 19:46:59	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+26-Mar-2021 19:46:59	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+29-Mar-2021 20:50:45	   	                            	
+29-Mar-2021 20:50:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Mar-2021 20:50:45	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+29-Mar-2021 20:50:45	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+29-Mar-2021 20:50:45	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+30-Mar-2021 14:32:32	   	                            	
+30-Mar-2021 14:32:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 14:32:32	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 14:32:32	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+30-Mar-2021 14:32:32	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+30-Mar-2021 16:47:58	   	                            	
+30-Mar-2021 16:47:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 16:47:58	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 16:47:58	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+30-Mar-2021 16:47:58	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+30-Mar-2021 17:01:34	   	                            	
+30-Mar-2021 17:01:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 17:01:34	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 17:01:34	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+30-Mar-2021 17:01:34	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+30-Mar-2021 21:17:02	   	                            	
+30-Mar-2021 21:17:02	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 21:17:02	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 21:17:02	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+30-Mar-2021 21:17:03	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+30-Mar-2021 21:50:59	   	                            	
+30-Mar-2021 21:50:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 21:50:59	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 21:50:59	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+30-Mar-2021 21:50:59	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+30-Mar-2021 21:55:06	   	                            	
+30-Mar-2021 21:55:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 21:55:06	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 21:55:06	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+30-Mar-2021 21:55:06	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+30-Mar-2021 22:38:43	   	                            	
+30-Mar-2021 22:38:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 22:38:44	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 22:38:44	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+30-Mar-2021 22:38:44	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+31-Mar-2021 15:10:35	   	                            	
+31-Mar-2021 15:10:35	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 15:10:35	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 15:10:35	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+31-Mar-2021 15:10:35	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+31-Mar-2021 16:15:43	   	                            	
+31-Mar-2021 16:15:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 16:15:43	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 16:15:43	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+31-Mar-2021 16:15:43	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+31-Mar-2021 17:30:42	   	                            	
+31-Mar-2021 17:30:42	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 17:30:42	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 17:30:42	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+31-Mar-2021 17:30:42	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+31-Mar-2021 17:35:52	   	                            	
+31-Mar-2021 17:35:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 17:35:52	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 17:35:52	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+31-Mar-2021 17:35:52	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+31-Mar-2021 20:50:00	   	                            	
+31-Mar-2021 20:50:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 20:50:00	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 20:50:00	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+31-Mar-2021 20:50:00	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+31-Mar-2021 22:09:27	   	                            	
+31-Mar-2021 22:09:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 22:09:27	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 22:09:27	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+31-Mar-2021 22:09:27	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+31-Mar-2021 22:41:52	   	                            	
+31-Mar-2021 22:41:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 22:41:52	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 22:41:52	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+31-Mar-2021 22:41:52	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+01-Apr-2021 08:19:06	   	                            	
+01-Apr-2021 08:19:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Apr-2021 08:19:06	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+01-Apr-2021 08:19:06	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+01-Apr-2021 08:19:06	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+01-Apr-2021 18:09:07	   	                            	
+01-Apr-2021 18:09:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Apr-2021 18:09:07	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+01-Apr-2021 18:09:07	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+01-Apr-2021 18:09:07	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+01-Apr-2021 18:21:00	   	                            	
+01-Apr-2021 18:21:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Apr-2021 18:21:00	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+01-Apr-2021 18:21:00	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+01-Apr-2021 18:21:00	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+06-Apr-2021 23:00:18	   	                            	
+06-Apr-2021 23:00:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+06-Apr-2021 23:00:18	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+06-Apr-2021 23:00:18	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+06-Apr-2021 23:00:18	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+07-Apr-2021 15:46:05	   	                            	
+07-Apr-2021 15:46:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+07-Apr-2021 15:46:05	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+07-Apr-2021 15:46:05	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+07-Apr-2021 15:46:05	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+07-Apr-2021 20:44:27	   	                            	
+07-Apr-2021 20:44:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+07-Apr-2021 20:44:27	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+07-Apr-2021 20:44:27	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+07-Apr-2021 20:44:27	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+08-Apr-2021 00:05:03	   	                            	
+08-Apr-2021 00:05:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 00:05:03	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 00:05:03	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 00:05:03	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+08-Apr-2021 00:25:18	   	                            	
+08-Apr-2021 00:25:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 00:25:18	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 00:25:18	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 00:25:18	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+08-Apr-2021 00:51:40	   	                            	
+08-Apr-2021 00:51:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 00:51:40	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 00:51:40	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 00:51:40	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+08-Apr-2021 01:10:04	   	                            	
+08-Apr-2021 01:10:04	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 01:10:04	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 01:10:04	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 01:10:04	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+08-Apr-2021 19:32:43	   	                            	
+08-Apr-2021 19:32:44	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 19:32:44	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 19:32:44	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 19:32:44	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+08-Apr-2021 19:45:10	   	                            	
+08-Apr-2021 19:45:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 19:45:10	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 19:45:10	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 19:45:10	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+08-Apr-2021 19:54:44	   	                            	
+08-Apr-2021 19:54:44	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 19:54:44	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 19:54:44	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 19:54:44	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+08-Apr-2021 20:00:12	   	                            	
+08-Apr-2021 20:00:12	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 20:00:12	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 20:00:12	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 20:00:12	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+08-Apr-2021 20:07:10	   	                            	
+08-Apr-2021 20:07:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 20:07:10	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 20:07:10	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+08-Apr-2021 20:07:10	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+08-Apr-2021 20:09:48	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+08-Apr-2021 20:13:02	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+08-Apr-2021 20:14:13	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+08-Apr-2021 20:16:01	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+08-Apr-2021 20:17:47	ACL	CCommands::Start            	Warning: It is recommended to have only one ARINC Display within the proDAS system.
+09-Apr-2021 04:09:38	   	                            	
+09-Apr-2021 04:09:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 04:09:38	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 04:09:38	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 04:09:38	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 16:18:06	   	                            	
+09-Apr-2021 16:18:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 16:18:06	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 16:18:06	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 16:18:06	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:04:59	   	                            	
+09-Apr-2021 17:04:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:04:59	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:04:59	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:04:59	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 17:21:34	   	                            	
+09-Apr-2021 17:21:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:21:34	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:21:34	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:21:34	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:25:01	   	                            	
+09-Apr-2021 17:25:01	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:25:01	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:25:01	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:25:01	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 17:28:06	   	                            	
+09-Apr-2021 17:28:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:28:06	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:28:06	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:28:06	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 17:32:48	   	                            	
+09-Apr-2021 17:32:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:32:48	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:32:48	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:32:48	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:34:25	   	                            	
+09-Apr-2021 17:34:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:34:25	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:34:25	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:34:25	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 17:38:39	   	                            	
+09-Apr-2021 17:38:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:38:39	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:38:39	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:38:39	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:40:13	   	                            	
+09-Apr-2021 17:40:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:40:13	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:40:13	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:40:13	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 17:44:52	   	                            	
+09-Apr-2021 17:44:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:44:52	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:44:52	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:44:52	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 17:49:00	   	                            	
+09-Apr-2021 17:49:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:49:00	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:49:00	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:49:00	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:52:19	   	                            	
+09-Apr-2021 17:52:19	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:52:19	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:52:19	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:52:19	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:54:52	   	                            	
+09-Apr-2021 17:54:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:54:52	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:54:52	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:54:52	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:59:22	   	                            	
+09-Apr-2021 17:59:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:59:22	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:59:22	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 17:59:22	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 18:09:22	   	                            	
+09-Apr-2021 18:09:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:09:22	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:09:22	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 18:09:22	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 18:22:47	   	                            	
+09-Apr-2021 18:22:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:22:47	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:22:47	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 18:22:47	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 18:25:13	   	                            	
+09-Apr-2021 18:25:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:25:13	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:25:13	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 18:25:13	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 18:29:26	   	                            	
+09-Apr-2021 18:29:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:29:26	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:29:26	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 18:29:26	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 18:47:47	   	                            	
+09-Apr-2021 18:47:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:47:47	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:47:47	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 18:47:47	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:01:57	   	                            	
+09-Apr-2021 19:01:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:01:57	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:01:57	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:01:57	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:04:58	   	                            	
+09-Apr-2021 19:04:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:04:58	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:04:58	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:04:58	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:13:51	   	                            	
+09-Apr-2021 19:13:51	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:13:51	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:13:51	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:13:51	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 19:15:27	   	                            	
+09-Apr-2021 19:15:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:15:27	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:15:27	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:15:27	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:19:40	   	                            	
+09-Apr-2021 19:19:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:19:40	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:19:40	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:19:40	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:23:05	   	                            	
+09-Apr-2021 19:23:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:23:05	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:23:05	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:23:05	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:25:26	   	                            	
+09-Apr-2021 19:25:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:25:26	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:25:26	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:25:26	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:29:03	   	                            	
+09-Apr-2021 19:29:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:29:03	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:29:03	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:29:03	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:32:09	   	                            	
+09-Apr-2021 19:32:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:32:09	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:32:09	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:32:09	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 19:38:56	   	                            	
+09-Apr-2021 19:38:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:38:56	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:38:56	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:38:56	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 19:43:00	   	                            	
+09-Apr-2021 19:43:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:43:00	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:43:00	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:43:00	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 19:48:37	   	                            	
+09-Apr-2021 19:48:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:48:37	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:48:37	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 19:48:37	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:04:29	   	                            	
+09-Apr-2021 20:04:29	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:04:29	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:04:29	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:04:29	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:08:31	   	                            	
+09-Apr-2021 20:08:31	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:08:31	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:08:31	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:08:31	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:11:10	   	                            	
+09-Apr-2021 20:11:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:11:10	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:11:10	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:11:10	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:16:19	   	                            	
+09-Apr-2021 20:16:19	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:16:19	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:16:19	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:16:19	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:22:20	   	                            	
+09-Apr-2021 20:22:20	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:22:20	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:22:20	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:22:20	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:36:23	   	                            	
+09-Apr-2021 20:36:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:36:23	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:36:23	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:36:23	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:41:27	   	                            	
+09-Apr-2021 20:41:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:41:27	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:41:27	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:41:27	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:48:32	   	                            	
+09-Apr-2021 20:48:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:48:32	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:48:32	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:48:32	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 20:51:54	   	                            	
+09-Apr-2021 20:51:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:51:54	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:51:54	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:51:55	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+09-Apr-2021 20:55:33	   	                            	
+09-Apr-2021 20:55:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:55:33	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:55:33	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+09-Apr-2021 20:55:34	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Apr-2021 00:28:25	   	                            	
+10-Apr-2021 00:28:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Apr-2021 00:28:25	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Apr-2021 00:28:25	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Apr-2021 00:28:26	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+10-Apr-2021 00:45:07	   	                            	
+10-Apr-2021 00:45:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Apr-2021 00:45:07	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+10-Apr-2021 00:45:07	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+10-Apr-2021 00:45:07	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+17-Apr-2021 07:24:27	   	                            	
+17-Apr-2021 07:24:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Apr-2021 07:24:27	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+17-Apr-2021 07:24:27	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+17-Apr-2021 07:24:27	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+17-Apr-2021 07:37:15	   	                            	
+17-Apr-2021 07:37:15	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Apr-2021 07:37:15	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+17-Apr-2021 07:37:15	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+17-Apr-2021 07:37:15	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+18-Apr-2021 06:40:54	   	                            	
+18-Apr-2021 06:40:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Apr-2021 06:40:54	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+18-Apr-2021 06:40:55	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+18-Apr-2021 06:40:55	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+20-Apr-2021 14:16:04	   	                            	
+20-Apr-2021 14:16:04	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Apr-2021 14:16:04	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+20-Apr-2021 14:16:04	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+20-Apr-2021 14:16:04	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+20-Apr-2021 18:50:28	   	                            	
+20-Apr-2021 18:50:28	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Apr-2021 18:50:28	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+20-Apr-2021 18:50:28	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+20-Apr-2021 18:50:28	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+20-Apr-2021 18:55:22	   	                            	
+20-Apr-2021 18:55:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Apr-2021 18:55:22	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+20-Apr-2021 18:55:22	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+20-Apr-2021 18:55:22	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+20-Apr-2021 19:17:20	   	                            	
+20-Apr-2021 19:17:20	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Apr-2021 19:17:20	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+20-Apr-2021 19:17:20	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+20-Apr-2021 19:17:20	ACL	CACLConnector::GetChannelLis	Err #1: Failed to request the ACS_GET_CHANNELS message.
+21-Apr-2021 03:23:51	   	                            	
+21-Apr-2021 03:23:51	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Apr-2021 03:23:51	ACL	CARINCCommon::Initialize    	################## Application: ARINCDisplayServer; Version: 2, 0, 1, 12753 ##################
+21-Apr-2021 03:23:51	ACL	CARINCCommon::Initialize    	Msg: Host Name = rtehost; Service Name = acl_srv
+21-Apr-2021 03:23:51	ACL	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!

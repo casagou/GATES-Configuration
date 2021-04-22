@@ -1867,3 +1867,504 @@
 12-Mar-2021 04:49:21	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
 12-Mar-2021 04:49:21	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
 12-Mar-2021 14:36:06	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+12-Mar-2021 17:14:39	   	                            	
+12-Mar-2021 17:14:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 17:14:39	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 17:14:39	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+12-Mar-2021 17:14:39	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+12-Mar-2021 18:25:33	   	                            	
+12-Mar-2021 18:25:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 18:25:33	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 18:25:33	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+12-Mar-2021 19:30:03	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+12-Mar-2021 19:37:34	   	                            	
+12-Mar-2021 19:37:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 19:37:34	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 19:37:34	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+12-Mar-2021 20:22:52	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+12-Mar-2021 20:40:59	   	                            	
+12-Mar-2021 20:40:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 20:40:59	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 20:40:59	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+12-Mar-2021 21:06:33	ISD	CASUConnector::Receive      	Err #1: Receiveing will Stop!
+12-Mar-2021 21:06:34	ISD	CASUConnector::UpdateChannel	Err #1: Sending will stop!
+12-Mar-2021 21:06:34	ISD	CASUConnector::StopSend     	Err #1: Failed to send LAA_MSG_CL_LOGOFF message.
+12-Mar-2021 21:06:34	ISD	CAlarmCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 21:06:35	ISD	CAlarmCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+12-Mar-2021 23:21:13	   	                            	
+12-Mar-2021 23:21:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+12-Mar-2021 23:21:13	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+12-Mar-2021 23:21:13	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+14-Mar-2021 00:07:15	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+14-Mar-2021 02:41:59	   	                            	
+14-Mar-2021 02:41:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+14-Mar-2021 02:41:59	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+14-Mar-2021 02:42:00	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+16-Mar-2021 16:16:34	ISD	CASUConnector::UpdateChannel	Err #1: Sending will stop!
+16-Mar-2021 16:16:43	ISD	CASUConnector::StopSend     	Err #1: Failed to send LAA_MSG_CL_LOGOFF message.
+16-Mar-2021 16:17:02	ISD	CAlarmCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+16-Mar-2021 16:17:02	ISD	CAlarmCommon::SendUELMessage	Err : Sending message failed. - Failed to send the UEL message.
+19-Mar-2021 21:26:32	   	                            	
+19-Mar-2021 21:26:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+19-Mar-2021 21:26:32	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+19-Mar-2021 21:26:32	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+22-Mar-2021 15:59:43	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+22-Mar-2021 19:16:34	   	                            	
+22-Mar-2021 19:16:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+22-Mar-2021 19:16:34	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+22-Mar-2021 19:16:34	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+22-Mar-2021 20:37:19	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+23-Mar-2021 20:37:38	   	                            	
+23-Mar-2021 20:37:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Mar-2021 20:37:38	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+23-Mar-2021 20:37:38	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+23-Mar-2021 20:52:49	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+23-Mar-2021 20:55:53	   	                            	
+23-Mar-2021 20:55:53	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+23-Mar-2021 20:55:53	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+23-Mar-2021 20:55:53	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+24-Mar-2021 02:45:23	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+24-Mar-2021 03:37:49	   	                            	
+24-Mar-2021 03:37:49	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Mar-2021 03:37:49	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+24-Mar-2021 03:37:49	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+24-Mar-2021 17:35:14	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+24-Mar-2021 22:14:50	   	                            	
+24-Mar-2021 22:14:50	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+24-Mar-2021 22:14:50	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+24-Mar-2021 22:14:50	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+26-Mar-2021 16:53:32	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+26-Mar-2021 17:04:32	   	                            	
+26-Mar-2021 17:04:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Mar-2021 17:04:32	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+26-Mar-2021 17:04:32	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+26-Mar-2021 19:34:24	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+26-Mar-2021 19:46:59	   	                            	
+26-Mar-2021 19:46:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+26-Mar-2021 19:46:59	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+26-Mar-2021 19:46:59	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+29-Mar-2021 17:39:36	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+29-Mar-2021 20:20:24	   	                            	
+29-Mar-2021 20:20:24	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Mar-2021 20:20:24	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+29-Mar-2021 20:20:24	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+29-Mar-2021 20:20:24	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+29-Mar-2021 20:50:45	   	                            	
+29-Mar-2021 20:50:45	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+29-Mar-2021 20:50:45	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+29-Mar-2021 20:50:45	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+29-Mar-2021 21:54:15	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+30-Mar-2021 14:32:31	   	                            	
+30-Mar-2021 14:32:31	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 14:32:31	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 14:32:31	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+30-Mar-2021 15:44:59	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+30-Mar-2021 16:47:58	   	                            	
+30-Mar-2021 16:47:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 16:47:58	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 16:47:58	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+30-Mar-2021 17:00:49	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+30-Mar-2021 17:01:34	   	                            	
+30-Mar-2021 17:01:34	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 17:01:34	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 17:01:34	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+30-Mar-2021 20:53:43	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+30-Mar-2021 21:17:02	   	                            	
+30-Mar-2021 21:17:02	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 21:17:02	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 21:17:02	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+30-Mar-2021 21:41:33	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+30-Mar-2021 21:50:59	   	                            	
+30-Mar-2021 21:50:59	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 21:50:59	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 21:50:59	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+30-Mar-2021 21:54:35	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+30-Mar-2021 21:55:05	   	                            	
+30-Mar-2021 21:55:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 21:55:05	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 21:55:05	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+30-Mar-2021 22:28:06	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+30-Mar-2021 22:38:43	   	                            	
+30-Mar-2021 22:38:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+30-Mar-2021 22:38:43	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+30-Mar-2021 22:38:43	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+30-Mar-2021 22:44:10	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+31-Mar-2021 15:10:34	   	                            	
+31-Mar-2021 15:10:35	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 15:10:35	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 15:10:35	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+31-Mar-2021 15:47:01	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+31-Mar-2021 16:15:43	   	                            	
+31-Mar-2021 16:15:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 16:15:43	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 16:15:43	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+31-Mar-2021 17:08:19	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+31-Mar-2021 17:30:41	   	                            	
+31-Mar-2021 17:30:41	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 17:30:41	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 17:30:41	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+31-Mar-2021 17:31:42	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+31-Mar-2021 17:35:52	   	                            	
+31-Mar-2021 17:35:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 17:35:52	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 17:35:52	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+31-Mar-2021 18:16:26	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+31-Mar-2021 20:50:00	   	                            	
+31-Mar-2021 20:50:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 20:50:00	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 20:50:00	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+31-Mar-2021 21:54:22	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+31-Mar-2021 22:09:26	   	                            	
+31-Mar-2021 22:09:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 22:09:26	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 22:09:26	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+31-Mar-2021 22:22:33	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+31-Mar-2021 22:41:52	   	                            	
+31-Mar-2021 22:41:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+31-Mar-2021 22:41:52	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+31-Mar-2021 22:41:52	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+01-Apr-2021 07:50:24	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+01-Apr-2021 08:19:06	   	                            	
+01-Apr-2021 08:19:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Apr-2021 08:19:06	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+01-Apr-2021 08:19:06	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+01-Apr-2021 18:07:41	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+01-Apr-2021 18:09:07	   	                            	
+01-Apr-2021 18:09:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Apr-2021 18:09:07	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+01-Apr-2021 18:09:07	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+01-Apr-2021 18:11:08	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+01-Apr-2021 18:21:00	   	                            	
+01-Apr-2021 18:21:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+01-Apr-2021 18:21:00	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+01-Apr-2021 18:21:00	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+06-Apr-2021 15:38:10	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+06-Apr-2021 23:00:18	   	                            	
+06-Apr-2021 23:00:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+06-Apr-2021 23:00:18	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+06-Apr-2021 23:00:18	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+07-Apr-2021 15:08:52	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+07-Apr-2021 15:46:05	   	                            	
+07-Apr-2021 15:46:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+07-Apr-2021 15:46:05	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+07-Apr-2021 15:46:05	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+07-Apr-2021 20:36:18	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+07-Apr-2021 20:44:27	   	                            	
+07-Apr-2021 20:44:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+07-Apr-2021 20:44:27	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+07-Apr-2021 20:44:27	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+07-Apr-2021 21:01:16	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+08-Apr-2021 00:05:03	   	                            	
+08-Apr-2021 00:05:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 00:05:03	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 00:05:03	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 00:05:03	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+08-Apr-2021 00:25:18	   	                            	
+08-Apr-2021 00:25:18	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 00:25:18	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 00:25:18	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 00:29:48	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+08-Apr-2021 00:51:40	   	                            	
+08-Apr-2021 00:51:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 00:51:40	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 00:51:40	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 00:51:40	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+08-Apr-2021 01:10:04	   	                            	
+08-Apr-2021 01:10:04	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 01:10:04	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 01:10:04	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 01:13:00	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+08-Apr-2021 19:32:43	   	                            	
+08-Apr-2021 19:32:43	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 19:32:43	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 19:32:43	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 19:37:07	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+08-Apr-2021 19:45:10	   	                            	
+08-Apr-2021 19:45:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 19:45:10	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 19:45:10	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 19:45:10	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+08-Apr-2021 19:54:44	   	                            	
+08-Apr-2021 19:54:44	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 19:54:44	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 19:54:44	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 19:57:38	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+08-Apr-2021 20:00:12	   	                            	
+08-Apr-2021 20:00:12	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 20:00:12	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 20:00:12	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 20:06:10	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+08-Apr-2021 20:07:10	   	                            	
+08-Apr-2021 20:07:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 20:07:10	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 20:07:10	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+08-Apr-2021 20:09:48	ISD	CCommands::Start            	Warning: It is recommended to have only one Alarm Summary Display within the proDAS system.
+08-Apr-2021 20:13:02	ISD	CCommands::Start            	Warning: It is recommended to have only one Alarm Summary Display within the proDAS system.
+08-Apr-2021 20:14:13	ISD	CCommands::Start            	Warning: It is recommended to have only one Alarm Summary Display within the proDAS system.
+08-Apr-2021 20:16:01	ISD	CCommands::Start            	Warning: It is recommended to have only one Alarm Summary Display within the proDAS system.
+08-Apr-2021 20:16:37	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+08-Apr-2021 20:17:47	   	                            	
+08-Apr-2021 20:17:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+08-Apr-2021 20:17:47	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+08-Apr-2021 20:17:47	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 02:49:34	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 04:09:38	   	                            	
+09-Apr-2021 04:09:38	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 04:09:38	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 04:09:38	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 04:12:33	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 16:18:06	   	                            	
+09-Apr-2021 16:18:06	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 16:18:06	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 16:18:06	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 16:18:06	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:04:58	   	                            	
+09-Apr-2021 17:04:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:04:58	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:04:58	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:08:28	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 17:21:33	   	                            	
+09-Apr-2021 17:21:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:21:33	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:21:33	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:21:33	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:25:01	   	                            	
+09-Apr-2021 17:25:01	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:25:01	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:25:01	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:27:01	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 17:28:05	   	                            	
+09-Apr-2021 17:28:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:28:05	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:28:05	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:31:15	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 17:32:48	   	                            	
+09-Apr-2021 17:32:48	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:32:48	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:32:48	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:32:48	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:34:24	   	                            	
+09-Apr-2021 17:34:24	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:34:24	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:34:24	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:36:25	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 17:38:39	   	                            	
+09-Apr-2021 17:38:39	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:38:39	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:38:39	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:38:39	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:40:13	   	                            	
+09-Apr-2021 17:40:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:40:13	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:40:13	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:42:54	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 17:44:52	   	                            	
+09-Apr-2021 17:44:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:44:52	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:44:52	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:47:08	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 17:49:00	   	                            	
+09-Apr-2021 17:49:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:49:00	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:49:00	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:49:00	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:52:19	   	                            	
+09-Apr-2021 17:52:19	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:52:19	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:52:19	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:52:19	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:54:52	   	                            	
+09-Apr-2021 17:54:52	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:54:52	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:54:52	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 17:54:52	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 17:59:22	   	                            	
+09-Apr-2021 17:59:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 17:59:22	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 17:59:22	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 18:01:29	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 18:09:22	   	                            	
+09-Apr-2021 18:09:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:09:22	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:09:22	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 18:13:25	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 18:22:47	   	                            	
+09-Apr-2021 18:22:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:22:47	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:22:47	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 18:22:47	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 18:25:13	   	                            	
+09-Apr-2021 18:25:13	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:25:13	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:25:13	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 18:25:13	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 18:29:26	   	                            	
+09-Apr-2021 18:29:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:29:26	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:29:26	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 18:46:31	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 18:47:47	   	                            	
+09-Apr-2021 18:47:47	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 18:47:47	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 18:47:47	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:00:32	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:01:57	   	                            	
+09-Apr-2021 19:01:57	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:01:57	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:01:57	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:03:45	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:04:58	   	                            	
+09-Apr-2021 19:04:58	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:04:58	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:04:58	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:09:48	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:13:51	   	                            	
+09-Apr-2021 19:13:51	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:13:51	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:13:51	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:13:51	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 19:15:27	   	                            	
+09-Apr-2021 19:15:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:15:27	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:15:27	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:17:11	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:19:40	   	                            	
+09-Apr-2021 19:19:40	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:19:40	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:19:40	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:21:59	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:23:05	   	                            	
+09-Apr-2021 19:23:05	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:23:05	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:23:05	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:24:25	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:25:26	   	                            	
+09-Apr-2021 19:25:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:25:26	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:25:26	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:28:02	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:29:03	   	                            	
+09-Apr-2021 19:29:03	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:29:03	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:29:03	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:31:01	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:32:09	   	                            	
+09-Apr-2021 19:32:09	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:32:09	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:32:09	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:34:13	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 19:38:56	   	                            	
+09-Apr-2021 19:38:56	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:38:56	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:38:56	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:38:56	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 19:43:00	   	                            	
+09-Apr-2021 19:43:00	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:43:00	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:43:00	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 19:43:00	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 19:48:36	   	                            	
+09-Apr-2021 19:48:37	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 19:48:37	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 19:48:37	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:02:56	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:04:29	   	                            	
+09-Apr-2021 20:04:29	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:04:29	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:04:29	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:06:30	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:08:30	   	                            	
+09-Apr-2021 20:08:30	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:08:30	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:08:30	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:10:04	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:11:10	   	                            	
+09-Apr-2021 20:11:10	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:11:10	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:11:10	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:13:27	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:16:19	   	                            	
+09-Apr-2021 20:16:19	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:16:19	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:16:19	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:20:58	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:22:20	   	                            	
+09-Apr-2021 20:22:20	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:22:20	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:22:20	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:35:16	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:36:23	   	                            	
+09-Apr-2021 20:36:23	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:36:23	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:36:23	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:40:23	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:41:26	   	                            	
+09-Apr-2021 20:41:26	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:41:26	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:41:26	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:42:36	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:48:32	   	                            	
+09-Apr-2021 20:48:32	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:48:32	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:48:32	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:48:32	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+09-Apr-2021 20:51:54	   	                            	
+09-Apr-2021 20:51:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:51:54	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:51:54	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+09-Apr-2021 20:54:30	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+09-Apr-2021 20:55:33	   	                            	
+09-Apr-2021 20:55:33	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+09-Apr-2021 20:55:33	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+09-Apr-2021 20:55:33	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+10-Apr-2021 00:25:28	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+10-Apr-2021 00:28:25	   	                            	
+10-Apr-2021 00:28:25	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Apr-2021 00:28:25	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+10-Apr-2021 00:28:25	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+10-Apr-2021 00:36:58	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+10-Apr-2021 00:45:07	   	                            	
+10-Apr-2021 00:45:07	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+10-Apr-2021 00:45:07	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+10-Apr-2021 00:45:07	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+17-Apr-2021 07:06:38	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+17-Apr-2021 07:24:27	   	                            	
+17-Apr-2021 07:24:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Apr-2021 07:24:27	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+17-Apr-2021 07:24:27	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+17-Apr-2021 07:36:13	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+17-Apr-2021 07:37:15	   	                            	
+17-Apr-2021 07:37:15	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+17-Apr-2021 07:37:15	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+17-Apr-2021 07:37:15	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+18-Apr-2021 06:38:47	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+18-Apr-2021 06:40:54	   	                            	
+18-Apr-2021 06:40:54	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+18-Apr-2021 06:40:54	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+18-Apr-2021 06:40:54	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+19-Apr-2021 16:32:30	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+20-Apr-2021 14:16:04	   	                            	
+20-Apr-2021 14:16:04	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Apr-2021 14:16:04	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+20-Apr-2021 14:16:04	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+20-Apr-2021 18:39:34	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+20-Apr-2021 18:50:27	   	                            	
+20-Apr-2021 18:50:27	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Apr-2021 18:50:27	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+20-Apr-2021 18:50:27	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+20-Apr-2021 18:50:31	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+20-Apr-2021 18:55:22	   	                            	
+20-Apr-2021 18:55:22	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Apr-2021 18:55:22	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+20-Apr-2021 18:55:22	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+20-Apr-2021 18:55:22	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!
+20-Apr-2021 19:17:20	   	                            	
+20-Apr-2021 19:17:20	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+20-Apr-2021 19:17:20	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+20-Apr-2021 19:17:20	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+20-Apr-2021 21:26:18	ISD	CASUConnector::Receive      	Msg: Since the RTE logged off, receiveing will Stop!
+21-Apr-2021 03:23:51	   	                            	
+21-Apr-2021 03:23:51	TU1	Tracing Utility             	>>>>> Trace level = 1 <<<<<
+21-Apr-2021 03:23:51	ISD	CAlarmCommon::Initialize    	################## Application: AlarmSumServer2; Version: 2, 0, 1, 12753 ##################
+21-Apr-2021 03:23:51	ISD	CAlarmCommon::Initialize    	Msg: Host Name = rtehost; Send Service Name = laas_srv_info, Receive Service Name = alsum_srv_info
+21-Apr-2021 03:23:51	ISD	CCommands::Stop             	Err: Either the "pThread" or "pThread->m_pMainWnd" is NULL!

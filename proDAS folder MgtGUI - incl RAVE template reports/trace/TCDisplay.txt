@@ -150,3 +150,28 @@
 10-Mar-2021 23:59:22	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
 11-Mar-2021 03:51:31	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
 12-Mar-2021 13:28:47	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+12-Mar-2021 23:22:11	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+14-Mar-2021 02:41:48	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
+16-Mar-2021 16:16:29	TCD	_rte_OnHeartbeatTimeout     	RTE HeartbeatTimeout! Cnt:1
+19-Mar-2021 22:22:37	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+29-Mar-2021 16:34:01	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+30-Mar-2021 16:48:34	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+30-Mar-2021 17:50:36	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+30-Mar-2021 21:17:31	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+30-Mar-2021 21:53:18	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+30-Mar-2021 21:54:55	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
+31-Mar-2021 15:42:19	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+31-Mar-2021 16:25:16	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+31-Mar-2021 17:30:30	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
+31-Mar-2021 17:37:31	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+31-Mar-2021 20:52:19	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+31-Mar-2021 22:13:28	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+31-Mar-2021 22:47:15	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+01-Apr-2021 08:18:55	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
+01-Apr-2021 18:08:57	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
+01-Apr-2021 18:20:50	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
+10-Apr-2021 00:23:59	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+10-Apr-2021 00:46:34	TCD	Program.<Main>b__0          	Unknown command line option '/ep'
+17-Apr-2021 07:23:43	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
+17-Apr-2021 07:36:34	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
+18-Apr-2021 06:40:13	TCD	ExceptionForeign..ctor      	[OSS0008] Could not interpret value  when reading master configuration (reply of OSS was "")
