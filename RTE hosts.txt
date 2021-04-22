@@ -15,6 +15,7 @@
 192.168.50.10  gates-throttle-hmi
 192.168.50.11  gates-printer
 192.168.50.12  trendsvr
+192.168.50.13  trendpc
 #10.130.250.29  gates-pbs4100   #Vibration system inhouse testing - OBSOLETE
 #-------------------------------------------------------
 # Real-Time Network
@@ -23,9 +24,12 @@
 192.168.50.71  gates-throttle-quad
 192.168.50.72  gates-throttle-plc
 192.168.50.73  gates-throttle-modbus   #Modbus Ethernet card
+192.168.50.74  gates-2cube1
 192.168.50.75  gates-cube1
 192.168.50.76  gates-cube2
 192.168.50.77  gates-cube3
+192.168.50.78  gates-2cube2
+192.168.50.79  gates-2cube3
 192.168.50.80  PB21270
 192.168.50.81  PB21271
 192.168.50.82  DTS1124
