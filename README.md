@@ -7,19 +7,19 @@
 ## Version History
 
 
-### 1.4
+### 1.4 — 2021 April 22
 
 Backup prior shipping. In-house testing 90% completed. 
 
 ----
 
-### 1.3
+### 1.3 — 2021 March 05
 
 Backup prior shipping. In-house testing 70% completed. 
 
 ----
 
-### 1.2.1
+### 1.2.1 — 2021 February 05
 
 Features and Improvements:
 
@@ -48,14 +48,14 @@ Features and Improvements:
 	
 ----
 
-### 1.1.2
+### 1.1.2 — 2021 February 03
 
 Bug Fixes:
 - Modifies README structure
 
 ----
 
-### 1.1.1
+### 1.1.1 — 2021 February 03
 
 Bug Fixes:
 
@@ -63,7 +63,7 @@ Bug Fixes:
 
 ----
 
-### 1.1.0
+### 1.1.0 — 2021 February 03
 
 Features and Improvements:
 
@@ -206,7 +206,7 @@ Features and Improvements:
 
 ----
 
-### 1.1.0-alpha
+### 1.1.0-alpha — 2021 January 25
 
 Features and Improvements:
 
@@ -247,7 +247,7 @@ Features and Improvements:
 
 ----
 
-### 1.0.0-alpha
+### 1.0.0-alpha — 2021 January 21
 
 Features and Improvements:
 
