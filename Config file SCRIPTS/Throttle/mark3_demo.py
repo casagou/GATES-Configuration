@@ -1,34 +1,7 @@
 import nxtps
 import time
-from enum import Enum
 
-class AutoModeStatus(Enum):
-  UNKNOWN = 0
-  NOT_IN_AUTO_MODE = 1
-  IDLE  = 2
-  LEVER1_MOVE_IN_PROG = 3
-  LEVER2_MOVE_IN_PROG = 4
-  BOTH_LEVER_MOVE_IN_PROG = 5
-  MOVE_PAUSED = 6
-  OPEN_LOOP = 7
-
-
-class AtcStatus(Enum):
-  OK = 0
-  UNKNOWN_ERROR = 1
-  UNKNOWN_CLIENT = 2
-  UNKNOWN_CONFIG = 3
-  IN_AUTO_MODE = 4
-  NOT_IN_AUTO_MODE = 5
-  AUTO_MODE_DISABLED = 6
-  MISSION_NOT_READY = 7
-  INVALID_TAG_NAME = 8
-  INVALID_CHANNEL_ALIAS = 9
-  FAILED_TO_SET_CHANNEL = 10
-  START_BEFORE_MOVE_DELAY = 11
-
-
-status = AtcStatus (AtcStatus.OK)
+status = nxtps.AtcStatus (nxtps.AtcStatus.OK)
 
 
 ################################################################################
@@ -43,9 +16,9 @@ while (not auto_mode_started):
 	
 	nxtps.result("Attempting to start UECU-500 M3 Auto Mode.")	
 	
-	status = AtcStatus(nxtps.at_start_auto_mode())
+	status = nxtps.AtcStatus(nxtps.at_start_auto_mode())
 	
-	if (status != AtcStatus.OK):
+	if (status != nxtps.AtcStatus.OK):
 		
 		nxtps.result("Could not start UECU-500 M3 Auto Mode.")
 		nxtps.result("[DIAGNOSTIC] status = " + str(status))
@@ -85,9 +58,9 @@ if (not skip):
 
 		# Move TLA to 50 Deg, with a tolerance of 0.5, over a ramp time of 5 seconds
 		# and allow a further 5 seconds to ellapse before returning.
-		status = AtcStatus(nxtps.at_move("TLA", 50, 5.0, 10.0, 0.5, 10.0))
+		status = nxtps.AtcStatus(nxtps.at_move("TLA", 50, 5.0, 10.0, 0.5, 10.0))
 
-		if (status != AtcStatus.OK):
+		if (status != nxtps.AtcStatus.OK):
 		
 			nxtps.result("Could not undertake synchronous automated throttle move.")
 			nxtps.result("[DIAGNOSTIC] status = " + str(status))
@@ -130,9 +103,9 @@ if (not skip):
 		# Async move TLA to 100 Deg, with a tolerance of 0.5, over a ramp time of 20
 		# seconds, and allow a further 10 seconds to ellapse before completion of 
 		# auto mode move.
-		status = AtcStatus(nxtps.at_move_async("TLA", 100, 20.0, 30.0, 0.5, 30.0))
+		status = nxtps.AtcStatus(nxtps.at_move_async("TLA", 100, 20.0, 30.0, 0.5, 30.0))
 	
-		if (status != AtcStatus.OK):
+		if (status != nxtps.AtcStatus.OK):
 		
 			nxtps.result("Could not undertake asynchronous automated throttle move.")
 			nxtps.result("[DIAGNOSTIC] status = " + str(status))
@@ -159,21 +132,21 @@ if (not skip):
 			# completed.
 			while (True):
 			
-				am_status = AutoModeStatus(nxtps.at_get_status())
+				am_status = nxtps.AutoModeStatus(nxtps.at_get_status())
 			
-				if (am_status == AutoModeStatus.LEVER1_MOVE_IN_PROG 
-					or am_status == AutoModeStatus.LEVER2_MOVE_IN_PROG):
+				if (am_status == nxtps.AutoModeStatus.LEVER1_MOVE_IN_PROG 
+					or am_status == nxtps.AutoModeStatus.LEVER2_MOVE_IN_PROG):
 				
 					nxtps.result("A lever move is in progress with an async op.")
 					
-				elif (am_status == AutoModeStatus.MOVE_PAUSED):
+				elif (am_status == nxtps.AutoModeStatus.MOVE_PAUSED):
 					nxtps.result("An async op has been paused.")
 				
-				elif (am_status == AutoModeStatus.IDLE):
+				elif (am_status == nxtps.AutoModeStatus.IDLE):
 					nxtps.result("The levers are idle with an async op.")
 					break
 				
-				elif (am_status == AutoModeStatus.NOT_IN_AUTO_MODE):
+				elif (am_status == nxtps.AutoModeStatus.NOT_IN_AUTO_MODE):
 					nxtps.result("The async op has been completed or cancelled.")
 					break
 
@@ -190,7 +163,7 @@ if (not skip):
 
 nxtps.instruction("Stop UECU-500 M3 Auto Mode")
 
-status = AtcStatus(nxtps.at_stop_auto_mode())
+status = nxtps.AtcStatus(nxtps.at_stop_auto_mode())
 
 auto_mode_stopped = False
 
@@ -198,9 +171,9 @@ while (not auto_mode_stopped):
 
 	nxtps.result("Attempting to stop UECU-500 M3 Auto Mode.")	
 	
-	status = AtcStatus(nxtps.at_stop_auto_mode())
+	status = nxtps.AtcStatus(nxtps.at_stop_auto_mode())
 	
-	if (status != AtcStatus.OK and status != AtcStatus.NOT_IN_AUTO_MODE):
+	if (status != nxtps.AtcStatus.OK and status != nxtps.AtcStatus.NOT_IN_AUTO_MODE):
 		
 		nxtps.result("Could not stop UECU-500 M3 Auto Mode.")
 		nxtps.result("[DIAGNOSTIC] status = " + str(status))
